@@ -1,4 +1,8 @@
-# Guide: Organizing Your Data - Short Version
+---
+description: Short Version
+---
+
+# Guide for Organizing Your Data
 
 The research data lifecycle is a model that demonstrates the various stages of data management, showcasing data progression throughout a research project from inception to conclusion. Data management encompasses the planning and documenting of data collection, organization, storage, and sharing processes.
 

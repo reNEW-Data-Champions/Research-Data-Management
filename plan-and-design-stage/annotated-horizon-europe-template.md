@@ -1,4 +1,8 @@
-# Annotated Horizon Europe DMP Template - Infographic
+---
+description: 'Inforgraphic: Data Management Plan'
+---
+
+# Annotated Horizon Europe Template
 
 <figure><img src="../.gitbook/assets/Annotated Horizon Europe DMP Template - Infographic-01.png" alt=""><figcaption></figcaption></figure>
 

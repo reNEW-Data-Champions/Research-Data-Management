@@ -1,8 +1,8 @@
 ---
-description: Based on the Horizon Europe DMP Template
+description: Based on Horizon Europe Template - Seminar
 ---
 
-# Seminar: Data Management Planning - Based on Horizon Europe Template
+# Data Management Plan
 
 ## Seminar Outline
 
