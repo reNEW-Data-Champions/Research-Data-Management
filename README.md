@@ -1,4 +1,8 @@
-# ⚪ Data Champion Program
+---
+description: Data Champion's Guides on Research Data Management
+---
+
+# ⚪ reNEW Data Champion's Guides
 
 ## Promoting Good Research Data Management through the Use of Data Champions
 
@@ -9,7 +13,7 @@ reNEW Data Champions Guides by Richard Dennis, Novo Nordisk Foundation Center fo
 
 
 
-reNEW Research Project Infographic by Richard Dennis, Novo Nordisk Foundation Center for Stem Cell Medicine -reNEW, Licensed under a Creative Commons Attribution-Non-Commercial 4.0 International License.
+reNEW Research Data Management Infographic Series by Richard Dennis, Novo Nordisk Foundation Center for Stem Cell Medicine -reNEW, Licensed under a Creative Commons Attribution-Non-Commercial 4.0 International License.
 
 
 
