@@ -2,7 +2,7 @@
 description: Data Champion's Guides on Research Data Management
 ---
 
-# ⚪ reNEW Data Champion's Guides
+# 🟡 reNEW Data Champion's Guides
 
 ## Promoting Good Research Data Management through the Use of Data Champions
 
