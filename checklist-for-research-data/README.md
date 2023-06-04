@@ -1,10 +1,11 @@
 ---
 description: >-
-  Edited by: Richard Dennis, Research Consultant - Data Steward, University of
-  Copenhagen, NNF, Center for Stem Cell Medicine - reNEW
+  Checklist for Research Data for the UCPH, Edited by: Richard Dennis, Research
+  Consultant - Data Steward, University of Copenhagen, NNF, Center for Stem Cell
+  Medicine - reNEW
 ---
 
-# 🔴 Guide: Research Data Life Cycle
+# 🔴 Checklist for Research Data
 
 ### Table of Contents:
 
