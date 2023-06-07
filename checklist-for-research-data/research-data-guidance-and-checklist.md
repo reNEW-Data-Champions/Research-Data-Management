@@ -1,7 +1,7 @@
 # Research Data Guidance and Checklist
 
 {% hint style="info" %}
-This checklist and RDM Life Cycle are adapted from [the Harvard Medical School Data Management Working Group](https://datamanagement.hms.harvard.edu/about-rdmwg). They are licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/) and modified on 4  February 2023 by [Richard Dennis](https://www.linkedin.com/in/pacian/), [Novo Nordisk Foundation Center for Stem Cell Medicine, University of Copenhagen.](https://renew.ku.dk)
+This checklist and RDM Life Cycle are adapted from [the Harvard Medical School Data Management Working Group](https://datamanagement.hms.harvard.edu/about-rdmwg). They are licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/) and modified on 6 June 2023 by [Richard Dennis](https://www.linkedin.com/in/pacian/), [Novo Nordisk Foundation Center for Stem Cell Medicine, University of Copenhagen.](https://renew.ku.dk)
 {% endhint %}
 
 ### Research Data Management:
