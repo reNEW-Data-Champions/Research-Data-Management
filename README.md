@@ -1,8 +1,8 @@
 ---
-description: Data Champion's Guides on Research Data Management
+description: Data Champion's Guides for Research Data Management
 ---
 
-# 🟡 reNEW Data Champion's Guides
+# ⚫ reNEW Data Champions
 
 ## Promoting Good Research Data Management through the Use of Data Champions
 
