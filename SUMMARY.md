@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🟡 reNEW Data Champions Program](README.md)
+* [⚫ reNEW Data Champions Program](README.md)
   * [What is a Data Champion?](renew-data-champions-program/what-is-a-data-champion.md)
   * [What are Data Champions?](renew-data-champions-program/what-are-data-champions.md)
   * [Why build a community of Data Champions?](renew-data-champions-program/why-build-a-community-of-data-champions.md)
@@ -123,7 +123,7 @@
     * [Guide for Data Collection, Processing, and Analysis (In development)](the-stages-of-research-data/analyze-and-collaborate-stage/guide-for-data-collection-processing-and-analysis-in-development.md)
   * [🟠 Evaluate and Archive Stage](the-stages-of-research-data/evaluate-and-archive-stage/README.md)
     * [Guide for Data Preservation (In development)](the-stages-of-research-data/evaluate-and-archive-stage/guide-for-data-preservation-in-development.md)
-  * [🔘 Share and Disseminate Stage](the-stages-of-research-data/share-and-disseminate-stage/README.md)
+  * [🔴 Share and Disseminate Stage](the-stages-of-research-data/share-and-disseminate-stage/README.md)
     * [Guide for Data Sharing in Repositories (In development)](the-stages-of-research-data/share-and-disseminate-stage/guide-for-data-sharing-in-repositories-in-development.md)
   * [🟣 Publish and Reuse Stage](the-stages-of-research-data/publish-and-reuse-stage/README.md)
     * [Guide for Data Sharing in Repositories (in development)](the-stages-of-research-data/publish-and-reuse-stage/guide-for-data-sharing-in-repositories-in-development.md)
