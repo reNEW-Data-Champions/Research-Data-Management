@@ -6,7 +6,7 @@ description: >-
 
 # Collect & Create Stage
 
-<figure><img src="../../.gitbook/assets/p1.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/p1.jpg" alt=""><figcaption></figcaption></figure>
 
 ### Collect and Create Stage:
 

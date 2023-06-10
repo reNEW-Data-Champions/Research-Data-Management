@@ -6,7 +6,7 @@ description: >-
 
 # Store & Manage
 
-<figure><img src="../../.gitbook/assets/p3.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/p3.jpg" alt=""><figcaption></figcaption></figure>
 
 Each Stage of the Research Data Lifecycle revolves around data storage management. Proper storage maintenance throughout the lifecycle is imperative to ensure data remains secure and adheres to recommended safety protocols.
 

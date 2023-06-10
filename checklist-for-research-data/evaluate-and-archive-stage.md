@@ -6,7 +6,7 @@ description: >-
 
 # Evaluate & Archive Stage
 
-<figure><img src="../../.gitbook/assets/p4.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/p4.jpg" alt=""><figcaption></figcaption></figure>
 
 ### Evaluate and Archive Stage:
 
