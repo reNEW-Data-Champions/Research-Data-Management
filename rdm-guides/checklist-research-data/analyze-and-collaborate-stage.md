@@ -6,7 +6,7 @@ description: >-
 
 # Analyze & Collaborate Stage
 
-<figure><img src="../.gitbook/assets/p2.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/p2.jpg" alt=""><figcaption></figcaption></figure>
 
 ### Analyze & Collaborate Stage:
 

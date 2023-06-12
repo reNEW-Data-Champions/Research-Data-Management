@@ -10,20 +10,33 @@
   * [FAIR Data Principles](renew-data-champions/fair-data-principles.md)
   * [Thank You](renew-data-champions/thank-you.md)
   * [Acknowledgments](renew-data-champions/acknowledgments.md)
-* [🟠 Guide: Research Projects](guide-research-projects/README.md)
-  * [Research Data Life Cycle](guide-research-projects/research-data-life-cycle.md)
-  * [Focus for Data Management](guide-research-projects/areas-of-focus-for-data-management.md)
-* [🟢 Open Science](open-science/README.md)
-  * [Guide to Open Science - LERU](open-science/guide-to-open-science-leru/README.md)
-    * [FAIR Data](open-science/guide-to-open-science-leru/fair-data.md)
-    * [Research Integrity](open-science/guide-to-open-science-leru/research-integrity.md)
-    * [Next Generation Metrics](open-science/guide-to-open-science-leru/next-generation-metrics.md)
-    * [Future of Scholarly Communication](open-science/guide-to-open-science-leru/future-of-scholarly-communication.md)
-    * [Citizen Science](open-science/guide-to-open-science-leru/citizen-science.md)
-    * [Education and Skills](open-science/guide-to-open-science-leru/education-and-skills.md)
-    * [Rewards and Incentives](open-science/guide-to-open-science-leru/rewards-and-incentives.md)
-    * [European Open Science Cloud (EOSC)](open-science/guide-to-open-science-leru/european-open-science-cloud-eosc.md)
-    * [Conclusion](open-science/guide-to-open-science-leru/conclusion.md)
+
+## Documentation
+
+* [🟠 Research Projects](documentation/research-projects/README.md)
+  * [Research Data Life Cycle](documentation/research-projects/research-data-life-cycle.md)
+  * [Focus for Data Management](documentation/research-projects/focus-for-data-management.md)
+
+***
+
+* [🟤 RDM Infographic Series](rdm-infographic-series.md)
+
+## Open Science Guides
+
+* [🟢 Open Science](open-science-guides/open-science/README.md)
+  * [Guide to Open Science - LERU](open-science-guides/open-science/guide-to-open-science-leru/README.md)
+    * [FAIR Data](open-science-guides/open-science/guide-to-open-science-leru/fair-data.md)
+    * [Research Integrity](open-science-guides/open-science/guide-to-open-science-leru/research-integrity.md)
+    * [Next Generation Metrics](open-science-guides/open-science/guide-to-open-science-leru/next-generation-metrics.md)
+    * [Future of Scholarly Communication](open-science-guides/open-science/guide-to-open-science-leru/future-of-scholarly-communication.md)
+    * [Citizen Science](open-science-guides/open-science/guide-to-open-science-leru/citizen-science.md)
+    * [Education and Skills](open-science-guides/open-science/guide-to-open-science-leru/education-and-skills.md)
+    * [Rewards and Incentives](open-science-guides/open-science/guide-to-open-science-leru/rewards-and-incentives.md)
+    * [European Open Science Cloud (EOSC)](open-science-guides/open-science/guide-to-open-science-leru/european-open-science-cloud-eosc.md)
+    * [Conclusion](open-science-guides/open-science/guide-to-open-science-leru/conclusion.md)
+
+***
+
 * [🔵 FAIR Principles](fair-data-principles/README.md)
   * [Guide: FAIR Data Principles](fair-data-principles/guide-fair-data-principles/README.md)
     * [Introduction](fair-data-principles/guide-fair-data-principles/introduction.md)
@@ -32,15 +45,21 @@
     * [Interoperability](fair-data-principles/guide-fair-data-principles/interoperability.md)
     * [Reusability](fair-data-principles/guide-fair-data-principles/reusability.md)
     * [FAIR Data Principles Resources:](fair-data-principles/guide-fair-data-principles/fair-data-principles-resources.md)
-* [🔴 Checklist: Research Data](checklist-for-research-data/README.md)
-  * [Research Data Guidance and Checklist](checklist-for-research-data/research-data-guidance-and-checklist.md)
-  * [Plan & Design Stage](checklist-for-research-data/plan-and-design-stage.md)
-  * [Collect & Create Stage](checklist-for-research-data/collect-and-create-stage.md)
-  * [Analyze & Collaborate Stage](checklist-for-research-data/analyze-and-collaborate-stage.md)
-  * [Store & Manage](checklist-for-research-data/store-and-manage.md)
-  * [Evaluate & Archive Stage](checklist-for-research-data/evaluate-and-archive-stage.md)
-  * [Share & Disseminate Share](checklist-for-research-data/share-and-disseminate-share.md)
-  * [Access & Reuse Stage](checklist-for-research-data/access-and-reuse-stage.md)
+
+## RDM Guides
+
+* [🔴 Checklist: Research Data](rdm-guides/checklist-research-data/README.md)
+  * [Research Data Guidance and Checklist](rdm-guides/checklist-research-data/research-data-guidance-and-checklist.md)
+  * [Plan & Design Stage](rdm-guides/checklist-research-data/plan-and-design-stage.md)
+  * [Collect & Create Stage](rdm-guides/checklist-research-data/collect-and-create-stage.md)
+  * [Analyze & Collaborate Stage](rdm-guides/checklist-research-data/analyze-and-collaborate-stage.md)
+  * [Store & Manage](rdm-guides/checklist-research-data/store-and-manage.md)
+  * [Evaluate & Archive Stage](rdm-guides/checklist-research-data/evaluate-and-archive-stage.md)
+  * [Share & Disseminate Share](rdm-guides/checklist-research-data/share-and-disseminate-share.md)
+  * [Access & Reuse Stage](rdm-guides/checklist-research-data/access-and-reuse-stage.md)
+
+***
+
 * [🟣 Stages of Research Data](stages-of-research-data/README.md)
   * [🟣 Plan and Design Stage](stages-of-research-data/plan-and-design-stage/README.md)
     * [Data Management Plan](stages-of-research-data/plan-and-design-stage/data-management-plan/README.md)
@@ -128,5 +147,7 @@
   * [🟣 Publish and Reuse Stage](stages-of-research-data/publish-and-reuse-stage/README.md)
     * [Guide for Data Sharing in Repositories (in development)](stages-of-research-data/publish-and-reuse-stage/guide-for-data-sharing-in-repositories-in-development.md)
     * [Guide for Data Preservation (in development)](stages-of-research-data/publish-and-reuse-stage/guide-for-data-preservation-in-development.md)
-* [🟤 RDM Infographic Series](rdm-infographic-series.md)
-* [🟡 RDM Blog Posts](rdm-blog-posts.md)
+
+## RDM Blog
+
+* [🟡 Blog Posts](rdm-blog/blog-posts.md)

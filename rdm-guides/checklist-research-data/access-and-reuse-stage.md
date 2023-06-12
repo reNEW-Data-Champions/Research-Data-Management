@@ -4,7 +4,7 @@ description: How will the data be accessed?  How can the data be reused?
 
 # Access & Reuse Stage
 
-<figure><img src="../.gitbook/assets/p6.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/p6.jpg" alt=""><figcaption></figcaption></figure>
 
 ### Access & Reuse Stage:
 

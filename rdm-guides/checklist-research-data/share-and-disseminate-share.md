@@ -6,7 +6,7 @@ description: >-
 
 # Share & Disseminate Share
 
-<figure><img src="../.gitbook/assets/p5.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/p5.jpg" alt=""><figcaption></figcaption></figure>
 
 ### Share & Disseminate Share:
 

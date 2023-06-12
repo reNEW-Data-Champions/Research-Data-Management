@@ -8,7 +8,7 @@ description: >-
 
 <div align="center">
 
-<figure><img src="../.gitbook/assets/p.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/p.jpg" alt=""><figcaption></figcaption></figure>
 
 </div>
 

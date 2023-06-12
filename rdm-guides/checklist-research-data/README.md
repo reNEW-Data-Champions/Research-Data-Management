@@ -25,4 +25,4 @@ description: >-
 
 8\. [Access & Reuse Stage](access-and-reuse-stage.md)
 
-<figure><img src="../.gitbook/assets/ccc (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ccc (1).jpg" alt=""><figcaption></figcaption></figure>
