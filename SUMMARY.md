@@ -15,7 +15,7 @@
 
 * [🟠 Research Projects](documentation/research-projects/README.md)
   * [Research Data Life Cycle](documentation/research-projects/research-data-life-cycle.md)
-  * [Focus for Data Management](documentation/research-projects/focus-for-data-management.md)
+  * [Data Management](documentation/research-projects/data-management.md)
 
 ***
 
@@ -38,13 +38,13 @@
 ***
 
 * [🔵 FAIR Principles](fair-data-principles/README.md)
-  * [Guide: FAIR Data Principles](fair-data-principles/guide-fair-data-principles/README.md)
-    * [Introduction](fair-data-principles/guide-fair-data-principles/introduction.md)
-    * [Findability](fair-data-principles/guide-fair-data-principles/findability.md)
-    * [Accessibility](fair-data-principles/guide-fair-data-principles/accessibility.md)
-    * [Interoperability](fair-data-principles/guide-fair-data-principles/interoperability.md)
-    * [Reusability](fair-data-principles/guide-fair-data-principles/reusability.md)
-    * [FAIR Data Principles Resources:](fair-data-principles/guide-fair-data-principles/fair-data-principles-resources.md)
+  * [FAIR Data Principles](fair-principles/fair-data-principles/README.md)
+    * [Introduction](fair-principles/fair-data-principles/introduction.md)
+    * [Findability](fair-principles/fair-data-principles/findability.md)
+    * [Accessibility](fair-principles/fair-data-principles/accessibility.md)
+    * [Interoperability](fair-principles/fair-data-principles/interoperability.md)
+    * [Reusability](fair-principles/fair-data-principles/reusability.md)
+    * [FAIR Data Principles Resources:](fair-principles/fair-data-principles/fair-data-principles-resources.md)
 
 ## RDM Guides
 

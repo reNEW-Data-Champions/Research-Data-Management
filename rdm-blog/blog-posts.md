@@ -1,2 +1,2 @@
-# 🟡 RDM Blog Posts
+# 🟡 Blog Posts
 
