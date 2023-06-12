@@ -1,2 +1,2 @@
-# Guide: FAIR Data Principles
+# FAIR Data Principles
 
