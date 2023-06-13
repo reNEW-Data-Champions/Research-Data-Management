@@ -1,15 +1,21 @@
 # Table of contents
 
-* [⚫ reNEW Data Champions](README.md)
-  * [What is a Data Champion?](renew-data-champions/what-is-a-data-champion.md)
-  * [What are Data Champions?](renew-data-champions/what-are-data-champions.md)
-  * [Why build a community of Data Champions?](renew-data-champions/why-build-a-community-of-data-champions.md)
-  * [Research Open Data Management Matrix](renew-data-champions/research-open-data-management-matrix.md)
-  * [Four Fundamental Rules of Open Science](renew-data-champions/four-fundamental-rules-of-open-science.md)
-  * [Research Data  Life Cycle](renew-data-champions/research-data-life-cycle.md)
-  * [FAIR Data Principles](renew-data-champions/fair-data-principles.md)
-  * [Thank You](renew-data-champions/thank-you.md)
-  * [Acknowledgments](renew-data-champions/acknowledgments.md)
+## reNEW Data Champions
+
+* [⚪ We to reNEW Data Champions](README.md)
+
+***
+
+* [⚫ reNEW Data Champions](renew-data-champions-1/README.md)
+  * [What is a Data Champion?](renew-data-champions-1/what-is-a-data-champion.md)
+  * [What are Data Champions?](renew-data-champions-1/what-are-data-champions.md)
+  * [Why build a community of Data Champions?](renew-data-champions-1/why-build-a-community-of-data-champions.md)
+  * [Research Open Data Management Matrix](renew-data-champions-1/research-open-data-management-matrix.md)
+  * [Four Fundamental Rules of Open Science](renew-data-champions-1/four-fundamental-rules-of-open-science.md)
+  * [Research Data  Life Cycle](renew-data-champions-1/research-data-life-cycle.md)
+  * [FAIR Data Principles](renew-data-champions-1/fair-data-principles.md)
+  * [Thank You](renew-data-champions-1/thank-you.md)
+  * [Acknowledgments](renew-data-champions-1/acknowledgments.md)
 
 ## Documentation
 
