@@ -4,7 +4,11 @@ description: Data Champion's Guides for Research Data Management
 
 # ⚫ reNEW Data Champions
 
+<div data-full-width="true">
+
 <figure><img src="../.gitbook/assets/Capture.JPG" alt=""><figcaption><p>Data Champion Schedule 2023-2024</p></figcaption></figure>
+
+</div>
 
 {% hint style="info" %}
 The resources and guides are available on this website have been specifically curated to complement the Data Champion Program at reNEW. We trust that you will find the infographics and detailed insights they provide to be of significant value.

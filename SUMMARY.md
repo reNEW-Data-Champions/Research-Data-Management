@@ -17,11 +17,11 @@
   * [Thank You](renew-data-champions-1/thank-you.md)
   * [Acknowledgments](renew-data-champions-1/acknowledgments.md)
 
-## Documentation
+## Research Projects Guides
 
-* [🟠 Research Projects](documentation/research-projects/README.md)
-  * [Research Data Life Cycle](documentation/research-projects/research-data-life-cycle.md)
-  * [Data Management](documentation/research-projects/data-management.md)
+* [🟠 Research Projects](research-projects-guides/research-projects/README.md)
+  * [Research Data Life Cycle](research-projects-guides/research-projects/research-data-life-cycle.md)
+  * [Data Management](research-projects-guides/research-projects/data-management.md)
 
 ***
 
@@ -51,6 +51,7 @@
     * [Interoperability](fair-principles/fair-data-principles/interoperability.md)
     * [Reusability](fair-principles/fair-data-principles/reusability.md)
     * [FAIR Data Principles Resources:](fair-principles/fair-data-principles/fair-data-principles-resources.md)
+* [⚪ Research Open Data Management Matrix](research-open-data-management-matrix.md)
 
 ## RDM Guides
 
@@ -156,7 +157,7 @@
 
 ## reNEW Groups
 
-* [Brinkman Group](renew-groups/brinkman-group.md)
+* [Brickman Group](renew-groups/brickman-group.md)
 * [Brickman Lab](renew-groups/brickman-lab.md)
 
 ## RDM Blog
