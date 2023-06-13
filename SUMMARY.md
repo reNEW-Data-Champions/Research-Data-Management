@@ -159,7 +159,7 @@
 
 * [Brickman Group](renew-groups/brickman-group/README.md)
   * [Brickman Group](https://renew.science/principal\_investigat/joshua-m-brickman/)
-* [Brickman Lab](renew-groups/brickman-lab.md)
+  * [Brickman Lab](renew-groups/brickman-group/brickman-lab.md)
 
 ## RDM Blog
 
