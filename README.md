@@ -1,4 +1,4 @@
-# ⚪ We to reNEW Data Champions
+# ⚪ Welcome to reNEW Data Champions
 
 <figure><img src=".gitbook/assets/ReNEW_Logo_Tagline_FullColour_2022.png" alt=""><figcaption></figcaption></figure>
 

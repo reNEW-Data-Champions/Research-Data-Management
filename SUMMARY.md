@@ -2,7 +2,7 @@
 
 ## reNEW Data Champions
 
-* [⚪ We to reNEW Data Champions](README.md)
+* [⚪ Welcome to reNEW Data Champions](README.md)
 
 ***
 
