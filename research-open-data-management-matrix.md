@@ -12,10 +12,18 @@ At each data lifecycle stage - collection, processing, analysis, preservation, a
 
 The Matrix also underscores the importance of robust data governance, which involves developing and implementing policies, practices, and procedures to ensure high data quality, privacy, security, and regulatory compliance. This results in accurate, reliable, and responsibly managed data, fostering trust and accountability in research processes and outcomes.
 
-In essence, the Research Open Data Management Matrix is a tool that assists researchers and data managers in making informed decisions about data management, promoting efficient, transparent, and reproducible research. By encouraging a culture of openness and knowledge sharing, the Matrix ultimately benefits the broader research community and expedites scientific discovery.
+In essence, the Research Open Data Management Matrix is a tool that assists researchers and data managers in making informed decisions about data management, promoting efficient, transparent, and reproducible research. By encouraging a culture of openness and knowledge sharing, the Matrix benefits the broader research community and expedites scientific discovery.
+
+
 
 <div data-full-width="true">
 
 <figure><img src=".gitbook/assets/Designrff-1.jpg" alt=""><figcaption><p>Research Open Data Management Matrix (RODMM)</p></figcaption></figure>
+
+</div>
+
+<div data-full-width="true">
+
+<figure><img src=".gitbook/assets/Designrff-2.jpg" alt=""><figcaption><p>Research Open Data Management Matrix (RODMM)</p></figcaption></figure>
 
 </div>
