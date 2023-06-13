@@ -158,9 +158,12 @@
 
 * [🟡 Blog Posts](rdm-blog/blog-posts.md)
 
-## community
+## Websites
 
 * [🌐 UCPH Research Portal](https://kunet.ku.dk/work-areas/research/data/Pages/default.aspx)
 * [🌐 reNEW Website](https://renew.science/)
-* [🐦 Twitter](https://twitter.com/renew\_global)
-* [🌠 LinkedIn](https://www.linkedin.com/showcase/novo-nordisk-foundation-center-for-stem-cell-medicine-renew/)
+
+## Social Media
+
+* [🌐 Twitter](https://twitter.com/renew\_global)
+* [🌐 LinkedIn](https://www.linkedin.com/showcase/novo-nordisk-foundation-center-for-stem-cell-medicine-renew/)
