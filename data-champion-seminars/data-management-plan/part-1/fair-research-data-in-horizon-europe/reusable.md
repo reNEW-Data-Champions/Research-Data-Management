@@ -14,10 +14,10 @@ The information necessary, and the appropriate level of detail, so that others c
 
 If relevant and possible, include open-source code or software in your data.
 
-<figure><img src="../../../../../.gitbook/assets/image (59).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (59).png" alt=""><figcaption></figcaption></figure>
 
 ### R2. Use REUSE LICENSES to communicate how others can reuse your data files
 
 Overview of open licenses [https://opendefinition.org/licenses](https://opendefinition.org/licenses/)
 
-<figure><img src="../../../../../.gitbook/assets/image (48).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (48).png" alt=""><figcaption></figcaption></figure>

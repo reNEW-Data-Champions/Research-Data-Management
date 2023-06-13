@@ -4,7 +4,7 @@
 
 The Open Science Training Handbook [http://book.fosteropenscience.eu/en/](http://book.fosteropenscience.eu/en/)  At UCPH, Open Science is based on these seven pillars \*[^1]:
 
-<figure><img src="../../../../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
 **"Open Science is the movement to make scientific research, data, and dissemination accessible to all levels of an inquiring society.“**
 
@@ -22,9 +22,9 @@ The Open Science Training Handbook [http://book.fosteropenscience.eu/en/](http:/
 
 {% embed url="https://doi.org/10.2777/18252" %}
 
-<figure><img src="../../../../../.gitbook/assets/image (30).png" alt="" width="517"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (30).png" alt="" width="517"><figcaption></figcaption></figure>
 
-<figure><img src="../../../../../.gitbook/assets/image.png" alt="" width="335"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image.png" alt="" width="335"><figcaption></figcaption></figure>
 
 * Open Access to research outputs such as publications, data, software, models, algorithms, and workflows
 * Early and Open Sharing of research, for example, through preregistration, registered reports, pre-prints, and crowd-sourcing solutions to a specific problem.

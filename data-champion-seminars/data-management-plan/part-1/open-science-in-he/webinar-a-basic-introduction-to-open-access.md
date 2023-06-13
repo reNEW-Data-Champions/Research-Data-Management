@@ -11,7 +11,7 @@ publishing Open Access
 
 [https://kubkalender.kb.dk/event/3975903](https://kubkalender.kb.dk/event/3975903)
 
-<figure><img src="../../../../../.gitbook/assets/image (25).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (25).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ### Webinar: Open Access and Funding compliance
 

@@ -20,7 +20,7 @@ Beneficiaries **must submit a DMP as a deliverable** to the granting authority p
 * Structure the DMP according to Work Packages.
 * Collect detailed information from all participants.
 
-<figure><img src="../../../../../.gitbook/assets/image (76).png" alt="" width="195"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (76).png" alt="" width="195"><figcaption></figcaption></figure>
 
 ### During the project:
 
@@ -30,7 +30,7 @@ Beneficiaries **must submit a DMP as a deliverable** to the granting authority p
 
 Publish your DMP in a repository and register it in OpenAIRE.
 
-<figure><img src="../../../../../.gitbook/assets/image (66).png" alt="" width="322"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (66).png" alt="" width="322"><figcaption></figcaption></figure>
 
 ### First draft:
 

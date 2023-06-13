@@ -14,4 +14,4 @@ A **data management plan (DMP)** is essential to any research project funded by 
 
 By incorporating these **five primary keys** into your **data management plan**, you can ensure that your research project complies with Horizon Europe's requirements and contributes to the broader goals of open science and research collaboration.
 
-<figure><img src="../../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>

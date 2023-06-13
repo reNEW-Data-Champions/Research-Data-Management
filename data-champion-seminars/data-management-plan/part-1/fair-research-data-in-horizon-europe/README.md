@@ -11,7 +11,7 @@
 * Commercial exploitation (IPR, patents)
 * Ethical considerations (sensitivity, confidentiality)
 
-<figure><img src="../../../../../.gitbook/assets/image (81).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (81).png" alt=""><figcaption></figcaption></figure>
 
 The FAIR Data Principles are guidelines for making research data, code, digital objects, and documentations Findable, Accessible, Interoperable, and Reusable.
 
@@ -23,4 +23,4 @@ Please note:
 * FAIR data ≠ Open data!
 * All open data must be FAIR, but not all FAIR data must be open.
 
-<figure><img src="../../../../../.gitbook/assets/image (65).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (65).png" alt=""><figcaption></figcaption></figure>

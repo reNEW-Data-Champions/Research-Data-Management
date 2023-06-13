@@ -9,4 +9,4 @@ Horizon Europe beneficiaries must respect the fundamental principles of research
 
 Beneficiaries must ensure that persons carrying out research tasks follow good research practices, including ensuring, where possible, openness, reproducibility, and traceability, and refrain from the research integrity violations described in the **Code of Conduct**.
 
-<figure><img src="../../../../../.gitbook/assets/image (51).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (51).png" alt=""><figcaption></figcaption></figure>

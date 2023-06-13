@@ -6,7 +6,7 @@ Browse repositories:
 
 [www.re3data.org](http://www.re3data.org/)
 
-<figure><img src="../../../../../.gitbook/assets/image (60).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (60).png" alt=""><figcaption></figcaption></figure>
 
 ### A2. Indicate MODE OF ACCESS
 
@@ -17,4 +17,4 @@ Browse repositories:
 
 This is not just about access to DATA but also access to METADATA.
 
-![](<../../../../../.gitbook/assets/image (72).png>)
+![](<../../../../.gitbook/assets/image (72).png>)

@@ -20,7 +20,7 @@ NetCDF for geospatial data
 * Take into account the format’s obsolescence
 * You may consider sharing in multiple formats
 
-<figure><img src="../../../../../.gitbook/assets/image (47).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (47).png" alt=""><figcaption></figcaption></figure>
 
 ### I2. Use STANDARDS common in the discipline / for the data type
 
@@ -34,4 +34,4 @@ NetCDF for geospatial data
 
 **Ontologies**: definitions and relations between metadata elements
 
-<figure><img src="../../../../../.gitbook/assets/image (55).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (55).png" alt=""><figcaption></figcaption></figure>

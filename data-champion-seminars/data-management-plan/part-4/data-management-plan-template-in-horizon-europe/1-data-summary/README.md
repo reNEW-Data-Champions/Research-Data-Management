@@ -28,13 +28,13 @@ Use of the data within the project (‘purpose’)
 
 Potential use of the data outside the project (‘utility’)
 
-<figure><img src="../../../../../../.gitbook/assets/image (49).png" alt="" width="341"><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (49).png" alt="" width="341"><figcaption></figcaption></figure>
 
-<figure><img src="../../../../../../.gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>
 
 <div align="left">
 
-<figure><img src="../../../../../../.gitbook/assets/image (41).png" alt="" width="227"><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (41).png" alt="" width="227"><figcaption></figcaption></figure>
 
 </div>
 
@@ -44,7 +44,7 @@ Potential use of the data outside the project (‘utility’)
 
 <div align="left">
 
-<figure><img src="../../../../../../.gitbook/assets/image (77).png" alt="" width="234"><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (77).png" alt="" width="234"><figcaption></figcaption></figure>
 
 </div>
 
@@ -54,7 +54,7 @@ Potential use of the data outside the project (‘utility’)
 
 <div align="left">
 
-<figure><img src="../../../../../../.gitbook/assets/image (52).png" alt="" width="219"><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (52).png" alt="" width="219"><figcaption></figcaption></figure>
 
 </div>
 
@@ -64,7 +64,7 @@ Potential use of the data outside the project (‘utility’)
 
 <div align="left">
 
-<figure><img src="../../../../../../.gitbook/assets/image (67).png" alt="" width="231"><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (67).png" alt="" width="231"><figcaption></figcaption></figure>
 
 </div>
 
@@ -72,5 +72,5 @@ Potential use of the data outside the project (‘utility’)
 * Data quality assurance
 * Legal or contractual obligations
 
-<figure><img src="../../../../../../.gitbook/assets/image (79).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (79).png" alt=""><figcaption></figcaption></figure>
 

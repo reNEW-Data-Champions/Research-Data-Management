@@ -13,6 +13,6 @@ They should provide (early) Open Access to other research output whenever possib
 
 Authors must provide their ORCiD or ResearcherID
 
-<figure><img src="../../../../../.gitbook/assets/image (17).png" alt="" width="524"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (17).png" alt="" width="524"><figcaption></figcaption></figure>
 
-<figure><img src="../../../../../.gitbook/assets/image (22).png" alt="" width="524"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (22).png" alt="" width="524"><figcaption></figcaption></figure>

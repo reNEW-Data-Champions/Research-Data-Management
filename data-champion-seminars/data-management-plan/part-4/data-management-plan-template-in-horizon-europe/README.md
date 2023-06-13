@@ -12,4 +12,4 @@
 * Resources, costs, and responsibilities
 * Data security and ethics
 
-<figure><img src="../../../../../.gitbook/assets/image (43).png" alt="" width="170"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (43).png" alt="" width="170"><figcaption></figcaption></figure>

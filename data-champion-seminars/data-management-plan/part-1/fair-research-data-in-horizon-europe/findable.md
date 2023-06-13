@@ -16,7 +16,7 @@ Help humans/machines understand your data.
 
 Allow machines to carry out searching, sorting, and prioritizing tasks.
 
-<figure><img src="../../../../../.gitbook/assets/image (63).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (63).png" alt=""><figcaption></figcaption></figure>
 
 ### F2. Assign PERSISTENT IDENTIFIERS (PIDS) to your data sets:
 
@@ -38,8 +38,8 @@ ISBN for books
 * Others can use identifiers to cite your work
 * Identifiers can link research objects together, improving findability.
 
-<figure><img src="../../../../../.gitbook/assets/image (46).png" alt="" width="512"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (46).png" alt="" width="512"><figcaption></figcaption></figure>
 
 ### F3. MAKE METADATA SEARCHABLE: Add metadata to the data set in a repository where search engines index them
 
-<figure><img src="../../../../../.gitbook/assets/image (68).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (68).png" alt=""><figcaption></figcaption></figure>
