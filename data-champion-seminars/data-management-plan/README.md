@@ -2,7 +2,7 @@
 description: Based on Horizon Europe Template - Seminar
 ---
 
-# Data Management Plan
+# 🔴 Data Management Plan
 
 ## Seminar Outline
 

@@ -2,7 +2,11 @@
 
 ## Data Management Planning
 
+<div data-full-width="true">
+
 <figure><img src="../../../.gitbook/assets/ccc.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 A Data Management Plan (DMP) is vital for research projects, serving as a comprehensive document outlining data handling, security, and sharing throughout and beyond the project. As funding entities and research institutions increasingly demand DMPs, their formality varies from informal internal documents to formal submissions for funding agencies.
 

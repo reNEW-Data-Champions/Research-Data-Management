@@ -4,6 +4,10 @@ The research data lifecycle is a model that demonstrates the various stages of d
 
 The Research Data Lifecycle outlines each research phase concerning data collection, utilization, and storage, with "Store & Manage" being the central component of your project. Effective data management is crucial at every stage of the diagram. Although the process appears linear, ranging from "Plan & Design" to "Access & Reuse," you may navigate these stages non-linearly as your project evolves.
 
+<div data-full-width="true">
+
 <figure><img src="../../../.gitbook/assets/sss.png" alt=""><figcaption><p>                                       Figure 1 – Biomedical Research Data Management Lifecycle                                                                                       <a href="https://bit.ly/3OzbOGl">Research Data Lifecycle by LMA RDMWG</a> CC BY 4.0 International                                  </p></figcaption></figure>
+
+</div>
 
 <figure><img src="../../../.gitbook/assets/ccc.jpg" alt=""><figcaption></figcaption></figure>
