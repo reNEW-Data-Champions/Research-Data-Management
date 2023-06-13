@@ -154,6 +154,11 @@
     * [Guide for Data Sharing in Repositories (in development)](stages-of-research-data/publish-and-reuse-stage/guide-for-data-sharing-in-repositories-in-development.md)
     * [Guide for Data Preservation (in development)](stages-of-research-data/publish-and-reuse-stage/guide-for-data-preservation-in-development.md)
 
+## reNEW Groups
+
+* [Brinkman Group](renew-groups/brinkman-group.md)
+* [Brickman Lab](renew-groups/brickman-lab.md)
+
 ## RDM Blog
 
 * [🟡 Blog Posts](rdm-blog/blog-posts.md)
