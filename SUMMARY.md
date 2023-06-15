@@ -67,13 +67,9 @@
 
 ## Research Projects Guides
 
-* [🟠 Research Projects](research-projects-guides/research-projects/README.md)
-  * [Research Data Life Cycle](research-projects-guides/research-projects/research-data-life-cycle.md)
-  * [Data Management](research-projects-guides/research-projects/data-management.md)
-
 ***
 
-* [🟠 RDM Infographic Series](rdm-infographic-series/README.md)
+* [🟢 RDM Infographic Series](rdm-infographic-series/README.md)
   * [🟢 Open Science](rdm-infographic-series/open-science.md)
   * [🟢 FAIR Principles](rdm-infographic-series/fair-principles.md)
   * [🟢 Research Data Life Cycle](rdm-infographic-series/research-data-life-cycle.md)
@@ -81,6 +77,10 @@
   * [🟢 Research Open Data Management Matrix](rdm-infographic-series/research-open-data-management-matrix.md)
   * [🟢 Directory and Naming Convention](rdm-infographic-series/directory-and-naming-convention.md)
   * [🟢 Annotated DMP Horizon Europe Template](rdm-infographic-series/annotated-dmp-horizon-europe-template.md)
+  * [🟢 Research Projects](rdm-infographic-series/research-projects/README.md)
+    * [Research Data Life Cycle](rdm-infographic-series/research-projects/research-data-life-cycle.md)
+    * [Data Management](rdm-infographic-series/research-projects/data-management.md)
+  * [🟢 Research Project Links ](https://docs.google.com/presentation/d/1uhJKTN0Tj5G9p5Hn84m753J-bQtDVnSQbUP2qIPQwoA/edit#slide=id.p)
 
 ## Open Science Guides
 
@@ -169,7 +169,7 @@
 
 ## RDM Blog
 
-* [🟤 Blog Posts](rdm-blog/blog-posts.md)
+* [🟠 Blog Posts](rdm-blog/blog-posts.md)
 
 ## Websites
 
@@ -180,3 +180,7 @@
 
 * [🌐 Twitter](https://twitter.com/renew\_global)
 * [🌐 LinkedIn](https://www.linkedin.com/showcase/novo-nordisk-foundation-center-for-stem-cell-medicine-renew/)
+
+***
+
+* [Page 1](page-1.md)
