@@ -2,7 +2,7 @@
 description: The FAIR Data Principles
 ---
 
-# 🔵 FAIR Principles
+# 🟢 FAIR Principles
 
 <div data-full-width="true">
 

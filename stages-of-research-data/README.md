@@ -4,7 +4,7 @@ cover: ../.gitbook/assets/c.png
 coverY: 0
 ---
 
-# 🟤 Stages of Research Data
+# 🟡 Stages of Research Data
 
 <div data-full-width="true">
 

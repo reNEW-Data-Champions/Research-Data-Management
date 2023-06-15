@@ -2,7 +2,7 @@
 description: Infographic
 ---
 
-# 🟣 Directory and Naming Convention
+# 🟢 Directory and Naming Convention
 
 <div data-full-width="true">
 

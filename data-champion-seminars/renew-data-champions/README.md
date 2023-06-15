@@ -2,7 +2,7 @@
 description: Data Champion's Guides for Research Data Management
 ---
 
-# ⚫ reNEW Data Champions
+# 🔴 reNEW Data Champions
 
 <div data-full-width="true">
 

@@ -2,7 +2,7 @@
 description: Open Science - Eight Pillars for LERU
 ---
 
-# 🟢 Open Science
+# 🔵 Open Science
 
 <div data-full-width="true">
 

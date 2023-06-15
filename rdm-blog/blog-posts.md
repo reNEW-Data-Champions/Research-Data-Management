@@ -1,2 +1,2 @@
-# 🟡 Blog Posts
+# 🟤 Blog Posts
 

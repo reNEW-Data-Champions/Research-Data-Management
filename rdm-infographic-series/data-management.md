@@ -2,7 +2,7 @@
 description: Areas of Focus for Data Management
 ---
 
-# 🔴 Data Management
+# 🟢 Data Management
 
 <div data-full-width="true">
 

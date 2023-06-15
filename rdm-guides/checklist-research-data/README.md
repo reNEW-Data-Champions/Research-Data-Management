@@ -5,7 +5,7 @@ description: >-
   Medicine - reNEW
 ---
 
-# 🔴 Checklist: Research Data
+# 🟡 Checklist: Research Data
 
 ### Table of Contents:
 

@@ -3,7 +3,7 @@ description: Research Open Data Management Matrix (RODMM)
 layout: landing
 ---
 
-# ⚪ Research Open Data Management Matrix
+# 🔵 Research Open Data Management Matrix
 
 \
 The Research Open Data Management Matrix is a comprehensive framework designed to guide the handling of research data throughout its lifecycle in alignment with Open Science and FAIR principles. It is organized around the data lifecycle stages and critical data management principles.

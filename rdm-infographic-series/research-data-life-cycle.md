@@ -2,7 +2,7 @@
 layout: landing
 ---
 
-# 🟠 Research Data Life Cycle
+# 🟢 Research Data Life Cycle
 
 <div data-full-width="true">
 

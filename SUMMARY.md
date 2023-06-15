@@ -2,11 +2,11 @@
 
 ## reNEW Data Champions
 
-* [⚪ Welcome to reNEW Data Champions](README.md)
+* [🔘 Welcome to reNEW Data Champions](README.md)
 
 ## Data Champion Seminars
 
-* [⚫ reNEW Data Champions](data-champion-seminars/renew-data-champions/README.md)
+* [🔴 reNEW Data Champions](data-champion-seminars/renew-data-champions/README.md)
   * [What is a Data Champion?](data-champion-seminars/renew-data-champions/what-is-a-data-champion.md)
   * [What are Data Champions?](data-champion-seminars/renew-data-champions/what-are-data-champions.md)
   * [Why build a community of Data Champions?](data-champion-seminars/renew-data-champions/why-build-a-community-of-data-champions.md)
@@ -73,18 +73,18 @@
 
 ***
 
-* [🟤 RDM Infographic Series](rdm-infographic-series/README.md)
+* [🟠 RDM Infographic Series](rdm-infographic-series/README.md)
   * [🟢 Open Science](rdm-infographic-series/open-science.md)
-  * [🔵 FAIR Principles](rdm-infographic-series/fair-principles.md)
-  * [🟠 Research Data Life Cycle](rdm-infographic-series/research-data-life-cycle.md)
-  * [🔴 Data Management](rdm-infographic-series/data-management.md)
-  * [⚪ Research Open Data Management Matrix](rdm-infographic-series/research-open-data-management-matrix.md)
-  * [🟣 Directory and Naming Convention](rdm-infographic-series/directory-and-naming-convention.md)
-  * [🟡 Annotated DMP Horizon Europe Template](rdm-infographic-series/annotated-dmp-horizon-europe-template.md)
+  * [🟢 FAIR Principles](rdm-infographic-series/fair-principles.md)
+  * [🟢 Research Data Life Cycle](rdm-infographic-series/research-data-life-cycle.md)
+  * [🟢 Data Management](rdm-infographic-series/data-management.md)
+  * [🟢 Research Open Data Management Matrix](rdm-infographic-series/research-open-data-management-matrix.md)
+  * [🟢 Directory and Naming Convention](rdm-infographic-series/directory-and-naming-convention.md)
+  * [🟢 Annotated DMP Horizon Europe Template](rdm-infographic-series/annotated-dmp-horizon-europe-template.md)
 
 ## Open Science Guides
 
-* [🟢 Open Science](open-science-guides/open-science/README.md)
+* [🔵 Open Science](open-science-guides/open-science/README.md)
   * [Guide to Open Science - LERU](open-science-guides/open-science/guide-to-open-science-leru/README.md)
     * [FAIR Data](open-science-guides/open-science/guide-to-open-science-leru/fair-data.md)
     * [Research Integrity](open-science-guides/open-science/guide-to-open-science-leru/research-integrity.md)
@@ -106,11 +106,11 @@
     * [Interoperability](fair-principles/fair-data-principles/interoperability.md)
     * [Reusability](fair-principles/fair-data-principles/reusability.md)
     * [FAIR Data Principles Resources:](fair-principles/fair-data-principles/fair-data-principles-resources.md)
-* [⚪ Research Open Data Management Matrix](research-open-data-management-matrix.md)
+* [🔵 Research Open Data Management Matrix](research-open-data-management-matrix.md)
 
 ## RDM Guides
 
-* [🔴 Checklist: Research Data](rdm-guides/checklist-research-data/README.md)
+* [🟡 Checklist: Research Data](rdm-guides/checklist-research-data/README.md)
   * [Research Data Guidance and Checklist](rdm-guides/checklist-research-data/research-data-guidance-and-checklist.md)
   * [Plan & Design Stage](rdm-guides/checklist-research-data/plan-and-design-stage.md)
   * [Collect & Create Stage](rdm-guides/checklist-research-data/collect-and-create-stage.md)
@@ -122,7 +122,7 @@
 
 ***
 
-* [🟤 Stages of Research Data](stages-of-research-data/README.md)
+* [🟡 Stages of Research Data](stages-of-research-data/README.md)
   * [🟣 Plan and Design Stage](stages-of-research-data/plan-and-design-stage/README.md)
     * [Data Management Plan](stages-of-research-data/plan-and-design-stage/data-management-plan.md)
     * [Annotated DMP Horizon Europe Template](stages-of-research-data/plan-and-design-stage/annotated-dmp-horizon-europe-template.md)
@@ -164,13 +164,13 @@
 
 ## reNEW Groups
 
-* [🟠 Brickman Group](renew-groups/brickman-group/README.md)
+* [🟣 Brickman Group](renew-groups/brickman-group/README.md)
   * [Brickman Group](https://renew.science/principal\_investigat/joshua-m-brickman/)
   * [Brickman Lab](renew-groups/brickman-group/brickman-lab.md)
 
 ## RDM Blog
 
-* [🟡 Blog Posts](rdm-blog/blog-posts.md)
+* [🟤 Blog Posts](rdm-blog/blog-posts.md)
 
 ## Websites
 
