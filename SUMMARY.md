@@ -173,8 +173,9 @@
 
 ## Websites
 
-* [🌐 UCPH Research Portal](https://kunet.ku.dk/work-areas/research/data/Pages/default.aspx)
-* [🌐 reNEW Website](https://renew.science/)
+* [🌎 UCPH Research IT](https://kunet.ku.dk/work-areas/research/Research%20Infrastructure/research-it/Pages/default.aspx)
+* [🌎 UCPH Research Portal](https://kunet.ku.dk/work-areas/research/data/Pages/default.aspx)
+* [🌎 reNEW Website](https://renew.science/)
 
 ## Social Media
 
