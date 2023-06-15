@@ -1,9 +1,9 @@
 # ⚪ Welcome to reNEW Data Champions
 
-<figure><img src=".gitbook/assets/ReNEW_Logo_Tagline_FullColour_2022.png" alt=""><figcaption><p>Novo Nordisk Foundation Center for Stem Cell Medicine- reNEW</p></figcaption></figure>
+<figure><img src=".gitbook/assets/ReNEW_Logo_Tagline_FullColour_2022.png" alt=""><figcaption><p>Novo Nordisk Foundation Center for Stem Cell Medicine - reNEW</p></figcaption></figure>
 
 {% hint style="info" %}
-The resources and guides are available on this website have been specifically curated to complement the Data Champion Program at reNEW. We trust that you will find the infographics and detailed insights they provide to be of significant value.
+The resources and guides have been meticulously curated to support and enhance the Data Champion Program at reNEW. The accompanying infographics and insights will help your learning process. This website is undergoing updates and modifications, ensuring it remains relevant and reflects the most recent information and policy changes. We encourage you to visit the website regularly to stay informed about these updates.
 
 Should you wish to use these materials in your work or research, we kindly ask that you attribute them correctly by citing the respective author. To preserve the integrity of the content, please refrain from modifying the infographics.
 

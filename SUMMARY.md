@@ -153,7 +153,7 @@
       * [Sensitive Information Facility (SIF)](stages-of-research-data/analyze-and-collaborate-stage/guide-for-data-storage-and-collaboration/sensitive-information-facility-sif.md)
       * [DATA DOI](stages-of-research-data/analyze-and-collaborate-stage/guide-for-data-storage-and-collaboration/data-doi.md)
       * [UCPH Policy for Research Data Management](stages-of-research-data/analyze-and-collaborate-stage/guide-for-data-storage-and-collaboration/ucph-policy-for-research-data-management.md)
-    * [Guide for Data Collection, Processing, and Analysis (In development)](stages-of-research-data/analyze-and-collaborate-stage/guide-for-data-collection-processing-and-analysis-in-development.md)
+    * [Guide for Data Collection, Processing, and Analysis](stages-of-research-data/analyze-and-collaborate-stage/guide-for-data-collection-processing-and-analysis.md)
   * [🟠 Evaluate and Archive Stage](stages-of-research-data/evaluate-and-archive-stage/README.md)
     * [Guide for Data Preservation (In development)](stages-of-research-data/evaluate-and-archive-stage/guide-for-data-preservation-in-development.md)
   * [🔴 Share and Disseminate Stage](stages-of-research-data/share-and-disseminate-stage/README.md)
