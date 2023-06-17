@@ -184,9 +184,11 @@
 
 ## Websites
 
-* [🌎 UCPH Research IT](https://kunet.ku.dk/work-areas/research/Research%20Infrastructure/research-it/Pages/default.aspx)
-* [🌎 UCPH Research Portal](https://kunet.ku.dk/work-areas/research/data/Pages/default.aspx)
 * [🌎 reNEW Website](https://renew.science/)
+* [🌎 reNEW Genomics](https://bit.ly/reNEW\_GEN)
+* [🌎 DanGPU HPC](https://bit.ly/DANGPU)
+* [🌎 UCPH Research Portal](https://kunet.ku.dk/work-areas/research/data/Pages/default.aspx)
+* [🌎 UCPH Research IT](https://kunet.ku.dk/work-areas/research/Research%20Infrastructure/research-it/Pages/default.aspx)
 
 ## Social Media
 
