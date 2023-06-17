@@ -1,10 +1,8 @@
 # Table of contents
 
-* [Page 1](README.md)
-
 ## reNEW Data Champions
 
-* [🔘 Welcome to reNEW Data Champions](renew-data-champions/welcome-to-renew-data-champions.md)
+* [🔘 Welcome to reNEW Data Champions](README.md)
 * [🔘 Research Open Data Management Matrix](renew-data-champions/research-open-data-management-matrix.md)
 
 ## Data Champion Seminars
