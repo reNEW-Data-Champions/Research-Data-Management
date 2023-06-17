@@ -171,24 +171,25 @@
 
 * [🟠 Blog Posts](rdm-blog/blog-posts.md)
 
-## RDM Videos / Websites
+## RDM: Videos / Websites
 
-* [🟤 RDM](rdm-videos-websites/rdm/README.md)
+* [🟤 Research Data Management](rdm-videos-websites/research-data-management/README.md)
   * [🟤 RDM Guide for Life Sciences (Elixir)](https://bit.ly/RDM\_GUIDE)
   * [🟤 RDM  Kit for Life Sciences (Elixir)](https://bit.ly/RDM\_Kit)
   * [🟤 Organizing Your Research Data ](https://bit.ly/File\_Name)
   * [🟤 How to FAIR](https://bit.ly/UCPH\_FAIR)
-* [🟤 DMP](rdm-videos-websites/dmp/README.md)
+* [🟤 Data Management Plans](rdm-videos-websites/data-management-plans/README.md)
   * [🟤 UCPH DMP Template](https://bit.ly/UCPHDMPTemplate)
   * [🟤 DMPonline - Data Management Plans](https://bit.ly/DeiC\_DMP)
+* [🟤 UCPH Research Portal](rdm-videos-websites/ucph-research-portal/README.md)
+  * [🟤 UCPH Research Portal](https://kunet.ku.dk/work-areas/research/data/Pages/default.aspx)
+  * [🟤 UCPH Research IT](https://kunet.ku.dk/work-areas/research/Research%20Infrastructure/research-it/Pages/default.aspx)
 
 ## Websites
 
 * [🌎 reNEW Website](https://renew.science/)
 * [🌎 reNEW Genomics](https://bit.ly/reNEW\_GEN)
 * [🌎 DanGPU HPC](https://bit.ly/DANGPU)
-* [🌎 UCPH Research Portal](https://kunet.ku.dk/work-areas/research/data/Pages/default.aspx)
-* [🌎 UCPH Research IT](https://kunet.ku.dk/work-areas/research/Research%20Infrastructure/research-it/Pages/default.aspx)
 
 ## Social Media
 
