@@ -171,6 +171,12 @@
 
 * [🟠 Blog Posts](rdm-blog/blog-posts.md)
 
+## RDM Videos / Links
+
+* [🟤 Organizing Your Research Data ](https://bit.ly/File\_Name)
+* [🟤 DMPOnline - Data Management Plans](https://bit.ly/DeiC\_DMP)
+* [🟤 UCPH DMP Template](https://bit.ly/UCPHDMPTemplate)
+
 ## Websites
 
 * [🌎 UCPH Research IT](https://kunet.ku.dk/work-areas/research/Research%20Infrastructure/research-it/Pages/default.aspx)
@@ -181,7 +187,3 @@
 
 * [🌐 Twitter](https://twitter.com/renew\_global)
 * [🌐 LinkedIn](https://www.linkedin.com/showcase/novo-nordisk-foundation-center-for-stem-cell-medicine-renew/)
-
-***
-
-* [Page 1](page-1.md)
