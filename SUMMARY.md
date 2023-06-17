@@ -1,8 +1,11 @@
 # Table of contents
 
+* [Page 1](README.md)
+
 ## reNEW Data Champions
 
-* [🔘 Welcome to reNEW Data Champions](README.md)
+* [🔘 Welcome to reNEW Data Champions](renew-data-champions/welcome-to-renew-data-champions.md)
+* [🔘 Research Open Data Management Matrix](renew-data-champions/research-open-data-management-matrix.md)
 
 ## Data Champion Seminars
 
@@ -106,7 +109,6 @@
     * [Interoperability](fair-principles/fair-data-principles/interoperability.md)
     * [Reusability](fair-principles/fair-data-principles/reusability.md)
     * [FAIR Data Principles Resources:](fair-principles/fair-data-principles/fair-data-principles-resources.md)
-* [🔵 Research Open Data Management Matrix](research-open-data-management-matrix.md)
 
 ## RDM Guides
 
@@ -162,20 +164,25 @@
     * [Guide for Data Sharing in Repositories (in development)](stages-of-research-data/publish-and-reuse-stage/guide-for-data-sharing-in-repositories-in-development.md)
     * [Guide for Data Preservation (in development)](stages-of-research-data/publish-and-reuse-stage/guide-for-data-preservation-in-development.md)
 
-## reNEW Groups
+## reNEW Research Groups
 
-* [🟣 Brickman Group](renew-groups/brickman-group/README.md)
+* [🟣 Brickman Group](renew-research-groups/brickman-group/README.md)
   * [Brickman Group](https://brickmanlab.github.io/)
 
 ## RDM Blog
 
 * [🟠 Blog Posts](rdm-blog/blog-posts.md)
 
-## RDM Videos / Links
+## RDM Videos / Websites
 
-* [🟤 Organizing Your Research Data ](https://bit.ly/File\_Name)
-* [🟤 DMPOnline - Data Management Plans](https://bit.ly/DeiC\_DMP)
-* [🟤 UCPH DMP Template](https://bit.ly/UCPHDMPTemplate)
+* [🟤 RDM](rdm-videos-websites/rdm/README.md)
+  * [🟤 RDM Guide for Life Sciences (Elixir)](https://bit.ly/RDM\_GUIDE)
+  * [🟤 RDM  Kit for Life Sciences (Elixir)](https://bit.ly/RDM\_Kit)
+  * [🟤 Organizing Your Research Data ](https://bit.ly/File\_Name)
+  * [🟤 How to FAIR](https://bit.ly/UCPH\_FAIR)
+* [🟤 DMP](rdm-videos-websites/dmp/README.md)
+  * [🟤 UCPH DMP Template](https://bit.ly/UCPHDMPTemplate)
+  * [🟤 DMPonline - Data Management Plans](https://bit.ly/DeiC\_DMP)
 
 ## Websites
 

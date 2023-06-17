@@ -1,0 +1,43 @@
+title: RDM Guide
+# this appears in the html browser tab for the site title (seen mostly by search engines, not users)
+
+description: "RDM Guide is an information resource about research data management for biologists and scientists in Life Sciences, curated by ELIXIR Belgium."
+# Metadata description of the website
+
+gtag: G-6S2ZD2MBXX
+# Google analytics tag
+
+plausible: rdm.elixir-belgium.org
+# Plausible tag
+plausible_src:  https://plausible.psb.ugent.be/js/plausible.js
+# default: 'https://plausible.io/js/plausible.js
+
+remote_theme: ELIXIR-Belgium/elixir-toolkit-theme@1.26.0
+
+sass:
+  style: compressed
+  sourcemap: never
+
+exclude:
+  - README.md
+
+theme_variables:
+  theme_color: de4d00
+  fonts:
+    - https://fonts.googleapis.com/css2?family=Titillium+Web:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,200;1,300;1,400;1,600;1,700&display=swap
+    - https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700;800&display=swap
+
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      permalink: /:basename
+      layout: "page"
+      sidebar: main
+      topnav: topnav
+
+plugins:
+  - jemoji
+  - jekyll-sitemap
+
