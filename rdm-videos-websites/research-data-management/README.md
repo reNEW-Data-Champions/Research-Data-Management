@@ -1,6 +1,7 @@
 ---
 description: Research Data Management Videos / Websites
+layout: landing
 ---
 
-# 🟤 RDM
+# 🟤 Research Data Management
 

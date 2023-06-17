@@ -1,6 +1,7 @@
 ---
 description: Data Management Plan (DMP)
+layout: landing
 ---
 
-# 🟤 DMP
+# 🟤 Data Management Plans
 
