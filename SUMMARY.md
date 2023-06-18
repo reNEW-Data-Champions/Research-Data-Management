@@ -1,9 +1,8 @@
 # Table of contents
 
-## reNEW Data Champions
+## Data Champions' Website
 
-* [🔘 Welcome to reNEW Data Champions](README.md)
-* [🔘 Research Open Data Management Matrix](renew-data-champions/research-open-data-management-matrix.md)
+* [🔘 Data Champions Website](README.md)
 
 ## Data Champion Seminars
 
@@ -71,17 +70,18 @@
 ***
 
 * [🟢 RDM Infographic Series](rdm-infographic-series/README.md)
+  * [🟢 Research Open Data Management Matrix](rdm-infographic-series/research-open-data-management-matrix.md)
   * [🟢 Open Science](rdm-infographic-series/open-science.md)
   * [🟢 FAIR Principles](rdm-infographic-series/fair-principles.md)
   * [🟢 Research Data Life Cycle](rdm-infographic-series/research-data-life-cycle.md)
   * [🟢 Data Management](rdm-infographic-series/data-management.md)
-  * [🟢 Research Open Data Management Matrix](rdm-infographic-series/research-open-data-management-matrix.md)
   * [🟢 Directory and Naming Convention](rdm-infographic-series/directory-and-naming-convention.md)
   * [🟢 Annotated DMP Horizon Europe Template](rdm-infographic-series/annotated-dmp-horizon-europe-template.md)
   * [🟢 Research Projects](rdm-infographic-series/research-projects/README.md)
     * [Research Data Life Cycle](rdm-infographic-series/research-projects/research-data-life-cycle.md)
     * [Data Management](rdm-infographic-series/research-projects/data-management.md)
   * [🟢 Research Project Links ](https://docs.google.com/presentation/d/1uhJKTN0Tj5G9p5Hn84m753J-bQtDVnSQbUP2qIPQwoA/edit#slide=id.p)
+  * [🟢 Research Open Data Management Matrix](rdm-infographic-series/research-open-data-management-matrix-1.md)
 
 ## Open Science Guides
 
@@ -169,7 +169,7 @@
 
 ## RDM Blog
 
-* [🟠 Blog Posts](rdm-blog/blog-posts.md)
+* [🟠 Blog Post - June 2023](rdm-blog/blog-post-june-2023.md)
 
 ## RDM: Videos / Websites
 
