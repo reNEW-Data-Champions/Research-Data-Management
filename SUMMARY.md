@@ -81,6 +81,7 @@
     * [Research Data Life Cycle](rdm-infographic-series/research-projects/research-data-life-cycle.md)
     * [Data Management](rdm-infographic-series/research-projects/data-management.md)
   * [🟢 Research Project Links ](https://docs.google.com/presentation/d/1uhJKTN0Tj5G9p5Hn84m753J-bQtDVnSQbUP2qIPQwoA/edit#slide=id.p)
+  * [🟢 Guide to UCPH HPC](rdm-infographic-series/guide-to-ucph-hpc.md)
   * [🟢 Research Open Data Management Matrix](rdm-infographic-series/research-open-data-management-matrix-1.md)
 
 ## Open Science Guides
