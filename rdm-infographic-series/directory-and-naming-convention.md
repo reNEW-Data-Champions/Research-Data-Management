@@ -10,4 +10,4 @@ description: Infographic
 
 </div>
 
-<figure><img src="../.gitbook/assets/Directory and Naming Structure - 2.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Directory and Naming Structure - 2.jpg" alt=""><figcaption><p>Directory and Naming Conventions</p></figcaption></figure>

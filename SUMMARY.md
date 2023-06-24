@@ -64,6 +64,8 @@
   * [Useful resources](data-champion-seminars/data-management-plan/useful-resources.md)
   * [Faculty of Health and Medical Sciences (SUND)](data-champion-seminars/data-management-plan/faculty-of-health-and-medical-sciences-sund.md)
   * [Questions and Answer](data-champion-seminars/data-management-plan/questions-and-answer.md)
+* [🔴 Organizing Your Data](data-champion-seminars/organizing-your-data/README.md)
+  * [Organizing Your Data Tips and Recommendations](data-champion-seminars/organizing-your-data/organizing-your-data-tips-and-recommendations.md)
 
 ## Research Projects Guides
 
