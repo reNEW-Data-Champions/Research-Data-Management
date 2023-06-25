@@ -13,7 +13,6 @@
   * [FAIR Data Principles](data-champion-seminars/data-champions/fair-data-principles.md)
   * [Thank You](data-champion-seminars/data-champions/thank-you.md)
   * [Acknowledgments](data-champion-seminars/data-champions/acknowledgments.md)
-* [🔴 Data Champions - Presentation](https://docs.google.com/presentation/d/1k3wiVUo8aG8goMeXLxy7mS\_oMIQSTgPNltMJlYO23Y4/edit?usp=sharing)
 * [🔴 Data Management Plan](data-champion-seminars/data-management-plan/README.md)
   * [Brief Introduction](data-champion-seminars/data-management-plan/brief-introduction/README.md)
     * [5 Main Keys to Writing a Good Data Management Plan](data-champion-seminars/data-management-plan/brief-introduction/5-main-keys-to-writing-a-good-data-management-plan.md)
@@ -62,25 +61,37 @@
   * [Useful resources](data-champion-seminars/data-management-plan/useful-resources.md)
   * [Faculty of Health and Medical Sciences (SUND)](data-champion-seminars/data-management-plan/faculty-of-health-and-medical-sciences-sund.md)
   * [Questions and Answer](data-champion-seminars/data-management-plan/questions-and-answer.md)
+* [🔴 Organizing Your Data](data-champion-seminars/organizing-your-data/README.md)
+  * [Organizing Your Data - Tips and Recommendations](data-champion-seminars/organizing-your-data/organizing-your-data-tips-and-recommendations.md)
+  * [File and Folder Structure](data-champion-seminars/organizing-your-data/file-and-folder-structure.md)
+  * [File and Folder Naming](data-champion-seminars/organizing-your-data/file-and-folder-naming.md)
+  * [README File Template](data-champion-seminars/organizing-your-data/readme-file-template.md)
+  * [File and Folder Batch Renaming Software](data-champion-seminars/organizing-your-data/file-and-folder-batch-renaming-software.md)
+* [🔴 Data Champions - Presentation](https://docs.google.com/presentation/d/1k3wiVUo8aG8goMeXLxy7mS\_oMIQSTgPNltMJlYO23Y4/edit?usp=sharing)
 * [🔴 Data Management Plan - Presentation](https://docs.google.com/presentation/d/1ryuNYL0PftwsndEKAbbwaXTB6emPWmhvwO\_gKkRsoyI/edit?usp=sharing)
-* [🔴 Organizing Your Data](data-champion-seminars/organizing-your-data.md)
 
-## Research Projects Guides
+## Infographics
 
 ***
 
-* [🟢 RDM Infographic Series](rdm-infographic-series/README.md)
-  * [🟢 Research Open Data Management Matrix](rdm-infographic-series/research-open-data-management-matrix.md)
-  * [🟢 Open Science](rdm-infographic-series/open-science.md)
-  * [🟢 FAIR Principles](rdm-infographic-series/fair-principles.md)
-  * [🟢 Research Data Life Cycle](rdm-infographic-series/research-data-life-cycle.md)
-  * [🟢 Data Management](rdm-infographic-series/data-management.md)
-  * [🟢 Directory and Naming Convention](rdm-infographic-series/directory-and-naming-convention.md)
-  * [🟢 Annotated DMP Horizon Europe Template](rdm-infographic-series/annotated-dmp-horizon-europe-template.md)
-  * [🟢 Steps of a Research Projects](rdm-infographic-series/steps-of-a-research-projects.md)
+* [🟢 Research Data Management](research-data-management/README.md)
+  * [🟢 Research Open Data Management Matrix](research-data-management/research-open-data-management-matrix.md)
+  * [🟢 Research Data Life Cycle](research-data-management/research-data-life-cycle.md)
+  * [🟢 Data Management](research-data-management/data-management.md)
+  * [🟢 Guide to UCPH High-Performance Computing](research-data-management/guide-to-ucph-high-performance-computing.md)
+* [🟢 High-Performance Computers](high-performance-computers/README.md)
+  * [🟢 Guide to UCPH High-Performance Computing](high-performance-computers/guide-to-ucph-high-performance-computing.md)
+* [🟢 Reseacrh Projects](reseacrh-projects/README.md)
+  * [🟢 Annotated DMP Horizon Europe Template](reseacrh-projects/annotated-dmp-horizon-europe-template.md)
+  * [🟢 Steps of a Research Projects](reseacrh-projects/steps-of-a-research-projects.md)
   * [🟢 Steps of a Research Project ](https://docs.google.com/presentation/d/1uhJKTN0Tj5G9p5Hn84m753J-bQtDVnSQbUP2qIPQwoA/edit#slide=id.p)
-  * [🟢 Guide to UCPH High-Performance Computing](rdm-infographic-series/guide-to-ucph-high-performance-computing.md)
-  * [🟢 Research Open Data Management Matrix](rdm-infographic-series/research-open-data-management-matrix-1.md)
+* [🟢 Open Science](open-science/README.md)
+  * [🟢 Open Science](open-science/open-science.md)
+  * [🟢 FAIR Principles](open-science/fair-principles.md)
+* [🟢 Files and Folders](files-and-folders/README.md)
+  * [🟢 Directory and Naming Convention](files-and-folders/directory-and-naming-convention.md)
+* [🟢 Data Management Plans](data-management-plans/README.md)
+  * [🟢 Annotated DMP Horizon Europe Template](data-management-plans/annotated-dmp-horizon-europe-template.md)
 
 ## Open Science Guides
 
