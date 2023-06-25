@@ -2,8 +2,8 @@
 
 ## Data Champion Seminars
 
-* [🔴 Data Champions](README.md)
-  * [License  and Acknowledgements](data-champion-seminars/data-champions/license-and-acknowledgements.md)
+* [🔴 License  and Acknowledgements](README.md)
+* [🔴 Data Champions](data-champion-seminars/data-champions/README.md)
   * [What is a Data Champion?](data-champion-seminars/data-champions/what-is-a-data-champion.md)
   * [What are Data Champions?](data-champion-seminars/data-champions/what-are-data-champions.md)
   * [Why build a community of Data Champions?](data-champion-seminars/data-champions/why-build-a-community-of-data-champions.md)
