@@ -11,4 +11,4 @@ It's an effective way to offer RDM support to all eight reNEW research groups by
 
 The number of Data Champions will increase as the program is expanded.
 
-<figure><img src="../../.gitbook/assets/1.png" alt=""><figcaption><p>Illustrations: Connie, Clare</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1 (1).png" alt=""><figcaption><p>Illustrations: Connie, Clare</p></figcaption></figure>

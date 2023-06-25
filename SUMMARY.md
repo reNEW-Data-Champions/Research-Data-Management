@@ -1,21 +1,19 @@
 # Table of contents
 
-## Data Champions' Website
-
-* [🔘 Data Champions Website](README.md)
-
 ## Data Champion Seminars
 
-* [🔴 reNEW Data Champions](data-champion-seminars/renew-data-champions/README.md)
-  * [What is a Data Champion?](data-champion-seminars/renew-data-champions/what-is-a-data-champion.md)
-  * [What are Data Champions?](data-champion-seminars/renew-data-champions/what-are-data-champions.md)
-  * [Why build a community of Data Champions?](data-champion-seminars/renew-data-champions/why-build-a-community-of-data-champions.md)
-  * [Research Open Data Management Matrix](data-champion-seminars/renew-data-champions/research-open-data-management-matrix.md)
-  * [Four Fundamental Rules of Open Science](data-champion-seminars/renew-data-champions/four-fundamental-rules-of-open-science.md)
-  * [Research Data  Life Cycle](data-champion-seminars/renew-data-champions/research-data-life-cycle.md)
-  * [FAIR Data Principles](data-champion-seminars/renew-data-champions/fair-data-principles.md)
-  * [Thank You](data-champion-seminars/renew-data-champions/thank-you.md)
-  * [Acknowledgments](data-champion-seminars/renew-data-champions/acknowledgments.md)
+* [🔴 Data Champions](README.md)
+  * [License  and Acknowledgements](data-champion-seminars/data-champions/license-and-acknowledgements.md)
+  * [What is a Data Champion?](data-champion-seminars/data-champions/what-is-a-data-champion.md)
+  * [What are Data Champions?](data-champion-seminars/data-champions/what-are-data-champions.md)
+  * [Why build a community of Data Champions?](data-champion-seminars/data-champions/why-build-a-community-of-data-champions.md)
+  * [Research Open Data Management Matrix](data-champion-seminars/data-champions/research-open-data-management-matrix.md)
+  * [Four Fundamental Rules of Open Science](data-champion-seminars/data-champions/four-fundamental-rules-of-open-science.md)
+  * [Research Data  Life Cycle](data-champion-seminars/data-champions/research-data-life-cycle.md)
+  * [FAIR Data Principles](data-champion-seminars/data-champions/fair-data-principles.md)
+  * [Thank You](data-champion-seminars/data-champions/thank-you.md)
+  * [Acknowledgments](data-champion-seminars/data-champions/acknowledgments.md)
+* [🔴 Data Champions - Presentation](https://docs.google.com/presentation/d/1k3wiVUo8aG8goMeXLxy7mS\_oMIQSTgPNltMJlYO23Y4/edit?usp=sharing)
 * [🔴 Data Management Plan](data-champion-seminars/data-management-plan/README.md)
   * [Brief Introduction](data-champion-seminars/data-management-plan/brief-introduction/README.md)
     * [5 Main Keys to Writing a Good Data Management Plan](data-champion-seminars/data-management-plan/brief-introduction/5-main-keys-to-writing-a-good-data-management-plan.md)
@@ -64,6 +62,7 @@
   * [Useful resources](data-champion-seminars/data-management-plan/useful-resources.md)
   * [Faculty of Health and Medical Sciences (SUND)](data-champion-seminars/data-management-plan/faculty-of-health-and-medical-sciences-sund.md)
   * [Questions and Answer](data-champion-seminars/data-management-plan/questions-and-answer.md)
+* [🔴 Data Management Plan - Presentation](https://docs.google.com/presentation/d/1ryuNYL0PftwsndEKAbbwaXTB6emPWmhvwO\_gKkRsoyI/edit?usp=sharing)
 * [🔴 Organizing Your Data](data-champion-seminars/organizing-your-data.md)
 
 ## Research Projects Guides
@@ -78,11 +77,9 @@
   * [🟢 Data Management](rdm-infographic-series/data-management.md)
   * [🟢 Directory and Naming Convention](rdm-infographic-series/directory-and-naming-convention.md)
   * [🟢 Annotated DMP Horizon Europe Template](rdm-infographic-series/annotated-dmp-horizon-europe-template.md)
-  * [🟢 Research Projects](rdm-infographic-series/research-projects/README.md)
-    * [Research Data Life Cycle](rdm-infographic-series/research-projects/research-data-life-cycle.md)
-    * [Data Management](rdm-infographic-series/research-projects/data-management.md)
-  * [🟢 Research Project Links ](https://docs.google.com/presentation/d/1uhJKTN0Tj5G9p5Hn84m753J-bQtDVnSQbUP2qIPQwoA/edit#slide=id.p)
-  * [🟢 Guide to UCPH HPC](rdm-infographic-series/guide-to-ucph-hpc.md)
+  * [🟢 Steps of a Research Projects](rdm-infographic-series/steps-of-a-research-projects.md)
+  * [🟢 Steps of a Research Project ](https://docs.google.com/presentation/d/1uhJKTN0Tj5G9p5Hn84m753J-bQtDVnSQbUP2qIPQwoA/edit#slide=id.p)
+  * [🟢 Guide to UCPH High-Performance Computing](rdm-infographic-series/guide-to-ucph-high-performance-computing.md)
   * [🟢 Research Open Data Management Matrix](rdm-infographic-series/research-open-data-management-matrix-1.md)
 
 ## Open Science Guides

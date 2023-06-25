@@ -4,7 +4,7 @@ Research Data Champions (RDCs) are volunteers who advise research community memb
 
 RDC aims to raise awareness of the importance of FAIR research data management (RDM), offers numerous services to provide researchers at reNEW with comprehensive RDM support, and serves as your group's central point of contact.
 
-<figure><img src="../../.gitbook/assets/2.png" alt=""><figcaption><p>Illustrations: Connie, Clare</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2 (1).png" alt=""><figcaption><p>Illustrations: Connie, Clare</p></figcaption></figure>
 
 ## Research Data Champions are Volunteers from each research group who:
 
