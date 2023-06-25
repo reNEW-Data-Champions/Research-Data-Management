@@ -170,7 +170,20 @@
 
 ## reNEW Research Groups
 
+* [🟣 Aragona Group](renew-research-groups/aragona-group.md)
 * [🟣 Brickman Group](renew-research-groups/brickman-group/README.md)
+  * [Brickman Group](https://brickmanlab.github.io/)
+* [🟣 Jensen Group](renew-research-groups/jensen-group/README.md)
+  * [Brickman Group](https://brickmanlab.github.io/)
+* [🟣 Kirkeby Group](renew-research-groups/kirkeby-group/README.md)
+  * [Brickman Group](https://brickmanlab.github.io/)
+* [🟣 Little Group](renew-research-groups/little-group/README.md)
+  * [Brickman Group](https://brickmanlab.github.io/)
+* [🟣 Serup Group](renew-research-groups/serup-group/README.md)
+  * [Brickman Group](https://brickmanlab.github.io/)
+* [🟣 Zedzinski Group](renew-research-groups/zedzinski-group/README.md)
+  * [Brickman Group](https://brickmanlab.github.io/)
+* [🟣 Zylicz Group](renew-research-groups/zylicz-group/README.md)
   * [Brickman Group](https://brickmanlab.github.io/)
 
 ## RDM Blog
