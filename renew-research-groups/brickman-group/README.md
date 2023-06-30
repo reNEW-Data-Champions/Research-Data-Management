@@ -4,7 +4,7 @@ layout: landing
 
 # 🟣 Brickman Group
 
-[Group research](https://renew.ku.dk/research/reseach-groups/brickman-group/#collapse-1582021919959)
+## [Group research](https://renew.ku.dk/research/reseach-groups/brickman-group/#collapse-1582021919959)
 
 In particular, we are interested in dynamic mechanisms by which cells can both reversible prime towards a specific fate or undergo a transition into commitment. As early mammalian development is highly regulative, deriving embryonic stem (ES) cell lines from early embryos produces heterogeneous culture systems that can recapitulate the progenitor cell types usually present in the embryo. As a result, we can exploit ES cells as a model to study the process of lineage choice in embryonic development and infer from embryonic development the identity of factors that block differentiation to support ES cell self-renewal. We seek to understand the transcriptional basis of ES cell potency/pluripotency and how this relates to normal embryonic development.
 
