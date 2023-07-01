@@ -7,6 +7,10 @@
 * [🔴 Data Management Plans](data-champion-seminars/data-management-plans.md)
 * [🔴 Organizing Your Data](data-champion-seminars/organizing-your-data.md)
 
+## Marie Curie Fellows
+
+* [🟠 Marie Curie Fellows Website](https://marie-sklodowska-curie-actions.ec.europa.eu/)
+
 ## Infographics
 
 ***
