@@ -5,12 +5,7 @@
 * [🔴 License  and Acknowledgements](README.md)
 * [🔴 Data Champions](data-champion-seminars/data-champions.md)
 * [🔴 Data Management Plans](data-champion-seminars/data-management-plans.md)
-* [🔴 Organizing Your Data](data-champion-seminars/organizing-your-data/README.md)
-  * [Organizing Your Data - Tips and Recommendations](data-champion-seminars/organizing-your-data/organizing-your-data-tips-and-recommendations.md)
-  * [File and Folder Structure](data-champion-seminars/organizing-your-data/file-and-folder-structure.md)
-  * [File and Folder Naming](data-champion-seminars/organizing-your-data/file-and-folder-naming.md)
-  * [README File Template](data-champion-seminars/organizing-your-data/readme-file-template.md)
-  * [File and Folder Batch Renaming Software](data-champion-seminars/organizing-your-data/file-and-folder-batch-renaming-software.md)
+* [🔴 Organizing Your Data](data-champion-seminars/organizing-your-data.md)
 
 ## Infographics
 
