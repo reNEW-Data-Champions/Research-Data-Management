@@ -6,6 +6,6 @@ description: Infographic
 
 <div data-full-width="true">
 
-<figure><img src="../.gitbook/assets/Directory_Structure (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Directory_Structure.jpg" alt=""><figcaption></figcaption></figure>
 
 </div>

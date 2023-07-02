@@ -6,4 +6,4 @@
 
 </div>
 
-{% embed url="https://docs.google.com/presentation/d/1k3wiVUo8aG8goMeXLxy7mS_oMIQSTgPNltMJlYO23Y4/edit?usp=sharing" %}
+{% embed url="https://docs.google.com/presentation/d/1k3wiVUo8aG8goMeXLxy7mS_oMIQSTgPNltMJlYO23Y4/edit?usp=sharing" fullWidth="true" %}
