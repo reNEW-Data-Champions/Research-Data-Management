@@ -9,7 +9,13 @@
 
 ## Marie Curie Fellows
 
+* [🟠 Implementation Guide for Marie Curie Fellows](marie-curie-fellows/implementation-guide-for-marie-curie-fellows.md)
 * [🟠 Marie Curie Fellows Website](https://marie-sklodowska-curie-actions.ec.europa.eu/)
+* [🟠 UCPH DMPOnline](https://dmponline.deic.dk/)
+* [🟠 Data Management Plans](marie-curie-fellows/data-management-plans/README.md)
+  * [🟠 UCPH Data Management Plan Template](marie-curie-fellows/data-management-plans/ucph-data-management-plan-template.md)
+  * [🟠 H2020 Data Management Plan Template](marie-curie-fellows/data-management-plans/h2020-data-management-plan-template.md)
+  * [🟠 Guidelines for H2020 FAIR Data Management Plan Template](marie-curie-fellows/data-management-plans/guidelines-for-h2020-fair-data-management-plan-template.md)
 
 ## Infographics
 
@@ -154,6 +160,7 @@
 ## Websites
 
 * [🌎 reNEW Website](https://renew.science/)
+* [🌎 reNEW Connect](https://alumni.sharepoint.com/sites/UCPH\_reNEWConnect/SitePages/Home.aspx)
 * [🌎 reNEW Genomics](https://bit.ly/reNEW\_GEN)
 * [🌎 DanGPU HPC](https://bit.ly/DANGPU)
 
