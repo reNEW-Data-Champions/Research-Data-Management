@@ -11,13 +11,11 @@
 {% endhint %}
 
 {% hint style="info" %}
-The resources and guides have been meticulously curated to support and enhance the Data Champion Program at reNEW. The accompanying infographics and insights will help your learning process.&#x20;
-
-Should you wish to use these materials in your work or research, we kindly ask that you attribute them correctly by citing the respective author. To preserve the integrity of the content, please refrain from modifying the infographics.
-
-We appreciate your adherence to these guidelines and hope that the materials serve as a helpful tool in your pursuit of knowledge.
+Our dedicated team has meticulously assembled these resources and guides with a singular focus: to reinforce the Data Champion Program at reNEW, specifically within the domain of Research Data Management. We've taken great care to ensure these materials are expansive and precisely tailored to catalyze your learning journey most effectively. Incorporated within these resources are strategic infographics and insights. These are carefully crafted with precision, augmenting your understanding and offering a richer comprehension of the subject.
 {% endhint %}
 
 {% hint style="warning" %}
-The content of this website is diligently updated to reflect the latest policy changes, advancements in support and services, and constructive feedback from our users. As we continuously strive to improve, some documents are still undergoing development. We would greatly appreciate your assistance if you encounter any errors or oversights. Please don't hesitate to contact [Richard Dennis](mailto:richard.dennis@sund.ku.dk), Research Consultant - Data Steward. We value your input and thank you for your visit.
+We are committed to ensuring the content of this website accurately mirrors the most recent policy updates, advancements in support and services, and valuable feedback from our users. As part of our ongoing endeavor for excellence, certain documents are still in the process of refinement. Your assistance in identifying inaccuracies or omissions would be highly valued, as it helps us maintain the highest information accuracy and reliability.
+
+Please don't hesitate to contact [Richard Dennis](mailto:richard.dennis@sund.ku.dk), Research Consultant - Data Steward. We value your input and thank you for your visit.
 {% endhint %}
