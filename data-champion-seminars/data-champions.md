@@ -4,6 +4,6 @@
 
 <div data-full-width="true">
 
-<figure><img src="../.gitbook/assets/Capture (1).JPG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture.JPG" alt=""><figcaption></figcaption></figure>
 
 </div>
