@@ -1,4 +1,4 @@
-# Plan and Design Stage
+# Data Management Planning
 
 ## Data Management Planning
 
@@ -8,7 +8,7 @@
 
 </div>
 
-A Data Management Plan (DMP) is vital for research projects, serving as a comprehensive document outlining data handling, security, and sharing throughout and beyond the project. As funding entities and research institutions increasingly demand DMPs, their formality varies from informal internal documents to formal submissions for funding agencies.
+**A Data Management Plan (DMP**) is vital for research projects, serving as a comprehensive document outlining data handling, security, and sharing throughout and beyond the project. As funding entities and research institutions increasingly demand DMPs, their formality varies from informal internal documents to formal submissions for funding agencies.
 
 DMPs ensure all team members understand data location, organization, documentation, and access procedures, and they can be updated as living documents throughout the project. Creating a DMP promotes strategic thinking, collaboration, and consistency among team members while identifying potential weaknesses in the research process.
 
@@ -16,7 +16,7 @@ A well-crafted DMP conserves time, money, and energy by organizing data and plan
 
 ## What is Research Data Management?
 
-Research data management (RDM) is an ongoing, iterative process where early-stage decisions impact subsequent actions. Managing data effectively throughout the project is generally more efficient than reconstructing everything retrospectively. RDM includes daily management of research data during a project's duration (e.g., employing consistent file naming conventions) and determining how data will be preserved and shared post-project (e.g., depositing data in a repository for long-term archiving and access).
+**Research Data Management (RDM)** is an ongoing, iterative process where early-stage decisions impact subsequent actions. Managing data effectively throughout the project is generally more efficient than reconstructing everything retrospectively. RDM includes daily management of research data during a project's duration (e.g., employing consistent file naming conventions) and determining how data will be preserved and shared post-project (e.g., depositing data in a repository for long-term archiving and access).
 
 ## Why is Research Data Management important?
 
@@ -46,7 +46,7 @@ There are a host of reasons why research data management is essential:
 * Roles and responsibilities for data management on your research team
 * Budgeting for data management
 
-For more insight into the questions, you should ask and answer, check out [Data Management Checklist (UK Data Archive)](https://bit.ly/3y93BTV)
+For more insight into the questions you should ask and answer, check out [**Data Management Checklist (UK Data Archive)**](https://bit.ly/3y93BTV)
 
 ## Plan and Design Resources:  Data Management Plans:
 

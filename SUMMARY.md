@@ -82,6 +82,7 @@
   * [Evaluate & Archive Stage](rdm-guides/ucph-research-data-life-cycle-checklist/evaluate-and-archive-stage.md)
   * [Share & Disseminate Share](rdm-guides/ucph-research-data-life-cycle-checklist/share-and-disseminate-share.md)
   * [Access & Reuse Stage](rdm-guides/ucph-research-data-life-cycle-checklist/access-and-reuse-stage.md)
+* [🟡 Research Data Life Cycle](rdm-guides/research-data-life-cycle.md)
 
 ***
 
