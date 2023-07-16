@@ -1,8 +1,8 @@
-# 🟡 Research Data Life Cycle
+# 🟢 Research Data Life Cycle Checklist
 
 <div data-full-width="true">
 
-<figure><img src="../.gitbook/assets/Research Data Management Life Cycle - reNEW.jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Research Data Management Life Cycle - reNEW.jpeg" alt=""><figcaption></figcaption></figure>
 
 </div>
 

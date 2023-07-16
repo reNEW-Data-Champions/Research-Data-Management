@@ -86,4 +86,4 @@ By considering these aspects when creating a file name, you can improve the orga
 
 
 
-<figure><img src="../../../.gitbook/assets/ccc.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/ccc.jpg" alt=""><figcaption></figcaption></figure>
