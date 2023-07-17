@@ -1,3 +1,18 @@
+---
+description: License  and Acknowledgements
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # 🔴 License  and Acknowledgements
 
 <figure><img src=".gitbook/assets/ReNEW_Logo_Tagline_FullColour_2022.png" alt=""><figcaption><p>Novo Nordisk Foundation Center for Stem Cell Medicine - reNEW</p></figcaption></figure>

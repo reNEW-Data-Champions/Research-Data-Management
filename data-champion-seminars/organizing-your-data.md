@@ -1,5 +1,16 @@
 ---
-description: Tips and Recommendations
+description: 'Organizing Your Data: Tips and Recommendations'
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # 🔴 Organizing Your Data

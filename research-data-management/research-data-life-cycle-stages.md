@@ -1,8 +1,19 @@
 ---
-layout: landing
+description: Research Data Life Cycle Stages
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
-# 🟢 Research Data Life Cycle
+# 🟢 Research Data Life Cycle Stages
 
 <div data-full-width="true">
 

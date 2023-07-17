@@ -3,7 +3,7 @@
 ## Data Champion Seminars
 
 * [🔴 License  and Acknowledgements](README.md)
-* [🔴 Data Champions](data-champion-seminars/data-champions.md)
+* [🔴 Data Champions Program](data-champion-seminars/data-champions-program.md)
 * [🔴 Data Management Plans](data-champion-seminars/data-management-plans.md)
 * [🔴 Organizing Your Data](data-champion-seminars/organizing-your-data.md)
 
@@ -15,24 +15,23 @@
 * [🟠 Marie Curie Fellows Website](https://marie-sklodowska-curie-actions.ec.europa.eu/)
 * [🟠 UCPH DMPOnline](https://dmponline.deic.dk/)
 
-## Infographics
+## Infographics Series
 
 ***
 
-* [🟢 Research Data Life Cycle Checklist](research-data-life-cycle-checklist.md)
 * [🟢 Research Data Management](research-data-management/README.md)
-  * [🟢 Research Data Life Cycle](research-data-management/research-data-life-cycle.md)
-  * [🟢 Data Management](research-data-management/data-management.md)
+  * [🟢 Research Data Life Cycle Stages](research-data-management/research-data-life-cycle-stages.md)
+  * [🟢 Area of Focus for Data Management](research-data-management/area-of-focus-for-data-management.md)
   * [🟢 Research Open Data Management Matrix](research-data-management/research-open-data-management-matrix.md)
 * [🟢 Reseacrh Projects](reseacrh-projects/README.md)
   * [🟢 Steps of a Research Projects](reseacrh-projects/steps-of-a-research-projects.md)
   * [🟢 Steps of a Research Project ](https://docs.google.com/presentation/d/1uhJKTN0Tj5G9p5Hn84m753J-bQtDVnSQbUP2qIPQwoA/edit#slide=id.p)
-* [🟢 Data Management Plans](data-management-plans/README.md)
+* [🟢 Data Management Plans (DMP)](data-management-plans-dmp/README.md)
   * [🟢 UCPH DMPOnline](https://dmponline.deic.dk/)
-  * [🟢 UCPH Data Management Plan Template](data-management-plans/ucph-data-management-plan-template.md)
-  * [🟢 Horizon 2020 Data Management Plan Template](data-management-plans/horizon-2020-data-management-plan-template.md)
-  * [🟢 Guidelines: Horizon Europe  Data Management Plan Template](data-management-plans/guidelines-horizon-europe-data-management-plan-template/README.md)
-    * [🟢 Annotated DMP Horizon Europe Template](data-management-plans/guidelines-horizon-europe-data-management-plan-template/annotated-dmp-horizon-europe-template.md)
+  * [🟢 UCPH Data Management Plan Template](data-management-plans-dmp/ucph-data-management-plan-template.md)
+  * [🟢 Horizon 2020 Data Management Plan Template](data-management-plans-dmp/horizon-2020-data-management-plan-template.md)
+  * [🟢 Guidelines: Horizon Europe  Data Management Plan Template](data-management-plans-dmp/guidelines-horizon-europe-data-management-plan-template/README.md)
+    * [🟢 Annotated DMP Horizon Europe Template](data-management-plans-dmp/guidelines-horizon-europe-data-management-plan-template/annotated-dmp-horizon-europe-template.md)
 * [🟢 Open Science](open-science/README.md)
   * [🟢 Open Science](open-science/open-science.md)
   * [🟢 FAIR Principles](open-science/fair-principles.md)
