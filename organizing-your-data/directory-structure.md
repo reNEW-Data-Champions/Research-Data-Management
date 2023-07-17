@@ -1,9 +1,9 @@
 ---
-description: Research Data Management Infographic Series
+description: Infographic
 layout: landing
 ---
 
-# 🟢 Files Folders and Directories
+# 🟢 Directory Structure
 
 <div data-full-width="true">
 

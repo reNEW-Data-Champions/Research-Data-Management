@@ -33,14 +33,15 @@
   * [🟢 Guidelines: Horizon Europe  Data Management Plan Template](data-management-plans-dmp/guidelines-horizon-europe-data-management-plan-template/README.md)
     * [🟢 Annotated DMP Horizon Europe Template](data-management-plans-dmp/guidelines-horizon-europe-data-management-plan-template/annotated-dmp-horizon-europe-template.md)
 * [🟢 Open Science](open-science/README.md)
-  * [🟢 Open Science](open-science/open-science.md)
+  * [🟢 What is Open Science?](open-science/what-is-open-science.md)
   * [🟢 FAIR Principles](open-science/fair-principles.md)
 * [🟢 High-Performance Computers](high-performance-computers/README.md)
   * [🟢 Guide to UCPH High-Performance Computing](high-performance-computers/guide-to-ucph-high-performance-computing.md)
-* [🟢 Files Folders and Directories](files-folders-and-directories/README.md)
-  * [🟢 Directory and Naming Convention](files-folders-and-directories/directory-and-naming-convention.md)
-  * [🟢 Directory Structure Guide](files-folders-and-directories/directory-structure-guide.md)
-  * [🟢 File Naming Guide](files-folders-and-directories/file-naming-guide.md)
+* [🟢 Organizing Your Data](organizing-your-data/README.md)
+  * [🟢 Directory Structure Guide](organizing-your-data/directory-structure-guide.md)
+  * [🟢 Directory Structure](organizing-your-data/directory-structure.md)
+  * [🟢 Directory and Naming Convention](organizing-your-data/directory-and-naming-convention.md)
+  * [🟢 File Naming Guide](organizing-your-data/file-naming-guide.md)
 
 ## Open Science Guides
 
@@ -115,12 +116,12 @@
 
 ***
 
-* [🟡 Organizing Your Data](organizing-your-data/README.md)
-  * [Organizing Your Data - Tips and Recommendations](organizing-your-data/organizing-your-data-tips-and-recommendations.md)
-  * [File and Folder Structure](organizing-your-data/file-and-folder-structure.md)
-  * [File and Folder Naming](organizing-your-data/file-and-folder-naming.md)
-  * [README File Template](organizing-your-data/readme-file-template.md)
-  * [File and Folder Batch Renaming Software](organizing-your-data/file-and-folder-batch-renaming-software.md)
+* [🟡 Organizing Your Data](organizing-your-data-1/README.md)
+  * [Organizing Your Data - Tips and Recommendations](organizing-your-data-1/organizing-your-data-tips-and-recommendations.md)
+  * [File and Folder Structure](organizing-your-data-1/file-and-folder-structure.md)
+  * [File and Folder Naming](organizing-your-data-1/file-and-folder-naming.md)
+  * [README File Template](organizing-your-data-1/readme-file-template.md)
+  * [File and Folder Batch Renaming Software](organizing-your-data-1/file-and-folder-batch-renaming-software.md)
 
 ## reNEW Research Groups
 
