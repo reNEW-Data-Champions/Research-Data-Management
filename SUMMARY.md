@@ -15,7 +15,7 @@
 * [🟠 Marie Curie Fellows Website](https://marie-sklodowska-curie-actions.ec.europa.eu/)
 * [🟠 UCPH DMPOnline](https://dmponline.deic.dk/)
 
-## Infographics Series
+## Infographics Guides
 
 ***
 
@@ -143,7 +143,8 @@
 
 ## Microscopy Guide
 
-* [🔴 Bioimaging Data](microscopy-guide/bioimaging-data.md)
+* [🔴 Bioimaging Data - DOC](microscopy-guide/bioimaging-data-doc.md)
+* [🔴 Bioimaging Data - PDF](microscopy-guide/bioimaging-data-pdf.md)
 
 ## RDM: Videos / Websites
 
@@ -159,14 +160,17 @@
   * [🟤 UCPH Research Portal](https://kunet.ku.dk/work-areas/research/data/Pages/default.aspx)
   * [🟤 UCPH Research IT](https://kunet.ku.dk/work-areas/research/Research%20Infrastructure/research-it/Pages/default.aspx)
 
-## Websites
+## reNEW Websites
 
 * [🌎 reNEW Website](https://renew.science/)
 * [🌎 reNEW Connect](https://alumni.sharepoint.com/sites/UCPH\_reNEWConnect/SitePages/Home.aspx)
+* [🌎 reNEW KUnet](https://kunet.ku.dk/faculty-and-department/renew/Pages/default.aspx)
 * [🌎 reNEW Genomics](https://bit.ly/reNEW\_GEN)
-* [🌎 DanGPU HPC](https://bit.ly/DANGPU)
+* [🌎 reNEW Imaging](https://kunet.ku.dk/faculty-and-department/renew/Labs%20and%20Research%20Platforms/Research%20Platforms/Imaging%20Platform/Pages/default.aspx)
+* [🌎 reNEW DanGPU](https://bit.ly/DANGPU)
+* [🌎 reNEW Flow Cy](https://kunet.ku.dk/faculty-and-department/renew/Labs%20and%20Research%20Platforms/Research%20Platforms/Flow%20Cytometry%20Platform/Pages/default.aspx)
 
-## Social Media
+## reNEW Social Media
 
 * [🌐 Twitter](https://twitter.com/renew\_global)
 * [🌐 LinkedIn](https://www.linkedin.com/showcase/novo-nordisk-foundation-center-for-stem-cell-medicine-renew/)
