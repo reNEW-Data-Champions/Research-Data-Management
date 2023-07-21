@@ -1,5 +1,5 @@
 ---
-description: Data Champions Program Seminars
+description: What is a Data Champion?
 layout:
   title:
     visible: true
@@ -13,13 +13,7 @@ layout:
     visible: true
 ---
 
-# 🔴 Data Champions Program
-
-<div data-full-width="true">
-
-<figure><img src="../.gitbook/assets/Capture.JPG" alt=""><figcaption></figcaption></figure>
-
-</div>
+# 🔴 Data Champions Seminar
 
 {% embed url="https://docs.google.com/presentation/d/1k3wiVUo8aG8goMeXLxy7mS_oMIQSTgPNltMJlYO23Y4/edit?usp=sharing" fullWidth="true" %}
 Promoting Good Research Data Management through the Use Research Data Champions

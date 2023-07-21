@@ -1,5 +1,5 @@
 ---
-description: 'Organizing Your Data: Tips and Recommendations'
+description: 'Organizing Your Data: Tips and Recommendations Seminar'
 layout:
   title:
     visible: true
@@ -13,7 +13,7 @@ layout:
     visible: true
 ---
 
-# 🔴 Organizing Your Data
+# 🔴 Organizing Your Data Seminar
 
 {% embed url="https://docs.google.com/presentation/d/1rMyI0fu3-Q77RSEF1MX8qDGWzLzKHxUXN6tNAgmFOvE/edit?usp=sharing" fullWidth="true" %}
 Organize Your Data
