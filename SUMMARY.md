@@ -139,6 +139,7 @@
 * [🟠 Disclaimer](rdm-blog/disclaimer.md)
 * [🟠 Blog Post - June 2023](rdm-blog/blog-post-june-2023.md)
 * [🟠 Blog Post - July 2023](rdm-blog/blog-post-july-2023.md)
+* [🟠 Blog Post - August 2023](rdm-blog/blog-post-august-2023.md)
 
 ## Microscopy Guide
 
