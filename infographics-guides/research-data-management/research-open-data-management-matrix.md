@@ -28,12 +28,12 @@ In essence, the Research Open Data Management Matrix is a tool that assists rese
 
 <div data-full-width="true">
 
-<figure><img src="../.gitbook/assets/Designrff-1.jpg" alt=""><figcaption><p>Research Open Data Management Matrix (RODMM)</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Designrff-1.jpg" alt=""><figcaption><p>Research Open Data Management Matrix (RODMM)</p></figcaption></figure>
 
 </div>
 
 <div data-full-width="true">
 
-<figure><img src="../.gitbook/assets/Designrff-2.jpg" alt=""><figcaption><p>Research Open Data Management Matrix (RODMM)</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Designrff-2.jpg" alt=""><figcaption><p>Research Open Data Management Matrix (RODMM)</p></figcaption></figure>
 
 </div>
