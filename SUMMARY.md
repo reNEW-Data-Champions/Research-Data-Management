@@ -122,6 +122,11 @@
 * [🟢 High-Performance Computers](rdm-infographics-guides/high-performance-computers/README.md)
   * [🟢 Guide to UCPH High-Performance Computing](rdm-infographics-guides/high-performance-computers/guide-to-ucph-high-performance-computing.md)
 
+## Microscopy Guide
+
+* [🔴 Bioimaging Data - DOC](microscopy-guide/bioimaging-data-doc.md)
+* [🔴 Bioimaging Data - PDF](microscopy-guide/bioimaging-data-pdf.md)
+
 ## reNEW Research Groups
 
 * [🟣 Aragona Group](renew-research-groups/aragona-group.md)
@@ -134,26 +139,21 @@
 * [🟣 Zedzinski Group](renew-research-groups/zedzinski-group.md)
 * [🟣 Zylicz Group](renew-research-groups/zylicz-group.md)
 
-## Microscopy Guide
+## Videos  and Websites
 
-* [🔴 Bioimaging Data - DOC](microscopy-guide/bioimaging-data-doc.md)
-* [🔴 Bioimaging Data - PDF](microscopy-guide/bioimaging-data-pdf.md)
-
-## RDM: Videos / Websites
-
-* [🟤 Research Data Management](rdm-videos-websites/research-data-management/README.md)
+* [🟤 Research Data Management](videos-and-websites/research-data-management/README.md)
   * [🟤 RDM Guide for Life Sciences (Elixir)](https://bit.ly/RDM\_GUIDE)
   * [🟤 RDM  Kit for Life Sciences (Elixir)](https://bit.ly/RDM\_Kit)
   * [🟤 Organizing Your Research Data ](https://bit.ly/File\_Name)
   * [🟤 How to FAIR](https://bit.ly/UCPH\_FAIR)
-* [🟤 Data Management Plans](rdm-videos-websites/data-management-plans/README.md)
+* [🟤 Data Management Plans](videos-and-websites/data-management-plans/README.md)
   * [🟤 UCPH DMP Template](https://bit.ly/UCPHDMPTemplate)
   * [🟤 DMPonline - Data Management Plans](https://bit.ly/DeiC\_DMP)
-* [🟤 UCPH Research Portal](rdm-videos-websites/ucph-research-portal/README.md)
+* [🟤 UCPH Research Portal](videos-and-websites/ucph-research-portal/README.md)
   * [🟤 UCPH Research Portal](https://kunet.ku.dk/work-areas/research/data/Pages/default.aspx)
   * [🟤 UCPH Research IT](https://kunet.ku.dk/work-areas/research/Research%20Infrastructure/research-it/Pages/default.aspx)
 
-## reNEW Websites
+## Websites
 
 * [🌎 reNEW Website](https://renew.science/)
 * [🌎 reNEW Connect](https://alumni.sharepoint.com/sites/UCPH\_reNEWConnect/SitePages/Home.aspx)
@@ -163,15 +163,15 @@
 * [🌎 reNEW DanGPU](https://bit.ly/DANGPU)
 * [🌎 reNEW Flow Cy](https://kunet.ku.dk/faculty-and-department/renew/Labs%20and%20Research%20Platforms/Research%20Platforms/Flow%20Cytometry%20Platform/Pages/default.aspx)
 
-## reNEW Social Media
+## Social Media
 
 * [🌐 Twitter](https://twitter.com/renew\_global)
 * [🌐 LinkedIn](https://www.linkedin.com/showcase/novo-nordisk-foundation-center-for-stem-cell-medicine-renew/)
 
-## RDM Blog
+## Research Data Managenment  Blog
 
-* [🟠 Disclaimer](rdm-blog/disclaimer.md)
-* [🟠 Blog Post - May  2023](rdm-blog/blog-post-may-2023.md)
-* [🟠 Blog Post - June 2023](rdm-blog/blog-post-june-2023.md)
-* [🟠 Blog Post - July 2023](rdm-blog/blog-post-july-2023.md)
-* [🟠 Blog Post - August 2023](rdm-blog/blog-post-august-2023.md)
+* [🟠 Disclaimer](research-data-managenment-blog/disclaimer.md)
+* [🟠 Blog Post - May  2023](research-data-managenment-blog/blog-post-may-2023.md)
+* [🟠 Blog Post - June 2023](research-data-managenment-blog/blog-post-june-2023.md)
+* [🟠 Blog Post - July 2023](research-data-managenment-blog/blog-post-july-2023.md)
+* [🟠 Blog Post - August 2023](research-data-managenment-blog/blog-post-august-2023.md)
