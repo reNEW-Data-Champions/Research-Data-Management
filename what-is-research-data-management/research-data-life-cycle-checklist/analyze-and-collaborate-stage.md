@@ -8,7 +8,7 @@ description: >-
 
 <figure><img src="../../.gitbook/assets/p2.jpg" alt=""><figcaption></figcaption></figure>
 
-### Analyze & Collaborate Stage:
+## Analyze & Collaborate Stage:
 
 Data analysis inspects, cleans, transforms, and models’ data to discover useful information, informing conclusions, and support decision-making in the Analyze and Collaborate Stage. The choices you make while analyzing your data can also contribute to effectively managing your research data:
 

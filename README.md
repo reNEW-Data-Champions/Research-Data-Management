@@ -24,7 +24,7 @@ layout:
 
 
 {% hint style="info" %}
-I have diligently curated these resources and guides, centered on one mission: strengthening the Data Champion Program at reNEW, particularly in Research Data Management. I have designed these materials to be comprehensive and finely tuned to optimize your learning experience. Included are strategic infographics and insights precisely crafted to enhance your understanding, providing a deeper grasp of the topic.
+I've carefully assembled these resources and guides with a singular focus: to fortify the Data Champion Program at reNEW, primarily in Research Data Management. Each material has been meticulously designed to offer a comprehensive and enriched learning journey. They feature strategic infographics and insights, all tailored to deepen your comprehension and offer a more profound insight into the subject matter.
 {% endhint %}
 
 {% hint style="warning" %}

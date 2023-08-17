@@ -1,34 +1,34 @@
 # Table of contents
 
-## Data Champion Program
+## Data Champions Program
 
 * [🔴 License  and Acknowledgements](README.md)
-* [🔴 Seminar Schedule](<README (1).md>)
-* [🔴 Organizing Your Data Seminar](data-champion-program/organizing-your-data-seminar.md)
-* [🔴 What is a Data Champion Seminar](data-champion-program/what-is-a-data-champion-seminar.md)
-* [🔴 Data Management Plans Seminar](data-champion-program/data-management-plans-seminar.md)
+* [🔴 Seminar Schedule](data-champions-program/seminar-schedule.md)
+* [🔴 What is a Data Champion Seminar](data-champions-program/what-is-a-data-champion-seminar.md)
+* [🔴 Data Management Plans Seminar](data-champions-program/data-management-plans-seminar.md)
+* [🔴 Organizing Your Data Seminar](data-champions-program/organizing-your-data-seminar.md)
 
 ## Marie Curie Fellows
 
 * [🟠 Implementation Guide for Marie Curie Fellows](marie-curie-fellows/implementation-guide-for-marie-curie-fellows.md)
-* [🟠 Horizon 2020 Data Management Plan Template](marie-curie-fellows/horizon-2020-data-management-plan-template.md)
-* [🟠 Guidelines for Horizon 2020 Data Management Plan Template](marie-curie-fellows/guidelines-for-horizon-2020-data-management-plan-template.md)
 * [🟠 Marie Curie Fellows Website](https://marie-sklodowska-curie-actions.ec.europa.eu/)
 * [🟠 UCPH DMPOnline](https://dmponline.deic.dk/)
+* [🟠 Horizon 2020 DMP Template](marie-curie-fellows/horizon-2020-dmp-template.md)
+* [🟠 Horizon 2020 DMP Template Guidelines](marie-curie-fellows/horizon-2020-dmp-template-guidelines.md)
 
 ## What is Open Science?
 
 * [🔵 Open Science](what-is-open-science/open-science/README.md)
-  * [Guide to Open Science - LERU](what-is-open-science/open-science/guide-to-open-science-leru/README.md)
-    * [FAIR Data](what-is-open-science/open-science/guide-to-open-science-leru/fair-data.md)
-    * [Research Integrity](what-is-open-science/open-science/guide-to-open-science-leru/research-integrity.md)
-    * [Next Generation Metrics](what-is-open-science/open-science/guide-to-open-science-leru/next-generation-metrics.md)
-    * [Future of Scholarly Communication](what-is-open-science/open-science/guide-to-open-science-leru/future-of-scholarly-communication.md)
-    * [Citizen Science](what-is-open-science/open-science/guide-to-open-science-leru/citizen-science.md)
-    * [Education and Skills](what-is-open-science/open-science/guide-to-open-science-leru/education-and-skills.md)
-    * [Rewards and Incentives](what-is-open-science/open-science/guide-to-open-science-leru/rewards-and-incentives.md)
-    * [European Open Science Cloud (EOSC)](what-is-open-science/open-science/guide-to-open-science-leru/european-open-science-cloud-eosc.md)
-    * [Conclusion](what-is-open-science/open-science/guide-to-open-science-leru/conclusion.md)
+  * [The LERU\* Guide to Open Science](what-is-open-science/open-science/the-leru-guide-to-open-science/README.md)
+    * [FAIR Data](what-is-open-science/open-science/the-leru-guide-to-open-science/fair-data.md)
+    * [Research Integrity](what-is-open-science/open-science/the-leru-guide-to-open-science/research-integrity.md)
+    * [Next Generation Metrics](what-is-open-science/open-science/the-leru-guide-to-open-science/next-generation-metrics.md)
+    * [Future of Scholarly Communication](what-is-open-science/open-science/the-leru-guide-to-open-science/future-of-scholarly-communication.md)
+    * [Citizen Science](what-is-open-science/open-science/the-leru-guide-to-open-science/citizen-science.md)
+    * [Education and Skills](what-is-open-science/open-science/the-leru-guide-to-open-science/education-and-skills.md)
+    * [Rewards and Incentives](what-is-open-science/open-science/the-leru-guide-to-open-science/rewards-and-incentives.md)
+    * [European Open Science Cloud (EOSC)](what-is-open-science/open-science/the-leru-guide-to-open-science/european-open-science-cloud-eosc.md)
+    * [Conclusion](what-is-open-science/open-science/the-leru-guide-to-open-science/conclusion.md)
 
 ***
 
@@ -43,6 +43,16 @@
 
 ## What is Research Data Management?
 
+* [🟡 Research Data Life Cycle](what-is-research-data-management/research-data-life-cycle.md)
+* [🟡 Research Data Life Cycle Checklist](what-is-research-data-management/research-data-life-cycle-checklist/README.md)
+  * [Research Data Guidance and Checklist](what-is-research-data-management/research-data-life-cycle-checklist/research-data-guidance-and-checklist.md)
+  * [Plan & Design Stage](what-is-research-data-management/research-data-life-cycle-checklist/plan-and-design-stage.md)
+  * [Collect & Create Stage](what-is-research-data-management/research-data-life-cycle-checklist/collect-and-create-stage.md)
+  * [Analyze & Collaborate Stage](what-is-research-data-management/research-data-life-cycle-checklist/analyze-and-collaborate-stage.md)
+  * [Store & Manage](what-is-research-data-management/research-data-life-cycle-checklist/store-and-manage.md)
+  * [Evaluate & Archive Stage](what-is-research-data-management/research-data-life-cycle-checklist/evaluate-and-archive-stage.md)
+  * [Share & Disseminate Share](what-is-research-data-management/research-data-life-cycle-checklist/share-and-disseminate-share.md)
+  * [Access & Reuse Stage](what-is-research-data-management/research-data-life-cycle-checklist/access-and-reuse-stage.md)
 * [🟡 Research Data Life Cycle Guides](what-is-research-data-management/research-data-life-cycle-guides/README.md)
   * [🟣 Plan and Design Stage](what-is-research-data-management/research-data-life-cycle-guides/plan-and-design-stage/README.md)
     * [Data Management Planning](what-is-research-data-management/research-data-life-cycle-guides/plan-and-design-stage/data-management-planning/README.md)
@@ -77,15 +87,6 @@
   * [🔵 Publish and Reuse Stage](what-is-research-data-management/research-data-life-cycle-guides/publish-and-reuse-stage/README.md)
     * [Guide for Data Sharing in Repositories (in development)](what-is-research-data-management/research-data-life-cycle-guides/publish-and-reuse-stage/guide-for-data-sharing-in-repositories-in-development.md)
     * [Guide for Data Preservation (in development)](what-is-research-data-management/research-data-life-cycle-guides/publish-and-reuse-stage/guide-for-data-preservation-in-development.md)
-* [🟡 Research Data Life Cycle Checklist](what-is-research-data-management/research-data-life-cycle-checklist/README.md)
-  * [Research Data Guidance and Checklist](what-is-research-data-management/research-data-life-cycle-checklist/research-data-guidance-and-checklist.md)
-  * [Plan & Design Stage](what-is-research-data-management/research-data-life-cycle-checklist/plan-and-design-stage.md)
-  * [Collect & Create Stage](what-is-research-data-management/research-data-life-cycle-checklist/collect-and-create-stage.md)
-  * [Analyze & Collaborate Stage](what-is-research-data-management/research-data-life-cycle-checklist/analyze-and-collaborate-stage.md)
-  * [Store & Manage](what-is-research-data-management/research-data-life-cycle-checklist/store-and-manage.md)
-  * [Evaluate & Archive Stage](what-is-research-data-management/research-data-life-cycle-checklist/evaluate-and-archive-stage.md)
-  * [Share & Disseminate Share](what-is-research-data-management/research-data-life-cycle-checklist/share-and-disseminate-share.md)
-  * [Access & Reuse Stage](what-is-research-data-management/research-data-life-cycle-checklist/access-and-reuse-stage.md)
 
 ***
 
@@ -119,37 +120,22 @@
   * [🟢 Directory Structure](rdm-infographics-guides/organizing-your-data/directory-structure.md)
   * [🟢 Directory and Naming Convention](rdm-infographics-guides/organizing-your-data/directory-and-naming-convention.md)
   * [🟢 File Naming Guide](rdm-infographics-guides/organizing-your-data/file-naming-guide.md)
+  * [🟢 Bioimaging Data - DOC](rdm-infographics-guides/organizing-your-data/bioimaging-data-doc.md)
+  * [🟢 Bioimaging Data - PDF](rdm-infographics-guides/organizing-your-data/bioimaging-data-pdf.md)
 * [🟢 High-Performance Computers](rdm-infographics-guides/high-performance-computers/README.md)
   * [🟢 Guide to UCPH High-Performance Computing](rdm-infographics-guides/high-performance-computers/guide-to-ucph-high-performance-computing.md)
 
-## Microscopy Guide
+## RDM Websites
 
-* [🔴 Bioimaging Data - DOC](microscopy-guide/bioimaging-data-doc.md)
-* [🔴 Bioimaging Data - PDF](microscopy-guide/bioimaging-data-pdf.md)
-
-## reNEW Research Groups
-
-* [🟣 Aragona Group](renew-research-groups/aragona-group.md)
-* [🟣 Brickman Group](renew-research-groups/brickman-group/README.md)
-  * [Brickman Group](https://brickmanlab.github.io/)
-* [🟣 Jensen Group](renew-research-groups/jensen-group.md)
-* [🟣 Kirkeby Group](renew-research-groups/kirkeby-group.md)
-* [🟣 Little Group](renew-research-groups/little-group.md)
-* [🟣 Serup Group](renew-research-groups/serup-group.md)
-* [🟣 Zedzinski Group](renew-research-groups/zedzinski-group.md)
-* [🟣 Zylicz Group](renew-research-groups/zylicz-group.md)
-
-## Videos  and Websites
-
-* [🟤 Research Data Management](videos-and-websites/research-data-management/README.md)
+* [🟤 Research Data Management](rdm-websites/research-data-management/README.md)
   * [🟤 RDM Guide for Life Sciences (Elixir)](https://bit.ly/RDM\_GUIDE)
   * [🟤 RDM  Kit for Life Sciences (Elixir)](https://bit.ly/RDM\_Kit)
   * [🟤 Organizing Your Research Data ](https://bit.ly/File\_Name)
   * [🟤 How to FAIR](https://bit.ly/UCPH\_FAIR)
-* [🟤 Data Management Plans](videos-and-websites/data-management-plans/README.md)
+* [🟤 Data Management Plans](rdm-websites/data-management-plans/README.md)
   * [🟤 UCPH DMP Template](https://bit.ly/UCPHDMPTemplate)
   * [🟤 DMPonline - Data Management Plans](https://bit.ly/DeiC\_DMP)
-* [🟤 UCPH Research Portal](videos-and-websites/ucph-research-portal/README.md)
+* [🟤 UCPH Research Portal](rdm-websites/ucph-research-portal/README.md)
   * [🟤 UCPH Research Portal](https://kunet.ku.dk/work-areas/research/data/Pages/default.aspx)
   * [🟤 UCPH Research IT](https://kunet.ku.dk/work-areas/research/Research%20Infrastructure/research-it/Pages/default.aspx)
 
@@ -167,6 +153,18 @@
 
 * [🌐 Twitter](https://twitter.com/renew\_global)
 * [🌐 LinkedIn](https://www.linkedin.com/showcase/novo-nordisk-foundation-center-for-stem-cell-medicine-renew/)
+
+## reNEW Research Groups
+
+* [🟣 Aragona Group](renew-research-groups/aragona-group.md)
+* [🟣 Brickman Group](renew-research-groups/brickman-group/README.md)
+  * [Brickman Group](https://brickmanlab.github.io/)
+* [🟣 Jensen Group](renew-research-groups/jensen-group.md)
+* [🟣 Kirkeby Group](renew-research-groups/kirkeby-group.md)
+* [🟣 Little Group](renew-research-groups/little-group.md)
+* [🟣 Serup Group](renew-research-groups/serup-group.md)
+* [🟣 Zedzinski Group](renew-research-groups/zedzinski-group.md)
+* [🟣 Zylicz Group](renew-research-groups/zylicz-group.md)
 
 ## Research Data Managenment  Blog
 

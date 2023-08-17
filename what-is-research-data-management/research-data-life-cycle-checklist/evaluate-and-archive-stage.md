@@ -8,7 +8,7 @@ description: >-
 
 <figure><img src="../../.gitbook/assets/p4.jpg" alt=""><figcaption></figcaption></figure>
 
-### Evaluate and Archive Stage:
+## Evaluate and Archive Stage:
 
 The fourth Stage of data management is archiving. Data archiving is " identifying and moving inactive data out of current production systems and into specialized long-term archival storage systems." This serves two objectives: 1) moving inactive data out of active systems and databases to optimize current performance, and 2) storing static data in specialized archival systems that are more cost-effective and allow for retrieval when needed. A data archive may also be called a data vault.&#x20;
 

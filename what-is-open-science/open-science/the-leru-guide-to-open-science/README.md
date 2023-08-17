@@ -1,4 +1,8 @@
-# Guide to Open Science - LERU
+---
+description: '* League of European Research Universities'
+---
+
+# The LERU\* Guide to Open Science
 
 Open Science is an evolving and multifaceted concept that aims to make scientific knowledge more accessible, transparent, reproducible, and inclusive to benefit society and the scientific community. As a member of the League of European Research Universities (LERU), the University of Copenhagen adheres to the eight pillars of Open Science set forth by LERU, which provide a comprehensive framework for institutions and researchers to adopt open practices in their work.
 
