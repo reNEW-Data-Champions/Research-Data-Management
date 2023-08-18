@@ -4,40 +4,42 @@
 
 * [🔴 License  and Acknowledgements](README.md)
 * [🔴 Seminar Schedule](data-champions-program/seminar-schedule.md)
-* [🔴 What is a Data Champion Seminar](data-champions-program/what-is-a-data-champion-seminar.md)
-* [🔴 Data Management Plans Seminar](data-champions-program/data-management-plans-seminar.md)
-* [🔴 Organizing Your Data Seminar](data-champions-program/organizing-your-data-seminar.md)
+* [🔴 Data Champions Seminars](data-champions-program/data-champions-seminars/README.md)
+  * [🔴 Seminar - Data Champions Program](data-champions-program/data-champions-seminars/seminar-data-champions-program.md)
+  * [🔴 Seminar - Data Management Plans](data-champions-program/data-champions-seminars/seminar-data-management-plans.md)
+  * [🔴 Seminar - Organizing Your Data](data-champions-program/data-champions-seminars/seminar-organizing-your-data.md)
 
 ## Marie Curie Fellows
 
-* [🟠 Research Data Life Cycle](marie-curie-fellows/research-data-life-cycle/README.md)
-  * [Research Data Guidance and Checklist](marie-curie-fellows/research-data-life-cycle/research-data-guidance-and-checklist.md)
-  * [Plan & Design Stage](marie-curie-fellows/research-data-life-cycle/plan-and-design-stage.md)
-  * [Collect & Create Stage](marie-curie-fellows/research-data-life-cycle/collect-and-create-stage.md)
-  * [Analyze & Collaborate Stage](marie-curie-fellows/research-data-life-cycle/analyze-and-collaborate-stage.md)
-  * [Store & Manage](marie-curie-fellows/research-data-life-cycle/store-and-manage.md)
-  * [Evaluate & Archive Stage](marie-curie-fellows/research-data-life-cycle/evaluate-and-archive-stage.md)
-  * [Share & Disseminate Share](marie-curie-fellows/research-data-life-cycle/share-and-disseminate-share.md)
-  * [Access & Reuse Stage](marie-curie-fellows/research-data-life-cycle/access-and-reuse-stage.md)
-* [🟠 Implementation Guide for Marie Curie Fellows](marie-curie-fellows/implementation-guide-for-marie-curie-fellows.md)
-* [🟠 Marie Curie Fellows Website](https://marie-sklodowska-curie-actions.ec.europa.eu/)
-* [🟠 UCPH DMPOnline](https://dmponline.deic.dk/)
-* [🟠 Horizon 2020 DMP Template](marie-curie-fellows/horizon-2020-dmp-template.md)
-* [🟠 Horizon 2020 DMP Template Guidelines](marie-curie-fellows/horizon-2020-dmp-template-guidelines.md)
+* [🟠 Marie Curie Fellowship Resources](marie-curie-fellows/marie-curie-fellowship-resources/README.md)
+  * [🟠 Implementation Guide for Marie Curie Fellows](marie-curie-fellows/marie-curie-fellowship-resources/implementation-guide-for-marie-curie-fellows.md)
+  * [🟠 Marie Curie Fellows Website](https://marie-sklodowska-curie-actions.ec.europa.eu/)
+  * [🟠 UCPH DMPOnline](https://dmponline.deic.dk/)
+  * [🟠 Horizon 2020 DMP Template](marie-curie-fellows/marie-curie-fellowship-resources/horizon-2020-dmp-template.md)
+  * [🟠 Horizon 2020 DMP Template Guidelines](marie-curie-fellows/marie-curie-fellowship-resources/horizon-2020-dmp-template-guidelines.md)
+* [🟠 Research Data Management](marie-curie-fellows/research-data-management/README.md)
+  * [Research Data Guidance and Checklist](marie-curie-fellows/research-data-management/research-data-guidance-and-checklist.md)
+  * [Plan & Design Stage](marie-curie-fellows/research-data-management/plan-and-design-stage.md)
+  * [Collect & Create Stage](marie-curie-fellows/research-data-management/collect-and-create-stage.md)
+  * [Analyze & Collaborate Stage](marie-curie-fellows/research-data-management/analyze-and-collaborate-stage.md)
+  * [Store & Manage](marie-curie-fellows/research-data-management/store-and-manage.md)
+  * [Evaluate & Archive Stage](marie-curie-fellows/research-data-management/evaluate-and-archive-stage.md)
+  * [Share & Disseminate Share](marie-curie-fellows/research-data-management/share-and-disseminate-share.md)
+  * [Access & Reuse Stage](marie-curie-fellows/research-data-management/access-and-reuse-stage.md)
 
-## What is Open Science?
+## Open Science
 
-* [🔵 Open Science](what-is-open-science/open-science/README.md)
-  * [The LERU\* Guide to Open Science](what-is-open-science/open-science/the-leru-guide-to-open-science/README.md)
-    * [FAIR Data](what-is-open-science/open-science/the-leru-guide-to-open-science/fair-data.md)
-    * [Research Integrity](what-is-open-science/open-science/the-leru-guide-to-open-science/research-integrity.md)
-    * [Next Generation Metrics](what-is-open-science/open-science/the-leru-guide-to-open-science/next-generation-metrics.md)
-    * [Future of Scholarly Communication](what-is-open-science/open-science/the-leru-guide-to-open-science/future-of-scholarly-communication.md)
-    * [Citizen Science](what-is-open-science/open-science/the-leru-guide-to-open-science/citizen-science.md)
-    * [Education and Skills](what-is-open-science/open-science/the-leru-guide-to-open-science/education-and-skills.md)
-    * [Rewards and Incentives](what-is-open-science/open-science/the-leru-guide-to-open-science/rewards-and-incentives.md)
-    * [European Open Science Cloud (EOSC)](what-is-open-science/open-science/the-leru-guide-to-open-science/european-open-science-cloud-eosc.md)
-    * [Conclusion](what-is-open-science/open-science/the-leru-guide-to-open-science/conclusion.md)
+* [🔵 Open Science](open-science/open-science/README.md)
+  * [The LERU\* Guide to Open Science](open-science/open-science/the-leru-guide-to-open-science/README.md)
+    * [FAIR Data](open-science/open-science/the-leru-guide-to-open-science/fair-data.md)
+    * [Research Integrity](open-science/open-science/the-leru-guide-to-open-science/research-integrity.md)
+    * [Next Generation Metrics](open-science/open-science/the-leru-guide-to-open-science/next-generation-metrics.md)
+    * [Future of Scholarly Communication](open-science/open-science/the-leru-guide-to-open-science/future-of-scholarly-communication.md)
+    * [Citizen Science](open-science/open-science/the-leru-guide-to-open-science/citizen-science.md)
+    * [Education and Skills](open-science/open-science/the-leru-guide-to-open-science/education-and-skills.md)
+    * [Rewards and Incentives](open-science/open-science/the-leru-guide-to-open-science/rewards-and-incentives.md)
+    * [European Open Science Cloud (EOSC)](open-science/open-science/the-leru-guide-to-open-science/european-open-science-cloud-eosc.md)
+    * [Conclusion](open-science/open-science/the-leru-guide-to-open-science/conclusion.md)
 
 ***
 
@@ -50,9 +52,9 @@
     * [Reusability](fair-principles/fair-data-principles/reusability.md)
     * [FAIR Data Principles Resources:](fair-principles/fair-data-principles/fair-data-principles-resources.md)
 
-## What is Research Data Management?
+## Research Data Management
 
-* [🟡 Research Data Life Cycle](what-is-research-data-management/research-data-life-cycle.md)
+* [🟡 Research Data Life Cycle](research-data-management/research-data-life-cycle.md)
 
 ***
 
@@ -102,12 +104,6 @@
 * [🟢 Reseacrh Projects](rdm-infographics-guides/reseacrh-projects/README.md)
   * [🟢 Steps of a Research Projects](rdm-infographics-guides/reseacrh-projects/steps-of-a-research-projects.md)
   * [🟢 Steps of a Research Project ](https://docs.google.com/presentation/d/1uhJKTN0Tj5G9p5Hn84m753J-bQtDVnSQbUP2qIPQwoA/edit#slide=id.p)
-* [🟢 Data Management Plans (DMP)](rdm-infographics-guides/data-management-plans-dmp/README.md)
-  * [🟢 UCPH DMPOnline](https://dmponline.deic.dk/)
-  * [🟢 UCPH Data Management Plan Template](rdm-infographics-guides/data-management-plans-dmp/ucph-data-management-plan-template.md)
-  * [🟢 Horizon 2020 Data Management Plan Template](rdm-infographics-guides/data-management-plans-dmp/horizon-2020-data-management-plan-template.md)
-  * [🟢 Guidelines: Horizon Europe  Data Management Plan Template](rdm-infographics-guides/data-management-plans-dmp/guidelines-horizon-europe-data-management-plan-template/README.md)
-    * [🟢 Annotated DMP Horizon Europe Template](rdm-infographics-guides/data-management-plans-dmp/guidelines-horizon-europe-data-management-plan-template/annotated-dmp-horizon-europe-template.md)
 * [🟢 Research Data Management](rdm-infographics-guides/research-data-management/README.md)
   * [🟢 Research Data Life Cycle Stages](rdm-infographics-guides/research-data-management/research-data-life-cycle-stages.md)
   * [🟢 Area of Focus for Data Management](rdm-infographics-guides/research-data-management/area-of-focus-for-data-management.md)
@@ -125,6 +121,17 @@
 * [🟢 High-Performance Computers](rdm-infographics-guides/high-performance-computers/README.md)
   * [🟢 Guide to UCPH High-Performance Computing](rdm-infographics-guides/high-performance-computers/guide-to-ucph-high-performance-computing.md)
 
+## Data Management Plans
+
+* [⚪ Data Management Plans Resources](data-management-plans/data-management-plans-resources/README.md)
+  * [⚪ UCPH DMPOnline](https://dmponline.deic.dk/)
+  * [⚪ UCPH Data Management Plan Template](data-management-plans/data-management-plans-resources/ucph-data-management-plan-template.md)
+  * [⚪ Horizon 2020 Data Management Plan Template](data-management-plans/data-management-plans-resources/horizon-2020-data-management-plan-template.md)
+  * [⚪ Guidelines: Horizon Europe  Data Management Plan Template](data-management-plans/data-management-plans-resources/guidelines-horizon-europe-data-management-plan-template.md)
+  * [⚪ Annotated DMP Horizon Europe Template](data-management-plans/data-management-plans-resources/annotated-dmp-horizon-europe-template.md)
+  * [⚪ UCPH DMP Template](https://bit.ly/UCPHDMPTemplate)
+  * [⚪ DMPonline - Data Management Plans](https://bit.ly/DeiC\_DMP)
+
 ## RDM Websites
 
 * [🟤 Research Data Management](rdm-websites/research-data-management/README.md)
@@ -132,9 +139,6 @@
   * [🟤 RDM  Kit for Life Sciences (Elixir)](https://bit.ly/RDM\_Kit)
   * [🟤 Organizing Your Research Data ](https://bit.ly/File\_Name)
   * [🟤 How to FAIR](https://bit.ly/UCPH\_FAIR)
-* [🟤 Data Management Plans](rdm-websites/data-management-plans/README.md)
-  * [🟤 UCPH DMP Template](https://bit.ly/UCPHDMPTemplate)
-  * [🟤 DMPonline - Data Management Plans](https://bit.ly/DeiC\_DMP)
 * [🟤 UCPH Research Portal](rdm-websites/ucph-research-portal/README.md)
   * [🟤 UCPH Research Portal](https://kunet.ku.dk/work-areas/research/data/Pages/default.aspx)
   * [🟤 UCPH Research IT](https://kunet.ku.dk/work-areas/research/Research%20Infrastructure/research-it/Pages/default.aspx)

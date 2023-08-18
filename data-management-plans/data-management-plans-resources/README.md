@@ -6,5 +6,5 @@ coverY: 0
 layout: landing
 ---
 
-# 🟢 Data Management Plans (DMP)
+# ⚪ Data Management Plans Resources
 
