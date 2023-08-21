@@ -4,7 +4,7 @@ description: >-
   collaborate and document the process over time?
 ---
 
-# Analyze & Collaborate Stage
+# 🔵 Analyze & Collaborate Stage
 
 <figure><img src="../../.gitbook/assets/p2.jpg" alt=""><figcaption></figcaption></figure>
 

@@ -4,7 +4,7 @@ description: >-
   documentation and metadata?
 ---
 
-# Collect & Create Stage
+# 🔴 Collect & Create Stage
 
 <figure><img src="../../.gitbook/assets/p1.jpg" alt=""><figcaption></figcaption></figure>
 

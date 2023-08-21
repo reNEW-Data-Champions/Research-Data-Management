@@ -4,7 +4,7 @@ description: >-
   finish? How will data be managed during and after the project is completed?
 ---
 
-# Plan & Design Stage
+# ⚫ Plan & Design Stage
 
 <div align="center">
 

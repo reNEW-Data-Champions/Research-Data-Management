@@ -4,7 +4,7 @@ description: >-
   the retention requirements for your data type, funder, and/or University?
 ---
 
-# Evaluate & Archive Stage
+# 🟢 Evaluate & Archive Stage
 
 <figure><img src="../../.gitbook/assets/p4.jpg" alt=""><figcaption></figcaption></figure>
 

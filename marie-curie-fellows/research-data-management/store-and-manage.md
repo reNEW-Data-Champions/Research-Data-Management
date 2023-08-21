@@ -4,7 +4,7 @@ description: >-
   data, and how will it be accessed?
 ---
 
-# Store & Manage
+# 🟣 Store & Manage
 
 <figure><img src="../../.gitbook/assets/p3.jpg" alt=""><figcaption></figcaption></figure>
 

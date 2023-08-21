@@ -4,12 +4,20 @@ layout: landing
 
 # 🟣 Kirkeby Group
 
-[Group research](https://renew.ku.dk/research/reseach-groups/brickman-group/#collapse-1582021919959)
+## [Group research](https://renew.ku.dk/research/reseach-groups/kirkeby-group/#collapse-1582021919959)
 
-In particular, we are interested in dynamic mechanisms by which cells can both reversible prime towards a specific fate or undergo a transition into commitment. As early mammalian development is highly regulative, deriving embryonic stem (ES) cell lines from early embryos produces heterogeneous culture systems that can recapitulate the progenitor cell types usually present in the embryo. As a result, we can exploit ES cells as a model to study the process of lineage choice in embryonic development and infer from embryonic development the identity of factors that block differentiation to support ES cell self-renewal. We seek to understand the transcriptional basis of ES cell potency/pluripotency and how this relates to normal embryonic development.
+The human brain is a highly complex structure consisting of hundreds of different subtypes of neural cells, each fulfilling a specific function in the brain network. However, experimental evidence regarding the development of the human brain is highly restricted due to the limited availability of fetal brain tissue – instead, smaller model organisms have classically been applied for neurodevelopmental studies. The Kirkeby lab uses advanced human stem cell models to understand how hundreds of human neuronal subtypes are formed during embryo development. This knowledge enables us with new tools to produce and study human neurons in the lab for disease modeling, drug screening, and transplantation therapies for brain diseases.
 
-<mark style="color:red;">**Our primary focus has been on the specification and patterning of endoderm, both dynamically in ES cell culture and during differentiation.**</mark>
+[Watch a video about the Kirkeby group research](https://www.youtube.com/watch?v=CRBQQDv1kYw)
 
-Understanding the process of endoderm specification is essential for the directed differentiation of embryonic stem (ES) cells towards specific functional cell types from the liver, lung, thyroid, thymus, and pancreas. Indeed our work in this area has already generated technologies for the directed differentiation of both mouse and human ES cells. The induction of endoderm from undifferentiated precursor populations also requires the removal of crucial blocks to differentiation, and our work also suggests that there are important links between certain negative regulators of endoderm specification and ES cell self-renewal.
+[Watch a video about the work of Agnete Kirkeby and Malin Parmar to develop a stem cell therapy for Parkinson's disease](https://www.youtube.com/watch?v=as1XnGmepyY)&#x20;
 
-As the pathways that regulate early embryonic differentiation and the factors that regulate them are particularly well conserved, we have used a unique experimental combination of ES cells and Xenopus embryos to probe the nature of the regulatory networks that guide lineage specification. We have also developed several unique tools for the real-time imaging of cell fate decisions and transcriptional plasticity in early embryos and ES cells.
+See here more about the work of Agnete Kirkeby and colleagues in Cambridge and Lund on the preclinical and clinical development of a stem cell therapy for the treatment of Parkinson's Disease (STEM-PD):&#x20;
+
+[https://renew.ku.dk/latest-news/2022/stem-cell-therapy-for-parkinsons-disease-granted-approval-for-entering-clinical-trial-in-sweden/](https://renew.ku.dk/latest-news/2022/stem-cell-therapy-for-parkinsons-disease-granted-approval-for-entering-clinical-trial-in-sweden/)&#x20;
+
+[https://www.lunduniversity.lu.se/article/nerve-cells-could-transform-treatment-parkinsons](https://www.lunduniversity.lu.se/article/nerve-cells-could-transform-treatment-parkinsons)
+
+[https://sciencenews.dk/en/groundbreaking-trial-of-stem-cell-therapy-for-parkinsons-disease](https://sciencenews.dk/en/groundbreaking-trial-of-stem-cell-therapy-for-parkinsons-disease)&#x20;
+
+[https://www.theguardian.com/society/2022/dec/04/radical-new-therapy-for-parkinsons-will-use-stem-cell-transplants](https://www.theguardian.com/society/2022/dec/04/radical-new-therapy-for-parkinsons-will-use-stem-cell-transplants)&#x20;
