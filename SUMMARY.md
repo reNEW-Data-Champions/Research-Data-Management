@@ -18,14 +18,14 @@
   * [🟠 Horizon 2020 DMP Template](marie-curie-fellows/marie-curie-fellowship-resources/horizon-2020-dmp-template.md)
   * [🟠 Horizon 2020 DMP Template Guidelines](marie-curie-fellows/marie-curie-fellowship-resources/horizon-2020-dmp-template-guidelines.md)
 * [🟠 Research Data Management](marie-curie-fellows/research-data-management/README.md)
-  * [Research Data Guidance and Checklist](marie-curie-fellows/research-data-management/research-data-guidance-and-checklist.md)
-  * [Plan & Design Stage](marie-curie-fellows/research-data-management/plan-and-design-stage.md)
-  * [Collect & Create Stage](marie-curie-fellows/research-data-management/collect-and-create-stage.md)
-  * [Analyze & Collaborate Stage](marie-curie-fellows/research-data-management/analyze-and-collaborate-stage.md)
-  * [Store & Manage](marie-curie-fellows/research-data-management/store-and-manage.md)
-  * [Evaluate & Archive Stage](marie-curie-fellows/research-data-management/evaluate-and-archive-stage.md)
-  * [Share & Disseminate Share](marie-curie-fellows/research-data-management/share-and-disseminate-share.md)
-  * [Access & Reuse Stage](marie-curie-fellows/research-data-management/access-and-reuse-stage.md)
+  * [⚪ Research Data Guidance and Checklist](marie-curie-fellows/research-data-management/research-data-guidance-and-checklist.md)
+  * [⚫ Plan & Design Stage](marie-curie-fellows/research-data-management/plan-and-design-stage.md)
+  * [🔴 Collect & Create Stage](marie-curie-fellows/research-data-management/collect-and-create-stage.md)
+  * [🔵 Analyze & Collaborate Stage](marie-curie-fellows/research-data-management/analyze-and-collaborate-stage.md)
+  * [🟣 Store & Manage](marie-curie-fellows/research-data-management/store-and-manage.md)
+  * [🟢 Evaluate & Archive Stage](marie-curie-fellows/research-data-management/evaluate-and-archive-stage.md)
+  * [🟡 Share & Disseminate Share](marie-curie-fellows/research-data-management/share-and-disseminate-share.md)
+  * [🟠 Access & Reuse Stage](marie-curie-fellows/research-data-management/access-and-reuse-stage.md)
 
 ## Open Science
 
@@ -93,11 +93,11 @@
     * [Guide for Data Sharing in Repositories (in development)](guide-research-data-life-cycle/publish-and-reuse-stage/guide-for-data-sharing-in-repositories-in-development.md)
     * [Guide for Data Preservation (in development)](guide-research-data-life-cycle/publish-and-reuse-stage/guide-for-data-preservation-in-development.md)
 * [🟡 Organizing Your Data](organizing-your-data/README.md)
-  * [Organizing Your Data - Tips and Recommendations](organizing-your-data/organizing-your-data-tips-and-recommendations.md)
-  * [File and Folder Structure](organizing-your-data/file-and-folder-structure.md)
-  * [File and Folder Naming](organizing-your-data/file-and-folder-naming.md)
-  * [README File Template](organizing-your-data/readme-file-template.md)
-  * [File and Folder Batch Renaming Software](organizing-your-data/file-and-folder-batch-renaming-software.md)
+  * [🔴 Organizing Your Data - Tips and Recommendations](organizing-your-data/organizing-your-data-tips-and-recommendations.md)
+  * [🔵 File and Folder Structure](organizing-your-data/file-and-folder-structure.md)
+  * [🟣 File and Folder Naming](organizing-your-data/file-and-folder-naming.md)
+  * [🟢 README File Template](organizing-your-data/readme-file-template.md)
+  * [🟠 File and Folder Batch Renaming Software](organizing-your-data/file-and-folder-batch-renaming-software.md)
 
 ## RDM Infographics Guides
 
