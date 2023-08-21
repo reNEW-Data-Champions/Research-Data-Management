@@ -166,7 +166,7 @@
 * [🟣 Jensen Group](renew-research-groups/jensen-group.md)
 * [🟣 Kirkeby Group](renew-research-groups/kirkeby-group.md)
 * [🟣 Little Group](renew-research-groups/little-group.md)
-* [🟣 Sedzinski Group](renew-research-groups/sedzinski-group.md)
+* [🟣 Sedzinski Group](renew-research-groups/zedzinski-group.md)
 * [🟣 Serup Group](renew-research-groups/serup-group.md)
 * [🟣 Zylicz Group](renew-research-groups/zylicz-group.md)
 
