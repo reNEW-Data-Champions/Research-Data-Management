@@ -13,10 +13,10 @@
 
 * [🟠 Marie Curie Fellowship Resources](marie-curie-fellows/marie-curie-fellowship-resources/README.md)
   * [🟠 Implementation Guide for Marie Curie Fellows](marie-curie-fellows/marie-curie-fellowship-resources/implementation-guide-for-marie-curie-fellows.md)
-  * [🟠 Marie Curie Fellows Website](https://marie-sklodowska-curie-actions.ec.europa.eu/)
-  * [🟠 UCPH DMPOnline](https://dmponline.deic.dk/)
   * [🟠 Horizon 2020 DMP Template](marie-curie-fellows/marie-curie-fellowship-resources/horizon-2020-dmp-template.md)
   * [🟠 Horizon 2020 DMP Template Guidelines](marie-curie-fellows/marie-curie-fellowship-resources/horizon-2020-dmp-template-guidelines.md)
+  * [🟠 UCPH DMPOnline](https://dmponline.deic.dk/)
+  * [🟠 Marie Curie Fellows Website](https://marie-sklodowska-curie-actions.ec.europa.eu/)
 * [🟠 Research Data Management](marie-curie-fellows/research-data-management/README.md)
   * [⚪ Research Data Guidance and Checklist](marie-curie-fellows/research-data-management/research-data-guidance-and-checklist.md)
   * [⚫ Plan & Design Stage](marie-curie-fellows/research-data-management/plan-and-design-stage.md)
