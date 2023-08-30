@@ -63,6 +63,7 @@
     * [Data Management Planning](guide-research-data-life-cycle/plan-and-design-stage/data-management-planning/README.md)
       * [Data Management Plan (DMP)](guide-research-data-life-cycle/plan-and-design-stage/data-management-planning/data-management-plan-dmp.md)
       * [GDPR Guidelines for Researchers](guide-research-data-life-cycle/plan-and-design-stage/data-management-planning/gdpr-guidelines-for-researchers.md)
+      * [SUND GDPR Guides](https://kunet.ku.dk/employee-guide/Pages/Safety-and-Emergency-Preparedness/Guide-to-GDPR-compliance.aspx?searchHitHighlight=GDPR%20guide%20for%20research%20projects%20in%20which%20personal%20data%20is%20processed)
   * [🟢 Collect and Create Stage](guide-research-data-life-cycle/collect-and-create-stage/README.md)
     * [Guide for Organizing Your Data](guide-research-data-life-cycle/collect-and-create-stage/guide-for-organizing-your-data/README.md)
       * [Folders and Directories](guide-research-data-life-cycle/collect-and-create-stage/guide-for-organizing-your-data/folders-and-directories.md)
