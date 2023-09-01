@@ -1,13 +1,14 @@
 # Table of contents
 
-## Data Champions Program
-
 * [🔴 License  and Acknowledgements](README.md)
-* [🔴 Seminar Schedule](data-champions-program/seminar-schedule.md)
-* [🔴 Data Champions Seminars](data-champions-program/data-champions-seminars/README.md)
-  * [🔴 Seminar - Data Champions Program](data-champions-program/data-champions-seminars/seminar-data-champions-program.md)
-  * [🔴 Seminar - Data Management Plans](data-champions-program/data-champions-seminars/seminar-data-management-plans.md)
-  * [🔴 Seminar - Organizing Your Data](data-champions-program/data-champions-seminars/seminar-organizing-your-data.md)
+* [Data Champions Program](data-champions-program/README.md)
+  * [🔴 Data Champions Seminars](data-champions-program/data-champions-seminars/README.md)
+    * [🔴 Seminar Schedule](data-champions-program/data-champions-seminars/seminar-schedule.md)
+    * [🔴 Seminar - Data Champions Program](data-champions-program/data-champions-seminars/seminar-data-champions-program.md)
+    * [🔴 Seminar - Data Management Plans](data-champions-program/data-champions-seminars/seminar-data-management-plans.md)
+    * [🔴 Seminar - Organizing Your Data](data-champions-program/data-champions-seminars/seminar-organizing-your-data.md)
+
+## Data Champions Program
 
 ## Marie Curie Fellows
 
