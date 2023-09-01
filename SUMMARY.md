@@ -1,35 +1,12 @@
 # Table of contents
 
-* [🔴 License  and Acknowledgements](README.md)
-* [Data Champions Program](data-champions-program/README.md)
-  * [🔴 Data Champions Seminars](data-champions-program/data-champions-seminars/README.md)
-    * [🔴 Seminar Schedule](data-champions-program/data-champions-seminars/seminar-schedule.md)
-    * [🔴 Seminar - Data Champions Program](data-champions-program/data-champions-seminars/seminar-data-champions-program.md)
-    * [🔴 Seminar - Data Management Plans](data-champions-program/data-champions-seminars/seminar-data-management-plans.md)
-    * [🔴 Seminar - Organizing Your Data](data-champions-program/data-champions-seminars/seminar-organizing-your-data.md)
-
-## Data Champions Program
-
-## Marie Curie Fellows
-
-* [🟠 Marie Curie Fellowship Resources](marie-curie-fellows/marie-curie-fellowship-resources/README.md)
-  * [🟠 Implementation Guide for Marie Curie Fellows](marie-curie-fellows/marie-curie-fellowship-resources/implementation-guide-for-marie-curie-fellows.md)
-  * [🟠 Horizon 2020 DMP Template](marie-curie-fellows/marie-curie-fellowship-resources/horizon-2020-dmp-template.md)
-  * [🟠 Horizon 2020 DMP Template Guidelines](marie-curie-fellows/marie-curie-fellowship-resources/horizon-2020-dmp-template-guidelines.md)
-  * [🟠 UCPH DMPOnline](https://dmponline.deic.dk/)
-  * [🟠 Marie Curie Fellows Website](https://marie-sklodowska-curie-actions.ec.europa.eu/)
-* [🟠 Research Data Management](marie-curie-fellows/research-data-management/README.md)
-  * [⚪ Research Data Guidance and Checklist](marie-curie-fellows/research-data-management/research-data-guidance-and-checklist.md)
-  * [⚫ Plan & Design Stage](marie-curie-fellows/research-data-management/plan-and-design-stage.md)
-  * [🔴 Collect & Create Stage](marie-curie-fellows/research-data-management/collect-and-create-stage.md)
-  * [🔵 Analyze & Collaborate Stage](marie-curie-fellows/research-data-management/analyze-and-collaborate-stage.md)
-  * [🟣 Store & Manage](marie-curie-fellows/research-data-management/store-and-manage.md)
-  * [🟢 Evaluate & Archive Stage](marie-curie-fellows/research-data-management/evaluate-and-archive-stage.md)
-  * [🟡 Share & Disseminate Share](marie-curie-fellows/research-data-management/share-and-disseminate-share.md)
-  * [🟠 Access & Reuse Stage](marie-curie-fellows/research-data-management/access-and-reuse-stage.md)
-
-***
-
+* [Data Champions Program](README.md)
+* [Data Champions Seminar](data-champions-seminar/README.md)
+  * [🔴 Data Champions Seminars](data-champions-seminar/data-champions-seminars/README.md)
+    * [🔴 Seminar Schedule](data-champions-seminar/data-champions-seminars/seminar-schedule.md)
+    * [🔴 Seminar - Data Champions Program](data-champions-seminar/data-champions-seminars/seminar-data-champions-program.md)
+    * [🔴 Seminar - Data Management Plans](data-champions-seminar/data-champions-seminars/seminar-data-management-plans.md)
+    * [🔴 Seminar - Organizing Your Data](data-champions-seminar/data-champions-seminars/seminar-organizing-your-data.md)
 * [Research Data Management](research-data-management/README.md)
   * [🟡 Research Data Life Cycle](research-data-management/research-data-life-cycle.md)
   * [🟡 Guide: Research Data Life Cycle ](research-data-management/guide-research-data-life-cycle/README.md)
@@ -73,6 +50,24 @@
     * [🟣 File and Folder Naming](research-data-management/organizing-your-data/file-and-folder-naming.md)
     * [🟢 README File Template](research-data-management/organizing-your-data/readme-file-template.md)
     * [🟠 File and Folder Batch Renaming Software](research-data-management/organizing-your-data/file-and-folder-batch-renaming-software.md)
+* [Marie Curie Fellows](marie-curie-fellows/README.md)
+  * [🟠 Marie Curie Fellowship Resources](marie-curie-fellows/marie-curie-fellowship-resources/README.md)
+    * [🟠 Implementation Guide for Marie Curie Fellows](marie-curie-fellows/marie-curie-fellowship-resources/implementation-guide-for-marie-curie-fellows.md)
+    * [🟠 Horizon 2020 DMP Template](marie-curie-fellows/marie-curie-fellowship-resources/horizon-2020-dmp-template.md)
+    * [🟠 Horizon 2020 DMP Template Guidelines](marie-curie-fellows/marie-curie-fellowship-resources/horizon-2020-dmp-template-guidelines.md)
+    * [🟠 UCPH DMPOnline](https://dmponline.deic.dk/)
+    * [🟠 Marie Curie Fellows Website](https://marie-sklodowska-curie-actions.ec.europa.eu/)
+  * [🟠 Research Data Management](marie-curie-fellows/research-data-management/README.md)
+    * [⚪ Research Data Guidance and Checklist](marie-curie-fellows/research-data-management/research-data-guidance-and-checklist.md)
+    * [⚫ Plan & Design Stage](marie-curie-fellows/research-data-management/plan-and-design-stage.md)
+    * [🔴 Collect & Create Stage](marie-curie-fellows/research-data-management/collect-and-create-stage.md)
+    * [🔵 Analyze & Collaborate Stage](marie-curie-fellows/research-data-management/analyze-and-collaborate-stage.md)
+    * [🟣 Store & Manage](marie-curie-fellows/research-data-management/store-and-manage.md)
+    * [🟢 Evaluate & Archive Stage](marie-curie-fellows/research-data-management/evaluate-and-archive-stage.md)
+    * [🟡 Share & Disseminate Share](marie-curie-fellows/research-data-management/share-and-disseminate-share.md)
+    * [🟠 Access & Reuse Stage](marie-curie-fellows/research-data-management/access-and-reuse-stage.md)
+
+## Marie Curie Fellows
 
 ## Open Science
 
