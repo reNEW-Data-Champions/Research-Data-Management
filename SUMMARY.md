@@ -2,11 +2,11 @@
 
 * [Data Champions Program](README.md)
 * [Data Champions Seminar](data-champions-seminar/README.md)
-  * [🔴 Data Champions Seminars](data-champions-seminar/data-champions-seminars/README.md)
-    * [🔴 Seminar Schedule](data-champions-seminar/data-champions-seminars/seminar-schedule.md)
-    * [🔴 Seminar - Data Champions Program](data-champions-seminar/data-champions-seminars/seminar-data-champions-program.md)
-    * [🔴 Seminar - Data Management Plans](data-champions-seminar/data-champions-seminars/seminar-data-management-plans.md)
-    * [🔴 Seminar - Organizing Your Data](data-champions-seminar/data-champions-seminars/seminar-organizing-your-data.md)
+  * [🔴 Data Champions Seminars](data-champions-program/data-champions-seminars/README.md)
+    * [🔴 Seminar Schedule](data-champions-program/seminar-schedule.md)
+    * [🔴 Seminar - Data Champions Program](data-champions-program/data-champions-seminars/seminar-data-champions-program.md)
+    * [🔴 Seminar - Data Management Plans](data-champions-program/data-champions-seminars/seminar-data-management-plans.md)
+    * [🔴 Seminar - Organizing Your Data](data-champions-program/data-champions-seminars/seminar-organizing-your-data.md)
 * [Research Data Management](research-data-management/README.md)
   * [🟡 Research Data Life Cycle](research-data-management/research-data-life-cycle.md)
   * [🟡 Guide: Research Data Life Cycle ](research-data-management/guide-research-data-life-cycle/README.md)
@@ -50,6 +50,26 @@
     * [🟣 File and Folder Naming](research-data-management/organizing-your-data/file-and-folder-naming.md)
     * [🟢 README File Template](research-data-management/organizing-your-data/readme-file-template.md)
     * [🟠 File and Folder Batch Renaming Software](research-data-management/organizing-your-data/file-and-folder-batch-renaming-software.md)
+* [Infographics Series](infographics-series/README.md)
+  * [🟢 Reseacrh Projects](infographics-series/reseacrh-projects/README.md)
+    * [🟢 Steps of a Research Projects](infographics-series/reseacrh-projects/steps-of-a-research-projects.md)
+    * [🟢 Steps of a Research Project ](https://docs.google.com/presentation/d/1uhJKTN0Tj5G9p5Hn84m753J-bQtDVnSQbUP2qIPQwoA/edit#slide=id.p)
+  * [🟢 Research Data Management](infographics-series/research-data-management/README.md)
+    * [🟢 Research Data Life Cycle Stages](infographics-series/research-data-management/research-data-life-cycle-stages.md)
+    * [🟢 Area of Focus for Data Management](infographics-series/research-data-management/area-of-focus-for-data-management.md)
+    * [🟢 Research Open Data Management Matrix](infographics-series/research-data-management/research-open-data-management-matrix.md)
+  * [🟢 Open Science](infographics-series/open-science/README.md)
+    * [🟢 What is Open Science?](infographics-series/open-science/what-is-open-science.md)
+    * [🟢 FAIR Principles](infographics-series/open-science/fair-principles.md)
+  * [🟢 Organizing Your Data](infographics-series/organizing-your-data/README.md)
+    * [🟢 Directory Structure Guide](infographics-series/organizing-your-data/directory-structure-guide.md)
+    * [🟢 Directory Structure](infographics-series/organizing-your-data/directory-structure.md)
+    * [🟢 Directory and Naming Convention](infographics-series/organizing-your-data/directory-and-naming-convention.md)
+    * [🟢 File Naming Guide](infographics-series/organizing-your-data/file-naming-guide.md)
+    * [🟢 Bioimaging Data - DOC](infographics-series/organizing-your-data/bioimaging-data-doc.md)
+    * [🟢 Bioimaging Data - PDF](infographics-series/organizing-your-data/bioimaging-data-pdf.md)
+  * [🟢 High-Performance Computers](infographics-series/high-performance-computers/README.md)
+    * [🟢 Guide to UCPH High-Performance Computing](infographics-series/high-performance-computers/guide-to-ucph-high-performance-computing.md)
 * [Marie Curie Fellows](marie-curie-fellows/README.md)
   * [🟠 Marie Curie Fellowship Resources](marie-curie-fellows/marie-curie-fellowship-resources/README.md)
     * [🟠 Implementation Guide for Marie Curie Fellows](marie-curie-fellows/marie-curie-fellowship-resources/implementation-guide-for-marie-curie-fellows.md)
@@ -66,8 +86,6 @@
     * [🟢 Evaluate & Archive Stage](marie-curie-fellows/research-data-management/evaluate-and-archive-stage.md)
     * [🟡 Share & Disseminate Share](marie-curie-fellows/research-data-management/share-and-disseminate-share.md)
     * [🟠 Access & Reuse Stage](marie-curie-fellows/research-data-management/access-and-reuse-stage.md)
-
-## Marie Curie Fellows
 
 ## Open Science
 
@@ -95,26 +113,6 @@
     * [FAIR Data Principles Resources:](fair-principles/fair-data-principles/fair-data-principles-resources.md)
 
 ## RDM Infographics Guides
-
-* [🟢 Reseacrh Projects](rdm-infographics-guides/reseacrh-projects/README.md)
-  * [🟢 Steps of a Research Projects](rdm-infographics-guides/reseacrh-projects/steps-of-a-research-projects.md)
-  * [🟢 Steps of a Research Project ](https://docs.google.com/presentation/d/1uhJKTN0Tj5G9p5Hn84m753J-bQtDVnSQbUP2qIPQwoA/edit#slide=id.p)
-* [🟢 Research Data Management](rdm-infographics-guides/research-data-management/README.md)
-  * [🟢 Research Data Life Cycle Stages](rdm-infographics-guides/research-data-management/research-data-life-cycle-stages.md)
-  * [🟢 Area of Focus for Data Management](rdm-infographics-guides/research-data-management/area-of-focus-for-data-management.md)
-  * [🟢 Research Open Data Management Matrix](rdm-infographics-guides/research-data-management/research-open-data-management-matrix.md)
-* [🟢 Open Science](rdm-infographics-guides/open-science/README.md)
-  * [🟢 What is Open Science?](rdm-infographics-guides/open-science/what-is-open-science.md)
-  * [🟢 FAIR Principles](rdm-infographics-guides/open-science/fair-principles.md)
-* [🟢 Organizing Your Data](rdm-infographics-guides/organizing-your-data/README.md)
-  * [🟢 Directory Structure Guide](rdm-infographics-guides/organizing-your-data/directory-structure-guide.md)
-  * [🟢 Directory Structure](rdm-infographics-guides/organizing-your-data/directory-structure.md)
-  * [🟢 Directory and Naming Convention](rdm-infographics-guides/organizing-your-data/directory-and-naming-convention.md)
-  * [🟢 File Naming Guide](rdm-infographics-guides/organizing-your-data/file-naming-guide.md)
-  * [🟢 Bioimaging Data - DOC](rdm-infographics-guides/organizing-your-data/bioimaging-data-doc.md)
-  * [🟢 Bioimaging Data - PDF](rdm-infographics-guides/organizing-your-data/bioimaging-data-pdf.md)
-* [🟢 High-Performance Computers](rdm-infographics-guides/high-performance-computers/README.md)
-  * [🟢 Guide to UCPH High-Performance Computing](rdm-infographics-guides/high-performance-computers/guide-to-ucph-high-performance-computing.md)
 
 ## Data Management Plans
 
