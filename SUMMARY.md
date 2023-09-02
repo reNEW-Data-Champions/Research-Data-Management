@@ -124,7 +124,23 @@
     * [🟤 RDM  Kit for Life Sciences (Elixir)](https://bit.ly/RDM\_Kit)
     * [🟤 Organizing Your Research Data ](https://bit.ly/File\_Name)
     * [🟤 How to FAIR](https://bit.ly/UCPH\_FAIR)
-* [🌎 reNEW Websites Resources](renew-websites-resources/README.md)
+* [🟣 reNEW Research Groups](renew-research-groups/README.md)
+  * [🟣 Aragona Group](renew-research-groups/aragona-group.md)
+  * [🟣 Brickman Group](renew-research-groups/brickman-group/README.md)
+    * [Brickman Group](https://brickmanlab.github.io/)
+  * [🟣 Jensen Group](renew-research-groups/jensen-group.md)
+  * [🟣 Kirkeby Group](renew-research-groups/kirkeby-group.md)
+  * [🟣 Little Group](renew-research-groups/little-group.md)
+  * [🟣 Sedzinski Group](renew-research-groups/sedzinski-group.md)
+  * [🟣 Serup Group](renew-research-groups/serup-group.md)
+  * [🟣 Zylicz Group](renew-research-groups/zylicz-group.md)
+* [🟠 Blogs](blogs/README.md)
+  * [🟠 Disclaimer](blogs/disclaimer.md)
+  * [🟠 Blog Post - May  2023](blogs/blog-post-may-2023.md)
+  * [🟠 Blog Post - June 2023](blogs/blog-post-june-2023.md)
+  * [🟠 Blog Post - July 2023](blogs/blog-post-july-2023.md)
+  * [🟠 Blog Post - August 2023](blogs/blog-post-august-2023.md)
+* [🌎 reNEW Websites](renew-websites/README.md)
   * [🌎 reNEW Website](https://renew.science/)
   * [🌎 reNEW Connect](https://alumni.sharepoint.com/sites/UCPH\_reNEWConnect/SitePages/Home.aspx)
   * [🌎 reNEW KUnet](https://kunet.ku.dk/faculty-and-department/renew/Pages/default.aspx)
@@ -140,27 +156,3 @@
 * [🌐 reNEW Social Media](renew-social-media/README.md)
   * [🌐 Twitter](https://twitter.com/renew\_global)
   * [🌐 LinkedIn](https://www.linkedin.com/showcase/novo-nordisk-foundation-center-for-stem-cell-medicine-renew/)
-
-## reNEW Research Groups
-
-* [🟣 reNEW Research Groups](renew-research-groups/renew-research-groups/README.md)
-  * [🟣 Aragona Group](renew-research-groups/renew-research-groups/aragona-group.md)
-  * [🟣 Brickman Group](renew-research-groups/renew-research-groups/brickman-group/README.md)
-    * [Brickman Group](https://brickmanlab.github.io/)
-  * [🟣 Jensen Group](renew-research-groups/renew-research-groups/jensen-group.md)
-  * [🟣 Kirkeby Group](renew-research-groups/renew-research-groups/kirkeby-group.md)
-  * [🟣 Little Group](renew-research-groups/renew-research-groups/little-group.md)
-  * [🟣 Sedzinski Group](renew-research-groups/renew-research-groups/sedzinski-group.md)
-  * [🟣 Serup Group](renew-research-groups/renew-research-groups/serup-group.md)
-  * [🟣 Zylicz Group](renew-research-groups/renew-research-groups/zylicz-group.md)
-
-***
-
-* [🟠 Blogs](blogs/README.md)
-  * [🟠 Disclaimer](blogs/disclaimer.md)
-  * [🟠 Blog Post - May  2023](blogs/blog-post-may-2023.md)
-  * [🟠 Blog Post - June 2023](blogs/blog-post-june-2023.md)
-  * [🟠 Blog Post - July 2023](blogs/blog-post-july-2023.md)
-  * [🟠 Blog Post - August 2023](blogs/blog-post-august-2023.md)
-
-## RDM Blog
