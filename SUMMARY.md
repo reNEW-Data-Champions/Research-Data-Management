@@ -115,43 +115,39 @@
     * [🟢 Evaluate & Archive Stage](marie-curie-fellows/research-data-management/evaluate-and-archive-stage.md)
     * [🟡 Share & Disseminate Share](marie-curie-fellows/research-data-management/share-and-disseminate-share.md)
     * [🟠 Access & Reuse Stage](marie-curie-fellows/research-data-management/access-and-reuse-stage.md)
-
-## Open Science
-
-## Data Management Plans
+* [RDM Website Resources](rdm-website-resources/README.md)
+  * [🟤 UCPH Research Portal](rdm-website-resources/ucph-research-portal/README.md)
+    * [🟤 UCPH Research Portal](https://kunet.ku.dk/work-areas/research/data/Pages/default.aspx)
+    * [🟤 UCPH Research IT](https://kunet.ku.dk/work-areas/research/Research%20Infrastructure/research-it/Pages/default.aspx)
+  * [🟤 Research Data Management](rdm-website-resources/research-data-management/README.md)
+    * [🟤 RDM Guide for Life Sciences (Elixir)](https://bit.ly/RDM\_GUIDE)
+    * [🟤 RDM  Kit for Life Sciences (Elixir)](https://bit.ly/RDM\_Kit)
+    * [🟤 Organizing Your Research Data ](https://bit.ly/File\_Name)
+    * [🟤 How to FAIR](https://bit.ly/UCPH\_FAIR)
+* [reNEW Websites Resources](renew-websites-resources/README.md)
+  * [🌎 reNEW Website](https://renew.science/)
+  * [🌎 reNEW Connect](https://alumni.sharepoint.com/sites/UCPH\_reNEWConnect/SitePages/Home.aspx)
+  * [🌎 reNEW KUnet](https://kunet.ku.dk/faculty-and-department/renew/Pages/default.aspx)
+  * [🌎 reNEW Genomics](https://bit.ly/reNEW\_GEN)
+  * [🌎 reNEW Imaging](https://kunet.ku.dk/faculty-and-department/renew/Labs%20and%20Research%20Platforms/Research%20Platforms/Imaging%20Platform/Pages/default.aspx)
+  * [🌎 reNEW DanGPU](https://bit.ly/DANGPU)
+  * [🌎 reNEW Flow Cy](https://kunet.ku.dk/faculty-and-department/renew/Labs%20and%20Research%20Platforms/Research%20Platforms/Flow%20Cytometry%20Platform/Pages/default.aspx)
+* [Labguru Websites](labguru-websites/README.md)
+  * [🌐 About Labguru](https://kunet.ku.dk/work-areas/research/units/SUNDs-toolbox/labguru-eln/Pages/default.aspx#collapseMSOZoneCell\_WebPartWPQ4)
+  * [🌐 Labguru Help](https://kunet.ku.dk/work-areas/research/units/SUNDs-toolbox/labguru-eln/Pages/default.aspx#collapseMSOZoneCell\_WebPartWPQ2)
+  * [🌐 Labguru Web Access](https://sund.labguru.com)
+  * [🌐 Labguru Training Videos](https://kunet.ku.dk/work-areas/research/units/SUNDs-toolbox/labguru-eln/Pages/default.aspx#collapseMSOZoneCell\_WebPartWPQ3)
+* [reNEW Social Media](renew-social-media/README.md)
+  * [🌐 Twitter](https://twitter.com/renew\_global)
+  * [🌐 LinkedIn](https://www.linkedin.com/showcase/novo-nordisk-foundation-center-for-stem-cell-medicine-renew/)
 
 ## RDM Websites
 
-* [🟤 Research Data Management](rdm-websites/research-data-management/README.md)
-  * [🟤 RDM Guide for Life Sciences (Elixir)](https://bit.ly/RDM\_GUIDE)
-  * [🟤 RDM  Kit for Life Sciences (Elixir)](https://bit.ly/RDM\_Kit)
-  * [🟤 Organizing Your Research Data ](https://bit.ly/File\_Name)
-  * [🟤 How to FAIR](https://bit.ly/UCPH\_FAIR)
-* [🟤 UCPH Research Portal](rdm-websites/ucph-research-portal/README.md)
-  * [🟤 UCPH Research Portal](https://kunet.ku.dk/work-areas/research/data/Pages/default.aspx)
-  * [🟤 UCPH Research IT](https://kunet.ku.dk/work-areas/research/Research%20Infrastructure/research-it/Pages/default.aspx)
-
 ## Platform Websites
-
-* [🌎 reNEW Website](https://renew.science/)
-* [🌎 reNEW Connect](https://alumni.sharepoint.com/sites/UCPH\_reNEWConnect/SitePages/Home.aspx)
-* [🌎 reNEW KUnet](https://kunet.ku.dk/faculty-and-department/renew/Pages/default.aspx)
-* [🌎 reNEW Genomics](https://bit.ly/reNEW\_GEN)
-* [🌎 reNEW Imaging](https://kunet.ku.dk/faculty-and-department/renew/Labs%20and%20Research%20Platforms/Research%20Platforms/Imaging%20Platform/Pages/default.aspx)
-* [🌎 reNEW DanGPU](https://bit.ly/DANGPU)
-* [🌎 reNEW Flow Cy](https://kunet.ku.dk/faculty-and-department/renew/Labs%20and%20Research%20Platforms/Research%20Platforms/Flow%20Cytometry%20Platform/Pages/default.aspx)
 
 ## Labguru Websites
 
-* [🌐 About Labguru](https://kunet.ku.dk/work-areas/research/units/SUNDs-toolbox/labguru-eln/Pages/default.aspx#collapseMSOZoneCell\_WebPartWPQ4)
-* [🌐 Labguru Web Access](https://sund.labguru.com)
-* [🌐 Labguru Training Videos](https://kunet.ku.dk/work-areas/research/units/SUNDs-toolbox/labguru-eln/Pages/default.aspx#collapseMSOZoneCell\_WebPartWPQ3)
-* [🌐 Labguru Help](https://kunet.ku.dk/work-areas/research/units/SUNDs-toolbox/labguru-eln/Pages/default.aspx#collapseMSOZoneCell\_WebPartWPQ2)
-
 ## reNEW Social Media
-
-* [🌐 Twitter](https://twitter.com/renew\_global)
-* [🌐 LinkedIn](https://www.linkedin.com/showcase/novo-nordisk-foundation-center-for-stem-cell-medicine-renew/)
 
 ## reNEW Research Groups
 
