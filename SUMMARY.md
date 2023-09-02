@@ -1,12 +1,12 @@
 # Table of contents
 
-* [Data Champions Program](README.md)
-* [🔴 Data Champions Seminar](data-champions-seminar/README.md)
+* [🔴 Data Champions Program](README.md)
   * [🔴 Data Champions Seminars](data-champions-program/data-champions-seminars/README.md)
-    * [🔴 Seminar Schedule](data-champions-program/seminar-schedule.md)
+    * [🔴 Seminar Schedule](data-champions-program/data-champions-seminars/seminar-schedule.md)
     * [🔴 Seminar - Data Champions Program](data-champions-program/data-champions-seminars/seminar-data-champions-program.md)
     * [🔴 Seminar - Data Management Plans](data-champions-program/data-champions-seminars/seminar-data-management-plans.md)
     * [🔴 Seminar - Organizing Your Data](data-champions-program/data-champions-seminars/seminar-organizing-your-data.md)
+    * [🔴 Data Champions Program](data-champions-program/data-champions-seminars/data-champions-program.md)
 * [🔵 Open Science](open-science/README.md)
   * [🔵 Open Science](open-science/open-science/README.md)
     * [The LERU\* Guide to Open Science](open-science/open-science/the-leru-guide-to-open-science/README.md)

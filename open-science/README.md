@@ -1,2 +1,2 @@
-# Open Science
+# 🔵 Open Science
 
