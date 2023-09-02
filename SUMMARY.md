@@ -1,13 +1,13 @@
 # Table of contents
 
 * [Data Champions Program](README.md)
-* [Data Champions Seminar](data-champions-seminar/README.md)
+* [🔴 Data Champions Seminar](data-champions-seminar/README.md)
   * [🔴 Data Champions Seminars](data-champions-program/data-champions-seminars/README.md)
     * [🔴 Seminar Schedule](data-champions-program/seminar-schedule.md)
     * [🔴 Seminar - Data Champions Program](data-champions-program/data-champions-seminars/seminar-data-champions-program.md)
     * [🔴 Seminar - Data Management Plans](data-champions-program/data-champions-seminars/seminar-data-management-plans.md)
     * [🔴 Seminar - Organizing Your Data](data-champions-program/data-champions-seminars/seminar-organizing-your-data.md)
-* [Open Science](open-science/README.md)
+* [🔵 Open Science](open-science/README.md)
   * [🔵 Open Science](open-science/open-science/README.md)
     * [The LERU\* Guide to Open Science](open-science/open-science/the-leru-guide-to-open-science/README.md)
       * [FAIR Data](open-science/open-science/the-leru-guide-to-open-science/fair-data.md)
@@ -27,7 +27,7 @@
       * [Interoperability](open-science/fair-principles/fair-data-principles/interoperability.md)
       * [Reusability](open-science/fair-principles/fair-data-principles/reusability.md)
       * [FAIR Data Principles Resources:](open-science/fair-principles/fair-data-principles/fair-data-principles-resources.md)
-* [Research Data Management](research-data-management/README.md)
+* [🟡 Research Data Management](research-data-management/README.md)
   * [🟡 Research Data Life Cycle](research-data-management/research-data-life-cycle.md)
   * [🟡 Guide: Research Data Life Cycle ](research-data-management/guide-research-data-life-cycle/README.md)
     * [🟣 Plan and Design Stage](research-data-management/guide-research-data-life-cycle/plan-and-design-stage/README.md)
@@ -70,7 +70,7 @@
     * [🟣 File and Folder Naming](research-data-management/organizing-your-data/file-and-folder-naming.md)
     * [🟢 README File Template](research-data-management/organizing-your-data/readme-file-template.md)
     * [🟠 File and Folder Batch Renaming Software](research-data-management/organizing-your-data/file-and-folder-batch-renaming-software.md)
-* [Data Management Plans](data-management-plans/README.md)
+* [⚪ Data Management Plans](data-management-plans/README.md)
   * [⚪ Data Management Plans Resources](data-management-plans/data-management-plans-resources/README.md)
     * [⚪ UCPH DMPOnline](https://dmponline.deic.dk/)
     * [⚪ UCPH Data Management Plan Template](data-management-plans/data-management-plans-resources/ucph-data-management-plan-template.md)
@@ -79,7 +79,7 @@
     * [⚪ Annotated DMP Horizon Europe Template](data-management-plans/data-management-plans-resources/annotated-dmp-horizon-europe-template.md)
     * [⚪ UCPH DMP Template](https://bit.ly/UCPHDMPTemplate)
     * [⚪ DMPonline - Data Management Plans](https://bit.ly/DeiC\_DMP)
-* [Infographics Series](infographics-series/README.md)
+* [🟢 Infographics Series](infographics-series/README.md)
   * [🟢 Reseacrh Projects](rdm-infographics-guides/reseacrh-projects/README.md)
     * [🟢 Steps of a Research Projects](rdm-infographics-guides/reseacrh-projects/steps-of-a-research-projects.md)
     * [🟢 Steps of a Research Project ](https://docs.google.com/presentation/d/1uhJKTN0Tj5G9p5Hn84m753J-bQtDVnSQbUP2qIPQwoA/edit#slide=id.p)
@@ -99,7 +99,7 @@
     * [🟢 Bioimaging Data - PDF](rdm-infographics-guides/organizing-your-data/bioimaging-data-pdf.md)
   * [🟢 High-Performance Computers](rdm-infographics-guides/high-performance-computers/README.md)
     * [🟢 Guide to UCPH High-Performance Computing](rdm-infographics-guides/high-performance-computers/guide-to-ucph-high-performance-computing.md)
-* [Marie Curie Fellows](marie-curie-fellows/README.md)
+* [🟠 Marie Curie Fellows](marie-curie-fellows/README.md)
   * [🟠 Marie Curie Fellowship Resources](marie-curie-fellows/marie-curie-fellowship-resources/README.md)
     * [🟠 Implementation Guide for Marie Curie Fellows](marie-curie-fellows/marie-curie-fellowship-resources/implementation-guide-for-marie-curie-fellows.md)
     * [🟠 Horizon 2020 DMP Template](marie-curie-fellows/marie-curie-fellowship-resources/horizon-2020-dmp-template.md)
@@ -115,7 +115,7 @@
     * [🟢 Evaluate & Archive Stage](marie-curie-fellows/research-data-management/evaluate-and-archive-stage.md)
     * [🟡 Share & Disseminate Share](marie-curie-fellows/research-data-management/share-and-disseminate-share.md)
     * [🟠 Access & Reuse Stage](marie-curie-fellows/research-data-management/access-and-reuse-stage.md)
-* [RDM Website Resources](rdm-website-resources/README.md)
+* [🟤 RDM Website Resources](rdm-website-resources/README.md)
   * [🟤 UCPH Research Portal](rdm-website-resources/ucph-research-portal/README.md)
     * [🟤 UCPH Research Portal](https://kunet.ku.dk/work-areas/research/data/Pages/default.aspx)
     * [🟤 UCPH Research IT](https://kunet.ku.dk/work-areas/research/Research%20Infrastructure/research-it/Pages/default.aspx)
@@ -124,7 +124,7 @@
     * [🟤 RDM  Kit for Life Sciences (Elixir)](https://bit.ly/RDM\_Kit)
     * [🟤 Organizing Your Research Data ](https://bit.ly/File\_Name)
     * [🟤 How to FAIR](https://bit.ly/UCPH\_FAIR)
-* [reNEW Websites Resources](renew-websites-resources/README.md)
+* [🌎 reNEW Websites Resources](renew-websites-resources/README.md)
   * [🌎 reNEW Website](https://renew.science/)
   * [🌎 reNEW Connect](https://alumni.sharepoint.com/sites/UCPH\_reNEWConnect/SitePages/Home.aspx)
   * [🌎 reNEW KUnet](https://kunet.ku.dk/faculty-and-department/renew/Pages/default.aspx)
@@ -132,22 +132,14 @@
   * [🌎 reNEW Imaging](https://kunet.ku.dk/faculty-and-department/renew/Labs%20and%20Research%20Platforms/Research%20Platforms/Imaging%20Platform/Pages/default.aspx)
   * [🌎 reNEW DanGPU](https://bit.ly/DANGPU)
   * [🌎 reNEW Flow Cy](https://kunet.ku.dk/faculty-and-department/renew/Labs%20and%20Research%20Platforms/Research%20Platforms/Flow%20Cytometry%20Platform/Pages/default.aspx)
-* [Labguru Websites](labguru-websites/README.md)
+* [🌐 Labguru Websites](labguru-websites/README.md)
   * [🌐 About Labguru](https://kunet.ku.dk/work-areas/research/units/SUNDs-toolbox/labguru-eln/Pages/default.aspx#collapseMSOZoneCell\_WebPartWPQ4)
   * [🌐 Labguru Help](https://kunet.ku.dk/work-areas/research/units/SUNDs-toolbox/labguru-eln/Pages/default.aspx#collapseMSOZoneCell\_WebPartWPQ2)
   * [🌐 Labguru Web Access](https://sund.labguru.com)
   * [🌐 Labguru Training Videos](https://kunet.ku.dk/work-areas/research/units/SUNDs-toolbox/labguru-eln/Pages/default.aspx#collapseMSOZoneCell\_WebPartWPQ3)
-* [reNEW Social Media](renew-social-media/README.md)
+* [🌐 reNEW Social Media](renew-social-media/README.md)
   * [🌐 Twitter](https://twitter.com/renew\_global)
   * [🌐 LinkedIn](https://www.linkedin.com/showcase/novo-nordisk-foundation-center-for-stem-cell-medicine-renew/)
-
-## RDM Websites
-
-## Platform Websites
-
-## Labguru Websites
-
-## reNEW Social Media
 
 ## reNEW Research Groups
 
