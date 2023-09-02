@@ -1,8 +1,8 @@
 # Table of contents
 
 * [🔴 Data Champions Program](README.md)
+  * [🔴 Seminar Schedule](data-champions-program/seminar-schedule.md)
   * [🔴 Data Champions Seminars](data-champions-program/data-champions-seminars/README.md)
-    * [🔴 Seminar Schedule](data-champions-program/data-champions-seminars/seminar-schedule.md)
     * [🔴 Seminar - Data Champions Program](data-champions-program/data-champions-seminars/seminar-data-champions-program.md)
     * [🔴 Seminar - Data Management Plans](data-champions-program/data-champions-seminars/seminar-data-management-plans.md)
     * [🔴 Seminar - Organizing Your Data](data-champions-program/data-champions-seminars/seminar-organizing-your-data.md)
@@ -143,20 +143,24 @@
 
 ## reNEW Research Groups
 
-* [🟣 Aragona Group](renew-research-groups/aragona-group.md)
-* [🟣 Brickman Group](renew-research-groups/brickman-group/README.md)
-  * [Brickman Group](https://brickmanlab.github.io/)
-* [🟣 Jensen Group](renew-research-groups/jensen-group.md)
-* [🟣 Kirkeby Group](renew-research-groups/kirkeby-group.md)
-* [🟣 Little Group](renew-research-groups/little-group.md)
-* [🟣 Sedzinski Group](renew-research-groups/zedzinski-group.md)
-* [🟣 Serup Group](renew-research-groups/serup-group.md)
-* [🟣 Zylicz Group](renew-research-groups/zylicz-group.md)
+* [🟣 reNEW Research Groups](renew-research-groups/renew-research-groups/README.md)
+  * [🟣 Aragona Group](renew-research-groups/renew-research-groups/aragona-group.md)
+  * [🟣 Brickman Group](renew-research-groups/renew-research-groups/brickman-group/README.md)
+    * [Brickman Group](https://brickmanlab.github.io/)
+  * [🟣 Jensen Group](renew-research-groups/renew-research-groups/jensen-group.md)
+  * [🟣 Kirkeby Group](renew-research-groups/renew-research-groups/kirkeby-group.md)
+  * [🟣 Little Group](renew-research-groups/renew-research-groups/little-group.md)
+  * [🟣 Sedzinski Group](renew-research-groups/renew-research-groups/sedzinski-group.md)
+  * [🟣 Serup Group](renew-research-groups/renew-research-groups/serup-group.md)
+  * [🟣 Zylicz Group](renew-research-groups/renew-research-groups/zylicz-group.md)
+
+***
+
+* [🟠 Blogs](blogs/README.md)
+  * [🟠 Disclaimer](blogs/disclaimer.md)
+  * [🟠 Blog Post - May  2023](blogs/blog-post-may-2023.md)
+  * [🟠 Blog Post - June 2023](blogs/blog-post-june-2023.md)
+  * [🟠 Blog Post - July 2023](blogs/blog-post-july-2023.md)
+  * [🟠 Blog Post - August 2023](blogs/blog-post-august-2023.md)
 
 ## RDM Blog
-
-* [🟠 Disclaimer](rdm-blog/disclaimer.md)
-* [🟠 Blog Post - May  2023](rdm-blog/blog-post-may-2023.md)
-* [🟠 Blog Post - June 2023](rdm-blog/blog-post-june-2023.md)
-* [🟠 Blog Post - July 2023](rdm-blog/blog-post-july-2023.md)
-* [🟠 Blog Post - August 2023](rdm-blog/blog-post-august-2023.md)
