@@ -2,7 +2,7 @@
 description: August 10, 2023 - Blog Post
 ---
 
-# 🟠 Blog Post - August 2023
+# 🟡 Blog Post - Aug 2023
 
 ## Research Data Management at Universities: A Deep Dive into Storage Solutions
 

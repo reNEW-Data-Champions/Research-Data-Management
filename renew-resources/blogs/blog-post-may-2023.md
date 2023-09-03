@@ -2,7 +2,7 @@
 description: May 18, 2023 - Blog Post
 ---
 
-# 🟠 Blog Post - May  2023
+# 🟡 Blog Post - May  2023
 
 ## **Metadata and Documentation in Open Data: The Keystone to Future Understanding and Reusability**
 

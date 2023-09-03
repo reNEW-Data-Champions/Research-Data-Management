@@ -1,2 +1,0 @@
-# 🟣 reNEW Research Groups
-
