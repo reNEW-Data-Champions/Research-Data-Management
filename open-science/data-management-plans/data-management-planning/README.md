@@ -1,14 +1,14 @@
 ---
-description: Data Man
+description: Data Management Plannning
 ---
 
-# Data Management Planning
+# 🟠 Data Management Planning
 
 ## Data Management Planning
 
 <div data-full-width="true">
 
-<figure><img src="../../../../../../.gitbook/assets/ccc.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/ccc.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
