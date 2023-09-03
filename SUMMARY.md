@@ -10,6 +10,11 @@
   * [🔴 Seminar - Organizing Your Data](data-champions-program/data-champions-seminars/seminar-organizing-your-data.md)
   * [🔴 Data Champions Program](data-champions-program/data-champions-seminars/data-champions-program.md)
 
+***
+
+* [GDPR Guidelines for Researchers](gdpr-guidelines-for-researchers.md)
+* [SUND GDPR Guides](https://kunet.ku.dk/employee-guide/Pages/Safety-and-Emergency-Preparedness/Guide-to-GDPR-compliance.aspx?searchHitHighlight=GDPR%20guide%20for%20research%20projects%20in%20which%20personal%20data%20is%20processed)
+
 ## Open Science&#x20;
 
 * [🟠 Open Science](open-science/open-science/README.md)
@@ -19,7 +24,7 @@
 * [🟠 Research Data Management](open-science/research-data-management/README.md)
   * [🟠 Research Data Life Cycle](open-science/research-data-management/research-data-life-cycle.md)
   * [🟠 Guide: Research Data Life Cycle ](open-science/research-data-management/guide-research-data-life-cycle/README.md)
-    * [🟣 Plan and Design Stage](open-science/research-data-management/guide-research-data-life-cycle/plan-and-design-stage.md)
+    * [🟣 Plan and Design Stage](open-science/research-data-management/guide-research-data-life-cycle/plan-and-design-stage/README.md)
     * [🟢 Collect and Create Stage](open-science/research-data-management/guide-research-data-life-cycle/collect-and-create-stage/README.md)
       * [Guide for Organizing Your Data](open-science/research-data-management/guide-research-data-life-cycle/collect-and-create-stage/guide-for-organizing-your-data/README.md)
         * [Folders and Directories](open-science/research-data-management/guide-research-data-life-cycle/collect-and-create-stage/guide-for-organizing-your-data/folders-and-directories.md)
@@ -56,20 +61,22 @@
     * [🟢 README File Template](open-science/research-data-management/organizing-your-data/readme-file-template.md)
     * [🟠 File and Folder Batch Renaming Software](open-science/research-data-management/organizing-your-data/file-and-folder-batch-renaming-software.md)
 * [🟠 Data Management Plans](open-science/data-management-plans/README.md)
-  * [🟠 Data Management Planning](open-science/data-management-plans/data-management-planning/README.md)
-    * [Data Management Plan (DMP)](open-science/data-management-plans/data-management-planning/data-management-plan-dmp.md)
-    * [GDPR Guidelines for Researchers](open-science/data-management-plans/data-management-planning/gdpr-guidelines-for-researchers.md)
-    * [SUND GDPR Guides](https://kunet.ku.dk/employee-guide/Pages/Safety-and-Emergency-Preparedness/Guide-to-GDPR-compliance.aspx?searchHitHighlight=GDPR%20guide%20for%20research%20projects%20in%20which%20personal%20data%20is%20processed)
-  * [🟠 DMP Resources](open-science/data-management-plans/dmp-resources/README.md)
+  * [🟠 Data Management Planning](open-science/data-management-plans/data-management-planning.md)
+  * [🟠 DMP Resources](open-science/data-management-plans/data-management-plans-resources/README.md)
     * [🟠 UCPH DMPOnline](https://dmponline.deic.dk/)
     * [🟠 UCPH DMP Template](https://bit.ly/UCPHDMPTemplate)
-    * [🟠 UCPH DMP Template](open-science/data-management-plans/dmp-resources/ucph-dmp-template.md)
-    * [🟠 Guidelines: Horizon Europe DMP Template](open-science/data-management-plans/dmp-resources/guidelines-horizon-europe-dmp-template.md)
-    * [🟠 Annotated DMP Horizon Europe Template](open-science/data-management-plans/dmp-resources/annotated-dmp-horizon-europe-template.md)
-    * [🟠 Horizon 2020 DMP Template](open-science/data-management-plans/dmp-resources/horizon-2020-dmp-template.md)
+    * [🟠 UCPH DMP Template](open-science/data-management-plans/data-management-plans-resources/ucph-data-management-plan-template.md)
+    * [🟠 Guidelines: Horizon Europe DMP Template](open-science/data-management-plans/data-management-plans-resources/guidelines-horizon-europe-data-management-plan-template.md)
+    * [🟠 Annotated DMP Horizon Europe Template](open-science/data-management-plans/data-management-plans-resources/annotated-dmp-horizon-europe-template.md)
+    * [🟠 Horizon 2020 DMP Template](open-science/data-management-plans/data-management-plans-resources/horizon-2020-data-management-plan-template.md)
 
 ## Resources
 
+* [🟢 Labguru Websites](labguru-websites/README.md)
+  * [🌐 About Labguru](https://kunet.ku.dk/work-areas/research/units/SUNDs-toolbox/labguru-eln/Pages/default.aspx#collapseMSOZoneCell\_WebPartWPQ4)
+  * [🌐 Labguru Help](https://kunet.ku.dk/work-areas/research/units/SUNDs-toolbox/labguru-eln/Pages/default.aspx#collapseMSOZoneCell\_WebPartWPQ2)
+  * [🌐 Labguru Web Access](https://sund.labguru.com)
+  * [🌐 Labguru Training Videos](https://kunet.ku.dk/work-areas/research/units/SUNDs-toolbox/labguru-eln/Pages/default.aspx#collapseMSOZoneCell\_WebPartWPQ3)
 * [🟢 Research Data Management](resources/rdm-website-resources/README.md)
   * [🟢 UCPH Research Portal](resources/rdm-website-resources/ucph-research-portal/README.md)
     * [🟢 UCPH Research Portal](https://kunet.ku.dk/work-areas/research/data/Pages/default.aspx)
@@ -123,11 +130,6 @@
   * [🌎 reNEW Imaging](https://kunet.ku.dk/faculty-and-department/renew/Labs%20and%20Research%20Platforms/Research%20Platforms/Imaging%20Platform/Pages/default.aspx)
   * [🌎 reNEW DanGPU](https://bit.ly/DANGPU)
   * [🌎 reNEW Flow Cy](https://kunet.ku.dk/faculty-and-department/renew/Labs%20and%20Research%20Platforms/Research%20Platforms/Flow%20Cytometry%20Platform/Pages/default.aspx)
-* [🟢 Labguru Websites](labguru-websites/README.md)
-  * [🌐 About Labguru](https://kunet.ku.dk/work-areas/research/units/SUNDs-toolbox/labguru-eln/Pages/default.aspx#collapseMSOZoneCell\_WebPartWPQ4)
-  * [🌐 Labguru Help](https://kunet.ku.dk/work-areas/research/units/SUNDs-toolbox/labguru-eln/Pages/default.aspx#collapseMSOZoneCell\_WebPartWPQ2)
-  * [🌐 Labguru Web Access](https://sund.labguru.com)
-  * [🌐 Labguru Training Videos](https://kunet.ku.dk/work-areas/research/units/SUNDs-toolbox/labguru-eln/Pages/default.aspx#collapseMSOZoneCell\_WebPartWPQ3)
 
 ## reNEW Resources
 
