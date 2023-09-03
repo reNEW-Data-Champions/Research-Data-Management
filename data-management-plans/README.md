@@ -1,2 +1,0 @@
-# ⚪ Data Management Plans
-
