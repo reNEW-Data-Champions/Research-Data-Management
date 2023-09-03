@@ -1,2 +1,0 @@
-# 🟢 RDM Infographics&#x20;
-
