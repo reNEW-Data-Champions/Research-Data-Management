@@ -5,7 +5,7 @@ description: >-
   Medicine - reNEW
 ---
 
-# 🟠 Research Data Management
+# 🟢 Research Data Management
 
 ### Table of Contents:
 

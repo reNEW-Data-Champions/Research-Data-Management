@@ -13,8 +13,8 @@ layout:
     visible: true
 ---
 
-# 🟠 Guidelines for Horizon 2020 Data Management Plan Template
+# 🟢 Horizon 2020 DMP Template Guidelines
 
-{% file src="../.gitbook/assets/h2020-hi-oa-data-mgt_en (002).pdf" %}
+{% file src="../../../.gitbook/assets/H2020 DMP Template Guidelines.pdf" %}
 Guidelines for Horizon 2020 Data Management Plan Template
 {% endfile %}

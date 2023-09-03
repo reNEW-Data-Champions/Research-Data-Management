@@ -13,8 +13,8 @@ layout:
     visible: true
 ---
 
-# 🟠 Horizon 2020 Data Management Plan Template
+# 🟢 Horizon 2020 DMP Template
 
-{% file src="../.gitbook/assets/H2020 DMP template (1).docx" %}
+{% file src="../../../.gitbook/assets/H2020 DMP Template.pdf" %}
 Horizon 2020 Data Management Plan Template
 {% endfile %}

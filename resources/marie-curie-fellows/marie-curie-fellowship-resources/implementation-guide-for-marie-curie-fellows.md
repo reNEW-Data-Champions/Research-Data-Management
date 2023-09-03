@@ -13,8 +13,8 @@ layout:
     visible: true
 ---
 
-# 🟠 Implementation Guide for Marie Curie Fellows
+# 🟢 Implementation Guide for Marie Curie Fellows
 
-{% file src="../.gitbook/assets/implementation_guide_for_msca_if_fellows_v1.pdf" %}
+{% file src="../../../.gitbook/assets/Implementation Guide for Marie Curie Fellows.pdf" %}
 Implementation Guide for Marie Curie Fellows
 {% endfile %}
