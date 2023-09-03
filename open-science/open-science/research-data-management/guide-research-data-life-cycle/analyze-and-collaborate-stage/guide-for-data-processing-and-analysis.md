@@ -8,7 +8,7 @@ description: UCPH High Performance Computing (HPC)
 
 <div data-full-width="true">
 
-<img src="../../../../.gitbook/assets/0.jpeg" alt="">
+<img src="../../../../../.gitbook/assets/0.jpeg" alt="">
 
 </div>
 

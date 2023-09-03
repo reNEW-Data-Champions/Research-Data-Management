@@ -8,7 +8,7 @@ description: Data Man
 
 <div data-full-width="true">
 
-<figure><img src="../../../../../.gitbook/assets/ccc.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/ccc.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
