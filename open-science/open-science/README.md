@@ -1,9 +1,11 @@
 ---
-description: What is Open Science?
+description: Open Science - Eight Pillars for LERU
 ---
 
 # 🟠 Open Science
 
+<div data-full-width="true">
 
+<figure><img src="../../../.gitbook/assets/Updated-01.jpg" alt=""><figcaption><p>Open Science</p></figcaption></figure>
 
-Open Science advocates democratizing scientific research and its dissemination, ensuring it is accessible to everyone, whether novices or experts. It embodies the principles of transparency and collaboration, fostering a community where knowledge is shared and collectively enhanced.
+</div>
