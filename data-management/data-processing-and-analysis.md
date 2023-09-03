@@ -2,13 +2,13 @@
 description: UCPH High Performance Computing (HPC)
 ---
 
-# Guide for Data Processing and Analysis
+# 🟡 Data Processing and Analysis
 
 ## **Analyze and Collaborate Stage**
 
 <div data-full-width="true">
 
-<img src="../../../../../.gitbook/assets/0.jpeg" alt="">
+<img src="../.gitbook/assets/0.jpeg" alt="">
 
 </div>
 

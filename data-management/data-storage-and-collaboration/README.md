@@ -1,8 +1,8 @@
-# Guide for Data Storage and Collaboration
+# 🟡 Data Storage and Collaboration
 
 <div data-full-width="true">
 
-<figure><img src="../../../../../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 

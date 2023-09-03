@@ -44,29 +44,26 @@
   * [🟣 File and Folder Naming](data-management/organizing-your-data/file-and-folder-naming.md)
   * [🟠 Batch Renaming Software](data-management/organizing-your-data/batch-renaming-software.md)
   * [🟡 README File Template](data-management/organizing-your-data/readme-file-template.md)
+* [🟡 Data Processing and Analysis](data-management/data-processing-and-analysis.md)
+* [🟡 Data Storage and Collaboration](data-management/data-storage-and-collaboration/README.md)
+  * [Introduction](data-management/data-storage-and-collaboration/introduction.md)
+  * [Plan & Design Stage](data-management/data-storage-and-collaboration/plan-and-design-stage.md)
+  * [Collect & Create Stage](data-management/data-storage-and-collaboration/collect-and-create-stage.md)
+  * [Analyze & Process Stage](data-management/data-storage-and-collaboration/analyze-and-process-stage.md)
+  * [Evaluate & Archive Stage](data-management/data-storage-and-collaboration/evaluate-and-archive-stage.md)
+  * [Personal Drive for Windows-based Computers and Linux-based Computers](data-management/data-storage-and-collaboration/personal-drive-for-windows-based-computers-and-linux-based-computers.md)
+  * [Shared Drive (Network Drive) for Windows-based Computers and Linux-based Computers](data-management/data-storage-and-collaboration/shared-drive-network-drive-for-windows-based-computers-and-linux-based-computers.md)
+  * [Shared Drive for Sensitive Data (S-Drive)](data-management/data-storage-and-collaboration/shared-drive-for-sensitive-data-s-drive.md)
+  * [Microsoft OneDrive for Business](data-management/data-storage-and-collaboration/microsoft-onedrive-for-business.md)
+  * [Electronic Research Data Archive (ERDA)](data-management/data-storage-and-collaboration/electronic-research-data-archive-erda.md)
+  * [Sensitive Information Facility (SIF)](data-management/data-storage-and-collaboration/sensitive-information-facility-sif.md)
+  * [DATA DOI](data-management/data-storage-and-collaboration/data-doi.md)
+  * [UCPH Policy for Research Data Management](data-management/data-storage-and-collaboration/ucph-policy-for-research-data-management.md)
 
 ## GDPR
 
-* [GDPR Guidelines for Researchers](gdpr/gdpr-guidelines-for-researchers.md)
-* [SUND GDPR Guides](https://kunet.ku.dk/employee-guide/Pages/Safety-and-Emergency-Preparedness/Guide-to-GDPR-compliance.aspx?searchHitHighlight=GDPR%20guide%20for%20research%20projects%20in%20which%20personal%20data%20is%20processed)
-
-***
-
-* [Guide for Data Storage and Collaboration](guide-for-data-storage-and-collaboration/README.md)
-  * [Introduction](guide-for-data-storage-and-collaboration/introduction.md)
-  * [Plan & Design Stage](guide-for-data-storage-and-collaboration/plan-and-design-stage.md)
-  * [Collect & Create Stage](guide-for-data-storage-and-collaboration/collect-and-create-stage.md)
-  * [Analyze & Process Stage](guide-for-data-storage-and-collaboration/analyze-and-process-stage.md)
-  * [Evaluate & Archive Stage](guide-for-data-storage-and-collaboration/evaluate-and-archive-stage.md)
-  * [Personal Drive for Windows-based Computers and Linux-based Computers](guide-for-data-storage-and-collaboration/personal-drive-for-windows-based-computers-and-linux-based-computers.md)
-  * [Shared Drive (Network Drive) for Windows-based Computers and Linux-based Computers](guide-for-data-storage-and-collaboration/shared-drive-network-drive-for-windows-based-computers-and-linux-based-computers.md)
-  * [Shared Drive for Sensitive Data (S-Drive)](guide-for-data-storage-and-collaboration/shared-drive-for-sensitive-data-s-drive.md)
-  * [Microsoft OneDrive for Business](guide-for-data-storage-and-collaboration/microsoft-onedrive-for-business.md)
-  * [Electronic Research Data Archive (ERDA)](guide-for-data-storage-and-collaboration/electronic-research-data-archive-erda.md)
-  * [Sensitive Information Facility (SIF)](guide-for-data-storage-and-collaboration/sensitive-information-facility-sif.md)
-  * [DATA DOI](guide-for-data-storage-and-collaboration/data-doi.md)
-  * [UCPH Policy for Research Data Management](guide-for-data-storage-and-collaboration/ucph-policy-for-research-data-management.md)
-* [Guide for Data Processing and Analysis](guide-for-data-processing-and-analysis.md)
+* [🔵 GDPR for Researchers](gdpr/gdpr-for-researchers.md)
+* [🔵 SUND GDPR Guides](https://kunet.ku.dk/employee-guide/Pages/Safety-and-Emergency-Preparedness/Guide-to-GDPR-compliance.aspx?searchHitHighlight=GDPR%20guide%20for%20research%20projects%20in%20which%20personal%20data%20is%20processed)
 
 ## Resources
 
