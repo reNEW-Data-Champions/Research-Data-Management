@@ -8,6 +8,6 @@ description: Research Data Management Guides
 
 <div data-full-width="true">
 
-<figure><img src="../../.gitbook/assets/Research Data Management Life Cycle - reNEW.jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Research Data Management Life Cycle - reNEW.jpeg" alt=""><figcaption><p>Research Data Life Cycle</p></figcaption></figure>
 
 </div>

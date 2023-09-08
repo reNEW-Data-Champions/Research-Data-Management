@@ -1,5 +1,5 @@
 ---
-description: 'Organizing Your Data: Tips and Recommendations Seminar'
+description: 'Research Data Life Cycle: Guidance and Checklist'
 layout:
   title:
     visible: true
@@ -13,6 +13,6 @@ layout:
     visible: true
 ---
 
-# 🟡 Data Life Cycle
+# 🟡 Research Data Life Cycle
 
 {% embed url="https://docs.google.com/document/d/1KvwXep670OFzXByfz3APyxHSEAmRktqrWScz_Ybmn38/edit?usp=sharing" fullWidth="true" %}

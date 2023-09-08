@@ -8,7 +8,7 @@ description: Data Management Plannning
 
 <div data-full-width="true">
 
-<figure><img src="../../.gitbook/assets/ccc.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Plan and Design.jpg" alt=""><figcaption><p>Plan and Design Stage</p></figcaption></figure>
 
 </div>
 

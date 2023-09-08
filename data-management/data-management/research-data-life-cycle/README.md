@@ -1,10 +1,10 @@
 ---
-description: Guides for the Research Data Life Cycles
+description: Biomedical Research Data Life Cycle
 cover: ../../../.gitbook/assets/c.png
 coverY: 0
 ---
 
-# 🟡 Data Life Cycle Stage
+# 🟡 Research Data Life Cycle
 
 <div data-full-width="true">
 
