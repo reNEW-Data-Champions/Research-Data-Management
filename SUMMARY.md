@@ -29,7 +29,7 @@
     * [🔵 Publish and Reuse Stage](data-management/data-management/research-data-life-cycle/publish-and-reuse-stage.md)
   * [🟡 Research Data Life Cycle](data-management/data-management/research-data-life-cycle-1.md)
 * [🟡 DMP](data-management/dmp/README.md)
-  * [🟡 Data Management Planning](data-management/dmp/data-management-planning.md)
+  * [🟡 Data Managemen Planning](data-management/dmp/data-managemen-planning.md)
   * [🟡 DMP Resources](data-management/dmp/dmp-resources/README.md)
     * [🟡 UCPH DMPOnline](https://dmponline.deic.dk/)
     * [🟡 UCPH DMP Template](https://bit.ly/UCPHDMPTemplate)
