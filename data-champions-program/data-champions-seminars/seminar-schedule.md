@@ -19,6 +19,6 @@ layout:
 
 <div data-full-width="true">
 
-<figure><img src="../../.gitbook/assets/Capture.JPG" alt=""><figcaption><p>Data Champions Program Seminars</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Capture.JPG" alt=""><figcaption><p>Tentative Data Chmapions Schedule</p></figcaption></figure>
 
 </div>
