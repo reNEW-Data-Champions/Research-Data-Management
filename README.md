@@ -24,9 +24,9 @@ layout:
 
 
 {% hint style="info" %}
-Data Champions (DCs) serve as volunteer advisors, guiding the research community on best practices for managing research data. They champion robust research data management (RDM) and ardently support the FAIR research principles, ensuring data is Findable, Accessible, Interoperable, and Reusable.
+The reNEW Data Champions (DCs) serve as volunteer advisors, guiding their research group on best practices for managing research data. They champion robust research data management (RDM) and ardently support the FAIR research principles, ensuring data is Findable, Accessible, Interoperable, and Reusable.
 
-Data Champions establish a collaborative network within the reNEW Group at the Novo Nordisk Foundation Center for Stem Cell Medicine at the University of Copenhagen and its affiliated institutes. Moreover, they remain receptive to forging collaborations beyond the confines of the University.
+Data Champions establish a collaborative network within the reNEW Group at the Novo Nordisk Foundation Center for Stem Cell Medicine. Moreover, they remain receptive to forging collaborations beyond the confines of the University.
 {% endhint %}
 
 {% hint style="info" %}
