@@ -39,7 +39,7 @@
   * [🟠 Batch Renaming Software](data-management/organizing-your-data/batch-renaming-software.md)
   * [🟡 README File Template](data-management/organizing-your-data/readme-file-template.md)
 * [🟡 UCPH Computing](data-management/ucph-computing.md)
-* [🟡 Data Storage](data-management/data-storage.md)
+* [🟡 UCPH Data Storage](data-management/ucph-data-storage.md)
 
 ## GDPR
 
@@ -48,6 +48,10 @@
 
 ## Resources
 
+* [🟢 Data Management](resources/data-management/README.md)
+  * [🟢 Research Data Management](resources/data-management/research-data-management/README.md)
+    * [🟢 RDM Guide for Life Sciences (Elixir)](https://bit.ly/RDM\_GUIDE)
+    * [🟢 RDM  Kit for Life Sciences (Elixir)](https://bit.ly/RDM\_Kit)
 * [🟢 EMBI - EBI Resources](resources/embi-ebi-resources/README.md)
   * [🟢 EMBL- EBI Data Repositories](resources/embi-ebi-resources/embl-ebi-data-repositories.md)
 * [🟢 Labguru Support](resources/labguru-support/README.md)
@@ -58,17 +62,6 @@
 * [🟢 Research Portal](resources/research-portal/README.md)
   * [🟢 UCPH Research Portal](https://kunet.ku.dk/work-areas/research/data/Pages/default.aspx)
   * [🟢 UCPH Research IT](https://kunet.ku.dk/work-areas/research/Research%20Infrastructure/research-it/Pages/default.aspx)
-* [🟢 Data Management](resources/data-management/README.md)
-  * [🟢 Research Data Management](resources/data-management/research-data-management/README.md)
-    * [🟢 RDM Guide for Life Sciences (Elixir)](https://bit.ly/RDM\_GUIDE)
-    * [🟢 RDM  Kit for Life Sciences (Elixir)](https://bit.ly/RDM\_Kit)
-* [🟢 Marie Curie Fellows](resources/marie-curie-fellows/README.md)
-  * [🟢 Marie Curie Fellowship Resources](resources/marie-curie-fellows/marie-curie-fellowship-resources/README.md)
-    * [🟢 Implementation Guide for Marie Curie Fellows](resources/marie-curie-fellows/marie-curie-fellowship-resources/implementation-guide-for-marie-curie-fellows.md)
-    * [🟢 Horizon 2020 DMP Template](resources/marie-curie-fellows/marie-curie-fellowship-resources/horizon-2020-dmp-template.md)
-    * [🟢 Horizon 2020 DMP Template Guidelines](resources/marie-curie-fellows/marie-curie-fellowship-resources/horizon-2020-dmp-template-guidelines.md)
-    * [🟢 UCPH DMPOnline](https://dmponline.deic.dk/)
-    * [🟢 Marie Curie Fellows Website](https://marie-sklodowska-curie-actions.ec.europa.eu/)
 * [🟢 RDM Infographics](resources/rdm-infographics/README.md)
   * [🟢 Steps of a Research Projects](resources/rdm-infographics/steps-of-a-research-projects.md)
   * [🟢 Research Data Management](resources/rdm-infographics/research-data-management/README.md)
@@ -88,9 +81,27 @@
     * [🟢 Bioimaging Data - PDF](resources/rdm-infographics/organizing-your-data/bioimaging-data-pdf.md)
   * [🟢 High-Performance Computers](resources/rdm-infographics/high-performance-computers/README.md)
     * [🟢 Guide to UCPH High-Performance Computing](resources/rdm-infographics/high-performance-computers/guide-to-ucph-high-performance-computing.md)
+* [🟢 Marie Curie Fellows](resources/marie-curie-fellows/README.md)
+  * [🟢 Marie Curie Fellowship Resources](resources/marie-curie-fellows/marie-curie-fellowship-resources/README.md)
+    * [🟢 Implementation Guide for Marie Curie Fellows](resources/marie-curie-fellows/marie-curie-fellowship-resources/implementation-guide-for-marie-curie-fellows.md)
+    * [🟢 Horizon 2020 DMP Template](resources/marie-curie-fellows/marie-curie-fellowship-resources/horizon-2020-dmp-template.md)
+    * [🟢 Horizon 2020 DMP Template Guidelines](resources/marie-curie-fellows/marie-curie-fellowship-resources/horizon-2020-dmp-template-guidelines.md)
+    * [🟢 UCPH DMPOnline](https://dmponline.deic.dk/)
+    * [🟢 Marie Curie Fellows Website](https://marie-sklodowska-curie-actions.ec.europa.eu/)
 
 ## reNEW Resources
 
+* [🟣 reNEW Websites](renew-resources/renew-websites/README.md)
+  * [🌎 reNEW Website](https://renew.science/)
+  * [🌎 reNEW Connect](https://alumni.sharepoint.com/sites/UCPH\_reNEWConnect/SitePages/Home.aspx)
+  * [🌎 reNEW KUnet](https://kunet.ku.dk/faculty-and-department/renew/Pages/default.aspx)
+  * [🌎 reNEW Genomics](https://bit.ly/reNEW\_GEN)
+  * [🌎 reNEW Imaging](https://kunet.ku.dk/faculty-and-department/renew/Labs%20and%20Research%20Platforms/Research%20Platforms/Imaging%20Platform/Pages/default.aspx)
+  * [🌎 reNEW DanGPU](https://bit.ly/DANGPU)
+  * [🌎 reNEW Flow Cy](https://kunet.ku.dk/faculty-and-department/renew/Labs%20and%20Research%20Platforms/Research%20Platforms/Flow%20Cytometry%20Platform/Pages/default.aspx)
+* [🟣 reNEW Social Media](renew-resources/renew-social-media/README.md)
+  * [🌐 Twitter](https://twitter.com/renew\_global)
+  * [🌐 LinkedIn](https://www.linkedin.com/showcase/novo-nordisk-foundation-center-for-stem-cell-medicine-renew/)
 * [🟣 Research Groups](renew-resources/research-groups/README.md)
   * [🟣 Aragona Group](renew-resources/research-groups/aragona-group.md)
   * [🟣 Brickman Group](renew-resources/research-groups/brickman-group/README.md)
@@ -101,17 +112,6 @@
   * [🟣 Sedzinski Group](renew-resources/research-groups/sedzinski-group.md)
   * [🟣 Serup Group](renew-resources/research-groups/serup-group.md)
   * [🟣 Zylicz Group](renew-resources/research-groups/zylicz-group.md)
-* [🟣 reNEW Social Media](renew-resources/renew-social-media/README.md)
-  * [🌐 Twitter](https://twitter.com/renew\_global)
-  * [🌐 LinkedIn](https://www.linkedin.com/showcase/novo-nordisk-foundation-center-for-stem-cell-medicine-renew/)
-* [🟣 reNEW Websites](renew-resources/renew-websites/README.md)
-  * [🌎 reNEW Website](https://renew.science/)
-  * [🌎 reNEW Connect](https://alumni.sharepoint.com/sites/UCPH\_reNEWConnect/SitePages/Home.aspx)
-  * [🌎 reNEW KUnet](https://kunet.ku.dk/faculty-and-department/renew/Pages/default.aspx)
-  * [🌎 reNEW Genomics](https://bit.ly/reNEW\_GEN)
-  * [🌎 reNEW Imaging](https://kunet.ku.dk/faculty-and-department/renew/Labs%20and%20Research%20Platforms/Research%20Platforms/Imaging%20Platform/Pages/default.aspx)
-  * [🌎 reNEW DanGPU](https://bit.ly/DANGPU)
-  * [🌎 reNEW Flow Cy](https://kunet.ku.dk/faculty-and-department/renew/Labs%20and%20Research%20Platforms/Research%20Platforms/Flow%20Cytometry%20Platform/Pages/default.aspx)
 
 ## Blog
 
