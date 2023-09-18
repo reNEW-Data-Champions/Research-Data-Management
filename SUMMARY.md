@@ -44,21 +44,8 @@
   * [🟣 File and Folder Naming](data-management/organizing-your-data/file-and-folder-naming.md)
   * [🟠 Batch Renaming Software](data-management/organizing-your-data/batch-renaming-software.md)
   * [🟡 README File Template](data-management/organizing-your-data/readme-file-template.md)
-* [🟡 Data Processing and Analysis](data-management/data-processing-and-analysis.md)
-* [🟡 Data Storage and Collaboration](data-management/data-storage-and-collaboration/README.md)
-  * [Introduction](data-management/data-storage-and-collaboration/introduction.md)
-  * [Plan & Design Stage](data-management/data-storage-and-collaboration/plan-and-design-stage.md)
-  * [Collect & Create Stage](data-management/data-storage-and-collaboration/collect-and-create-stage.md)
-  * [Analyze & Process Stage](data-management/data-storage-and-collaboration/analyze-and-process-stage.md)
-  * [Evaluate & Archive Stage](data-management/data-storage-and-collaboration/evaluate-and-archive-stage.md)
-  * [Personal Drive for Windows-based Computers and Linux-based Computers](data-management/data-storage-and-collaboration/personal-drive-for-windows-based-computers-and-linux-based-computers.md)
-  * [Shared Drive (Network Drive) for Windows-based Computers and Linux-based Computers](data-management/data-storage-and-collaboration/shared-drive-network-drive-for-windows-based-computers-and-linux-based-computers.md)
-  * [Shared Drive for Sensitive Data (S-Drive)](data-management/data-storage-and-collaboration/shared-drive-for-sensitive-data-s-drive.md)
-  * [Microsoft OneDrive for Business](data-management/data-storage-and-collaboration/microsoft-onedrive-for-business.md)
-  * [Electronic Research Data Archive (ERDA)](data-management/data-storage-and-collaboration/electronic-research-data-archive-erda.md)
-  * [Sensitive Information Facility (SIF)](data-management/data-storage-and-collaboration/sensitive-information-facility-sif.md)
-  * [DATA DOI](data-management/data-storage-and-collaboration/data-doi.md)
-  * [UCPH Policy for Research Data Management](data-management/data-storage-and-collaboration/ucph-policy-for-research-data-management.md)
+* [🟡 UCPH Computing](data-management/ucph-computing.md)
+* [🟡 Data Storage](data-management/data-storage.md)
 
 ## GDPR
 
@@ -89,9 +76,7 @@
     * [🟢 UCPH DMPOnline](https://dmponline.deic.dk/)
     * [🟢 Marie Curie Fellows Website](https://marie-sklodowska-curie-actions.ec.europa.eu/)
 * [🟢 RDM Infographics](resources/rdm-infographics/README.md)
-  * [🟢 Reseacrh Projects](resources/rdm-infographics/reseacrh-projects/README.md)
-    * [🟢 Steps of a Research Projects](resources/rdm-infographics/reseacrh-projects/steps-of-a-research-projects.md)
-    * [🟢 Steps of a Research Project ](https://docs.google.com/presentation/d/1uhJKTN0Tj5G9p5Hn84m753J-bQtDVnSQbUP2qIPQwoA/edit#slide=id.p)
+  * [🟢 Steps of a Research Projects](resources/rdm-infographics/steps-of-a-research-projects.md)
   * [🟢 Research Data Management](resources/rdm-infographics/research-data-management/README.md)
     * [🟢 Research Data Life Cycle Stages](resources/rdm-infographics/research-data-management/research-data-life-cycle-stages.md)
     * [🟢 Area of Focus for Data Management](resources/rdm-infographics/research-data-management/area-of-focus-for-data-management.md)
@@ -109,14 +94,6 @@
     * [🟢 Bioimaging Data - PDF](resources/rdm-infographics/organizing-your-data/bioimaging-data-pdf.md)
   * [🟢 High-Performance Computers](resources/rdm-infographics/high-performance-computers/README.md)
     * [🟢 Guide to UCPH High-Performance Computing](resources/rdm-infographics/high-performance-computers/guide-to-ucph-high-performance-computing.md)
-* [🟢 reNEW Websites](renew-websites/README.md)
-  * [🌎 reNEW Website](https://renew.science/)
-  * [🌎 reNEW Connect](https://alumni.sharepoint.com/sites/UCPH\_reNEWConnect/SitePages/Home.aspx)
-  * [🌎 reNEW KUnet](https://kunet.ku.dk/faculty-and-department/renew/Pages/default.aspx)
-  * [🌎 reNEW Genomics](https://bit.ly/reNEW\_GEN)
-  * [🌎 reNEW Imaging](https://kunet.ku.dk/faculty-and-department/renew/Labs%20and%20Research%20Platforms/Research%20Platforms/Imaging%20Platform/Pages/default.aspx)
-  * [🌎 reNEW DanGPU](https://bit.ly/DANGPU)
-  * [🌎 reNEW Flow Cy](https://kunet.ku.dk/faculty-and-department/renew/Labs%20and%20Research%20Platforms/Research%20Platforms/Flow%20Cytometry%20Platform/Pages/default.aspx)
 
 ## reNEW Resources
 
@@ -133,6 +110,14 @@
 * [🟣 reNEW Social Media](renew-resources/renew-social-media/README.md)
   * [🌐 Twitter](https://twitter.com/renew\_global)
   * [🌐 LinkedIn](https://www.linkedin.com/showcase/novo-nordisk-foundation-center-for-stem-cell-medicine-renew/)
+* [🟣 reNEW Websites](renew-resources/renew-websites/README.md)
+  * [🌎 reNEW Website](https://renew.science/)
+  * [🌎 reNEW Connect](https://alumni.sharepoint.com/sites/UCPH\_reNEWConnect/SitePages/Home.aspx)
+  * [🌎 reNEW KUnet](https://kunet.ku.dk/faculty-and-department/renew/Pages/default.aspx)
+  * [🌎 reNEW Genomics](https://bit.ly/reNEW\_GEN)
+  * [🌎 reNEW Imaging](https://kunet.ku.dk/faculty-and-department/renew/Labs%20and%20Research%20Platforms/Research%20Platforms/Imaging%20Platform/Pages/default.aspx)
+  * [🌎 reNEW DanGPU](https://bit.ly/DANGPU)
+  * [🌎 reNEW Flow Cy](https://kunet.ku.dk/faculty-and-department/renew/Labs%20and%20Research%20Platforms/Research%20Platforms/Flow%20Cytometry%20Platform/Pages/default.aspx)
 
 ## Blog
 

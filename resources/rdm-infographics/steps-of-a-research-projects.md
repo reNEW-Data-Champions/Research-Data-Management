@@ -15,8 +15,4 @@ layout:
 
 # 🟢 Steps of a Research Projects
 
-<div data-full-width="true">
-
-<figure><img src="../../../.gitbook/assets/reNEW Research Project (2).jpg" alt=""><figcaption><p>Steps for the Reserach Project Process</p></figcaption></figure>
-
-</div>
+{% embed url="https://docs.google.com/presentation/d/1uhJKTN0Tj5G9p5Hn84m753J-bQtDVnSQbUP2qIPQwoA/edit?usp=sharing" fullWidth="true" %}
