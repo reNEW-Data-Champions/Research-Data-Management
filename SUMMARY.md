@@ -20,7 +20,7 @@
 ## Data Management
 
 * [🟡 Data Management](data-management/data-management/README.md)
-  * [🟡 Research Data Life Cycle](data-management/data-management/research-data-life-cycle.md)
+  * [🟡 Data Life Cycle](data-management/data-management/data-life-cycle.md)
   * [🟡 Guide: Research Data ](data-management/data-management/guide-research-data.md)
 * [🟡 DMP](data-management/dmp/README.md)
   * [🟡 Data Management Planning](data-management/dmp/data-management-planning.md)
@@ -61,7 +61,6 @@
   * [🌐 Labguru Training Videos](https://kunet.ku.dk/work-areas/research/units/SUNDs-toolbox/labguru-eln/Pages/default.aspx#collapseMSOZoneCell\_WebPartWPQ3)
 * [🟢 Research Portal](resources/research-portal/README.md)
   * [🟢 UCPH Research Portal](https://kunet.ku.dk/work-areas/research/data/Pages/default.aspx)
-  * [🟢 UCPH Research IT](https://kunet.ku.dk/work-areas/research/Research%20Infrastructure/research-it/Pages/default.aspx)
 * [🟢 RDM Infographics](resources/rdm-infographics/README.md)
   * [🟢 Steps of a Research Projects](resources/rdm-infographics/steps-of-a-research-projects.md)
   * [🟢 Research Data Management](resources/rdm-infographics/research-data-management/README.md)
@@ -79,8 +78,6 @@
     * [🟢 File Naming Guide](resources/rdm-infographics/organizing-your-data/file-naming-guide.md)
     * [🟢 Bioimaging Data - DOC](resources/rdm-infographics/organizing-your-data/bioimaging-data-doc.md)
     * [🟢 Bioimaging Data - PDF](resources/rdm-infographics/organizing-your-data/bioimaging-data-pdf.md)
-  * [🟢 High-Performance Computers](resources/rdm-infographics/high-performance-computers/README.md)
-    * [🟢 Guide to UCPH High-Performance Computing](resources/rdm-infographics/high-performance-computers/guide-to-ucph-high-performance-computing.md)
 * [🟢 Marie Curie Fellows](resources/marie-curie-fellows/README.md)
   * [🟢 Marie Curie Fellowship Resources](resources/marie-curie-fellows/marie-curie-fellowship-resources/README.md)
     * [🟢 Implementation Guide for Marie Curie Fellows](resources/marie-curie-fellows/marie-curie-fellowship-resources/implementation-guide-for-marie-curie-fellows.md)
@@ -112,6 +109,12 @@
   * [🟣 Sedzinski Group](renew-resources/research-groups/sedzinski-group.md)
   * [🟣 Serup Group](renew-resources/research-groups/serup-group.md)
   * [🟣 Zylicz Group](renew-resources/research-groups/zylicz-group.md)
+
+## reNEW IT Resources
+
+* [🟤 High-Performance Computers](renew-it-resources/high-performance-computers/README.md)
+  * [🟤 Guide to UCPH High-Performance Computing](renew-it-resources/high-performance-computers/guide-to-ucph-high-performance-computing.md)
+* [🟤 UCPH Research IT](https://kunet.ku.dk/work-areas/research/Research%20Infrastructure/research-it/Pages/default.aspx)
 
 ## Blog
 
