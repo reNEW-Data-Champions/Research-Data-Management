@@ -61,23 +61,6 @@
   * [🌐 Labguru Training Videos](https://kunet.ku.dk/work-areas/research/units/SUNDs-toolbox/labguru-eln/Pages/default.aspx#collapseMSOZoneCell\_WebPartWPQ3)
 * [🟢 Research Portal](resources/research-portal/README.md)
   * [🟢 UCPH Research Portal](https://kunet.ku.dk/work-areas/research/data/Pages/default.aspx)
-* [🟢 RDM Infographics](resources/rdm-infographics/README.md)
-  * [🟢 Steps of a Research Projects](resources/rdm-infographics/steps-of-a-research-projects.md)
-  * [🟢 Research Data Management](resources/rdm-infographics/research-data-management/README.md)
-    * [🟢 Research Data Life Cycle Stages](resources/rdm-infographics/research-data-management/research-data-life-cycle-stages.md)
-    * [🟢 Area of Focus for Data Management](resources/rdm-infographics/research-data-management/area-of-focus-for-data-management.md)
-    * [🟢 Research Open Data Management Matrix](resources/rdm-infographics/research-data-management/research-open-data-management-matrix.md)
-  * [🟢 Open Science](resources/rdm-infographics/open-science/README.md)
-    * [🟢 What is Open Science?](resources/rdm-infographics/open-science/what-is-open-science.md)
-    * [🟢 FAIR Principles](resources/rdm-infographics/open-science/fair-principles.md)
-  * [🟢 Organizing Your Data](resources/rdm-infographics/organizing-your-data/README.md)
-    * [🟢 Folders and Directories](resources/rdm-infographics/organizing-your-data/folders-and-directories.md)
-    * [🟢 Directory Structure Guide](resources/rdm-infographics/organizing-your-data/directory-structure-guide.md)
-    * [🟢 Directory Structure](resources/rdm-infographics/organizing-your-data/directory-structure.md)
-    * [🟢 Directory and Naming Convention](resources/rdm-infographics/organizing-your-data/directory-and-naming-convention.md)
-    * [🟢 File Naming Guide](resources/rdm-infographics/organizing-your-data/file-naming-guide.md)
-    * [🟢 Bioimaging Data - DOC](resources/rdm-infographics/organizing-your-data/bioimaging-data-doc.md)
-    * [🟢 Bioimaging Data - PDF](resources/rdm-infographics/organizing-your-data/bioimaging-data-pdf.md)
 * [🟢 Marie Curie Fellows](resources/marie-curie-fellows/README.md)
   * [🟢 Marie Curie Fellowship Resources](resources/marie-curie-fellows/marie-curie-fellowship-resources/README.md)
     * [🟢 Implementation Guide for Marie Curie Fellows](resources/marie-curie-fellows/marie-curie-fellowship-resources/implementation-guide-for-marie-curie-fellows.md)
@@ -85,6 +68,27 @@
     * [🟢 Horizon 2020 DMP Template Guidelines](resources/marie-curie-fellows/marie-curie-fellowship-resources/horizon-2020-dmp-template-guidelines.md)
     * [🟢 UCPH DMPOnline](https://dmponline.deic.dk/)
     * [🟢 Marie Curie Fellows Website](https://marie-sklodowska-curie-actions.ec.europa.eu/)
+
+## 🟧 Infographics
+
+* [🟠 UCPH HPC](infographics/ucph-hpc.md)
+* [🟢 RDM Infographics](infographics/rdm-infographics/README.md)
+  * [🟢 Steps of a Research Projects](infographics/rdm-infographics/steps-of-a-research-projects.md)
+  * [🟢 Research Data Management](infographics/rdm-infographics/research-data-management/README.md)
+    * [🟢 Research Data Life Cycle Stages](infographics/rdm-infographics/research-data-management/research-data-life-cycle-stages.md)
+    * [🟢 Area of Focus for Data Management](infographics/rdm-infographics/research-data-management/area-of-focus-for-data-management.md)
+    * [🟢 Research Open Data Management Matrix](infographics/rdm-infographics/research-data-management/research-open-data-management-matrix.md)
+  * [🟢 Open Science](infographics/rdm-infographics/open-science/README.md)
+    * [🟢 What is Open Science?](infographics/rdm-infographics/open-science/what-is-open-science.md)
+    * [🟢 FAIR Principles](infographics/rdm-infographics/open-science/fair-principles.md)
+  * [🟢 Organizing Your Data](infographics/rdm-infographics/organizing-your-data/README.md)
+    * [🟢 Folders and Directories](infographics/rdm-infographics/organizing-your-data/folders-and-directories.md)
+    * [🟢 Directory Structure Guide](infographics/rdm-infographics/organizing-your-data/directory-structure-guide.md)
+    * [🟢 Directory Structure](infographics/rdm-infographics/organizing-your-data/directory-structure.md)
+    * [🟢 Directory and Naming Convention](infographics/rdm-infographics/organizing-your-data/directory-and-naming-convention.md)
+    * [🟢 File Naming Guide](infographics/rdm-infographics/organizing-your-data/file-naming-guide.md)
+    * [🟢 Bioimaging Data - DOC](infographics/rdm-infographics/organizing-your-data/bioimaging-data-doc.md)
+    * [🟢 Bioimaging Data - PDF](infographics/rdm-infographics/organizing-your-data/bioimaging-data-pdf.md)
 
 ## reNEW Resources
 
@@ -112,8 +116,6 @@
 
 ## reNEW IT Resources
 
-* [🟤 High-Performance Computers](renew-it-resources/high-performance-computers/README.md)
-  * [🟤 Guide to UCPH High-Performance Computing](renew-it-resources/high-performance-computers/guide-to-ucph-high-performance-computing.md)
 * [🟤 UCPH Research IT](https://kunet.ku.dk/work-areas/research/Research%20Infrastructure/research-it/Pages/default.aspx)
 
 ## Blog
