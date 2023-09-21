@@ -1,23 +1,20 @@
 # Table of contents
 
-## Data Champions Program
+## 🟥 Data Champions
 
-* [🔴 Data Champions Program](README.md)
-* [🔴 Data Champions Seminars](data-champions-program/data-champions-seminars/README.md)
-  * [🔴 Seminar Schedule](data-champions-program/data-champions-seminars/seminar-schedule.md)
-  * [🔴 Seminar: Data Champions Program](data-champions-program/data-champions-seminars/seminar-data-champions-program.md)
-  * [🔴 Seminar: Data Management Plans](data-champions-program/data-champions-seminars/seminar-data-management-plans.md)
-  * [🔴 Seminar: Organizing Your Data](data-champions-program/data-champions-seminars/seminar-organizing-your-data.md)
+* [🔴 Program](README.md)
+* [🔴 Seminars](data-champions/seminars/README.md)
+  * [🔴 Seminar Schedule](data-champions/seminars/seminar-schedule.md)
+  * [🔴 Seminar: Data Champions Program](data-champions/seminars/seminar-data-champions-program.md)
+  * [🔴 Seminar: Data Management Plans](data-champions/seminars/seminar-data-management-plans.md)
+  * [🔴 Seminar: Organizing Your Data](data-champions/seminars/seminar-organizing-your-data.md)
 
-## Open Science&#x20;
+## 🟧 Open Science&#x20;
 
-* [🟠 Open Science](open-science/open-science/README.md)
-  * [🟠 Open Science](open-science/open-science/open-science.md)
-* [🟠 FAIR Principles](open-science/fair-principles/README.md)
-  * [🟠 FAIR Principles](open-science/fair-principles/fair-principles.md)
-  * [🟠 How to FAIR](https://bit.ly/UCPH\_FAIR)
+* [🟠 Open Science](open-science/open-science.md)
+* [🟠 FAIR Principles](open-science/fair-principles.md)
 
-## Data Management
+## 🟨 Data Management
 
 * [🟡 Data Management](data-management/data-management/README.md)
   * [🟡 Data Life Cycle](data-management/data-management/data-life-cycle.md)
@@ -33,64 +30,34 @@
     * [🟡 Horizon 2020 DMP Template](data-management/dmp/dmp-resources/horizon-2020-dmp-template.md)
 * [🟡 Organizing Your Data](data-management/organizing-your-data/README.md)
   * [🔴 Tips and Recommendations](data-management/organizing-your-data/tips-and-recommendations.md)
-  * [🟢 Organizing Your Research Data ](https://bit.ly/File\_Name)
   * [🔵 File and Folder Structure](data-management/organizing-your-data/file-and-folder-structure.md)
   * [🟣 File and Folder Naming](data-management/organizing-your-data/file-and-folder-naming.md)
   * [🟠 Batch Renaming Software](data-management/organizing-your-data/batch-renaming-software.md)
   * [🟡 README File Template](data-management/organizing-your-data/readme-file-template.md)
+  * [🟤 Folders and Directories](data-management/organizing-your-data/folders-and-directories.md)
+  * [🟢 Organizing Your Research Data ](https://bit.ly/File\_Name)
 * [🟡 UCPH Computing](data-management/ucph-computing.md)
 * [🟡 UCPH Data Storage](data-management/ucph-data-storage.md)
 
-## GDPR
+## 🟦 GDPR
 
 * [🔵 GDPR for Researchers](gdpr/gdpr-for-researchers.md)
 * [🔵 SUND GDPR Guides](https://kunet.ku.dk/employee-guide/Pages/Safety-and-Emergency-Preparedness/Guide-to-GDPR-compliance.aspx?searchHitHighlight=GDPR%20guide%20for%20research%20projects%20in%20which%20personal%20data%20is%20processed)
 
-## Resources
+## 🟩 RDM Resources
 
-* [🟢 Data Management](resources/data-management/README.md)
-  * [🟢 Research Data Management](resources/data-management/research-data-management/README.md)
-    * [🟢 RDM Guide for Life Sciences (Elixir)](https://bit.ly/RDM\_GUIDE)
-    * [🟢 RDM  Kit for Life Sciences (Elixir)](https://bit.ly/RDM\_Kit)
-* [🟢 Data Repositories](resources/data-repositories/README.md)
-  * [🟢 Biomedical Data Repositories](resources/data-repositories/biomedical-data-repositories.md)
-* [🟢 Labguru Support](resources/labguru-support/README.md)
-  * [🌐 About Labguru](https://kunet.ku.dk/work-areas/research/units/SUNDs-toolbox/labguru-eln/Pages/default.aspx#collapseMSOZoneCell\_WebPartWPQ4)
-  * [🌐 Labguru Help](https://kunet.ku.dk/work-areas/research/units/SUNDs-toolbox/labguru-eln/Pages/default.aspx#collapseMSOZoneCell\_WebPartWPQ2)
-  * [🌐 Labguru Web Access](https://sund.labguru.com)
-  * [🌐 Labguru Training Videos](https://kunet.ku.dk/work-areas/research/units/SUNDs-toolbox/labguru-eln/Pages/default.aspx#collapseMSOZoneCell\_WebPartWPQ3)
-* [🟢 Research Portal](resources/research-portal/README.md)
-  * [🟢 UCPH Research Portal](https://kunet.ku.dk/work-areas/research/data/Pages/default.aspx)
-* [🟢 Marie Curie Fellows](resources/marie-curie-fellows/README.md)
-  * [🟢 Marie Curie Fellowship Resources](resources/marie-curie-fellows/marie-curie-fellowship-resources/README.md)
-    * [🟢 Implementation Guide for Marie Curie Fellows](resources/marie-curie-fellows/marie-curie-fellowship-resources/implementation-guide-for-marie-curie-fellows.md)
-    * [🟢 Horizon 2020 DMP Template](resources/marie-curie-fellows/marie-curie-fellowship-resources/horizon-2020-dmp-template.md)
-    * [🟢 Horizon 2020 DMP Template Guidelines](resources/marie-curie-fellows/marie-curie-fellowship-resources/horizon-2020-dmp-template-guidelines.md)
+* [🟢 Biomedical Data Repositories](rdm-resources/biomedical-data-repositories.md)
+* [🟢 Marie Curie Fellows](rdm-resources/marie-curie-fellows/README.md)
+  * [🟢 Marie Curie Fellowship Resources](rdm-resources/marie-curie-fellows/marie-curie-fellowship-resources/README.md)
+    * [🟢 Implementation Guide for Marie Curie Fellows](rdm-resources/marie-curie-fellows/marie-curie-fellowship-resources/implementation-guide-for-marie-curie-fellows.md)
+    * [🟢 Horizon 2020 DMP Template](rdm-resources/marie-curie-fellows/marie-curie-fellowship-resources/horizon-2020-dmp-template.md)
+    * [🟢 Horizon 2020 DMP Template Guidelines](rdm-resources/marie-curie-fellows/marie-curie-fellowship-resources/horizon-2020-dmp-template-guidelines.md)
     * [🟢 UCPH DMPOnline](https://dmponline.deic.dk/)
     * [🟢 Marie Curie Fellows Website](https://marie-sklodowska-curie-actions.ec.europa.eu/)
+* [🟢 How to FAIR](https://bit.ly/UCPH\_FAIR)
+* [🟢 UCPH Research Portal](https://kunet.ku.dk/work-areas/research/data/Pages/default.aspx)
 
-## 🟧 Infographics
-
-* [🟠 UCPH HPC](infographics/ucph-hpc.md)
-* [🟢 RDM Infographics](infographics/rdm-infographics/README.md)
-  * [🟢 Steps of a Research Projects](infographics/rdm-infographics/steps-of-a-research-projects.md)
-  * [🟢 Research Data Management](infographics/rdm-infographics/research-data-management/README.md)
-    * [🟢 Research Data Life Cycle Stages](infographics/rdm-infographics/research-data-management/research-data-life-cycle-stages.md)
-    * [🟢 Area of Focus for Data Management](infographics/rdm-infographics/research-data-management/area-of-focus-for-data-management.md)
-    * [🟢 Research Open Data Management Matrix](infographics/rdm-infographics/research-data-management/research-open-data-management-matrix.md)
-  * [🟢 Open Science](infographics/rdm-infographics/open-science/README.md)
-    * [🟢 What is Open Science?](infographics/rdm-infographics/open-science/what-is-open-science.md)
-    * [🟢 FAIR Principles](infographics/rdm-infographics/open-science/fair-principles.md)
-  * [🟢 Organizing Your Data](infographics/rdm-infographics/organizing-your-data/README.md)
-    * [🟢 Folders and Directories](infographics/rdm-infographics/organizing-your-data/folders-and-directories.md)
-    * [🟢 Directory Structure Guide](infographics/rdm-infographics/organizing-your-data/directory-structure-guide.md)
-    * [🟢 Directory Structure](infographics/rdm-infographics/organizing-your-data/directory-structure.md)
-    * [🟢 Directory and Naming Convention](infographics/rdm-infographics/organizing-your-data/directory-and-naming-convention.md)
-    * [🟢 File Naming Guide](infographics/rdm-infographics/organizing-your-data/file-naming-guide.md)
-    * [🟢 Bioimaging Data - DOC](infographics/rdm-infographics/organizing-your-data/bioimaging-data-doc.md)
-    * [🟢 Bioimaging Data - PDF](infographics/rdm-infographics/organizing-your-data/bioimaging-data-pdf.md)
-
-## reNEW Resources
+## 🟪 reNEW Resources
 
 * [🟣 reNEW Websites](renew-resources/renew-websites/README.md)
   * [🌎 reNEW Website](https://renew.science/)
@@ -114,11 +81,39 @@
   * [🟣 Serup Group](renew-resources/research-groups/serup-group.md)
   * [🟣 Zylicz Group](renew-resources/research-groups/zylicz-group.md)
 
-## reNEW IT Resources
+## 🟫 reNEW IT Resources
 
 * [🟤 UCPH Research IT](https://kunet.ku.dk/work-areas/research/Research%20Infrastructure/research-it/Pages/default.aspx)
 
-## Blog
+## 🟧 Infographics
+
+* [🟠 UCPH HPC](renew-it-resources/high-performance-computers/guide-to-ucph-high-performance-computing.md)
+* [🟠 RDM Infographics](infographics/rdm-infographics.md)
+* [🟠 Research Project Stage](infographics/research-project-stage.md)
+* [🟠 Research Data Management](infographics/research-data-management/README.md)
+  * [🟠 Research Data Life Cycle Stages](infographics/research-data-management/research-data-life-cycle-stages.md)
+  * [🟠 Area of Focus for Data Management](infographics/research-data-management/area-of-focus-for-data-management.md)
+  * [🟠 Research Open Data Management Matrix](infographics/research-data-management/research-open-data-management-matrix.md)
+* [🟠 Organizing Your Data](infographics/organizing-your-data/README.md)
+  * [🟠 Directory Structure Guide](infographics/organizing-your-data/directory-structure-guide.md)
+  * [🟠 Directory Structure](infographics/organizing-your-data/directory-structure.md)
+  * [🟠 Directory and Naming Convention](infographics/organizing-your-data/directory-and-naming-convention.md)
+  * [🟠 File Naming Guide](infographics/organizing-your-data/file-naming-guide.md)
+* [🟠 Open Science](infographics/open-science/README.md)
+  * [🟠 What is Open Science?](infographics/open-science/what-is-open-science.md)
+  * [🟠 FAIR Principles](infographics/open-science/fair-principles.md)
+
+## ◻ Biomedical Resources
+
+* [⚪ Labguru Support](biomedical-resources/labguru-support/README.md)
+  * [🌐 About Labguru](https://kunet.ku.dk/work-areas/research/units/SUNDs-toolbox/labguru-eln/Pages/default.aspx#collapseMSOZoneCell\_WebPartWPQ4)
+  * [🌐 Labguru Help](https://kunet.ku.dk/work-areas/research/units/SUNDs-toolbox/labguru-eln/Pages/default.aspx#collapseMSOZoneCell\_WebPartWPQ2)
+  * [🌐 Labguru Web Access](https://sund.labguru.com)
+  * [🌐 Labguru Training Videos](https://kunet.ku.dk/work-areas/research/units/SUNDs-toolbox/labguru-eln/Pages/default.aspx#collapseMSOZoneCell\_WebPartWPQ3)
+* [⚪ RDM  Kit for Life Sciences (Elixir)](https://bit.ly/RDM\_Kit)
+* [⚪ RDM Guide for Life Sciences (Elixir)](https://bit.ly/RDM\_GUIDE)
+
+## 🟨 Blog
 
 * [🟡 Blogs](blog/blogs/README.md)
   * [🟡 Disclaimer](blog/blogs/disclaimer.md)

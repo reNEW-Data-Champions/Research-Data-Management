@@ -1,8 +1,8 @@
 ---
-description: Document
+description: Folders and Directories
 ---
 
-# 🟢 Folders and Directories
+# 🟤 Folders and Directories
 
 Efficient organization of research data in bioinformatics, genomics, and imaging within a biomedical research environment is vital for optimizing productivity, eliminating redundancy, and preserving data integrity. A systematic and carefully crafted directory structure and naming convention system are paramount. The following directory structure and naming convention guide aim to establish a coherent and well-organized plan explicitly tailored for reNEW Copenhagen's research endeavors.
 

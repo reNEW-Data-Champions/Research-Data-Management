@@ -1,2 +1,0 @@
-# 🟢 EMBI - EBI Resources
-
