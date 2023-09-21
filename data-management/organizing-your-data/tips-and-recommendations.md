@@ -4,8 +4,4 @@ description: Organizing Your Data - Tips and Recommendations
 
 # 🔴 Tips and Recommendations
 
-
-
-{% file src="../../.gitbook/assets/reNEW - Organizing Your Data - Tips and Recommendations.pdf" %}
-Organizing Your Data - Tips and Recommendations
-{% endfile %}
+{% embed url="https://docs.google.com/document/d/1ktZWOkcKl9l_3Pe0Hbxvn2Uqp2AXejri7v0h8VYDTHw/edit?usp=sharing" fullWidth="true" %}

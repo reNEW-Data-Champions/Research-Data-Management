@@ -13,21 +13,11 @@
 
 * [🟠 Open Science](open-science/open-science.md)
 * [🟠 FAIR Principles](open-science/fair-principles.md)
+* [🟠 Biomedical Data Repositories](open-science/biomedical-data-repositories.md)
 
 ## 🟨 Data Management
 
-* [🟡 Data Management](data-management/data-management/README.md)
-  * [🟡 Data Life Cycle](data-management/data-management/data-life-cycle.md)
-  * [🟡 Guide: Research Data ](data-management/data-management/guide-research-data.md)
-* [🟡 DMP](data-management/dmp/README.md)
-  * [🟡 Data Management Planning](data-management/dmp/data-management-planning.md)
-  * [🟡 DMP Resources](data-management/dmp/dmp-resources/README.md)
-    * [🟡 UCPH DMPOnline](https://dmponline.deic.dk/)
-    * [🟡 UCPH DMP Template](https://bit.ly/UCPHDMPTemplate)
-    * [🟡 UCPH DMP Template](data-management/dmp/dmp-resources/ucph-dmp-template.md)
-    * [🟡 Guidelines: Horizon Europe DMP Template](data-management/dmp/dmp-resources/guidelines-horizon-europe-dmp-template.md)
-    * [🟡 Annotated DMP Horizon Europe Template](data-management/dmp/dmp-resources/annotated-dmp-horizon-europe-template.md)
-    * [🟡 Horizon 2020 DMP Template](data-management/dmp/dmp-resources/horizon-2020-dmp-template.md)
+* [🟡 Data Life Cycle](data-management/data-life-cycle.md)
 * [🟡 Organizing Your Data](data-management/organizing-your-data/README.md)
   * [🔴 Tips and Recommendations](data-management/organizing-your-data/tips-and-recommendations.md)
   * [🔵 File and Folder Structure](data-management/organizing-your-data/file-and-folder-structure.md)
@@ -36,17 +26,24 @@
   * [🟡 README File Template](data-management/organizing-your-data/readme-file-template.md)
   * [🟤 Folders and Directories](data-management/organizing-your-data/folders-and-directories.md)
   * [🟢 Organizing Your Research Data ](https://bit.ly/File\_Name)
-* [🟡 UCPH Computing](data-management/ucph-computing.md)
-* [🟡 UCPH Data Storage](data-management/ucph-data-storage.md)
+* [🟡 Guide: Research Data ](data-management/guide-research-data.md)
+* [🟡 Data Management Planning](data-management/data-management-planning.md)
+* [🟡 DMP Resources](data-management/dmp-resources/README.md)
+  * [🟡 UCPH DMPOnline](https://dmponline.deic.dk/)
+  * [🟡 UCPH DMP Template](https://bit.ly/UCPHDMPTemplate)
+  * [🟡 UCPH DMP Template](data-management/dmp-resources/ucph-dmp-template.md)
+  * [🟡 Guidelines: Horizon Europe DMP Template](data-management/dmp-resources/guidelines-horizon-europe-dmp-template.md)
+  * [🟡 Annotated DMP Horizon Europe Template](data-management/dmp-resources/annotated-dmp-horizon-europe-template.md)
+  * [🟡 Horizon 2020 DMP Template](data-management/dmp-resources/horizon-2020-dmp-template.md)
 
-## 🟦 GDPR
+## 🟦 GDPR and Research
 
-* [🔵 GDPR for Researchers](gdpr/gdpr-for-researchers.md)
-* [🔵 SUND GDPR Guides](https://kunet.ku.dk/employee-guide/Pages/Safety-and-Emergency-Preparedness/Guide-to-GDPR-compliance.aspx?searchHitHighlight=GDPR%20guide%20for%20research%20projects%20in%20which%20personal%20data%20is%20processed)
+* [🔵 GDPR for Researchers](gdpr-and-research/gdpr-for-researchers.md)
+* [🔵 Roles in Research Projects](gdpr-and-research/roles-in-research-projects.md)
+* [🔵 GDPR and Research](https://kunet.ku.dk/work-areas/research/data/personal-data/Pages/default.aspx)
 
 ## 🟩 RDM Resources
 
-* [🟢 Biomedical Data Repositories](rdm-resources/biomedical-data-repositories.md)
 * [🟢 Marie Curie Fellows](rdm-resources/marie-curie-fellows/README.md)
   * [🟢 Marie Curie Fellowship Resources](rdm-resources/marie-curie-fellows/marie-curie-fellowship-resources/README.md)
     * [🟢 Implementation Guide for Marie Curie Fellows](rdm-resources/marie-curie-fellows/marie-curie-fellowship-resources/implementation-guide-for-marie-curie-fellows.md)
@@ -83,25 +80,24 @@
 
 ## 🟫 reNEW IT Resources
 
+* [🟤 Archive vs. Backup](renew-it-resources/archive-vs.-backup.md)
+* [🟤 UCPH HPC](renew-it-resources/ucph-hpc.md)
+* [🟤 UCPH Computing](renew-it-resources/ucph-computing.md)
 * [🟤 UCPH Research IT](https://kunet.ku.dk/work-areas/research/Research%20Infrastructure/research-it/Pages/default.aspx)
+* [🟤 UCPH Data Storage](renew-it-resources/ucph-data-storage.md)
 
 ## 🟧 Infographics
 
-* [🟠 UCPH HPC](renew-it-resources/high-performance-computers/guide-to-ucph-high-performance-computing.md)
-* [🟠 RDM Infographics](infographics/rdm-infographics.md)
 * [🟠 Research Project Stage](infographics/research-project-stage.md)
-* [🟠 Research Data Management](infographics/research-data-management/README.md)
-  * [🟠 Research Data Life Cycle Stages](infographics/research-data-management/research-data-life-cycle-stages.md)
-  * [🟠 Area of Focus for Data Management](infographics/research-data-management/area-of-focus-for-data-management.md)
-  * [🟠 Research Open Data Management Matrix](infographics/research-data-management/research-open-data-management-matrix.md)
-* [🟠 Organizing Your Data](infographics/organizing-your-data/README.md)
-  * [🟠 Directory Structure Guide](infographics/organizing-your-data/directory-structure-guide.md)
-  * [🟠 Directory Structure](infographics/organizing-your-data/directory-structure.md)
-  * [🟠 Directory and Naming Convention](infographics/organizing-your-data/directory-and-naming-convention.md)
-  * [🟠 File Naming Guide](infographics/organizing-your-data/file-naming-guide.md)
-* [🟠 Open Science](infographics/open-science/README.md)
-  * [🟠 What is Open Science?](infographics/open-science/what-is-open-science.md)
-  * [🟠 FAIR Principles](infographics/open-science/fair-principles.md)
+* [🟠 What is Open Science?](infographics/what-is-open-science.md)
+* [🟠 FAIR Principles](infographics/fair-principles.md)
+* [🟠 Research Data Life Cycle Stages](infographics/research-data-life-cycle-stages.md)
+* [🟠 Area of Focus for Data Management](infographics/area-of-focus-for-data-management.md)
+* [🟠 Research Open Data Management Matrix](infographics/research-open-data-management-matrix.md)
+* [🟠 Directory Structure I](infographics/directory-structure-i.md)
+* [🟠 Directory Structure II](infographics/directory-structure-ii.md)
+* [🟠 Directory and Naming Convention](infographics/directory-and-naming-convention.md)
+* [🟠 File Naming Guide](infographics/file-naming-guide.md)
 
 ## ◻ Biomedical Resources
 
