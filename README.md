@@ -1,5 +1,5 @@
 ---
-description: License  and Acknowledgements
+description: Data Champions Program
 layout:
   title:
     visible: true

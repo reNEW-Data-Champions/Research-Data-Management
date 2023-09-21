@@ -2,7 +2,7 @@
 
 ## 🟥 Data Champions
 
-* [🔴 Data Champion Program](README.md)
+* [🔴 Data Champions Program](README.md)
 * [🔴 Seminars](data-champions/seminars/README.md)
   * [🔴 Seminar Schedule](data-champions/seminars/seminar-schedule.md)
   * [🔴 Seminar: Data Champions Program](data-champions/seminars/seminar-data-champions-program.md)
