@@ -4,6 +4,4 @@ description: README File Template
 
 # 🟡 README File Template
 
-{% file src="../../.gitbook/assets/reNEW - Sample_README_file.pdf" %}
-README File Template
-{% endfile %}
+{% embed url="https://docs.google.com/document/d/1SJR0GkZSgYr9KVxdWcCUlGN1N7wPqqWoCeI19VVEjJs/edit?usp=sharing" fullWidth="true" %}

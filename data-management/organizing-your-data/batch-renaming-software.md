@@ -4,6 +4,4 @@ description: File and Folder Batch Renaming Software
 
 # 🟠 Batch Renaming Software
 
-{% file src="../../.gitbook/assets/reNEW -Handout - Batch Renaming.pdf" %}
-File and Folder Batch Renaming Software
-{% endfile %}
+{% embed url="https://docs.google.com/document/d/1juRetORRlMwT21oxs75LdrzWhsmQvamkppkyY17sDnE/edit?usp=sharing" fullWidth="true" %}

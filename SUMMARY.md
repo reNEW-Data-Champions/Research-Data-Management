@@ -18,28 +18,29 @@
 ## 🟨 Data Management
 
 * [🟡 Data Life Cycle](data-management/data-life-cycle.md)
-* [🟡 Organizing Your Data](data-management/organizing-your-data/README.md)
-  * [🔴 Tips and Recommendations](data-management/organizing-your-data/tips-and-recommendations.md)
-  * [🔵 File and Folder Structure](data-management/organizing-your-data/file-and-folder-structure.md)
-  * [🟣 File and Folder Naming](data-management/organizing-your-data/file-and-folder-naming.md)
-  * [🟠 Batch Renaming Software](data-management/organizing-your-data/batch-renaming-software.md)
-  * [🟡 README File Template](data-management/organizing-your-data/readme-file-template.md)
-  * [🟤 Folders and Directories](data-management/organizing-your-data/folders-and-directories.md)
-  * [🟢 Organizing Your Research Data ](https://bit.ly/File\_Name)
 * [🟡 Guide: Research Data ](data-management/guide-research-data.md)
 * [🟡 Data Management Planning](data-management/data-management-planning.md)
+* [🟡 Research Open Data Management Matrix](data-management/research-open-data-management-matrix.md)
+* [🟡 Organizing Your Data](data-management/organizing-your-data/README.md)
+  * [🔴 File and Folder Tips I](data-management/organizing-your-data/file-and-folder-tips-i.md)
+  * [🔵 File and Folder Tips II](data-management/organizing-your-data/file-and-folder-tips-ii.md)
+  * [🟣 File and Folder Tips III](data-management/organizing-your-data/file-and-folder-tips-iii.md)
+  * [🟤 File and Folder Tips IV](data-management/organizing-your-data/file-and-folder-tips-iv.md)
+  * [🟠 Batch Renaming Software](data-management/organizing-your-data/batch-renaming-software.md)
+  * [🟡 README File Template](data-management/organizing-your-data/readme-file-template.md)
+  * [🟢 Organizing Your Research Data ](https://bit.ly/File\_Name)
 * [🟡 DMP Resources](data-management/dmp-resources/README.md)
-  * [🟡 UCPH DMPOnline](https://dmponline.deic.dk/)
-  * [🟡 UCPH DMP Template](https://bit.ly/UCPHDMPTemplate)
   * [🟡 UCPH DMP Template](data-management/dmp-resources/ucph-dmp-template.md)
   * [🟡 Guidelines: Horizon Europe DMP Template](data-management/dmp-resources/guidelines-horizon-europe-dmp-template.md)
   * [🟡 Annotated DMP Horizon Europe Template](data-management/dmp-resources/annotated-dmp-horizon-europe-template.md)
   * [🟡 Horizon 2020 DMP Template](data-management/dmp-resources/horizon-2020-dmp-template.md)
+  * [🟡 UCPH DMPOnline](https://dmponline.deic.dk/)
+  * [🟡 UCPH DMP Template](https://bit.ly/UCPHDMPTemplate)
 
 ## 🟦 GDPR and Research
 
 * [🔵 GDPR for Researchers](gdpr-and-research/gdpr-for-researchers.md)
-* [🔵 Roles in Research Projects](gdpr-and-research/roles-in-research-projects.md)
+* [🔵 Data Protection Agency](gdpr-and-research/data-protection-agency.md)
 * [🔵 GDPR and Research](https://kunet.ku.dk/work-areas/research/data/personal-data/Pages/default.aspx)
 
 ## 🟩 RDM Resources
@@ -51,8 +52,8 @@
     * [🟢 Horizon 2020 DMP Template Guidelines](rdm-resources/marie-curie-fellows/marie-curie-fellowship-resources/horizon-2020-dmp-template-guidelines.md)
     * [🟢 UCPH DMPOnline](https://dmponline.deic.dk/)
     * [🟢 Marie Curie Fellows Website](https://marie-sklodowska-curie-actions.ec.europa.eu/)
-* [🟢 How to FAIR](https://bit.ly/UCPH\_FAIR)
-* [🟢 UCPH Research Portal](https://kunet.ku.dk/work-areas/research/data/Pages/default.aspx)
+* [🟢 UCPH Research Portal](https://kunet.ku.dk/work-areas/research/Pages/default.aspx)
+* [🟢 UCPH Research Data Management  and GDPR Portal](https://kunet.ku.dk/work-areas/research/data/Pages/default.aspx)
 
 ## 🟪 reNEW Resources
 
@@ -78,25 +79,24 @@
   * [🟣 Serup Group](renew-resources/research-groups/serup-group.md)
   * [🟣 Zylicz Group](renew-resources/research-groups/zylicz-group.md)
 
-## 🟫 reNEW IT Resources
+## 🟫 UCPH IT Resources
 
-* [🟤 Archive vs. Backup](renew-it-resources/archive-vs.-backup.md)
-* [🟤 UCPH HPC](renew-it-resources/ucph-hpc.md)
-* [🟤 UCPH Computing](renew-it-resources/ucph-computing.md)
+* [🟤 Archive vs. Backup](ucph-it-resources/archive-vs.-backup.md)
+* [🟤 UCPH HPC](ucph-it-resources/ucph-hpc.md)
+* [🟤 UCPH Computing](ucph-it-resources/ucph-computing.md)
+* [🟤 UCPH Data Storage](ucph-it-resources/ucph-data-storage.md)
 * [🟤 UCPH Research IT](https://kunet.ku.dk/work-areas/research/Research%20Infrastructure/research-it/Pages/default.aspx)
-* [🟤 UCPH Data Storage](renew-it-resources/ucph-data-storage.md)
 
 ## 🟧 Infographics
 
 * [🟠 Research Project Stage](infographics/research-project-stage.md)
 * [🟠 What is Open Science?](infographics/what-is-open-science.md)
 * [🟠 FAIR Principles](infographics/fair-principles.md)
-* [🟠 Research Data Life Cycle Stages](infographics/research-data-life-cycle-stages.md)
-* [🟠 Area of Focus for Data Management](infographics/area-of-focus-for-data-management.md)
-* [🟠 Research Open Data Management Matrix](infographics/research-open-data-management-matrix.md)
+* [🟠 Data Life Cycle](infographics/data-life-cycle.md)
+* [🟠 Data Management](infographics/data-management.md)
 * [🟠 Directory Structure I](infographics/directory-structure-i.md)
 * [🟠 Directory Structure II](infographics/directory-structure-ii.md)
-* [🟠 Directory and Naming Convention](infographics/directory-and-naming-convention.md)
+* [🟠 Directory Structure II](infographics/directory-structure-ii-1.md)
 * [🟠 File Naming Guide](infographics/file-naming-guide.md)
 
 ## ◻ Biomedical Resources
