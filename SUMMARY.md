@@ -2,7 +2,7 @@
 
 ## 🟥 Data Champions
 
-* [🔴 Program](README.md)
+* [🔴 Data Champion Program](README.md)
 * [🔴 Seminars](data-champions/seminars/README.md)
   * [🔴 Seminar Schedule](data-champions/seminars/seminar-schedule.md)
   * [🔴 Seminar: Data Champions Program](data-champions/seminars/seminar-data-champions-program.md)
@@ -122,3 +122,4 @@
   * [🟡 Blog Post - July 2023](blog/blogs/blog-post-july-2023.md)
   * [🟡 Blog Post - Aug 2023](blog/blogs/blog-post-aug-2023.md)
   * [🟡 Blog Post - Sept 2023](blog/blogs/blog-post-sept-2023.md)
+* [🟡 License  and Acknowledgements](blog/license-and-acknowledgements.md)
