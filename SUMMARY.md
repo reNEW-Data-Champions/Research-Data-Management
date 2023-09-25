@@ -1,6 +1,6 @@
 # Table of contents
 
-## 🟥 Data Champions
+## Data Champions
 
 * [🔴 Data Champions Program](README.md)
 * [🔴 Seminars](data-champions/seminars/README.md)
@@ -9,13 +9,13 @@
   * [🔴 Seminar: Data Management Plans](data-champions/seminars/seminar-data-management-plans.md)
   * [🔴 Seminar: Organizing Your Data](data-champions/seminars/seminar-organizing-your-data.md)
 
-## 🟧 Open Science&#x20;
+## Open Science&#x20;
 
 * [🟠 Open Science](open-science/open-science.md)
 * [🟠 FAIR Principles](open-science/fair-principles.md)
 * [🟠 Biomedical Data Repositories](open-science/biomedical-data-repositories.md)
 
-## 🟨 Data Management
+## Data Management
 
 * [🟡 Data Life Cycle](data-management/data-life-cycle.md)
 * [🟡 Guide: Research Data ](data-management/guide-research-data.md)
@@ -37,13 +37,13 @@
   * [🟡 UCPH DMPOnline](https://dmponline.deic.dk/)
   * [🟡 UCPH DMP Template](https://bit.ly/UCPHDMPTemplate)
 
-## 🟦 GDPR and Research
+## GDPR
 
-* [🔵 GDPR for Researchers](gdpr-and-research/gdpr-for-researchers.md)
-* [🔵 Data Protection Agency](gdpr-and-research/data-protection-agency.md)
+* [🔵 GDPR for Researchers](gdpr/gdpr-for-researchers.md)
+* [🔵 Data Protection Agency](gdpr/data-protection-agency.md)
 * [🔵 GDPR and Research](https://kunet.ku.dk/work-areas/research/data/personal-data/Pages/default.aspx)
 
-## 🟩 RDM Resources
+## RDM Resources
 
 * [🟢 Marie Curie Fellows](rdm-resources/marie-curie-fellows/README.md)
   * [🟢 Marie Curie Fellowship Resources](rdm-resources/marie-curie-fellows/marie-curie-fellowship-resources/README.md)
@@ -55,7 +55,7 @@
 * [🟢 UCPH Research Portal](https://kunet.ku.dk/work-areas/research/Pages/default.aspx)
 * [🟢 UCPH Research Data Management  and GDPR Portal](https://kunet.ku.dk/work-areas/research/data/Pages/default.aspx)
 
-## 🟪 reNEW Resources
+## reNEW Resources
 
 * [🟣 reNEW Websites](renew-resources/renew-websites/README.md)
   * [🌎 reNEW Website](https://renew.science/)
@@ -79,7 +79,7 @@
   * [🟣 Serup Group](renew-resources/research-groups/serup-group.md)
   * [🟣 Zylicz Group](renew-resources/research-groups/zylicz-group.md)
 
-## 🟫 UCPH IT Resources
+## UCPH IT Resources
 
 * [🟤 Archive vs. Backup](ucph-it-resources/archive-vs.-backup.md)
 * [🟤 UCPH HPC](ucph-it-resources/ucph-hpc.md)
@@ -87,10 +87,10 @@
 * [🟤 UCPH Data Storage](ucph-it-resources/ucph-data-storage.md)
 * [🟤 UCPH Research IT](https://kunet.ku.dk/work-areas/research/Research%20Infrastructure/research-it/Pages/default.aspx)
 
-## 🟧 Infographics
+## Infographics
 
-* [🟠 Research Project Stage](infographics/research-project-stage.md)
-* [🟠 What is Open Science?](infographics/what-is-open-science.md)
+* [🟠 Research Project](infographics/research-project.md)
+* [🟠 Open Science](infographics/open-science.md)
 * [🟠 FAIR Principles](infographics/fair-principles.md)
 * [🟠 Data Life Cycle](infographics/data-life-cycle.md)
 * [🟠 Data Management](infographics/data-management.md)
@@ -99,7 +99,7 @@
 * [🟠 Directory Structure II](infographics/directory-structure-ii-1.md)
 * [🟠 File Naming Guide](infographics/file-naming-guide.md)
 
-## ◻ Biomedical Resources
+## Biomedical Resources
 
 * [⚪ Labguru Support](biomedical-resources/labguru-support/README.md)
   * [🌐 About Labguru](https://kunet.ku.dk/work-areas/research/units/SUNDs-toolbox/labguru-eln/Pages/default.aspx#collapseMSOZoneCell\_WebPartWPQ4)
@@ -109,7 +109,7 @@
 * [⚪ RDM  Kit for Life Sciences (Elixir)](https://bit.ly/RDM\_Kit)
 * [⚪ RDM Guide for Life Sciences (Elixir)](https://bit.ly/RDM\_GUIDE)
 
-## 🟨 Blog
+## Blog
 
 * [🟡 Blogs](blog/blogs/README.md)
   * [🟡 Disclaimer](blog/blogs/disclaimer.md)
