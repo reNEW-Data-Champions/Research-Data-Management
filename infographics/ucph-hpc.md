@@ -2,7 +2,7 @@
 description: Guide to UCPH High-Performance Computing
 ---
 
-# 🟤 UCPH HPC
+# 🟠 UCPH HPC
 
 {% file src="../.gitbook/assets/UCPH HPC Guide (1).pdf" %}
 Guide to UCPH High-Performance Computing

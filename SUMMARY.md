@@ -84,7 +84,6 @@
 ## UCPH IT Resources
 
 * [🟤 Archive vs. Backup](ucph-it-resources/archive-vs.-backup.md)
-* [🟤 UCPH HPC](ucph-it-resources/ucph-hpc.md)
 * [🟤 UCPH Computing](ucph-it-resources/ucph-computing.md)
 * [🟤 UCPH Data Storage](ucph-it-resources/ucph-data-storage.md)
 * [🟤 UCPH Research IT](https://kunet.ku.dk/work-areas/research/Research%20Infrastructure/research-it/Pages/default.aspx)
@@ -100,6 +99,7 @@
 * [🟠 Directory Structure II](infographics/directory-structure-ii.md)
 * [🟠 Directory Structure II](infographics/directory-structure-ii-1.md)
 * [🟠 File Naming Guide](infographics/file-naming-guide.md)
+* [🟠 UCPH HPC](infographics/ucph-hpc.md)
 
 ## Biomedical Resources
 
