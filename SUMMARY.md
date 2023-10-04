@@ -21,14 +21,6 @@
 * [🟡 Guide: Research Data ](data-management/guide-research-data.md)
 * [🟡 Data Management Planning](data-management/data-management-planning.md)
 * [🟡 Research Open Data Management Matrix](data-management/research-open-data-management-matrix.md)
-* [🟡 Organizing Your Data](data-management/organizing-your-data/README.md)
-  * [🔴 File and Folder Tips I](data-management/organizing-your-data/file-and-folder-tips-i.md)
-  * [🔵 File and Folder Tips II](data-management/organizing-your-data/file-and-folder-tips-ii.md)
-  * [🟣 File and Folder Tips III](data-management/organizing-your-data/file-and-folder-tips-iii.md)
-  * [🟤 File and Folder Tips IV](data-management/organizing-your-data/file-and-folder-tips-iv.md)
-  * [🟠 Batch Renaming Software](data-management/organizing-your-data/batch-renaming-software.md)
-  * [🟡 README File Template](data-management/organizing-your-data/readme-file-template.md)
-  * [🟢 Organizing Your Research Data ](https://bit.ly/File\_Name)
 * [🟡 DMP Resources](data-management/dmp-resources/README.md)
   * [🟡 UCPH DMP Template](data-management/dmp-resources/ucph-dmp-template.md)
   * [🟡 Guidelines: Horizon Europe DMP Template](data-management/dmp-resources/guidelines-horizon-europe-dmp-template.md)
@@ -36,6 +28,16 @@
   * [🟡 Horizon 2020 DMP Template](data-management/dmp-resources/horizon-2020-dmp-template.md)
   * [🟡 UCPH DMPOnline](https://dmponline.deic.dk/)
   * [🟡 UCPH DMP Template](https://bit.ly/UCPHDMPTemplate)
+
+## Structure Your Data
+
+* [🟣 File and Folder Tips I](structure-your-data/file-and-folder-tips-i.md)
+* [🟣 File and Folder Tips II](structure-your-data/file-and-folder-tips-ii.md)
+* [🟣 File and Folder Tips III](structure-your-data/file-and-folder-tips-iii.md)
+* [🟣 File and Folder Tips IV](structure-your-data/file-and-folder-tips-iv.md)
+* [🟣 Batch Renaming](structure-your-data/batch-renaming.md)
+* [🟣 README File Template](structure-your-data/readme-file-template.md)
+* [🟣 Organizing Your Data ](https://bit.ly/File\_Name)
 
 ## GDPR
 
