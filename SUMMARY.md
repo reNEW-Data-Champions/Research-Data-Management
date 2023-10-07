@@ -11,16 +11,13 @@
 
 ## Open Science&#x20;
 
-* [🟠 Open Science](open-science/open-science.md)
-* [🟠 FAIR Principles](open-science/fair-principles.md)
 * [🟠 Biomedical Data Repositories](open-science/biomedical-data-repositories.md)
+* [🟠 FAIR Principles](open-science/fair-principles.md)
+* [🟠 Open Science](open-science/open-science.md)
 
 ## Data Management
 
 * [🟡 Data Life Cycle](data-management/data-life-cycle.md)
-* [🟡 Guide: Research Data ](data-management/guide-research-data.md)
-* [🟡 Data Management Planning](data-management/data-management-planning.md)
-* [🟡 Research Open Data Management Matrix](data-management/research-open-data-management-matrix.md)
 * [🟡 DMP Resources](data-management/dmp-resources/README.md)
   * [🟡 UCPH DMP Template](data-management/dmp-resources/ucph-dmp-template.md)
   * [🟡 Guidelines: Horizon Europe DMP Template](data-management/dmp-resources/guidelines-horizon-europe-dmp-template.md)
@@ -28,6 +25,9 @@
   * [🟡 Horizon 2020 DMP Template](data-management/dmp-resources/horizon-2020-dmp-template.md)
   * [🟡 UCPH DMPOnline](https://dmponline.deic.dk/)
   * [🟡 UCPH DMP Template](https://bit.ly/UCPHDMPTemplate)
+* [🟡 Data Management Planning](data-management/data-management-planning.md)
+* [🟡 Data Management Definitions](https://docs.google.com/document/d/1WG6yiOAaJCZHMezeY5ogMirhzqH23wUTSP6ElBhrPgg/edit?usp=sharing)
+* [🟡 Research Data Checlist](data-management/research-data-checlist.md)
 
 ## Structure Your Data
 
@@ -41,8 +41,8 @@
 
 ## GDPR
 
-* [🔵 GDPR for Researchers](gdpr/gdpr-for-researchers.md)
 * [🔵 Data Protection Agency](gdpr/data-protection-agency.md)
+* [🔵 GDPR for Researchers](gdpr/gdpr-for-researchers.md)
 * [🔵 GDPR and Research](https://kunet.ku.dk/work-areas/research/data/personal-data/Pages/default.aspx)
 
 ## RDM Resources
@@ -99,6 +99,7 @@
 * [🟠 Directory Structure II](infographics/directory-structure-ii.md)
 * [🟠 Directory Structure II](infographics/directory-structure-ii-1.md)
 * [🟠 File Naming Guide](infographics/file-naming-guide.md)
+* [🟠 Research Open Data Management Matrix](infographics/research-open-data-management-matrix.md)
 * [🟠 UCPH HPC](infographics/ucph-hpc.md)
 
 ## Biomedical Resources
