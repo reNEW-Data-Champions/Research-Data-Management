@@ -122,4 +122,5 @@
   * [🟡 Blog Post - July 2023](blog/blogs/blog-post-july-2023.md)
   * [🟡 Blog Post - Aug 2023](blog/blogs/blog-post-aug-2023.md)
   * [🟡 Blog Post - Sept 2023](blog/blogs/blog-post-sept-2023.md)
+  * [🟡 Blog Post - Oct 2023](blog/blogs/blog-post-oct-2023.md)
 * [🟡 License  and Acknowledgements](blog/license-and-acknowledgements.md)
