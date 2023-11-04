@@ -8,6 +8,8 @@
   * [🔴 Seminar: Data Champions Program](data-champions/seminars/seminar-data-champions-program.md)
   * [🔴 Seminar: Data Management Plans](data-champions/seminars/seminar-data-management-plans.md)
   * [🔴 Seminar: Organizing Your Data](data-champions/seminars/seminar-organizing-your-data.md)
+  * [🔴 Seminar: Labguru Training Videos](https://kunet.ku.dk/work-areas/research/units/SUNDs-toolbox/labguru-eln/Pages/default.aspx#collapseMSOZoneCell\_WebPartWPQ3)
+  * [🔴 Seminar: Organize Your Data ](https://bit.ly/File\_Name)
 
 ## Open Science&#x20;
 
@@ -31,12 +33,11 @@
 ## Structure Your Data
 
 * [🟣 Batch Renaming](structure-your-data/batch-renaming.md)
-* [🟣 File and Folder](structure-your-data/file-and-folder/README.md)
-  * [🟣 File and Folder Tips I](structure-your-data/file-and-folder/file-and-folder-tips-i.md)
-  * [🟣 File and Folder Tips II](structure-your-data/file-and-folder/file-and-folder-tips-ii.md)
-  * [🟣 File and Folder Tips III](structure-your-data/file-and-folder/file-and-folder-tips-iii.md)
-  * [🟣 File and Folder Tips IV](structure-your-data/file-and-folder/file-and-folder-tips-iv.md)
-* [🟣 Organizing Your Data ](https://bit.ly/File\_Name)
+* [🟣 File and Folder Tips](structure-your-data/file-and-folder-tips/README.md)
+  * [🟣 File and Folder Tips I](structure-your-data/file-and-folder-tips/file-and-folder-tips-i.md)
+  * [🟣 File and Folder Tips II](structure-your-data/file-and-folder-tips/file-and-folder-tips-ii.md)
+  * [🟣 File and Folder Tips III](structure-your-data/file-and-folder-tips/file-and-folder-tips-iii.md)
+  * [🟣 File and Folder Tips IV](structure-your-data/file-and-folder-tips/file-and-folder-tips-iv.md)
 * [🟣 README File Template](structure-your-data/readme-file-template.md)
 
 ## GDPR
