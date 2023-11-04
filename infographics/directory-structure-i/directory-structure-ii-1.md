@@ -2,7 +2,7 @@
 description: Infographic
 ---
 
-# 🟠 Directory and Naming Convention
+# 🟠 Directory Structure II
 
 <div data-full-width="true">
 
@@ -10,4 +10,8 @@ description: Infographic
 
 </div>
 
+<div data-full-width="true">
+
 <figure><img src="../../.gitbook/assets/Directory and Naming Structure - 2.jpg" alt=""><figcaption><p>Directory and Naming Conventions</p></figcaption></figure>
+
+</div>

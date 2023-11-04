@@ -28,7 +28,7 @@ The reNEW Data Champions (DCs) serve as volunteer advisors, guiding their resear
 
 Data Champions establish a collaborative network within the reNEW Group at the Novo Nordisk Foundation Center for Stem Cell Medicine. Moreover, they remain receptive to forging collaborations beyond the confines of the University.&#x20;
 
-The resources available on this website have a clear objective: to enhance and fortify the Data Champion Program at reNEW, particularly on Research Data Management.
+The resources available on this website have a clear objective: to enhance and fortify the Data Champion Program at reNEW, particularly in Research Data Management.
 
 
 {% endhint %}

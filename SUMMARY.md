@@ -93,15 +93,15 @@
 
 * [🟠 Data Life Cycle](infographics/data-life-cycle.md)
 * [🟠 Data Management](infographics/data-management.md)
-* [🟠 Directory Structure I](infographics/directory-structure-i.md)
-* [🟠 Directory Structure II](infographics/directory-structure-ii.md)
-* [🟠 Directory Structure II](infographics/directory-structure-ii-1.md)
+* [🟠 Directory Structure I](infographics/directory-structure-i/README.md)
+  * [🟠 Directory Structure II](infographics/directory-structure-i/directory-structure-ii.md)
+  * [🟠 Directory Structure II](infographics/directory-structure-i/directory-structure-ii-1.md)
 * [🟠 FAIR Principles](infographics/fair-principles.md)
 * [🟠 File Naming Guide](infographics/file-naming-guide.md)
 * [🟠 Open Research Data Management Framework](infographics/open-research-data-management-framework.md)
-* [🟠 Open Science](infographics/open-science.md)
-* [🟠 Research Project](infographics/research-project.md)
-* [🟠 UCPH HPC](infographics/ucph-hpc.md)
+* [🟠 Open Science Pillars](infographics/open-science-pillars.md)
+* [🟠 The Research Process](infographics/the-research-process.md)
+* [🟠 UCPH HPC Computing](infographics/ucph-hpc-computing.md)
 
 ## Biomedical Resources
 
@@ -114,14 +114,15 @@
 * [⚪ RDM  Kit for Life Sciences (Elixir)](https://bit.ly/RDM\_Kit)
 * [⚪ RDM Guide for Life Sciences (Elixir)](https://bit.ly/RDM\_GUIDE)
 
-## Blog
+## RDM Blog
 
-* [🟡 Blogs](blog/blogs/README.md)
-  * [🟡 Disclaimer](blog/blogs/disclaimer.md)
-  * [🟡 Blog Post - May  2023](blog/blogs/blog-post-may-2023.md)
-  * [🟡 Blog Post - June 2023](blog/blogs/blog-post-june-2023.md)
-  * [🟡 Blog Post - July 2023](blog/blogs/blog-post-july-2023.md)
-  * [🟡 Blog Post - Aug 2023](blog/blogs/blog-post-aug-2023.md)
-  * [🟡 Blog Post - Sept 2023](blog/blogs/blog-post-sept-2023.md)
-  * [🟡 Blog Post - Oct 2023](blog/blogs/blog-post-oct-2023.md)
-* [🟡 License  and Acknowledgements](blog/license-and-acknowledgements.md)
+* [🟡 Monthly RDM Blogs](rdm-blog/monthly-rdm-blogs/README.md)
+  * [🟡 Disclaimer](rdm-blog/monthly-rdm-blogs/disclaimer.md)
+  * [🟡 Blog Post - May  2023](rdm-blog/monthly-rdm-blogs/blog-post-may-2023.md)
+  * [🟡 Blog Post - June 2023](rdm-blog/monthly-rdm-blogs/blog-post-june-2023.md)
+  * [🟡 Blog Post - July 2023](rdm-blog/monthly-rdm-blogs/blog-post-july-2023.md)
+  * [🟡 Blog Post - Aug 2023](rdm-blog/monthly-rdm-blogs/blog-post-aug-2023.md)
+  * [🟡 Blog Post - Sept 2023](rdm-blog/monthly-rdm-blogs/blog-post-sept-2023.md)
+  * [🟡 Blog Post - Oct 2023](rdm-blog/monthly-rdm-blogs/blog-post-oct-2023.md)
+  * [🟡 Blog Post - Nov 2023](rdm-blog/monthly-rdm-blogs/blog-post-nov-2023.md)
+* [🟡 License  and Acknowledgements](rdm-blog/license-and-acknowledgements.md)
