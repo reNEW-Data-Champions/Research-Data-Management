@@ -91,16 +91,16 @@
 
 ## Infographics
 
-* [🟠 Research Project](infographics/research-project.md)
-* [🟠 Open Science](infographics/open-science.md)
-* [🟠 FAIR Principles](infographics/fair-principles.md)
 * [🟠 Data Life Cycle](infographics/data-life-cycle.md)
 * [🟠 Data Management](infographics/data-management.md)
 * [🟠 Directory Structure I](infographics/directory-structure-i.md)
 * [🟠 Directory Structure II](infographics/directory-structure-ii.md)
 * [🟠 Directory Structure II](infographics/directory-structure-ii-1.md)
+* [🟠 FAIR Principles](infographics/fair-principles.md)
 * [🟠 File Naming Guide](infographics/file-naming-guide.md)
-* [🟠 Research Open Data Management Matrix](infographics/research-open-data-management-matrix.md)
+* [🟠 Open Research Data Management Framework](infographics/open-research-data-management-framework.md)
+* [🟠 Open Science](infographics/open-science.md)
+* [🟠 Research Project](infographics/research-project.md)
 * [🟠 UCPH HPC](infographics/ucph-hpc.md)
 
 ## Biomedical Resources
