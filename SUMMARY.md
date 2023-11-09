@@ -2,7 +2,8 @@
 
 ## Data Champions
 
-* [🔴 Data Champions Program](README.md)
+* [🔴 Research Data Management Month](README.md)
+* [🔴 Data Champions Program](<README (1).md>)
 * [🔴 Seminars](data-champions/seminars/README.md)
   * [🔴 Seminar Schedule](data-champions/seminars/seminar-schedule.md)
   * [🔴 Seminar: Data Champions Program](data-champions/seminars/seminar-data-champions-program.md)
@@ -100,6 +101,7 @@
 
 ## Infographics
 
+* [🟠 Bioimaging Workflows](infographics/bioimaging-workflows.md)
 * [🟠 Data Life Cycle](infographics/data-life-cycle.md)
 * [🟠 Data Management](infographics/data-management.md)
 * [🟠 Directory Structure ](infographics/directory-structure/README.md)
