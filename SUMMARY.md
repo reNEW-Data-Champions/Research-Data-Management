@@ -2,7 +2,7 @@
 
 ## Data Champions
 
-* [🔴 Research Data Management Month](README.md)
+* [🔴 RDM Month](README.md)
 * [🔴 Data Champions Program](<README (1).md>)
 * [🔴 Seminars](data-champions/seminars/README.md)
   * [🔴 Seminar Schedule](data-champions/seminars/seminar-schedule.md)
@@ -15,7 +15,7 @@
 ## Open Science&#x20;
 
 * [🟠 FAIR Principles](open-science/fair-principles.md)
-* [🟠 Open Science](open-science/open-science.md)
+* [🟠 Open Science - 8 Pillars](open-science/open-science-8-pillars.md)
 
 ## Data Management
 
