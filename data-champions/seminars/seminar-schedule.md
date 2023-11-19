@@ -19,6 +19,6 @@ layout:
 
 <div data-full-width="true">
 
-<figure><img src="../../.gitbook/assets/Capture.JPG" alt=""><figcaption><p>Data Chmapions Seminar Schedule</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Seminar.JPG" alt=""><figcaption></figcaption></figure>
 
 </div>
