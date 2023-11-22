@@ -92,10 +92,9 @@
 
 * [⚪ Biomedical Data Repositories](biomedical-resources/biomedical-data-repositories.md)
 * [⚪ Labguru Support](biomedical-resources/labguru-support/README.md)
-  * [🌐 About Labguru](https://kunet.ku.dk/work-areas/research/units/SUNDs-toolbox/labguru-eln/Pages/default.aspx#collapseMSOZoneCell\_WebPartWPQ4)
-  * [🌐 Labguru Help](https://kunet.ku.dk/work-areas/research/units/SUNDs-toolbox/labguru-eln/Pages/default.aspx#collapseMSOZoneCell\_WebPartWPQ2)
-  * [🌐 Labguru Web Access](https://sund.labguru.com)
-  * [🌐 Labguru Training Videos](https://kunet.ku.dk/work-areas/research/units/SUNDs-toolbox/labguru-eln/Pages/default.aspx#collapseMSOZoneCell\_WebPartWPQ3)
+  * [🌐 Labguru Support](https://bit.ly/LABGURU\_1)
+  * [🌐 Labguru Web Access](https://bit.ly/LABGURU\_3)
+  * [🌐 Labguru Help Videos](https://bit.ly/LABGURU\_2)
 * [⚪ RDM  Kit for Life Sciences (Elixir)](https://bit.ly/RDM\_Kit)
 * [⚪ RDM Guide for Life Sciences (Elixir)](https://bit.ly/RDM\_GUIDE)
 
