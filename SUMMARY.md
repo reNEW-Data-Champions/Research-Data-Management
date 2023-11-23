@@ -15,6 +15,7 @@
 ## Open Science&#x20;
 
 * [🟠 FAIR Principles](open-science/fair-principles.md)
+* [🟠 FAIR Principles - MP4](open-science/fair-principles-mp4.md)
 * [🟠 Open Science - 8 Pillars](open-science/open-science-8-pillars.md)
 
 ## Data Management
