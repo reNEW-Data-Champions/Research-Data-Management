@@ -85,7 +85,7 @@
 ## UCPH IT Resources
 
 * [🟤 Archive vs. Backup](ucph-it-resources/archive-vs.-backup.md)
-* [🟤 UCPH Computing](ucph-it-resources/ucph-computing.md)
+* [🟤 UCPH HPC Guide](ucph-it-resources/ucph-hpc-guide.md)
 * [🟤 UCPH Data Storage](ucph-it-resources/ucph-data-storage.md)
 * [🟤 UCPH Research IT](https://kunet.ku.dk/work-areas/research/Research%20Infrastructure/research-it/Pages/default.aspx)
 
@@ -112,7 +112,7 @@
 * [🟠 Open Research Data Management Framework](infographics/open-research-data-management-framework.md)
 * [🟠 Open Science Pillars](infographics/open-science-pillars.md)
 * [🟠 The Research Process](infographics/the-research-process.md)
-* [🟠 UCPH HPC Computing](infographics/ucph-hpc-computing.md)
+* [🟠 UCPH HPC Quick Guide](infographics/ucph-hpc-quick-guide.md)
 
 ## RDM Blog
 
