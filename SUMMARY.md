@@ -96,6 +96,8 @@
   * [🌐 Labguru Support](https://bit.ly/LABGURU\_1)
   * [🌐 Labguru Web Access](https://bit.ly/LABGURU\_3)
   * [🌐 Labguru Help Videos](https://bit.ly/LABGURU\_2)
+  * [🌐 reNEW Labguru Training Video 1](https://bit.ly/reNEW\_Train\_1)
+  * [🌐 reNEW Labguru Training Video 2](https://bit.ly/reNEW\_Train\_2)
 * [⚪ RDM  Kit for Life Sciences (Elixir)](https://bit.ly/RDM\_Kit)
 * [⚪ RDM Guide for Life Sciences (Elixir)](https://bit.ly/RDM\_GUIDE)
 
