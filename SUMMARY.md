@@ -9,8 +9,9 @@
   * [🔴 Seminar: Data Champions Program](data-champions/seminars/seminar-data-champions-program.md)
   * [🔴 Seminar: Data Management Plans](data-champions/seminars/seminar-data-management-plans.md)
   * [🔴 Seminar: Organizing Your Data](data-champions/seminars/seminar-organizing-your-data.md)
-  * [🔴 Seminar: Labguru Training Videos](https://kunet.ku.dk/work-areas/research/units/SUNDs-toolbox/labguru-eln/Pages/default.aspx#collapseMSOZoneCell\_WebPartWPQ3)
   * [🔴 Seminar: Organize Your Data ](https://bit.ly/File\_Name)
+  * [🔴 reNEW Labguru Training Video 1](https://bit.ly/reNEW\_Train\_1)
+  * [🔴 reNEW Labguru Training Video 2](https://bit.ly/reNEW\_Train\_2)
 
 ## Open Science&#x20;
 
