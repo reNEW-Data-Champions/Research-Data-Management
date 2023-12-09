@@ -121,7 +121,7 @@
 
 * [🟡 Monthly RDM Blogs](rdm-blog/monthly-rdm-blogs/README.md)
   * [🟡 Disclaimer](rdm-blog/monthly-rdm-blogs/disclaimer.md)
-  * [🟡 Blog Post - May  2023](rdm-blog/monthly-rdm-blogs/blog-post-may-2023.md)
+  * [🟡 Blog Post - May 203](rdm-blog/monthly-rdm-blogs/blog-post-may-203.md)
   * [🟡 Blog Post - June 2023](rdm-blog/monthly-rdm-blogs/blog-post-june-2023.md)
   * [🟡 Blog Post - July 2023](rdm-blog/monthly-rdm-blogs/blog-post-july-2023.md)
   * [🟡 Blog Post - Aug 2023](rdm-blog/monthly-rdm-blogs/blog-post-aug-2023.md)
