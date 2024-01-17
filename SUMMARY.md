@@ -128,4 +128,5 @@
   * [🟡 Blog Post - Sept 2023](rdm-blog/monthly-rdm-blogs/blog-post-sept-2023.md)
   * [🟡 Blog Post - Oct 2023](rdm-blog/monthly-rdm-blogs/blog-post-oct-2023.md)
   * [🟡 Blog Post - Nov 2023](rdm-blog/monthly-rdm-blogs/blog-post-nov-2023.md)
+  * [🟡 Blog Post - December 2023](rdm-blog/monthly-rdm-blogs/blog-post-december-2023.md)
 * [🟡 License  and Acknowledgements](rdm-blog/license-and-acknowledgements.md)
