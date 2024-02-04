@@ -2,8 +2,7 @@
 
 ## Data Champions
 
-* [🔴 RDM Month](README.md)
-* [🔴 Data Champions Program](<README (1).md>)
+* [🔴 Data Champions Program](README.md)
 * [🔴 Seminars](data-champions/seminars/README.md)
   * [🔴 Seminar Schedule](data-champions/seminars/seminar-schedule.md)
   * [🔴 Seminar: Data Champions Program](data-champions/seminars/seminar-data-champions-program.md)
@@ -12,6 +11,7 @@
   * [🔴 Seminar: Organize Your Data ](https://bit.ly/File\_Name)
   * [🔴 reNEW Labguru Training Video 1](https://bit.ly/reNEW\_Train\_1)
   * [🔴 reNEW Labguru Training Video 2](https://bit.ly/reNEW\_Train\_2)
+  * [🔴 RDM Month](data-champions/seminars/rdm-month.md)
 
 ## Open Science&#x20;
 
@@ -34,11 +34,12 @@
   * [🟣 File and Folder Tips IV](organize-your-data/file-and-folder-tips/file-and-folder-tips-iv.md)
   * [🟣 README File Template](organize-your-data/file-and-folder-tips/readme-file-template.md)
 
-## GDPR
+## GDPR Resources
 
-* [🔵 Data Protection Agency](gdpr/data-protection-agency.md)
-* [🔵 GDPR for Researchers](gdpr/gdpr-for-researchers.md)
-* [🔵 GDPR and Research](https://kunet.ku.dk/work-areas/research/data/personal-data/Pages/default.aspx)
+* [🔵 Data Protection Agency](gdpr-resources/data-protection-agency.md)
+* [🔵 GDPR for Researchers](gdpr-resources/gdpr-for-researchers.md)
+* [🔵 GDPR Resouces](https://kunet.ku.dk/work-areas/research/data/personal-data/Pages/default.aspx)
+* [🔵 GDPR - Project Like Mine](https://bit.ly/GDPR\_PLM)
 
 ## RDM Resources
 
