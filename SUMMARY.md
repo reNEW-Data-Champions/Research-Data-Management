@@ -13,12 +13,6 @@
   * [🔴 reNEW Labguru Training Video 2](https://bit.ly/reNEW\_Train\_2)
   * [🔴 RDM Month](data-champions/seminars/rdm-month.md)
 
-## Open Science&#x20;
-
-* [🟠 FAIR Principles](open-science/fair-principles.md)
-* [🟠 FAIR Principles - MP4](open-science/fair-principles-mp4.md)
-* [🟠 Open Science - 8 Pillars](open-science/open-science-8-pillars.md)
-
 ## Data Management
 
 * [🟡 Data Management Planning](data-management/data-management-planning.md)
@@ -41,6 +35,12 @@
 * [🔵 GDPR Resouces](https://kunet.ku.dk/work-areas/research/data/personal-data/Pages/default.aspx)
 * [🔵 GDPR - Project Like Mine](https://bit.ly/GDPR\_PLM)
 
+## Open Science&#x20;
+
+* [🟠 FAIR Principles](open-science/fair-principles.md)
+* [🟠 FAIR Principles - MP4](open-science/fair-principles-mp4.md)
+* [🟠 Open Science - 8 Pillars](open-science/open-science-8-pillars.md)
+
 ## RDM Resources
 
 * [🟢 Definitions for Data Management](rdm-resources/definitions-for-data-management.md)
@@ -59,6 +59,18 @@
     * [🟢 Marie Curie Fellows Website](https://marie-sklodowska-curie-actions.ec.europa.eu/)
 * [🟢 UCPH Research Portal](https://kunet.ku.dk/work-areas/research/Pages/default.aspx)
 * [🟢 UCPH Research Data Management  and GDPR Portal](https://kunet.ku.dk/work-areas/research/data/Pages/default.aspx)
+
+## Biomedical Resources
+
+* [⚪ Biomedical Data Repositories](biomedical-resources/biomedical-data-repositories.md)
+* [⚪ Labguru Support](biomedical-resources/labguru-support/README.md)
+  * [🌐 Labguru Support](https://bit.ly/LABGURU\_1)
+  * [🌐 Labguru Web Access](https://bit.ly/LABGURU\_3)
+  * [🌐 Labguru Help Videos](https://bit.ly/LABGURU\_2)
+  * [🌐 reNEW Labguru Training Video 1](https://bit.ly/reNEW\_Train\_1)
+  * [🌐 reNEW Labguru Training Video 2](https://bit.ly/reNEW\_Train\_2)
+* [⚪ RDM  Kit for Life Sciences (Elixir)](https://bit.ly/RDM\_Kit)
+* [⚪ RDM Guide for Life Sciences (Elixir)](https://bit.ly/RDM\_GUIDE)
 
 ## reNEW Resources
 
@@ -90,18 +102,6 @@
 * [🟤 UCPH HPC Guide](ucph-it-resources/ucph-hpc-guide.md)
 * [🟤 UCPH Data Storage](ucph-it-resources/ucph-data-storage.md)
 * [🟤 UCPH Research IT](https://kunet.ku.dk/work-areas/research/Research%20Infrastructure/research-it/Pages/default.aspx)
-
-## Biomedical Resources
-
-* [⚪ Biomedical Data Repositories](biomedical-resources/biomedical-data-repositories.md)
-* [⚪ Labguru Support](biomedical-resources/labguru-support/README.md)
-  * [🌐 Labguru Support](https://bit.ly/LABGURU\_1)
-  * [🌐 Labguru Web Access](https://bit.ly/LABGURU\_3)
-  * [🌐 Labguru Help Videos](https://bit.ly/LABGURU\_2)
-  * [🌐 reNEW Labguru Training Video 1](https://bit.ly/reNEW\_Train\_1)
-  * [🌐 reNEW Labguru Training Video 2](https://bit.ly/reNEW\_Train\_2)
-* [⚪ RDM  Kit for Life Sciences (Elixir)](https://bit.ly/RDM\_Kit)
-* [⚪ RDM Guide for Life Sciences (Elixir)](https://bit.ly/RDM\_GUIDE)
 
 ## Infographics
 
