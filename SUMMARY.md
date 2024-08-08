@@ -13,10 +13,10 @@
   * [🔴 reNEW Labguru Training Video 2](https://bit.ly/reNEW\_Train\_2)
   * [🔴 RDM Month](data-champions/seminars/rdm-month.md)
 
-## Data Management
+## Data Management Planning
 
-* [🟡 Data Management Planning](data-management/data-management-planning.md)
-* [🟡 Research Data Checlist](data-management/research-data-checlist.md)
+* [🟡 Data Management Planning](data-management-planning/data-management-planning.md)
+* [🟡 Research Data Checklist](data-management-planning/research-data-checklist.md)
 
 ## Organize Your Data
 
