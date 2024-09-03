@@ -9,6 +9,7 @@
   * [🔴 Seminar: Data Management Plans](data-champions/seminars/seminar-data-management-plans.md)
   * [🔴 Seminar: Organizing Your Data](data-champions/seminars/seminar-organizing-your-data.md)
   * [🔴 Seminar: Organize Your Data ](https://bit.ly/File\_Name)
+  * [🔴 OMERO Plus Demo - Glencoe Software](https://bit.ly/3XrwCGN)
   * [🔴 reNEW Labguru Training Video 1](https://bit.ly/reNEW\_Train\_1)
   * [🔴 reNEW Labguru Training Video 2](https://bit.ly/reNEW\_Train\_2)
   * [🔴 RDM Month](data-champions/seminars/rdm-month.md)
