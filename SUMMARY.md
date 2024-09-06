@@ -5,6 +5,7 @@
 * [🔴 Data Champions Program](README.md)
 * [🔴 Information Sessions](data-champions/seminars/README.md)
   * [🔴 Data Champions Program](data-champions/seminars/data-champions-program.md)
+  * [🔴 OMERO Plus Proof of Concept (POC) Report](data-champions/seminars/omero-plus-proof-of-concept-poc-report.md)
   * [🔴 Data Management Plans](data-champions/seminars/data-management-plans.md)
   * [🔴 Organizing Your Data](data-champions/seminars/organizing-your-data.md)
   * [🔴 RDM Month - 2024](data-champions/seminars/rdm-month.md)
@@ -52,13 +53,8 @@
 
 ## RDM Resources
 
-* [🟢 Definitions for Data Management](rdm-resources/definitions-for-data-management.md)
-* [🟢 DMP Resources](rdm-resources/dmp-resources/README.md)
-  * [🟢 UCPH DMP Template](rdm-resources/dmp-resources/ucph-dmp-template.md)
-  * [🟢 Guidelines: Horizon Europe DMP Template](rdm-resources/dmp-resources/guidelines-horizon-europe-dmp-template.md)
-  * [🟢 Horizon 2020 DMP Template](rdm-resources/dmp-resources/horizon-2020-dmp-template.md)
-  * [🟢 DeiC DMP](https://dmp.deic.dk/)
-  * [🟢 UCPH DMP Template](https://bit.ly/UCPHDMPTemplate)
+* [🟢 Data Management Terminology](rdm-resources/data-management-terminology.md)
+* [🟢 Research Data Management Checklist](rdm-resources/research-data-management-checklist.md)
 * [🟢 Marie Curie Fellows](rdm-resources/marie-curie-fellows/README.md)
   * [🟢 Marie Curie Fellowship Resources](rdm-resources/marie-curie-fellows/marie-curie-fellowship-resources/README.md)
     * [🟢 Implementation Guide for Marie Curie Fellows](rdm-resources/marie-curie-fellows/marie-curie-fellowship-resources/implementation-guide-for-marie-curie-fellows.md)
