@@ -3,15 +3,16 @@
 ## Data Champions
 
 * [🔴 Data Champions Program](README.md)
-* [🔴 Seminars](data-champions/seminars/README.md)
-  * [🔴 Seminar: Data Champions Program](data-champions/seminars/seminar-data-champions-program.md)
-  * [🔴 Seminar: Data Management Plans](data-champions/seminars/seminar-data-management-plans.md)
-  * [🔴 Seminar: Organizing Your Data](data-champions/seminars/seminar-organizing-your-data.md)
-  * [🔴 Seminar: Organize Your Data ](https://bit.ly/File\_Name)
+* [🔴 Information Sessions](data-champions/seminars/README.md)
+  * [🔴 Data Champions Program](data-champions/seminars/data-champions-program.md)
+  * [🔴 Data Management Plans](data-champions/seminars/data-management-plans.md)
+  * [🔴 Organizing Your Data](data-champions/seminars/organizing-your-data.md)
+  * [🔴 RDM Month - 2024](data-champions/seminars/rdm-month.md)
+* [🔴 Information Videos](data-champions/seminars-1/README.md)
+  * [🔴 Organize Your Data ](https://bit.ly/File\_Name)
   * [🔴 OMERO Plus Demo - Glencoe Software](https://bit.ly/3XrwCGN)
   * [🔴 reNEW Labguru Training Video 1](https://bit.ly/reNEW\_Train\_1)
   * [🔴 reNEW Labguru Training Video 2](https://bit.ly/reNEW\_Train\_2)
-  * [🔴 RDM Month - 2024](data-champions/seminars/rdm-month.md)
 
 ## Data Management Planning
 
