@@ -16,8 +16,14 @@
 
 ## Data Management Planning
 
-* [🟡 Data Management Planning](data-management-planning/data-management-planning.md)
 * [🟡 Research Data Checklist](data-management-planning/research-data-checklist.md)
+* [🟡 Data Management Planning](data-management-planning/data-management-planning.md)
+* [🟡 DMP Resources](data-management-planning/dmp-resources/README.md)
+  * [🟡 Guidelines: Horizon Europe DMP Template](data-management-planning/dmp-resources/guidelines-horizon-europe-dmp-template.md)
+  * [🟡 UCPH DMP Template](data-management-planning/dmp-resources/ucph-dmp-template.md)
+  * [🟡 Horizon 2020 DMP Template](data-management-planning/dmp-resources/horizon-2020-dmp-template.md)
+  * [🟡 DeiC DMP Web Page](https://dmp.deic.dk/)
+  * [🟡 Word - UCPH DMP Template](https://bit.ly/UCPHDMPTemplate)
 
 ## Organize Your Data
 
