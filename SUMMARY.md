@@ -3,6 +3,8 @@
 ## Data Champions
 
 * [🔴 Data Champions Program](README.md)
+  * [🔴 Onboarding: Data Champions Program](data-champions/data-champions-program/onboarding-data-champions-program.md)
+* [🔴 Guide Sheet: Research Data Management](data-champions/guide-sheet-research-data-management.md)
 * [🔴 RDM Month - 2024](data-champions/rdm-month.md)
 * [🔴 Information Sessions](data-champions/seminars/README.md)
   * [🔴 Data Champions Program](data-champions/seminars/data-champions-program.md)
@@ -29,15 +31,15 @@
   * [🟡 DeiC DMP Web Page](https://dmp.deic.dk/)
   * [🟡 Word - UCPH DMP Template](https://bit.ly/UCPHDMPTemplate)
 
-## Organize Your Data
+## Organizing Your Data
 
-* [🟣 Batch Renaming](organize-your-data/batch-renaming.md)
-* [🟣 File and Folder Tips](organize-your-data/file-and-folder-tips/README.md)
-  * [🟣 File and Folder Tips I](organize-your-data/file-and-folder-tips/file-and-folder-tips-i.md)
-  * [🟣 File and Folder Tips II](organize-your-data/file-and-folder-tips/file-and-folder-tips-ii.md)
-  * [🟣 File and Folder Tips III](organize-your-data/file-and-folder-tips/file-and-folder-tips-iii.md)
-  * [🟣 File and Folder Tips IV](organize-your-data/file-and-folder-tips/file-and-folder-tips-iv.md)
-  * [🟣 README File Template](organize-your-data/file-and-folder-tips/readme-file-template.md)
+* [🟣 Batch Renaming](organizing-your-data/batch-renaming.md)
+* [🟣 File and Folder Tips](organizing-your-data/file-and-folder-tips/README.md)
+  * [🟣 File and Folder Tips I](organizing-your-data/file-and-folder-tips/file-and-folder-tips-i.md)
+  * [🟣 File and Folder Tips II](organizing-your-data/file-and-folder-tips/file-and-folder-tips-ii.md)
+  * [🟣 File and Folder Tips III](organizing-your-data/file-and-folder-tips/file-and-folder-tips-iii.md)
+  * [🟣 File and Folder Tips IV](organizing-your-data/file-and-folder-tips/file-and-folder-tips-iv.md)
+  * [🟣 README File Template](organizing-your-data/file-and-folder-tips/readme-file-template.md)
 
 ## GDPR Resources
 
@@ -115,8 +117,8 @@
 * [🟠 Data Life Cycle](infographics/data-life-cycle.md)
 * [🟠 Data Management](infographics/data-management.md)
 * [🟠 Directory Structure ](infographics/directory-structure/README.md)
+  * [🟠 Directory Structure I](infographics/directory-structure/directory-structure-i.md)
   * [🟠 Directory Structure II](infographics/directory-structure/directory-structure-ii.md)
-  * [🟠 Directory Structure II](infographics/directory-structure/directory-structure-ii-1.md)
 * [🟠 FAIR Principles](infographics/fair-principles.md)
 * [🟠 File Naming Guide](infographics/file-naming-guide.md)
 * [🟠 Open Research Data Management Framework](infographics/open-research-data-management-framework.md)

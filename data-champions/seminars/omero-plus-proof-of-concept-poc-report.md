@@ -15,4 +15,4 @@ layout:
 
 # 🔴 OMERO Plus Proof of Concept (POC) Report
 
-{% embed url="https://bit.ly/3Zg1gVa" %}
+{% embed url="https://bit.ly/3Zg1gVa" fullWidth="true" %}

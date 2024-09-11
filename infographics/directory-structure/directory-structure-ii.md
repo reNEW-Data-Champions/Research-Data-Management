@@ -2,10 +2,16 @@
 description: Infographic
 ---
 
-# 🟠 Directory Structure Guide
+# 🟠 Directory Structure II
 
 <div data-full-width="true">
 
-<figure><img src="../../.gitbook/assets/Directory_Structure (1).jpg" alt=""><figcaption><p>Directory Structure Guide</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Directory and Naming Structure - 1.jpg" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+<div data-full-width="true">
+
+<figure><img src="../../.gitbook/assets/Directory and Naming Structure - 2.jpg" alt=""><figcaption><p>Directory and Naming Conventions</p></figcaption></figure>
 
 </div>
