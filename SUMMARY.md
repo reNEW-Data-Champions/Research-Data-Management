@@ -6,10 +6,10 @@
 * [🔴 RDM Month - 2024](data-champions/rdm-month.md)
 * [🔴 Information Sessions](data-champions/seminars/README.md)
   * [🔴 Data Champions Program](data-champions/seminars/data-champions-program.md)
-  * [🔴 OMERO Plus Proof of Concept (POC) Report](data-champions/seminars/omero-plus-proof-of-concept-poc-report.md)
   * [🔴 Data Management Plans](data-champions/seminars/data-management-plans.md)
-  * [🔴 Open Access Webinar - August 2024](data-champions/seminars/open-access-webinar-august-2024.md)
   * [🔴 Organizing Your Data](data-champions/seminars/organizing-your-data.md)
+  * [🔴 OMERO Plus Proof of Concept (POC) Report](data-champions/seminars/omero-plus-proof-of-concept-poc-report.md)
+  * [🔴 Open Access Webinar - August 2024](data-champions/seminars/open-access-webinar-august-2024.md)
 * [🔴 Information Videos](data-champions/seminars-1/README.md)
   * [🔴 Organize Your Data ](https://bit.ly/File\_Name)
   * [🔴 OMERO Plus Demo - Glencoe Software](https://bit.ly/3XrwCGN)
@@ -19,7 +19,7 @@
 ## Data Management Planning
 
 * [🟡 Research Data Checklist](data-management-planning/research-data-checklist.md)
-* [🟡 Data Management Planning](data-management-planning/data-management-planning.md)
+* [🟡 Data Management Plans](data-management-planning/data-management-plans.md)
 * [🟡 DMP Resources](data-management-planning/dmp-resources/README.md)
   * [🟡 Guidelines: Horizon Europe DMP ](data-management-planning/dmp-resources/guidelines-horizon-europe-dmp.md)
   * [🟡 Template: Horizon Europe DMP ](data-management-planning/dmp-resources/template-horizon-europe-dmp.md)
