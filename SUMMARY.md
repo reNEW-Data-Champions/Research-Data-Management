@@ -56,8 +56,8 @@
 
 ## RDM Resources
 
-* [🟢 Data Management Terminology](rdm-resources/data-management-terminology.md)
 * [🟢 Research Data Management Checklist](rdm-resources/research-data-management-checklist.md)
+* [🟢 Data Management Terminology](rdm-resources/data-management-terminology.md)
 * [🟢 Marie Curie Fellows](rdm-resources/marie-curie-fellows/README.md)
   * [🟢 Marie Curie Fellowship Resources](rdm-resources/marie-curie-fellows/marie-curie-fellowship-resources/README.md)
     * [🟢 Implementation Guide for Marie Curie Fellows](rdm-resources/marie-curie-fellows/marie-curie-fellowship-resources/implementation-guide-for-marie-curie-fellows.md)
@@ -65,8 +65,8 @@
     * [🟢 Horizon 2020 DMP Template Guidelines](rdm-resources/marie-curie-fellows/marie-curie-fellowship-resources/horizon-2020-dmp-template-guidelines.md)
     * [🟢 UCPH DMPOnline](https://dmponline.deic.dk/)
     * [🟢 Marie Curie Fellows Website](https://marie-sklodowska-curie-actions.ec.europa.eu/)
-* [🟢 UCPH Research Portal](https://kunet.ku.dk/work-areas/research/Pages/default.aspx)
 * [🟢 UCPH Research Data Management  and GDPR Portal](https://kunet.ku.dk/work-areas/research/data/Pages/default.aspx)
+* [🟢 UCPH Research Portal](https://kunet.ku.dk/work-areas/research/Pages/default.aspx)
 
 ## Biomedical Resources
 
