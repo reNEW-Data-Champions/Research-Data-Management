@@ -4,7 +4,6 @@
 
 * [🔴 Data Champions Program](README.md)
   * [🔴 Onboarding: Data Champions Program](data-champions/data-champions-program/onboarding-data-champions-program.md)
-* [🔴 Guide Sheet: Research Data Management](data-champions/guide-sheet-research-data-management.md)
 * [🔴 RDM Month - 2024](data-champions/rdm-month.md)
 * [🔴 Information Sessions](data-champions/seminars/README.md)
   * [🔴 Data Champions Program](data-champions/seminars/data-champions-program.md)
@@ -18,18 +17,34 @@
   * [🔴 reNEW Labguru Training Video 1](https://bit.ly/reNEW\_Train\_1)
   * [🔴 reNEW Labguru Training Video 2](https://bit.ly/reNEW\_Train\_2)
 
-## Data Management Planning
+## DMP Resources
 
-* [🟡 Research Data Checklist](data-management-planning/research-data-checklist.md)
-* [🟡 Data Management Plans](data-management-planning/data-management-plans.md)
-* [🟡 DMP Resources](data-management-planning/dmp-resources/README.md)
-  * [🟡 Guidelines: Horizon Europe DMP ](data-management-planning/dmp-resources/guidelines-horizon-europe-dmp.md)
-  * [🟡 Template: Horizon Europe DMP ](data-management-planning/dmp-resources/template-horizon-europe-dmp.md)
-  * [🟡 Template: UCPH DMP ](data-management-planning/dmp-resources/template-ucph-dmp.md)
-  * [🟡 Template: Horizon 2020 DMP ](data-management-planning/dmp-resources/template-horizon-2020-dmp.md)
-  * [🟡 Template: UCPH DMP](data-management-planning/dmp-resources/template-ucph-dmp-1.md)
+* [🟡 Guide Sheet: Data Management Plans](dmp-resources/guide-sheet-data-management-plans.md)
+* [🟡 Data Management Plans](dmp-resources/data-management-plans.md)
+* [🟡 Research Data Checklist](dmp-resources/research-data-checklist.md)
+* [🟡 DMP Resources](dmp-resources/dmp-resources/README.md)
+  * [🟡 Guidelines: Horizon Europe DMP ](dmp-resources/dmp-resources/guidelines-horizon-europe-dmp.md)
+  * [🟡 Template: Horizon Europe DMP ](dmp-resources/dmp-resources/template-horizon-europe-dmp.md)
+  * [🟡 Template: UCPH DMP ](dmp-resources/dmp-resources/template-ucph-dmp.md)
+  * [🟡 Template: Horizon 2020 DMP ](dmp-resources/dmp-resources/template-horizon-2020-dmp.md)
+  * [🟡 Template: UCPH DMP](dmp-resources/dmp-resources/template-ucph-dmp-1.md)
   * [🟡 DeiC DMP Web Page](https://dmp.deic.dk/)
   * [🟡 Word - UCPH DMP Template](https://bit.ly/UCPHDMPTemplate)
+
+## RDM Resources
+
+* [🟢 Guide Sheet: Research Data Management](rdm-resources/guide-sheet-research-data-management.md)
+* [🟢 Research Data Management Checklist](rdm-resources/research-data-management-checklist.md)
+* [🟢 Data Management Terminology](rdm-resources/data-management-terminology.md)
+* [🟢 Marie Curie Fellows](rdm-resources/marie-curie-fellows/README.md)
+  * [🟢 Marie Curie Fellowship Resources](rdm-resources/marie-curie-fellows/marie-curie-fellowship-resources/README.md)
+    * [🟢 Implementation Guide for Marie Curie Fellows](rdm-resources/marie-curie-fellows/marie-curie-fellowship-resources/implementation-guide-for-marie-curie-fellows.md)
+    * [🟢 Horizon 2020 DMP Template](rdm-resources/marie-curie-fellows/marie-curie-fellowship-resources/horizon-2020-dmp-template.md)
+    * [🟢 Horizon 2020 DMP Template Guidelines](rdm-resources/marie-curie-fellows/marie-curie-fellowship-resources/horizon-2020-dmp-template-guidelines.md)
+    * [🟢 UCPH DMPOnline](https://dmponline.deic.dk/)
+    * [🟢 Marie Curie Fellows Website](https://marie-sklodowska-curie-actions.ec.europa.eu/)
+* [🟢 UCPH Research Data Management  and GDPR Portal](https://kunet.ku.dk/work-areas/research/data/Pages/default.aspx)
+* [🟢 UCPH Research Portal](https://kunet.ku.dk/work-areas/research/Pages/default.aspx)
 
 ## Organizing Your Data
 
@@ -53,20 +68,6 @@
 * [🟠 FAIR Principles](open-science/fair-principles.md)
 * [🟠 FAIR Principles - MP4](open-science/fair-principles-mp4.md)
 * [🟠 Open Science - 8 Pillars](open-science/open-science-8-pillars.md)
-
-## RDM Resources
-
-* [🟢 Research Data Management Checklist](rdm-resources/research-data-management-checklist.md)
-* [🟢 Data Management Terminology](rdm-resources/data-management-terminology.md)
-* [🟢 Marie Curie Fellows](rdm-resources/marie-curie-fellows/README.md)
-  * [🟢 Marie Curie Fellowship Resources](rdm-resources/marie-curie-fellows/marie-curie-fellowship-resources/README.md)
-    * [🟢 Implementation Guide for Marie Curie Fellows](rdm-resources/marie-curie-fellows/marie-curie-fellowship-resources/implementation-guide-for-marie-curie-fellows.md)
-    * [🟢 Horizon 2020 DMP Template](rdm-resources/marie-curie-fellows/marie-curie-fellowship-resources/horizon-2020-dmp-template.md)
-    * [🟢 Horizon 2020 DMP Template Guidelines](rdm-resources/marie-curie-fellows/marie-curie-fellowship-resources/horizon-2020-dmp-template-guidelines.md)
-    * [🟢 UCPH DMPOnline](https://dmponline.deic.dk/)
-    * [🟢 Marie Curie Fellows Website](https://marie-sklodowska-curie-actions.ec.europa.eu/)
-* [🟢 UCPH Research Data Management  and GDPR Portal](https://kunet.ku.dk/work-areas/research/data/Pages/default.aspx)
-* [🟢 UCPH Research Portal](https://kunet.ku.dk/work-areas/research/Pages/default.aspx)
 
 ## Biomedical Resources
 

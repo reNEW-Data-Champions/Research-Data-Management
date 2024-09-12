@@ -2,7 +2,7 @@
 description: The Importance of Research Data Management
 ---
 
-# 🔴 Guide Sheet: Research Data Management
+# 🟢 Guide Sheet: Research Data Management
 
 
 
