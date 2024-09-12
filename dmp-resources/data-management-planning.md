@@ -2,7 +2,7 @@
 description: The Importance of Research Data Management
 ---
 
-# 🟡 Guide Sheet: Data Management Plans
+# 🟡 Data Management Planning
 
 
 

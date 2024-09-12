@@ -1,2 +1,0 @@
-# 🟢 Marie Curie Fellowship Resources
-
