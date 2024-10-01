@@ -38,7 +38,7 @@
     * [🟡 10X scRNA Sequencing](dmp-resources/templates/genomics/10x-scrna-sequencing.md)
     * [🟡 Bulk RNA Sequencing](dmp-resources/templates/genomics/bulk-rna-sequencing.md)
     * [🟡 ChiPseq ATAC Sequencing](dmp-resources/templates/genomics/chipseq-atac-sequencing.md)
-    * [🟡 CUT and RUN CUT and TAG Sequencing](dmp-resources/templates/genomics/cut-and-run-cut-and-tag-sequencing.md)
+    * [🟡 CUT and RUN/CUT and TAG Sequencing](dmp-resources/templates/genomics/cut-and-run-cut-and-tag-sequencing.md)
     * [🟡 Whole Genome Sequencing](dmp-resources/templates/genomics/whole-genome-sequencing.md)
   * [🟡 UCPH](dmp-resources/templates/ucph.md)
 
