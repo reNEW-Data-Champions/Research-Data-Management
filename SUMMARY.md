@@ -44,9 +44,9 @@
 
 ***
 
-* [EOSC - European Open Science Cloud](eosc-european-open-science-cloud/README.md)
-  * [⚪ RDM  Kit for Life Sciences (Elixir)](https://bit.ly/RDM\_Kit)
-  * [⚪ RDM Guide for Life Sciences (Elixir)](https://bit.ly/RDM\_GUIDE)
+* [EOSC - European Open Science Cloud](eosc-european-open-science-cloud.md)
+* [🟠 RDM Guide for Life Sciences (Elixir)](https://bit.ly/RDM\_GUIDE)
+* [🟠 RDM  Kit for Life Sciences (Elixir)](https://bit.ly/RDM\_Kit)
 
 ## RDM Resources
 
