@@ -42,6 +42,12 @@
     * [🟡 Whole Genome Sequencing](dmp-resources/templates/genomics/whole-genome-sequencing.md)
   * [🟡 UCPH](dmp-resources/templates/ucph.md)
 
+***
+
+* [EOSC - European Open Science Cloud](eosc-european-open-science-cloud/README.md)
+  * [⚪ RDM  Kit for Life Sciences (Elixir)](https://bit.ly/RDM\_Kit)
+  * [⚪ RDM Guide for Life Sciences (Elixir)](https://bit.ly/RDM\_GUIDE)
+
 ## RDM Resources
 
 * [🟢 Data Management Terminology](rdm-resources/data-management-terminology.md)
@@ -82,8 +88,6 @@
   * [🌐 Labguru Help Videos](https://bit.ly/LABGURU\_2)
   * [🌐 reNEW Labguru Training Video 1](https://bit.ly/reNEW\_Train\_1)
   * [🌐 reNEW Labguru Training Video 2](https://bit.ly/reNEW\_Train\_2)
-* [⚪ RDM  Kit for Life Sciences (Elixir)](https://bit.ly/RDM\_Kit)
-* [⚪ RDM Guide for Life Sciences (Elixir)](https://bit.ly/RDM\_GUIDE)
 
 ## reNEW Resources
 
