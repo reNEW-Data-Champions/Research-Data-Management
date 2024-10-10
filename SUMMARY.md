@@ -29,6 +29,7 @@
 * [🟡 Marie Curie Fellowship Resources](dmp-resources/marie-curie-fellowship-resources/README.md)
   * [🟡 Implementation Guide for Marie Curie Fellows](dmp-resources/marie-curie-fellowship-resources/implementation-guide-for-marie-curie-fellows.md)
   * [🟡 Marie Curie Fellows Website](https://marie-sklodowska-curie-actions.ec.europa.eu/resources-0)
+* [🟡 Research Project Process](dmp-resources/research-project-process.md)
 * [🟡 Templates](dmp-resources/templates/README.md)
   * [🟡 EU Grants](dmp-resources/templates/eu-grants/README.md)
     * [🟡 Horizon Europe DMP ](dmp-resources/templates/eu-grants/horizon-europe-dmp.md)
