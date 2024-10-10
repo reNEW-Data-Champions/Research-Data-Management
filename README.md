@@ -31,7 +31,7 @@ layout:
 **Effective RDM ensures that data are:**
 
 * **Findable:** Data should be easily located and accessed.
-* **Accessible:** If necessary, data should be available to authorized users and systems with clearly defined access restrictions.
+* **Accessible:** Data should be available to authorized users and systems with clearly defined access restrictions if necessary.
 * **Interoperable:** Data should be presented in a format that can be used in different systems, ideally with standardized metadata to support integration with other datasets.
 * **Reusable:** Data should be well-documented and maintained to ensure they can be used in the future by other researchers or for different research projects.
 
