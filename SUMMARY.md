@@ -3,7 +3,6 @@
 ## Data Champions
 
 * [🔴 Data Champions Program](README.md)
-  * [🔴 Onboarding: Data Champions Program](data-champions/data-champions-program/onboarding-data-champions-program.md)
 * [🔴 Information Sessions](data-champions/seminars/README.md)
   * [🔴 Data Champions Program](data-champions/seminars/data-champions-program.md)
   * [🔴 Data Management Plans](data-champions/seminars/data-management-plans.md)
@@ -16,6 +15,21 @@
   * [🔴 reNEW Labguru Training Video 1](https://bit.ly/reNEW\_Train\_1)
   * [🔴 reNEW Labguru Training Video 2](https://bit.ly/reNEW\_Train\_2)
 * [🔴 RDM Month - 2024](data-champions/rdm-month.md)
+
+## Onboarding at reNEW
+
+* [🔵 Information Sessions](onboarding-at-renew/seminars/README.md)
+  * [🔵 Data Champions Program](onboarding-at-renew/seminars/data-champions-program.md)
+  * [🔵 Data Management Plans](onboarding-at-renew/seminars/data-management-plans.md)
+  * [🔵 Organizing Your Data](onboarding-at-renew/seminars/organizing-your-data.md)
+  * [🔵 OMERO Plus Proof of Concept (POC) Report](onboarding-at-renew/seminars/omero-plus-proof-of-concept-poc-report.md)
+  * [🔵 Open Access Webinar - August 2024](onboarding-at-renew/seminars/open-access-webinar-august-2024.md)
+* [🔵 Information Videos](onboarding-at-renew/seminars-1/README.md)
+  * [🔵 Organize Your Data ](https://bit.ly/File\_Name)
+  * [🔵 OMERO Plus Demo - Glencoe Software](https://bit.ly/3XrwCGN)
+  * [🔵 reNEW Labguru Training Video 1](https://bit.ly/reNEW\_Train\_1)
+  * [🔵 reNEW Labguru Training Video 2](https://bit.ly/reNEW\_Train\_2)
+* [🔵 Onboarding: Data Champions Program](onboarding-at-renew/onboarding-data-champions-program.md)
 
 ## DMP Resources
 
