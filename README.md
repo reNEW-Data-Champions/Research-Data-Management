@@ -15,12 +15,6 @@ layout:
 
 # 🔴 Data Champions Program
 
-<div data-full-width="true">
-
-<figure><img src=".gitbook/assets/ReNEW_Logo_Tagline_FullColour_2022.png" alt=""><figcaption><p>Novo Nordisk Foundation Center for Stem Cell Medicine - reNEW</p></figcaption></figure>
-
-</div>
-
 
 
 
