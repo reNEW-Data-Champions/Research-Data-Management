@@ -23,6 +23,18 @@
 
 * [🟡 Data Management Planning](dmp-resources/data-management-planning.md)
 * [🟡 DeiC DMP Online](https://dmp.deic.dk/)
+* [🟡 DMP Templates](dmp-resources/dmp-templates/README.md)
+  * [🟡 EU Grants](dmp-resources/dmp-templates/eu-grants/README.md)
+    * [🟡 Horizon Europe DMP ](dmp-resources/dmp-templates/eu-grants/horizon-europe-dmp.md)
+    * [🟡 Horizon 2020 DMP ](dmp-resources/dmp-templates/eu-grants/horizon-2020-dmp.md)
+    * [🟡 ERC DMP](dmp-resources/dmp-templates/eu-grants/erc-dmp.md)
+  * [🟡 Genomics](dmp-resources/dmp-templates/genomics/README.md)
+    * [🟡 10X scRNA Sequencing](dmp-resources/dmp-templates/genomics/10x-scrna-sequencing.md)
+    * [🟡 Bulk RNA Sequencing](dmp-resources/dmp-templates/genomics/bulk-rna-sequencing.md)
+    * [🟡 ChiPseq ATAC Sequencing](dmp-resources/dmp-templates/genomics/chipseq-atac-sequencing.md)
+    * [🟡 CUT and RUN/CUT and TAG Sequencing](dmp-resources/dmp-templates/genomics/cut-and-run-cut-and-tag-sequencing.md)
+    * [🟡 Whole Genome Sequencing](dmp-resources/dmp-templates/genomics/whole-genome-sequencing.md)
+  * [🟡 UCPH](dmp-resources/dmp-templates/ucph.md)
 * [🟡 DMP Examples](https://phaidra.univie.ac.at/search?page=1\&pagesize=50)
 * [🟡 Guidelines : DMP](dmp-resources/guidelines-dmp/README.md)
   * [🟡 Horizon Europe DMP](dmp-resources/guidelines-dmp/horizon-europe-dmp.md)
@@ -32,27 +44,16 @@
   * [🟡 Implementation Guide for Marie Curie Fellows](dmp-resources/marie-curie-fellowship-resources/implementation-guide-for-marie-curie-fellows.md)
   * [🟡 Marie Curie Fellows Website](https://marie-sklodowska-curie-actions.ec.europa.eu/resources-0)
 * [🟡 Research Project Process](dmp-resources/research-project-process.md)
-* [🟡 Templates](dmp-resources/templates/README.md)
-  * [🟡 EU Grants](dmp-resources/templates/eu-grants/README.md)
-    * [🟡 Horizon Europe DMP ](dmp-resources/templates/eu-grants/horizon-europe-dmp.md)
-    * [🟡 Horizon 2020 DMP ](dmp-resources/templates/eu-grants/horizon-2020-dmp.md)
-    * [🟡 ERC DMP](dmp-resources/templates/eu-grants/erc-dmp.md)
-  * [🟡 Genomics](dmp-resources/templates/genomics/README.md)
-    * [🟡 10X scRNA Sequencing](dmp-resources/templates/genomics/10x-scrna-sequencing.md)
-    * [🟡 Bulk RNA Sequencing](dmp-resources/templates/genomics/bulk-rna-sequencing.md)
-    * [🟡 ChiPseq ATAC Sequencing](dmp-resources/templates/genomics/chipseq-atac-sequencing.md)
-    * [🟡 CUT and RUN/CUT and TAG Sequencing](dmp-resources/templates/genomics/cut-and-run-cut-and-tag-sequencing.md)
-    * [🟡 Whole Genome Sequencing](dmp-resources/templates/genomics/whole-genome-sequencing.md)
-  * [🟡 UCPH](dmp-resources/templates/ucph.md)
 
-***
+## EOSC
 
-* [EOSC - European Open Science Cloud](eosc-european-open-science-cloud.md)
+* [🟠 European Open Science Cloud](eosc/european-open-science-cloud.md)
 * [🟠 RDM Guide for Life Sciences (Elixir)](https://bit.ly/RDM\_GUIDE)
 * [🟠 RDM  Kit for Life Sciences (Elixir)](https://bit.ly/RDM\_Kit)
 
 ## RDM Resources
 
+* [🟢 Research Data Management](rdm-resources/research-data-management.md)
 * [🟢 Data Management Terminology](rdm-resources/data-management-terminology.md)
 * [🟢 Guide Sheet: Research Data Management](data-champions/guide-sheet-research-data-management.md)
 * [🟢 Research Data Management Checklist](rdm-resources/research-data-management-checklist.md)

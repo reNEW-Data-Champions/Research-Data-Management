@@ -2,12 +2,12 @@
 description: What is the EOSC and What it means to researchers?
 ---
 
-# EOSC - European Open Science Cloud
+# 🟠 European Open Science Cloud
 
 {% hint style="info" %}
 The **European Open Science Cloud (EOSC)** is an initiative by the European Commission aimed at developing a federated, open, and seamless infrastructure for research data and services across Europe. EOSC aims to provide European researchers and scientists access to a shared virtual environment to store, manage, analyze, and reuse data from various scientific disciplines. This infrastructure is designed to facilitate the adoption of **Open Science practices**, promote **FAIR principles** (Findable, Accessible, Interoperable, and Reusable data), and foster collaboration among researchers across Europe.
 
-Key objectives of EOSC include:
+**Key objectives of EOSC include:**
 
 1. **Data Sharing and Reuse**: Encouraging researchers to share their data, making it accessible and reusable within and across disciplines.
 2. **Federated Infrastructure**: Connecting existing data infrastructures, repositories, and services from across Europe into a single, user-friendly platform.
