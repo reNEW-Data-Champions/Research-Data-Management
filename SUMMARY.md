@@ -3,6 +3,8 @@
 ## Data Champions
 
 * [🔴 Data Champions Program](README.md)
+* [🔴 License and Reusability](data-champions/license-and-reusability.md)
+* [🔴 Contact Details](data-champions/contact-details.md)
 
 ## Onboarding at reNEW
 
@@ -21,7 +23,7 @@
 
 ## DMP Resources
 
-* [🟡 Data Management Planning](dmp-resources/data-management-planning.md)
+* [🟡 DMP Planning](dmp-resources/dmp-planning.md)
 * [🟡 DeiC DMP Online](https://dmp.deic.dk/)
 * [🟡 DMP Templates](dmp-resources/dmp-templates/README.md)
   * [🟡 EU Grants](dmp-resources/dmp-templates/eu-grants/README.md)
@@ -40,8 +42,8 @@
   * [🟡 Horizon Europe DMP](dmp-resources/guidelines-dmp/horizon-europe-dmp.md)
   * [🟡 Horizon 2020 DMP](dmp-resources/guidelines-dmp/horizon-2020-dmp.md)
   * [🟡 ERC DMP](dmp-resources/guidelines-dmp/erc-dmp.md)
-* [🟡 Marie Curie Fellowship Resources](dmp-resources/marie-curie-fellowship-resources/README.md)
-  * [🟡 Implementation Guide for Marie Curie Fellows](dmp-resources/marie-curie-fellowship-resources/implementation-guide-for-marie-curie-fellows.md)
+* [🟡 Marie Curie Program](dmp-resources/marie-curie-program/README.md)
+  * [🟡 Implementation Guide for Marie Curie Fellows](dmp-resources/marie-curie-program/implementation-guide-for-marie-curie-fellows.md)
   * [🟡 Marie Curie Fellows Website](https://marie-sklodowska-curie-actions.ec.europa.eu/resources-0)
 * [🟡 Research Project Process](dmp-resources/research-project-process.md)
 
