@@ -136,7 +136,7 @@
   * [🟠 Directory Structure II](infographics/directory-structure/directory-structure-ii.md)
 * [🟠 FAIR Principles](infographics/fair-principles.md)
 * [🟠 File Naming Guide](infographics/file-naming-guide.md)
-* [🟠 Open Research Data Management Framework](infographics/open-research-data-management-framework.md)
+* [🟠 Research Open Data Management Framework](infographics/research-open-data-management-framework.md)
 * [🟠 Open Science Pillars](infographics/open-science-pillars.md)
 * [🟠 The Research Process](infographics/the-research-process.md)
 * [🟠 UCPH HPC Quick Guide](infographics/ucph-hpc-quick-guide.md)
