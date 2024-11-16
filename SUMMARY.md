@@ -13,13 +13,13 @@
   * [🔵 Data Management Plans](onboarding-at-renew/seminars/data-management-plans.md)
   * [🔵 Organizing Your Data](onboarding-at-renew/seminars/organizing-your-data.md)
   * [🔵 OMERO Plus Proof of Concept (POC) Report](onboarding-at-renew/seminars/omero-plus-proof-of-concept-poc-report.md)
+  * [🔵 Onboarding at reNEW](onboarding-at-renew/seminars/onboarding-at-renew.md)
   * [🔵 Open Access Webinar - August 2024](onboarding-at-renew/seminars/open-access-webinar-august-2024.md)
 * [🔵 Information Videos](onboarding-at-renew/seminars-1/README.md)
   * [🔵 Organize Your Data ](https://bit.ly/File\_Name)
   * [🔵 OMERO Plus Demo - Glencoe Software](https://bit.ly/3XrwCGN)
   * [🔵 reNEW Labguru Training Video 1](https://bit.ly/reNEW\_Train\_1)
   * [🔵 reNEW Labguru Training Video 2](https://bit.ly/reNEW\_Train\_2)
-* [🔵 Onboarding at reNEW](onboarding-at-renew/onboarding-at-renew.md)
 
 ## DMP Resources
 
@@ -56,7 +56,6 @@
 ## RDM Resources
 
 * [🟢 Research Data Management](rdm-resources/research-data-management.md)
-* [🟢 Data Management Terminology](rdm-resources/data-management-terminology.md)
 * [🟢 Guide Sheet: Research Data Management](data-champions/guide-sheet-research-data-management.md)
 * [🟢 Research Data Management Checklist](rdm-resources/research-data-management-checklist.md)
 * [🟢 UCPH Research Data Management  and GDPR Portal](https://kunet.ku.dk/work-areas/research/data/Pages/default.aspx)
