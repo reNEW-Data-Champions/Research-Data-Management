@@ -140,15 +140,15 @@
 * [🟠 The Research Process](infographics/the-research-process.md)
 * [🟠 UCPH HPC Quick Guide](infographics/ucph-hpc-quick-guide.md)
 
-## RDM Blog
+## reNEW RDM Blog
 
-* [🟡 Monthly RDM Blogs](rdm-blog/monthly-rdm-blogs/README.md)
-  * [🟡 Disclaimer](rdm-blog/monthly-rdm-blogs/disclaimer.md)
-  * [🟡 Blog Post - May 2024](rdm-blog/monthly-rdm-blogs/blog-post-may-2024.md)
-  * [🟡 Blog Post - June 2024](rdm-blog/monthly-rdm-blogs/blog-post-june-2024.md)
-  * [🟡 Blog Post - July 2024](rdm-blog/monthly-rdm-blogs/blog-post-july-2024.md)
-  * [🟡 Blog Post - Aug 2024](rdm-blog/monthly-rdm-blogs/blog-post-aug-2024.md)
-  * [🟡 Blog Post - Sept 2024](rdm-blog/monthly-rdm-blogs/blog-post-sept-2024.md)
-  * [🟡 Blog Post - Oct 2024](rdm-blog/monthly-rdm-blogs/blog-post-oct-2024.md)
-  * [🟡 Blog Post - Nov 2024](rdm-blog/monthly-rdm-blogs/blog-post-nov-2024.md)
-* [🟡 License  and Acknowledgements](rdm-blog/license-and-acknowledgements.md)
+* [🟡 Monthly Blog](renew-rdm-blog/monthly-blog/README.md)
+  * [🟡 Disclaimer](renew-rdm-blog/monthly-blog/disclaimer.md)
+  * [🟡 Blog Post - May 2024](renew-rdm-blog/monthly-blog/blog-post-may-2024.md)
+  * [🟡 Blog Post - June 2024](renew-rdm-blog/monthly-blog/blog-post-june-2024.md)
+  * [🟡 Blog Post - July 2024](renew-rdm-blog/monthly-blog/blog-post-july-2024.md)
+  * [🟡 Blog Post - Aug 2024](renew-rdm-blog/monthly-blog/blog-post-aug-2024.md)
+  * [🟡 Blog Post - Sept 2024](renew-rdm-blog/monthly-blog/blog-post-sept-2024.md)
+  * [🟡 Blog Post - Oct 2024](renew-rdm-blog/monthly-blog/blog-post-oct-2024.md)
+  * [🟡 Blog Post - Nov 2024](renew-rdm-blog/monthly-blog/blog-post-nov-2024.md)
+* [🟡 License  and Acknowledgements](renew-rdm-blog/license-and-acknowledgements.md)
