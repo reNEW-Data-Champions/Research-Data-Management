@@ -13,7 +13,7 @@ layout:
     visible: true
 ---
 
-# 🔴 Data Champions Program
+# 🔵 Data Champions Program
 
 {% hint style="info" %}
 The **Data Champions initiative**, originally conceived at the University of Cambridge, has been meticulously adapted to the distinctive context of the reNEW Research Group at the University of Copenhagen. Within this specialized environment, reNEW Data Champions (DCs) assume pivotal roles as voluntary advisors, leading their respective research groups in adopting exemplary practices for research data management. Their advocacy for rigorous RDM and unwavering support for the FAIR research principles is paramount, ensuring that data remains Findable, Accessible, Interoperable, and Reusable.

@@ -13,6 +13,6 @@ layout:
     visible: true
 ---
 
-# 🔵 OMERO Plus Proof of Concept (POC) Report
+# 🔴 OMERO Plus Proof of Concept (POC) Report
 
 {% embed url="https://bit.ly/3Zg1gVa" fullWidth="true" %}
