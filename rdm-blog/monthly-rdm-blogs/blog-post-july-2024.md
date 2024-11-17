@@ -1,8 +1,8 @@
 ---
-description: July 3, 2023 - Blog Post
+description: July 3, 2024 - Blog Post
 ---
 
-# 🟡 Blog Post - July 2023
+# 🟡 Blog Post - July 2024
 
 ## Leveraging Machine-Actionable DMPs for Enhanced Research Workflows
 

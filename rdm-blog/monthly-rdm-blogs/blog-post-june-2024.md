@@ -1,8 +1,8 @@
 ---
-description: June 18, 2023 - Blog Post
+description: June 18, 2024 - Blog Post
 ---
 
-# 🟡 Blog Post - June 2023
+# 🟡 Blog Post - June 2024
 
 ## Biomedical Research Infrastructure and the Imperative for Robust Research Data Management: A Personal Perspective
 
@@ -23,7 +23,7 @@ At this infrastructure's core sits RDM. This crucial discipline oversees all dat
 * Facilitating data reproducibility
 * Meeting ethical and legal data requirements
 * Providing data security
-* Fostering collaborations data sharing, and
+* Fostering collaborations, data sharing, and
 * Ensuring the longevity and preservation of data for future use.
 
 

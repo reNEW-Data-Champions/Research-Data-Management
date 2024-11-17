@@ -1,8 +1,8 @@
 ---
-description: October 17, 2023 - Blog Post
+description: October 17, 2024 - Blog Post
 ---
 
-# 🟡 Blog Post - Oct 2023
+# 🟡 Blog Post - Oct 2024
 
 ## Elevating Stem Cell Medicine through Data Governance at reNEW
 

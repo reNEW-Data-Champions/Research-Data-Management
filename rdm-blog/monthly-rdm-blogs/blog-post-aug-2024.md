@@ -1,8 +1,8 @@
 ---
-description: August 10, 2023 - Blog Post
+description: August 10, 2024 - Blog Post
 ---
 
-# 🟡 Blog Post - Aug 2023
+# 🟡 Blog Post - Aug 2024
 
 ## Research Data Management at Universities: Storage Solutions
 

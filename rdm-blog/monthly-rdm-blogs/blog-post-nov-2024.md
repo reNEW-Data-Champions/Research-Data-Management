@@ -1,8 +1,8 @@
 ---
-description: November 4, 2023 - Blog Post
+description: November 4, 2024 - Blog Post
 ---
 
-# 🟡 Blog Post - Nov 2023
+# 🟡 Blog Post - Nov 2024
 
 ## **Enhancing Research Efficiency with Data Discovery Solutions**
 
