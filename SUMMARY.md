@@ -16,10 +16,10 @@
   * [🔴 Onboarding at reNEW](onboarding-at-renew/seminars/onboarding-at-renew.md)
   * [🔴 Open Access Webinar - August 2024](onboarding-at-renew/seminars/open-access-webinar-august-2024.md)
 * [🔴 Information Videos](onboarding-at-renew/seminars-1/README.md)
-  * [🔴 Organize Your Data ](https://bit.ly/File\_Name)
+  * [🔴 Organize Your Data ](https://bit.ly/File_Name)
   * [🔴 OMERO Plus Demo - Glencoe Software](https://bit.ly/3XrwCGN)
-  * [🔴 reNEW Labguru Training Video 1](https://bit.ly/reNEW\_Train\_1)
-  * [🔴 reNEW Labguru Training Video 2](https://bit.ly/reNEW\_Train\_2)
+  * [🔴 reNEW Labguru Training Video 1](https://bit.ly/reNEW_Train_1)
+  * [🔴 reNEW Labguru Training Video 2](https://bit.ly/reNEW_Train_2)
 
 ## DMP Resources
 
@@ -47,11 +47,11 @@
   * [🟡 Marie Curie Fellows Website](https://marie-sklodowska-curie-actions.ec.europa.eu/resources-0)
 * [🟡 Research Project Process](dmp-resources/research-project-process.md)
 
-## EOSC
+## EOSC and Elixir
 
-* [🟠 European Open Science Cloud](eosc/european-open-science-cloud.md)
-* [🟠 RDM Guide for Life Sciences (Elixir)](https://bit.ly/RDM\_GUIDE)
-* [🟠 RDM  Kit for Life Sciences (Elixir)](https://bit.ly/RDM\_Kit)
+* [🟠 European Open Science Cloud](eosc-and-elixir/european-open-science-cloud.md)
+* [🟠 RDM Guide for Life Sciences (Elixir)](https://bit.ly/RDM_GUIDE)
+* [🟠 RDM  Kit for Life Sciences (Elixir)](https://bit.ly/RDM_Kit)
 
 ## RDM Resources
 
@@ -76,7 +76,7 @@
 * [🔵 Data Protection Agency](gdpr-resources/data-protection-agency.md)
 * [🔵 GDPR for Researchers](gdpr-resources/gdpr-for-researchers.md)
 * [🔵 GDPR Resouces](https://kunet.ku.dk/work-areas/research/data/personal-data/Pages/default.aspx)
-* [🔵 GDPR - Project Like Mine](https://bit.ly/GDPR\_PLM)
+* [🔵 GDPR - Project Like Mine](https://bit.ly/GDPR_PLM)
 
 ## Open Science&#x20;
 
@@ -88,24 +88,24 @@
 
 * [⚪ Biomedical Data Repositories](biomedical-resources/biomedical-data-repositories.md)
 * [⚪ Labguru Support](biomedical-resources/labguru-support/README.md)
-  * [⚪ Labguru Support](https://bit.ly/LABGURU\_1)
-  * [⚪ Labguru Web Access](https://bit.ly/LABGURU\_3)
-  * [⚪ Labguru Help Videos](https://bit.ly/LABGURU\_2)
-  * [⚪ reNEW Labguru Training Video 1](https://bit.ly/reNEW\_Train\_1)
-  * [⚪ reNEW Labguru Training Video 2](https://bit.ly/reNEW\_Train\_2)
+  * [⚪ Labguru Support](https://bit.ly/LABGURU_1)
+  * [⚪ Labguru Web Access](https://bit.ly/LABGURU_3)
+  * [⚪ Labguru Help Videos](https://bit.ly/LABGURU_2)
+  * [⚪ reNEW Labguru Training Video 1](https://bit.ly/reNEW_Train_1)
+  * [⚪ reNEW Labguru Training Video 2](https://bit.ly/reNEW_Train_2)
 
 ## reNEW Resources
 
 * [🟣 reNEW Websites](renew-resources/renew-websites/README.md)
   * [🌎 reNEW Website](https://renew.science/)
-  * [🌎 reNEW Connect](https://alumni.sharepoint.com/sites/UCPH\_reNEWConnect/SitePages/Home.aspx)
+  * [🌎 reNEW Connect](https://alumni.sharepoint.com/sites/UCPH_reNEWConnect/SitePages/Home.aspx)
   * [🌎 reNEW KUnet](https://kunet.ku.dk/faculty-and-department/renew/Pages/default.aspx)
-  * [🌎 reNEW Genomics](https://bit.ly/reNEW\_GEN)
+  * [🌎 reNEW Genomics](https://bit.ly/reNEW_GEN)
   * [🌎 reNEW Imaging](https://kunet.ku.dk/faculty-and-department/renew/Labs%20and%20Research%20Platforms/Research%20Platforms/Imaging%20Platform/Pages/default.aspx)
   * [🌎 reNEW DanGPU](https://bit.ly/DANGPU)
   * [🌎 reNEW Flow Cy](https://kunet.ku.dk/faculty-and-department/renew/Labs%20and%20Research%20Platforms/Research%20Platforms/Flow%20Cytometry%20Platform/Pages/default.aspx)
 * [🟣 reNEW Social Media](renew-resources/renew-social-media/README.md)
-  * [🌐 Twitter](https://twitter.com/renew\_global)
+  * [🌐 Twitter](https://twitter.com/renew_global)
   * [🌐 LinkedIn](https://www.linkedin.com/showcase/novo-nordisk-foundation-center-for-stem-cell-medicine-renew/)
 * [🟣 Research Groups](renew-resources/research-groups/README.md)
   * [🟣 Aragona Group](renew-resources/research-groups/aragona-group.md)

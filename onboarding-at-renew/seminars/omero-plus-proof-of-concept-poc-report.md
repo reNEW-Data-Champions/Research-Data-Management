@@ -1,5 +1,6 @@
 ---
 description: 'Organizing Your Data: Tips and Recommendations Seminar'
+hidden: true
 layout:
   title:
     visible: true

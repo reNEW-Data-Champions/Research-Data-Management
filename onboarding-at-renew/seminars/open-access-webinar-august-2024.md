@@ -1,5 +1,6 @@
 ---
 description: The Guide to the FAIR Principles
+hidden: true
 ---
 
 # 🔴 Open Access Webinar - August 2024
