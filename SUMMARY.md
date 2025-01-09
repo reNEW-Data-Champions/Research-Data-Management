@@ -25,6 +25,7 @@
 
 * [🟡 DMP Planning](dmp-resources/dmp-planning.md)
 * [🟡 DeiC DMP Online](https://dmp.deic.dk/)
+* [🟡 Webinar - Preparing Horizon Europe DMP](https://deic.dk/da/event/webinar-14062023)
 * [🟡 DMP Templates](dmp-resources/dmp-templates/README.md)
   * [🟡 EU Grants](dmp-resources/dmp-templates/eu-grants/README.md)
     * [🟡 Horizon Europe DMP ](dmp-resources/dmp-templates/eu-grants/horizon-europe-dmp.md)
