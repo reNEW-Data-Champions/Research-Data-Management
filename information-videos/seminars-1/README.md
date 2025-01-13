@@ -1,5 +1,6 @@
 ---
 description: Data Champions Program Seminars
+hidden: true
 layout:
   title:
     visible: true

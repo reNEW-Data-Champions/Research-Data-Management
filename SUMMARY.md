@@ -1,29 +1,25 @@
 # Table of contents
 
-## Data Champions
+## Data Champions Program
 
-* [🔵 Data Champions Program](README.md)
-* [🔵 License and Reusability](data-champions/license-and-reusability.md)
-* [🔵 Contact Details](data-champions/contact-details.md)
+* [🔵 Data Champions ](README.md)
+* [🔵 License and Reusability](data-champions-program/license-and-reusability.md)
+* [🔵 Contact Details](data-champions-program/contact-details.md)
+* [🔵 Onboarding at reNEW](data-champions-program/onboarding-at-renew.md)
+* [🔵 Organizing Your Data](data-champions-program/organizing-your-data.md)
 
-## Onboarding at reNEW
+## RDM Resources
 
-* [🔴 Information Sessions](onboarding-at-renew/seminars/README.md)
-  * [🔴 Data Champions Program](onboarding-at-renew/seminars/data-champions-program.md)
-  * [🔴 Data Management Plans](onboarding-at-renew/seminars/data-management-plans.md)
-  * [🔴 Organizing Your Data](onboarding-at-renew/seminars/organizing-your-data.md)
-  * [🔴 OMERO Plus Proof of Concept (POC) Report](onboarding-at-renew/seminars/omero-plus-proof-of-concept-poc-report.md)
-  * [🔴 Onboarding at reNEW](onboarding-at-renew/seminars/onboarding-at-renew.md)
-  * [🔴 Open Access Webinar - August 2024](onboarding-at-renew/seminars/open-access-webinar-august-2024.md)
-* [🔴 Information Videos](onboarding-at-renew/seminars-1/README.md)
-  * [🔴 Organize Your Data ](https://bit.ly/File_Name)
-  * [🔴 OMERO Plus Demo - Glencoe Software](https://bit.ly/3XrwCGN)
-  * [🔴 reNEW Labguru Training Video 1](https://bit.ly/reNEW_Train_1)
-  * [🔴 reNEW Labguru Training Video 2](https://bit.ly/reNEW_Train_2)
+* [🟢 Research Data Management](rdm-resources/research-data-management.md)
+* [🟢 Guide Sheet: Research Data Management](data-champions/guide-sheet-research-data-management.md)
+* [🟢 Research Data Management Checklist](rdm-resources/research-data-management-checklist.md)
+* [🟢 UCPH Research Data Management  and GDPR Portal](https://kunet.ku.dk/work-areas/research/data/Pages/default.aspx)
+* [🟢 UCPH Research Portal](https://kunet.ku.dk/work-areas/research/Pages/default.aspx)
 
 ## DMP Resources
 
 * [🟡 DMP Planning](dmp-resources/dmp-planning.md)
+* [🟡 Data Management Plans](dmp-resources/data-management-plans.md)
 * [🟡 DeiC DMP Online](https://dmp.deic.dk/)
 * [🟡 Webinar - Preparing Horizon Europe DMP](https://deic.dk/da/event/webinar-14062023)
 * [🟡 DMP Templates](dmp-resources/dmp-templates/README.md)
@@ -48,20 +44,6 @@
   * [🟡 Marie Curie Fellows Website](https://marie-sklodowska-curie-actions.ec.europa.eu/resources-0)
 * [🟡 Research Project Process](dmp-resources/research-project-process.md)
 
-## EOSC and Elixir
-
-* [🟠 European Open Science Cloud](eosc-and-elixir/european-open-science-cloud.md)
-* [🟠 RDM Guide for Life Sciences (Elixir)](https://bit.ly/RDM_GUIDE)
-* [🟠 RDM  Kit for Life Sciences (Elixir)](https://bit.ly/RDM_Kit)
-
-## RDM Resources
-
-* [🟢 Research Data Management](rdm-resources/research-data-management.md)
-* [🟢 Guide Sheet: Research Data Management](data-champions/guide-sheet-research-data-management.md)
-* [🟢 Research Data Management Checklist](rdm-resources/research-data-management-checklist.md)
-* [🟢 UCPH Research Data Management  and GDPR Portal](https://kunet.ku.dk/work-areas/research/data/Pages/default.aspx)
-* [🟢 UCPH Research Portal](https://kunet.ku.dk/work-areas/research/Pages/default.aspx)
-
 ## Organizing Your Data
 
 * [🟣 Batch Renaming](organizing-your-data/batch-renaming.md)
@@ -78,6 +60,24 @@
 * [🔵 GDPR for Researchers](gdpr-resources/gdpr-for-researchers.md)
 * [🔵 GDPR Resouces](https://kunet.ku.dk/work-areas/research/data/personal-data/Pages/default.aspx)
 * [🔵 GDPR - Project Like Mine](https://bit.ly/GDPR_PLM)
+
+## Information Videos
+
+* [🟢 Information Videos](information-videos/seminars/README.md)
+  * [🟢 Organize Your Data ](https://bit.ly/File_Name)
+  * [🟢 OMERO Plus Demo - Glencoe Software](https://bit.ly/3XrwCGN)
+  * [🟢 reNEW Labguru Training Video 1](https://bit.ly/reNEW_Train_1)
+  * [🟢 reNEW Labguru Training Video 2](https://bit.ly/reNEW_Train_2)
+* [🔴 Information Sessions](information-videos/seminars-1/README.md)
+  * [🔴 Data Champions Program](information-videos/seminars-1/data-champions-program.md)
+  * [🔴 OMERO Plus Proof of Concept (POC) Report](information-videos/seminars-1/omero-plus-proof-of-concept-poc-report.md)
+  * [🔴 Open Access Webinar - August 2024](information-videos/seminars-1/open-access-webinar-august-2024.md)
+
+## EOSC and Elixir
+
+* [🔴 European Open Science Cloud](eosc-and-elixir/european-open-science-cloud.md)
+* [🔴 RDM Guide for Life Sciences (Elixir)](https://bit.ly/RDM_GUIDE)
+* [🔴 RDM  Kit for Life Sciences (Elixir)](https://bit.ly/RDM_Kit)
 
 ## Open Science&#x20;
 

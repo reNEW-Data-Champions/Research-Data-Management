@@ -1,5 +1,5 @@
 ---
-description: Data Champions Program Seminars
+description: Data Champions Program Videos
 layout:
   title:
     visible: true
@@ -13,7 +13,7 @@ layout:
     visible: true
 ---
 
-# 🔴 Information Videos
+# 🟢 Information Videos
 
 
 

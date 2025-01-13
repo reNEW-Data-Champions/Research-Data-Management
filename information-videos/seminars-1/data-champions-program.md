@@ -1,5 +1,6 @@
 ---
 description: What is a Data Champion?
+hidden: true
 layout:
   title:
     visible: true

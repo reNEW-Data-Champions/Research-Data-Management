@@ -2,7 +2,7 @@
 description: Onboarding at reNEW for Research Data Management
 ---
 
-# 🔴 Onboarding at reNEW
+# 🔵 Onboarding at reNEW
 
 
 
