@@ -43,7 +43,6 @@
   * [🟡 UCPH](dmp-resources/dmp-templates/ucph.md)
 * [🟡 DMP Examples](https://phaidra.univie.ac.at/search?page=1\&pagesize=50)
 * [🟡 DeiC DMP Online](https://dmp.deic.dk/)
-* [🟡 Horizon Europe DMP - Webinar](https://deic.dk/da/event/webinar-14062023)
 
 ## Organizing Your Data
 
@@ -55,13 +54,6 @@
   * [🟣 File and Folder Tips IV](organizing-your-data/file-and-folder-tips/file-and-folder-tips-iv.md)
   * [🟣 README File Template](organizing-your-data/file-and-folder-tips/readme-file-template.md)
 
-## GDPR Resources
-
-* [🔵 Data Protection Agency](gdpr-resources/data-protection-agency.md)
-* [🔵 GDPR for Researchers](gdpr-resources/gdpr-for-researchers.md)
-* [🔵 GDPR Resouces](https://kunet.ku.dk/work-areas/research/data/personal-data/Pages/default.aspx)
-* [🔵 GDPR - Project Like Mine](https://bit.ly/GDPR_PLM)
-
 ## Information Videos
 
 * [🟢 Information Videos](information-videos/seminars/README.md)
@@ -69,16 +61,15 @@
   * [🟢 OMERO Plus Demo - Glencoe Software](https://bit.ly/3XrwCGN)
   * [🟢 reNEW Labguru Training Video 1](https://bit.ly/reNEW_Train_1)
   * [🟢 reNEW Labguru Training Video 2](https://bit.ly/reNEW_Train_2)
+  * [🟢 Horizon Europe DMP - Webinar](https://deic.dk/da/event/webinar-14062023)
 * [🟢 Information Sessions](information-videos/seminars-1/README.md)
   * [🟢 Data Champions Program](information-videos/seminars-1/data-champions-program.md)
   * [🟢 OMERO Plus Proof of Concept (POC) Report](information-videos/seminars-1/omero-plus-proof-of-concept-poc-report.md)
   * [🟢 Open Access Webinar - August 2024](information-videos/seminars-1/open-access-webinar-august-2024.md)
 
-## EOSC and Elixir
+## EOSC
 
-* [🔴 European Open Science Cloud](eosc-and-elixir/european-open-science-cloud.md)
-* [🔴 RDM Guide for Life Sciences (Elixir)](https://bit.ly/RDM_GUIDE)
-* [🔴 RDM  Kit for Life Sciences (Elixir)](https://bit.ly/RDM_Kit)
+* [🔴 European Open Science Cloud](eosc/european-open-science-cloud.md)
 
 ## Open Science&#x20;
 
@@ -86,19 +77,19 @@
 * [🟠 FAIR Principles - MP4](open-science/fair-principles-mp4.md)
 * [🟠 Open Science - 8 Pillars](open-science/open-science-8-pillars.md)
 
-## Biomedical Resources
+## Biomedical Repository
 
-* [⚪ Biomedical Data Repositories](biomedical-resources/biomedical-data-repositories.md)
-* [⚪ Labguru Support](biomedical-resources/labguru-support/README.md)
+* [⚪ Biomedical Data Repositories](biomedical-repository/biomedical-data-repositories.md)
+* [⚪ Labguru Support](biomedical-repository/labguru-support/README.md)
   * [⚪ Labguru Support](https://bit.ly/LABGURU_1)
   * [⚪ Labguru Web Access](https://bit.ly/LABGURU_3)
   * [⚪ Labguru Help Videos](https://bit.ly/LABGURU_2)
   * [⚪ reNEW Labguru Training Video 1](https://bit.ly/reNEW_Train_1)
   * [⚪ reNEW Labguru Training Video 2](https://bit.ly/reNEW_Train_2)
 
-## reNEW Resources
+## reNEW Websites
 
-* [🟣 reNEW Websites](renew-resources/renew-websites/README.md)
+* [🟣 reNEW Websites](renew-websites/renew-websites/README.md)
   * [🌎 reNEW Website](https://renew.science/)
   * [🌎 reNEW Connect](https://alumni.sharepoint.com/sites/UCPH_reNEWConnect/SitePages/Home.aspx)
   * [🌎 reNEW KUnet](https://kunet.ku.dk/faculty-and-department/renew/Pages/default.aspx)
@@ -106,19 +97,34 @@
   * [🌎 reNEW Imaging](https://kunet.ku.dk/faculty-and-department/renew/Labs%20and%20Research%20Platforms/Research%20Platforms/Imaging%20Platform/Pages/default.aspx)
   * [🌎 reNEW DanGPU](https://bit.ly/DANGPU)
   * [🌎 reNEW Flow Cy](https://kunet.ku.dk/faculty-and-department/renew/Labs%20and%20Research%20Platforms/Research%20Platforms/Flow%20Cytometry%20Platform/Pages/default.aspx)
-* [🟣 reNEW Social Media](renew-resources/renew-social-media/README.md)
-  * [🌐 Twitter](https://twitter.com/renew_global)
-  * [🌐 LinkedIn](https://www.linkedin.com/showcase/novo-nordisk-foundation-center-for-stem-cell-medicine-renew/)
-* [🟣 Research Groups](renew-resources/research-groups/README.md)
-  * [🟣 Aragona Group](renew-resources/research-groups/aragona-group.md)
-  * [🟣 Brickman Group](renew-resources/research-groups/brickman-group/README.md)
+* [🟣 Research Groups](renew-websites/research-groups/README.md)
+  * [🟣 Aragona Group](renew-websites/research-groups/aragona-group.md)
+  * [🟣 Brickman Group](renew-websites/research-groups/brickman-group/README.md)
     * [Brickman Group](https://brickmanlab.github.io/)
-  * [🟣 Jensen Group](renew-resources/research-groups/jensen-group.md)
-  * [🟣 Kirkeby Group](renew-resources/research-groups/kirkeby-group.md)
-  * [🟣 Little Group](renew-resources/research-groups/little-group.md)
-  * [🟣 Sedzinski Group](renew-resources/research-groups/sedzinski-group.md)
-  * [🟣 Serup Group](renew-resources/research-groups/serup-group.md)
-  * [🟣 Zylicz Group](renew-resources/research-groups/zylicz-group.md)
+  * [🟣 Jensen Group](renew-websites/research-groups/jensen-group.md)
+  * [🟣 Kirkeby Group](renew-websites/research-groups/kirkeby-group.md)
+  * [🟣 Little Group](renew-websites/research-groups/little-group.md)
+  * [🟣 Sedzinski Group](renew-websites/research-groups/sedzinski-group.md)
+  * [🟣 Zylicz Group](renew-websites/research-groups/zylicz-group.md)
+
+## Infographics
+
+* [🟠 Bioimaging Workflows](infographics/bioimaging-workflows.md)
+* [🟠 Data Life Cycle](infographics/data-life-cycle.md)
+* [🟠 Data Management](infographics/data-management.md)
+* [🟠 Directory Structure I](infographics/directory-structure-i.md)
+* [🟠 Directory Structure II](infographics/directory-structure-ii.md)
+* [🟠 FAIR Principles](infographics/fair-principles.md)
+* [🟠 File Naming Guide](infographics/file-naming-guide.md)
+* [🟠 Open Science Pillars](infographics/open-science-pillars.md)
+* [🟠 Research Process](infographics/research-process.md)
+* [🟠 RODMM Framework](infographics/rodmm-framework.md)
+* [🟠 UCPH HPC Quick Guide](infographics/ucph-hpc-quick-guide.md)
+
+## GDPR Resources
+
+* [🔴 Data Protection Agency](gdpr-resources/data-protection-agency.md)
+* [🔴 GDPR for Researchers](gdpr-resources/gdpr-for-researchers.md)
 
 ## UCPH IT Resources
 
@@ -127,20 +133,12 @@
 * [🟤 UCPH Data Storage](ucph-it-resources/ucph-data-storage.md)
 * [🟤 UCPH Research IT](https://kunet.ku.dk/work-areas/research/Research%20Infrastructure/research-it/Pages/default.aspx)
 
-## Infographics
+## External RDM Resources
 
-* [🟠 Bioimaging Workflows](infographics/bioimaging-workflows.md)
-* [🟠 Data Life Cycle](infographics/data-life-cycle.md)
-* [🟠 Data Management](infographics/data-management.md)
-* [🟠 Directory Structure ](infographics/directory-structure/README.md)
-  * [🟠 Directory Structure I](infographics/directory-structure/directory-structure-i.md)
-  * [🟠 Directory Structure II](infographics/directory-structure/directory-structure-ii.md)
-* [🟠 FAIR Principles](infographics/fair-principles.md)
-* [🟠 File Naming Guide](infographics/file-naming-guide.md)
-* [🟠 Research Open Data Management Framework](infographics/research-open-data-management-framework.md)
-* [🟠 Open Science Pillars](infographics/open-science-pillars.md)
-* [🟠 The Research Process](infographics/the-research-process.md)
-* [🟠 UCPH HPC Quick Guide](infographics/ucph-hpc-quick-guide.md)
+* [🔵 GDPR Resouces](https://kunet.ku.dk/work-areas/research/data/personal-data/Pages/default.aspx)
+* [🔵 GDPR - Project Like Mine](https://bit.ly/GDPR_PLM)
+* [🔵 RDM Guide for Life Sciences (Elixir)](https://bit.ly/RDM_GUIDE)
+* [🔵 RDM  Kit for Life Sciences (Elixir)](https://bit.ly/RDM_Kit)
 
 ## reNEW RDM Blog
 

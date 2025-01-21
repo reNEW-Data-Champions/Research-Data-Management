@@ -1,5 +1,5 @@
 ---
-description: Research Open Data Management Matrix (RODMM)
+description: Research Open Data Management Matrix (RODMM Framework)
 layout:
   title:
     visible: true
@@ -13,7 +13,7 @@ layout:
     visible: true
 ---
 
-# 🟠 Research Open Data Management Framework
+# 🟠 RODMM Framework
 
 **The Research Open Data Management Matrix** is a comprehensive framework designed to support effective research data management throughout its lifecycle, adhering to Open Science and FAIR (Findable, Accessible, Interoperable, and Reusable) principles. It is structured around the key stages of the data lifecycle and incorporates essential data management practices.
 
@@ -25,14 +25,6 @@ The Research Open Data Management Matrix is a vital tool for researchers and dat
 
 
 
-<div data-full-width="true">
+<div data-full-width="true"><figure><img src="../.gitbook/assets/Designrff-1.jpg" alt=""><figcaption><p>Research Open Data Management Matrix (RODMM)</p></figcaption></figure></div>
 
-<figure><img src="../.gitbook/assets/Designrff-1.jpg" alt=""><figcaption><p>Research Open Data Management Matrix (RODMM)</p></figcaption></figure>
-
-</div>
-
-<div data-full-width="true">
-
-<figure><img src="../.gitbook/assets/Designrff-2.jpg" alt=""><figcaption><p>Research Open Data Management Matrix (RODMM)</p></figcaption></figure>
-
-</div>
+<div data-full-width="true"><figure><img src="../.gitbook/assets/Designrff-2.jpg" alt=""><figcaption><p>Research Open Data Management Matrix (RODMM)</p></figcaption></figure></div>
