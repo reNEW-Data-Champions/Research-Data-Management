@@ -3,10 +3,10 @@
 ## Data Champions Program
 
 * [🔵 Data Champions ](README.md)
-* [🔵 License and Reusability](data-champions-program/license-and-reusability.md)
-* [🔵 Contact Details](data-champions-program/contact-details.md)
 * [🔵 Onboarding at reNEW](data-champions-program/onboarding-at-renew.md)
 * [🔵 Organizing Your Data](data-champions-program/organizing-your-data.md)
+* [🔵 License and Reusability](data-champions-program/license-and-reusability.md)
+* [🔵 Contact Details](data-champions-program/contact-details.md)
 
 ## RDM Resources
 
@@ -68,10 +68,10 @@
   * [🟢 OMERO Plus Demo - Glencoe Software](https://bit.ly/3XrwCGN)
   * [🟢 reNEW Labguru Training Video 1](https://bit.ly/reNEW_Train_1)
   * [🟢 reNEW Labguru Training Video 2](https://bit.ly/reNEW_Train_2)
-* [🔴 Information Sessions](information-videos/seminars-1/README.md)
-  * [🔴 Data Champions Program](information-videos/seminars-1/data-champions-program.md)
-  * [🔴 OMERO Plus Proof of Concept (POC) Report](information-videos/seminars-1/omero-plus-proof-of-concept-poc-report.md)
-  * [🔴 Open Access Webinar - August 2024](information-videos/seminars-1/open-access-webinar-august-2024.md)
+* [🟢 Information Sessions](information-videos/seminars-1/README.md)
+  * [🟢 Data Champions Program](information-videos/seminars-1/data-champions-program.md)
+  * [🟢 OMERO Plus Proof of Concept (POC) Report](information-videos/seminars-1/omero-plus-proof-of-concept-poc-report.md)
+  * [🟢 Open Access Webinar - August 2024](information-videos/seminars-1/open-access-webinar-august-2024.md)
 
 ## EOSC and Elixir
 

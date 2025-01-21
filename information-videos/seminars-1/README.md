@@ -14,7 +14,7 @@ layout:
     visible: true
 ---
 
-# 🔴 Information Sessions
+# 🟢 Information Sessions
 
 
 
