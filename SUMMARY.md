@@ -3,6 +3,7 @@
 ## Data Champions Program
 
 * [🔵 Data Champions ](README.md)
+* [🔵 Research Project Process](data-champions-program/research-planning.md)
 * [🔵 Onboarding at reNEW](data-champions-program/onboarding-at-renew.md)
 * [🔵 Organizing Your Data](data-champions-program/organizing-your-data.md)
 * [🔵 License and Reusability](data-champions-program/license-and-reusability.md)
@@ -80,12 +81,6 @@
 ## Biomedical Repository
 
 * [⚪ Biomedical Data Repositories](biomedical-repository/biomedical-data-repositories.md)
-* [⚪ Labguru Support](biomedical-repository/labguru-support/README.md)
-  * [⚪ Labguru Support](https://bit.ly/LABGURU_1)
-  * [⚪ Labguru Web Access](https://bit.ly/LABGURU_3)
-  * [⚪ Labguru Help Videos](https://bit.ly/LABGURU_2)
-  * [⚪ reNEW Labguru Training Video 1](https://bit.ly/reNEW_Train_1)
-  * [⚪ reNEW Labguru Training Video 2](https://bit.ly/reNEW_Train_2)
 
 ## reNEW Websites
 
@@ -137,6 +132,12 @@
 
 * [🔵 GDPR Resouces](https://kunet.ku.dk/work-areas/research/data/personal-data/Pages/default.aspx)
 * [🔵 GDPR - Project Like Mine](https://bit.ly/GDPR_PLM)
+* [🔵 LabGuru Support](external-rdm-resources/labguru-support/README.md)
+  * [🔵 Labguru Support](https://bit.ly/LABGURU_1)
+  * [🔵 Labguru Web Access](https://bit.ly/LABGURU_3)
+  * [🔵 Labguru Help Videos](https://bit.ly/LABGURU_2)
+  * [🔵 reNEW Labguru Training Video 1](https://bit.ly/reNEW_Train_1)
+  * [🔵 reNEW Labguru Training Video 2](https://bit.ly/reNEW_Train_2)
 * [🔵 RDM Guide for Life Sciences (Elixir)](https://bit.ly/RDM_GUIDE)
 * [🔵 RDM  Kit for Life Sciences (Elixir)](https://bit.ly/RDM_Kit)
 
