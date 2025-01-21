@@ -10,23 +10,30 @@
 
 ## RDM Resources
 
-* [🟢 Research Data Management](rdm-resources/research-data-management.md)
+* [🟢 What is RDM?](rdm-resources/what-is-rdm.md)
 * [🟢 Guide Sheet: Research Data Management](data-champions/guide-sheet-research-data-management.md)
-* [🟢 Research Data Management Checklist](rdm-resources/research-data-management-checklist.md)
-* [🟢 UCPH Research Data Management  and GDPR Portal](https://kunet.ku.dk/work-areas/research/data/Pages/default.aspx)
-* [🟢 UCPH Research Portal](https://kunet.ku.dk/work-areas/research/Pages/default.aspx)
+* [🟢 RDM Checklist](rdm-resources/rdm-checklist.md)
+* [🟢 RDM Portal](https://kunet.ku.dk/work-areas/research/data/Pages/default.aspx)
+* [🟢 Research Portal](https://kunet.ku.dk/work-areas/research/Pages/default.aspx)
 
 ## DMP Resources
 
+* [🟡 DMP](dmp-resources/dmp.md)
 * [🟡 DMP Planning](dmp-resources/dmp-planning.md)
+* [🟡 Research Project Process](dmp-resources/research-project-process.md)
 * [🟡 Data Management Plans](dmp-resources/data-management-plans.md)
-* [🟡 DeiC DMP Online](https://dmp.deic.dk/)
-* [🟡 Webinar - Preparing Horizon Europe DMP](https://deic.dk/da/event/webinar-14062023)
+* [🟡 EU Grants ](dmp-resources/eu-grants/README.md)
+  * [🟡 EU Grants](dmp-resources/eu-grants/eu-grants/README.md)
+    * [🟡 Horizon Europe DMP ](dmp-resources/eu-grants/eu-grants/horizon-europe-dmp.md)
+    * [🟡 Horizon 2020 DMP ](dmp-resources/eu-grants/eu-grants/horizon-2020-dmp.md)
+    * [🟡 ERC DMP](dmp-resources/eu-grants/eu-grants/erc-dmp.md)
+  * [🟡 Marie Curie Program](dmp-resources/eu-grants/marie-curie-program/README.md)
+    * [🟡 Implementation Guide for Marie Curie Fellows](dmp-resources/eu-grants/marie-curie-program/implementation-guide-for-marie-curie-fellows.md)
+    * [🟡 Marie Curie Fellows Website](https://marie-sklodowska-curie-actions.ec.europa.eu/resources-0)
+  * [🟡 Horizon Europe DMP](dmp-resources/eu-grants/horizon-europe-dmp.md)
+  * [🟡 Horizon 2020 DMP](dmp-resources/eu-grants/horizon-2020-dmp.md)
+  * [🟡 ERC DMP](dmp-resources/eu-grants/erc-dmp.md)
 * [🟡 DMP Templates](dmp-resources/dmp-templates/README.md)
-  * [🟡 EU Grants](dmp-resources/dmp-templates/eu-grants/README.md)
-    * [🟡 Horizon Europe DMP ](dmp-resources/dmp-templates/eu-grants/horizon-europe-dmp.md)
-    * [🟡 Horizon 2020 DMP ](dmp-resources/dmp-templates/eu-grants/horizon-2020-dmp.md)
-    * [🟡 ERC DMP](dmp-resources/dmp-templates/eu-grants/erc-dmp.md)
   * [🟡 Genomics](dmp-resources/dmp-templates/genomics/README.md)
     * [🟡 10X scRNA Sequencing](dmp-resources/dmp-templates/genomics/10x-scrna-sequencing.md)
     * [🟡 Bulk RNA Sequencing](dmp-resources/dmp-templates/genomics/bulk-rna-sequencing.md)
@@ -35,14 +42,8 @@
     * [🟡 Whole Genome Sequencing](dmp-resources/dmp-templates/genomics/whole-genome-sequencing.md)
   * [🟡 UCPH](dmp-resources/dmp-templates/ucph.md)
 * [🟡 DMP Examples](https://phaidra.univie.ac.at/search?page=1\&pagesize=50)
-* [🟡 Guidelines : DMP](dmp-resources/guidelines-dmp/README.md)
-  * [🟡 Horizon Europe DMP](dmp-resources/guidelines-dmp/horizon-europe-dmp.md)
-  * [🟡 Horizon 2020 DMP](dmp-resources/guidelines-dmp/horizon-2020-dmp.md)
-  * [🟡 ERC DMP](dmp-resources/guidelines-dmp/erc-dmp.md)
-* [🟡 Marie Curie Program](dmp-resources/marie-curie-program/README.md)
-  * [🟡 Implementation Guide for Marie Curie Fellows](dmp-resources/marie-curie-program/implementation-guide-for-marie-curie-fellows.md)
-  * [🟡 Marie Curie Fellows Website](https://marie-sklodowska-curie-actions.ec.europa.eu/resources-0)
-* [🟡 Research Project Process](dmp-resources/research-project-process.md)
+* [🟡 DeiC DMP Online](https://dmp.deic.dk/)
+* [🟡 Horizon Europe DMP - Webinar](https://deic.dk/da/event/webinar-14062023)
 
 ## Organizing Your Data
 
