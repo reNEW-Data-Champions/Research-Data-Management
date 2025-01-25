@@ -3,7 +3,6 @@
 ## Data Champions Program
 
 * [🔵 Data Champions ](README.md)
-* [🔵 Research Project Process](data-champions-program/research-planning.md)
 * [🔵 Onboarding at reNEW](data-champions-program/onboarding-at-renew.md)
 * [🔵 Organizing Your Data](data-champions-program/organizing-your-data.md)
 * [🔵 Contact Details](data-champions-program/contact-details.md)
@@ -16,6 +15,7 @@
 * [🟢 RDM Checklist](rdm-resources/rdm-checklist.md)
 * [🟢 RDM Portal](https://kunet.ku.dk/work-areas/research/data/Pages/default.aspx)
 * [🟢 Research Portal](https://kunet.ku.dk/work-areas/research/Pages/default.aspx)
+* [🟢 Research Project Process](rdm-resources/research-planning.md)
 
 ## DMP Resources
 
