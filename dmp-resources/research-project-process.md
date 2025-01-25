@@ -1,5 +1,6 @@
 ---
 description: The Importance of Research Data Management
+hidden: true
 ---
 
 # 🟡 Research Project Process
