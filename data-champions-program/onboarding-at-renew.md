@@ -1,5 +1,6 @@
 ---
 description: Onboarding at reNEW for Research Data Management
+hidden: true
 ---
 
 # 🔵 Onboarding at reNEW
