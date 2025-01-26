@@ -1,5 +1,5 @@
 ---
-description: Data Champions Program
+description: Data Champions Program at reNEW
 layout:
   title:
     visible: true
