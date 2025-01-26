@@ -1,5 +1,6 @@
 ---
 description: Labguru Quick Guide
+hidden: true
 ---
 
 # 🔵 LabGuru Support

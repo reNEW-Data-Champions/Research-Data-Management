@@ -9,7 +9,7 @@ description: What is the EOSC and What it means to researchers?
 
 ## <mark style="color:blue;">**What is the European Open Science Cloud (EOSC)?**</mark>
 
-&#x20;
+
 
 The <mark style="color:blue;">**European Open Science Cloud (EOSC)**</mark> is the European Commission's (EC) flagship initiative to create a federated, open, and seamless digital ecosystem for managing and sharing research data and services across Europe. It provides a trusted environment where researchers, innovators, companies, and citizens can access, manage, and reuse research data, tools, and services. By fostering Open Science, EOSC accelerates innovation, enhances transparency, and improves the reproducibility of research outcomes. For researchers who receive EU funding, EOSC is both a valuable resource and a critical platform for fulfilling Open Science obligations, as it supports sharing data and scholarly outputs in compliance with European policies.
 
@@ -34,13 +34,11 @@ EOSC aims to promote Open Science, ensuring that scientific data is openly avail
 
 ## <mark style="color:blue;">**The History and Development of EOSC**</mark>
 
-&#x20;<mark style="color:blue;">**1. Origins and Concept (2015-2016)**</mark>
+<mark style="color:blue;">**1. Origins and Concept (2015-2016)**</mark>
 
 The European Commission's 2015 Communication on the European Digital Single Market introduced the European Open Science Cloud concept. The idea was further developed in the EC's 2016 report, European Cloud Initiative.
 
-&#x20;
-
-### <mark style="color:blue;">**Key Objectives at Inception:**</mark>
+&#x20;<mark style="color:blue;">**Key Objectives at Inception:**</mark>
 
 1. Provide European researchers with a unified data storage, sharing, and analysis platform.
 2. Address the fragmentation of existing research infrastructures and data repositories.
@@ -55,9 +53,7 @@ In 2016, the European Commission launched the first consultations and working gr
 1. Stakeholder Engagement: Engaging with researchers, institutions, and data service providers to identify key needs and challenges.
 2. Policy Foundations: Emphasizing the importance of Open Science and FAIR data principles.
 
-&#x20;
-
-The EOSC High-Level Expert Group (HLEG) was established to provide strategic guidance, culminating in the 2016 report Realizing the European Open Science Cloud, which laid out a vision for EOSC.
+&#x20;The EOSC High-Level Expert Group (HLEG) was established to provide strategic guidance, culminating in the 2016 report Realizing the European Open Science Cloud, which laid out a vision for EOSC.
 
 &#x20;
 
@@ -68,9 +64,7 @@ The official launch of EOSC took place in November 2018 during the Austrian EU P
 1. Developing a governance framework.
 2. Building the technical infrastructure to connect national and European research data infrastructures.
 
-&#x20;
-
-The launch was accompanied by the EOSC Declaration, signed by key stakeholders to signal their commitment to its principles and goals.
+&#x20;The launch was accompanied by the EOSC Declaration, signed by key stakeholders to signal their commitment to its principles and goals.
 
 &#x20;
 
@@ -86,9 +80,7 @@ Following the launch, the EC and its partners worked to establish the foundation
 
 &#x20;<mark style="color:blue;">**EOSC Stakeholder Forum:**</mark> Providing input and feedback from the research community.
 
-&#x20;
-
-### <mark style="color:blue;">**Initial Projects:**</mark>&#x20;
+<mark style="color:blue;">**Initial Projects:**</mark>&#x20;
 
 Several EU-funded projects (e.g., EOSCpilot, EOSC-hub, FREYA) were launched to build technical components and test the feasibility of EOSC services.
 
@@ -98,17 +90,13 @@ Several EU-funded projects (e.g., EOSCpilot, EOSC-hub, FREYA) were launched to b
 
 In 2021, EOSC entered its expansion phase to scale up and integrate more research infrastructures, data services, and users.
 
-&#x20;
-
 <mark style="color:blue;">**EOSC Association:**</mark> Established in 2020, the EOSC Association became the primary entity responsible for coordinating EOSC’s development and implementation. It represents stakeholders from research institutions, data service providers, and national infrastructures.
 
 <mark style="color:blue;">**Horizon Europe Funding:**</mark> Under the EU’s Horizon Europe framework (2021-2027), significant funding was allocated to EOSC to support its growth and integration across disciplines.
 
 <mark style="color:blue;">**EOSC Strategic Research and Innovation Agenda (SRIA): In 2021, the SRIA outlines the key priorities and actions for developing EOSC, including enhancing interoperability, improving data stewardship, and expanding user adoption.**</mark>
 
-&#x20;
-
-### <mark style="color:blue;">**Key Milestones in EOSC Development**</mark>
+<mark style="color:blue;">**Key Milestones in EOSC Development**</mark>
 
 1\. <mark style="color:blue;">**2015:**</mark> EOSC was introduced in the European Digital Single Market strategy.
 
@@ -126,9 +114,7 @@ In 2021, EOSC entered its expansion phase to scale up and integrate more researc
 
 &#x20;
 
-&#x20;
-
-### <mark style="color:blue;">**Future Goals of EOSC**</mark>
+<mark style="color:blue;">**Future Goals of EOSC**</mark>
 
 Looking ahead, EOSC aims to:
 
