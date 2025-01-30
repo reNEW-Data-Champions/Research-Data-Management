@@ -17,6 +17,20 @@
 * [🟢 Research Portal](https://kunet.ku.dk/work-areas/research/Pages/default.aspx)
 * [🟢 Research Project Process](rdm-resources/research-planning.md)
 
+## Organizing Your Data
+
+* [🟣 Batch Renaming](organizing-your-data/batch-renaming.md)
+* [🟣 File and Folder Tips](organizing-your-data/file-and-folder-tips/README.md)
+  * [🟣 File and Folder Tips I](organizing-your-data/file-and-folder-tips/file-and-folder-tips-i.md)
+  * [🟣 File and Folder Tips II](organizing-your-data/file-and-folder-tips/file-and-folder-tips-ii.md)
+  * [🟣 File and Folder Tips III](organizing-your-data/file-and-folder-tips/file-and-folder-tips-iii.md)
+  * [🟣 File and Folder Tips IV](organizing-your-data/file-and-folder-tips/file-and-folder-tips-iv.md)
+  * [🟣 README File Template](organizing-your-data/file-and-folder-tips/readme-file-template.md)
+
+## EOSC
+
+* [🔴 European Open Science Cloud](eosc/european-open-science-cloud.md)
+
 ## DMP Resources
 
 * [🟡 DMP](dmp-resources/dmp/README.md)
@@ -44,16 +58,6 @@
   * [🟡 UCPH](dmp-resources/dmp-templates/ucph.md)
 * [🟡 DeiC DMP Online](https://dmp.deic.dk/)
 
-## Organizing Your Data
-
-* [🟣 Batch Renaming](organizing-your-data/batch-renaming.md)
-* [🟣 File and Folder Tips](organizing-your-data/file-and-folder-tips/README.md)
-  * [🟣 File and Folder Tips I](organizing-your-data/file-and-folder-tips/file-and-folder-tips-i.md)
-  * [🟣 File and Folder Tips II](organizing-your-data/file-and-folder-tips/file-and-folder-tips-ii.md)
-  * [🟣 File and Folder Tips III](organizing-your-data/file-and-folder-tips/file-and-folder-tips-iii.md)
-  * [🟣 File and Folder Tips IV](organizing-your-data/file-and-folder-tips/file-and-folder-tips-iv.md)
-  * [🟣 README File Template](organizing-your-data/file-and-folder-tips/readme-file-template.md)
-
 ## Information Videos
 
 * [🟢 Information Videos](information-videos/seminars/README.md)
@@ -67,10 +71,6 @@
   * [🟢 OMERO Plus Proof of Concept (POC) Report](information-videos/seminars-1/omero-plus-proof-of-concept-poc-report.md)
   * [🟢 Open Access Webinar - August 2024](information-videos/seminars-1/open-access-webinar-august-2024.md)
 
-## EOSC
-
-* [🔴 European Open Science Cloud](eosc/european-open-science-cloud.md)
-
 ## Open Science&#x20;
 
 * [🟠 FAIR Principles](open-science/fair-principles.md)
@@ -80,6 +80,20 @@
 ## Biomedical Repository
 
 * [⚪ Biomedical Data Repositories](biomedical-repository/biomedical-data-repositories.md)
+
+## Infographics
+
+* [🟠 Bioimaging Workflows](infographics/bioimaging-workflows.md)
+* [🟠 Data Life Cycle](infographics/data-life-cycle.md)
+* [🟠 Data Management](infographics/data-management.md)
+* [🟠 Directory Structure I](infographics/directory-structure-i.md)
+* [🟠 Directory Structure II](infographics/directory-structure-ii.md)
+* [🟠 FAIR Principles](infographics/fair-principles.md)
+* [🟠 File Naming Guide](infographics/file-naming-guide.md)
+* [🟠 Open Science Pillars](infographics/open-science-pillars.md)
+* [🟠 Research Process](infographics/research-process.md)
+* [🟠 RODMM Framework](infographics/rodmm-framework.md)
+* [🟠 UCPH HPC Quick Guide](infographics/ucph-hpc-quick-guide.md)
 
 ## reNEW Websites
 
@@ -100,20 +114,6 @@
   * [🟣 Little Group](renew-websites/research-groups/little-group.md)
   * [🟣 Sedzinski Group](renew-websites/research-groups/sedzinski-group.md)
   * [🟣 Zylicz Group](renew-websites/research-groups/zylicz-group.md)
-
-## Infographics
-
-* [🟠 Bioimaging Workflows](infographics/bioimaging-workflows.md)
-* [🟠 Data Life Cycle](infographics/data-life-cycle.md)
-* [🟠 Data Management](infographics/data-management.md)
-* [🟠 Directory Structure I](infographics/directory-structure-i.md)
-* [🟠 Directory Structure II](infographics/directory-structure-ii.md)
-* [🟠 FAIR Principles](infographics/fair-principles.md)
-* [🟠 File Naming Guide](infographics/file-naming-guide.md)
-* [🟠 Open Science Pillars](infographics/open-science-pillars.md)
-* [🟠 Research Process](infographics/research-process.md)
-* [🟠 RODMM Framework](infographics/rodmm-framework.md)
-* [🟠 UCPH HPC Quick Guide](infographics/ucph-hpc-quick-guide.md)
 
 ## GDPR Resources
 
