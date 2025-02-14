@@ -25,11 +25,11 @@ By promoting the **FAIR principles**—**Findable, Accessible, Interoperable, an
 
 #### **Building a Strong Data Management Network**
 
-Within **reNEW**, the Data Champions form a **collaborative support network** that spans research teams. They assist researchers in navigating **data management challenges** fostering a standardized and efficient data practices culture. By facilitating better data organization and accessibility, they:
+Within **reNEW**, the Data Champions form a **collaborative support network** that spans research groups. They assist researchers in navigating **data management challenges** fostering a standardized and efficient data practices culture. By facilitating better data organization and accessibility, they:
 
 * Enhance **research reproducibility and integrity**.
 * Encourage **collaboration and data-sharing** across research groups.
 * Ensure that research data remains a **valuable and sustainable asset** to the **reNEW community**.
 
-Data Champions strengthened reNEW’s research environment through their efforts, making data management more **efficient, structured, and impactful**.
+Data Champions strengthened reNEW’s research environment, making data management more **efficient, structured, and impactful**.
 
