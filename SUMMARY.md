@@ -2,7 +2,7 @@
 
 ## Data Champions Program
 
-* [🔵 Data Champions ](README.md)
+* [🔵 Data Champions at reNEW](README.md)
 * [🔵 Onboarding at reNEW](data-champions-program/onboarding-at-renew.md)
 * [🔵 Organizing Your Data](data-champions-program/organizing-your-data.md)
 * [🔵 Contact Details](data-champions-program/contact-details.md)

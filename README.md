@@ -13,15 +13,23 @@ layout:
     visible: true
 ---
 
-# 🔵 Data Champions&#x20;
+# 🔵 Data Champions at reNEW
 
+&#x9;				&#x9;
 
+<mark style="color:blue;">**Data Champions at reNEW: Supporting Research Data Management**</mark>
 
-{% hint style="info" %}
-The <mark style="color:blue;">**reNEW Data Champions**</mark> are volunteers dedicated to improving research data management within the reNEW Research Groups at the University of Copenhagen. Their primary role is to guide their groups in adopting better practices for organizing, storing, and sharing research data. Focusing on the FAIR principles—keeping data Findable, Accessible, Interoperable, and Reusable—they help ensure that research data is well-managed and supports high-quality science.
+The **reNEW Data Champions** are **volunteer experts** committed to mentoring and guiding researchers in **research data management (RDM)** within the **reNEW Research Groups at the University of Copenhagen**. Their primary mission is to support research groups in **organizing, storing, and sharing data effectively**, ensuring alignment with **best practices and institutional policies**.
 
-Within reNEW, Data Champions create a support network across research teams. They help researchers navigate data management challenges and align with shared standards. They also work to make research data easier to find and use, foster collaboration, and ensure that data remains an asset to the reNEW community. Their efforts strengthen reNEW’s overall research environment, making it more efficient and impactful.
-{% endhint %}
+By promoting the **FAIR principles**—**Findable, Accessible, Interoperable, and Reusable**—Data Champions help researchers implement structured data management strategies that enhance the **quality, accessibility, and longevity** of their research outputs.
 
+#### **Building a Strong Data Management Network**
 
+Within **reNEW**, the Data Champions form a **collaborative support network** that spans research teams. They assist researchers in navigating **data management challenges** fostering a standardized and efficient data practices culture. By facilitating better data organization and accessibility, they:
+
+* Enhance **research reproducibility and integrity**.
+* Encourage **collaboration and data-sharing** across research groups.
+* Ensure that research data remains a **valuable and sustainable asset** to the **reNEW community**.
+
+Data Champions strengthened reNEW’s research environment through their efforts, making data management more **efficient, structured, and impactful**.
 
