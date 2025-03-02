@@ -18,7 +18,7 @@
 
 ***
 
-* [🟢 RDM Checklist](rdm-checklist.md)
+* [🟢 RDM Checklist](rdm-resources/rdm-checklist.md)
 
 ## Elixir Resources
 
