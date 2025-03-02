@@ -1,6 +1,5 @@
 ---
 description: Data Champions Program
-layout: editorial
 ---
 
 # 🟢 What is RDM?
