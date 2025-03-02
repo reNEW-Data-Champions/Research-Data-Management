@@ -5,8 +5,8 @@
 * [🔵 Data Champions at reNEW](README.md)
 * [🔵 Onboarding at reNEW](data-champions-program/onboarding-at-renew.md)
 * [🔵 Organizing Your Data](data-champions-program/organizing-your-data.md)
-* [🔵 Contact Details](data-champions-program/contact-details.md)
 * [🔵 License and Reusability](data-champions-program/license-and-reusability.md)
+* [🔵 Contact Details](data-champions-program/contact-details.md)
 
 ## RDM Resources
 
@@ -25,6 +25,9 @@
 * [🟠 What is Elixir?](elixir-resources/what-is-elixir.md)
 * [🟠 RDM Guide for Life Sciences (Elixir)](https://bit.ly/RDM_GUIDE)
 * [🟠 RDM  Kit for Life Sciences (Elixir)](https://bit.ly/RDM_Kit)
+* [🟠 RDM  Kit for BioImaging (Elixir)](https://rdmkit.elixir-europe.org/bioimaging_data)
+* [🟠 RDM  Kit for Bioinformatics (Elixir)](https://rdmkit.elixir-europe.org/structural_bioinformatics)
+* [🟠 RDM  Kit for Data Repository (Elixir)](https://rdmkit.elixir-europe.org/data_publication)
 
 ## Organizing Your Data
 

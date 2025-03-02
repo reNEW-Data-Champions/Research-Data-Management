@@ -6,38 +6,36 @@ description: The RDMkit from Elixir
 
 &#x9;			&#x9;
 
-**ELIXIR Research Data Management Kit (RDMkit) for reNEW**\
-**Guidance on applying FAIR principles to life science research data**
-----------------------------------------------------------------------
+### **ELIXIR Research Data Management Kit (RDMkit) for reNEW** **Guidance on applying FAIR principles to life science research data**
 
 ***
 
 <mark style="color:blue;">**Overview: Who Is the RDMkit For?**</mark>
 
-The ELIXIR Research Data Management Kit (RDMkit) is a community-driven resource aimed at helping life scientists manage research data more effectively following the FAIR principles (Findable, Accessible, Interoperable, Reusable). Designed to encompass each stage of the research data lifecycle, the RDMkit offers practical methods, tools, and advice for researchers, data managers, and policymakers. However, not every stage will be relevant to everyone.
+The [ELIXIR Research Data Management Kit (RDMkit)](https://rdmkit.elixir-europe.org/index) is a community-driven resource aimed at helping life scientists manage research data more effectively following the FAIR principles (Findable, Accessible, Interoperable, Reusable). Designed to encompass each stage of the research data lifecycle, the RDMkit offers practical methods, tools, and advice for researchers, data managers, and policymakers. However, not every stage will be relevant to everyone.
 
 * **For Researchers**: RDMkit is a one-stop shop for data management guidance, examples, and best practices, including tips on preparing data management plans for grant proposals.
 * **For Data Managers**: The kit provides structured, life science–specific resources that can complement institutional services, supporting a consistent approach to research data management.
 * **For Funding Agencies & Policymakers**: RDMkit offers evidence-based practices that promote cost-effectiveness and efficiency by improving how researchers handle data. It is recommended in the _Horizon Europe Program Guide_ as a reference for “Data Management guidelines and good practices for the Life Sciences.”
 
-At reNEW, both early-career and experienced investigators can utilize RDMkit to enhance their data practices. This resource is especially beneficial for reNEW Data Champions, who assist the wider research community adhere to FAIR data standards.
+At reNEW, both early-career and experienced investigators can utilize RDMkit to enhance their data practices. This resource is especially beneficial for reNEW Data Champions, who assist the broader research community in adhering to FAIR data standards.
 
 ***
 
-#### <mark style="color:blue;">Why Are the FAIR Principles Needed?</mark>
+<mark style="color:blue;">Why Are the FAIR Principles Needed?</mark>
 
 As life science research generates increasingly large, complex datasets, **FAIR principles** ensure these datasets remain accessible, reproducible, and interpretable:
 
-1. **Findability**: Clear labeling and robust metadata allow other researchers (and machines) to locate relevant data.
-2. **Accessibility**: Well-managed repositories and standardized formats ensure data remain available over time.
-3. **Interoperability**: Consistent file formats and metadata standards combine data across different projects, disciplines, or software tools.
-4. **Reusability**: Thorough documentation, clear licensing, and version control make validating or extending previous work easier.
+1. <mark style="color:blue;">**Findability**</mark><mark style="color:blue;">:</mark> Clear labeling and robust metadata allow other researchers (and machines) to locate relevant data.
+2. <mark style="color:blue;">**Accessibility**</mark><mark style="color:blue;">:</mark> Well-managed repositories and standardized formats ensure data remain available over time.
+3. <mark style="color:blue;">**Interoperability**</mark><mark style="color:blue;">:</mark> Consistent file formats and metadata standards combine data across different projects, disciplines, or software tools.
+4. <mark style="color:blue;">**Reusability**</mark><mark style="color:blue;">:</mark> Thorough documentation, clear licensing, and version control make validating or extending previous work easier.
 
-By applying FAIR principles, reNEW researchers and Data Champions can increase the visibility, impact, and longevity of scientific outputs, benefiting local teams and the wider life science community.
+By applying FAIR principles, reNEW researchers and Data Champions can increase the visibility, impact, and longevity of scientific outputs, benefiting local teams and the broader life science community.
 
 ***
 
-#### <mark style="color:blue;">What Does the RDMkit Aim to Achieve?</mark>
+<mark style="color:blue;">What Does the RDMkit Aim to Achieve?</mark>
 
 RDMkit is designed to help researchers:
 
@@ -50,13 +48,13 @@ For reNEW’s **Data Champions**, the RDMkit offers authoritative examples and r
 
 ***
 
-#### <mark style="color:blue;">Funding Acknowledgement</mark>
+<mark style="color:blue;">Funding Acknowledgement</mark>
 
 RDMkit was developed within the [ELIXIR-CONVERGE](https://elixir-europe.org/about-us/how-funded/eu-projects/elixir-converge) project, receiving funding from the European Union’s Horizon 2020 Research and Innovation Programme under grant agreement No 871075. The ELIXIR community sustained its ongoing maintenance and updates, reflecting the collective expertise of life scientists and data specialists.
 
 ***
 
-#### <mark style="color:blue;">How to Cite the RDMkit</mark>
+<mark style="color:blue;">How to Cite the RDMkit</mark>
 
 Whenever referencing **RDMkit** materials in proposals, publications, or internal guidelines, please use the following citation:
 
@@ -67,7 +65,7 @@ All software components are released under the MIT license, while text and data 
 
 ***
 
-#### <mark style="color:blue;">Why This Matters for reNEW</mark>
+<mark style="color:blue;">Why This Matters for reNEW</mark>
 
 By leveraging the **RDMkit**:
 
