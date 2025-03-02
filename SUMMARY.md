@@ -11,11 +11,20 @@
 ## RDM Resources
 
 * [🟢 What is RDM?](rdm-resources/what-is-rdm.md)
-* [🟢 Guide Sheet: Research Data Management](data-champions/guide-sheet-research-data-management.md)
-* [🟢 RDM Checklist](rdm-resources/rdm-checklist.md)
-* [🟢 RDM Portal](https://kunet.ku.dk/work-areas/research/data/Pages/default.aspx)
 * [🟢 Research Portal](https://kunet.ku.dk/work-areas/research/Pages/default.aspx)
+* [🟢 RDM Portal](https://kunet.ku.dk/work-areas/research/data/Pages/default.aspx)
+* [🟢 Guide Sheet: Research Data Management](data-champions/guide-sheet-research-data-management.md)
 * [🟢 Research Project Process](rdm-resources/research-planning.md)
+
+***
+
+* [🟢 RDM Checklist](rdm-checklist.md)
+
+## Elixir Resources
+
+* [🟠 What is Elixir?](elixir-resources/what-is-elixir.md)
+* [🟠 RDM Guide for Life Sciences (Elixir)](https://bit.ly/RDM_GUIDE)
+* [🟠 RDM  Kit for Life Sciences (Elixir)](https://bit.ly/RDM_Kit)
 
 ## Organizing Your Data
 
