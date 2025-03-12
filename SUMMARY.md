@@ -66,6 +66,7 @@
 
 ## Information Videos
 
+* [🟢 eLearning RDM](https://www.deic.dk/en/RDMElearn)
 * [🟢 Information Videos](information-videos/seminars/README.md)
   * [🟢 Organize Your Data ](https://bit.ly/File_Name)
   * [🟢 OMERO Plus Demo - Glencoe Software](https://bit.ly/3XrwCGN)
