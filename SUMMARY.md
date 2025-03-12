@@ -3,22 +3,17 @@
 ## Data Champions Program
 
 * [🔵 Data Champions at reNEW](README.md)
-* [🔵 Onboarding at reNEW](data-champions-program/onboarding-at-renew.md)
-* [🔵 Organizing Your Data](data-champions-program/organizing-your-data.md)
 * [🔵 License and Reusability](data-champions-program/license-and-reusability.md)
 * [🔵 Contact Details](data-champions-program/contact-details.md)
 
 ## RDM Resources
 
 * [🟢 What is RDM?](rdm-resources/what-is-rdm.md)
+* [🟢 Labguru Support](https://bit.ly/LABGURU_1)
 * [🟢 Research Portal](https://kunet.ku.dk/work-areas/research/Pages/default.aspx)
 * [🟢 RDM Portal](https://kunet.ku.dk/work-areas/research/data/Pages/default.aspx)
-* [🟢 Guide Sheet: Research Data Management](data-champions/guide-sheet-research-data-management.md)
-* [🟢 Research Project Process](rdm-resources/research-planning.md)
-
-***
-
 * [🟢 RDM Checklist](rdm-resources/rdm-checklist.md)
+* [🟢 Research Project Process](rdm-resources/research-planning.md)
 
 ## Elixir Resources
 
@@ -48,7 +43,6 @@
 * [🟡 DMP](dmp-resources/dmp/README.md)
   * [🟡 DMP Planning](dmp-resources/dmp/dmp-planning.md)
   * [🟡 Data Management Plans](dmp-resources/dmp/data-management-plans.md)
-* [🟡 Research Project Process](dmp-resources/research-project-process.md)
 * [🟡 DMP Templates](dmp-resources/dmp-templates/README.md)
   * [🟡 EU Grants ](dmp-resources/dmp-templates/eu-grants/README.md)
     * [🟡 EU Grants](dmp-resources/dmp-templates/eu-grants/eu-grants/README.md)
@@ -78,10 +72,6 @@
   * [🟢 reNEW Labguru Training Video 1](https://bit.ly/reNEW_Train_1)
   * [🟢 reNEW Labguru Training Video 2](https://bit.ly/reNEW_Train_2)
   * [🟢 Horizon Europe DMP - Webinar](https://deic.dk/da/event/webinar-14062023)
-* [🟢 Information Sessions](information-videos/seminars-1/README.md)
-  * [🟢 Data Champions Program](information-videos/seminars-1/data-champions-program.md)
-  * [🟢 OMERO Plus Proof of Concept (POC) Report](information-videos/seminars-1/omero-plus-proof-of-concept-poc-report.md)
-  * [🟢 Open Access Webinar - August 2024](information-videos/seminars-1/open-access-webinar-august-2024.md)
 
 ## Open Science&#x20;
 
@@ -117,6 +107,8 @@
 
 * [🔴 Data Protection Agency](gdpr-resources/data-protection-agency.md)
 * [🔴 GDPR for Researchers](gdpr-resources/gdpr-for-researchers.md)
+* [🛑 GDPR Resouces](https://kunet.ku.dk/work-areas/research/data/personal-data/Pages/default.aspx)
+* [🛑 GDPR - Project Like Mine](https://bit.ly/GDPR_PLM)
 
 ## UCPH IT Resources
 
@@ -127,30 +119,11 @@
 
 ## Infographics
 
-* [🟠 Bioimaging Workflows](infographics/bioimaging-workflows.md)
-* [🟠 Data Life Cycle](infographics/data-life-cycle.md)
-* [🟠 Data Management](infographics/data-management.md)
-* [🟠 Directory Structure I](infographics/directory-structure-i.md)
-* [🟠 Directory Structure II](infographics/directory-structure-ii.md)
 * [🟠 FAIR Principles](infographics/fair-principles.md)
-* [🟠 File Naming Guide](infographics/file-naming-guide.md)
 * [🟠 Open Science Pillars](infographics/open-science-pillars.md)
 * [🟠 Research Process](infographics/research-process.md)
 * [🟠 RODMM Framework](infographics/rodmm-framework.md)
 * [🟠 UCPH HPC Quick Guide](infographics/ucph-hpc-quick-guide.md)
-
-## External RDM Resources
-
-* [🔵 GDPR Resouces](https://kunet.ku.dk/work-areas/research/data/personal-data/Pages/default.aspx)
-* [🔵 GDPR - Project Like Mine](https://bit.ly/GDPR_PLM)
-* [🔵 LabGuru Support](external-rdm-resources/labguru-support/README.md)
-  * [🔵 Labguru Web Access](https://bit.ly/LABGURU_3)
-  * [🔵 Labguru Help Videos](https://bit.ly/LABGURU_2)
-  * [🔵 reNEW Labguru Training Video 1](https://bit.ly/reNEW_Train_1)
-  * [🔵 reNEW Labguru Training Video 2](https://bit.ly/reNEW_Train_2)
-* [🔵 Labguru Support](https://bit.ly/LABGURU_1)
-* [🔵 RDM Guide for Life Sciences (Elixir)](https://bit.ly/RDM_GUIDE)
-* [🔵 RDM  Kit for Life Sciences (Elixir)](https://bit.ly/RDM_Kit)
 
 ## reNEW RDM Blog
 
