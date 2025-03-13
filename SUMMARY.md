@@ -85,6 +85,7 @@
 * [⚪ Biomedical Data Repositories](biomedical-repository/biomedical-data-repositories/README.md)
   * [⚪ Guidance: Biomedical Repositories I](https://sharing.nih.gov/data-management-and-sharing-policy/sharing-scientific-data/repositories-for-sharing-scientific-data)
   * [⚪ Guidance: Biomedical Repositories II](https://www.nlm.nih.gov/NIHbmic/domain_specific_repositories.html)
+  * [⚪ PLOS Guidance: Biomedical Repositories III](https://journals.plos.org/plosbiology/s/recommended-repositories)
 
 ## reNEW Websites
 
