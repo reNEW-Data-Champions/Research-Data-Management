@@ -15,9 +15,9 @@ layout:
 
 # 🔵 Data Champions at reNEW
 
-### <mark style="color:blue;">**Data Champions at reNEW: Supporting Research Data Management**</mark>
+### <mark style="color:blue;">**Data Champions at reNEW: Supporting Research Data Management**</mark>					&#x9;
 
-The reNEW Data Champions are dedicated volunteers committed to guiding researchers at the University of Copenhagen in all Research Data Management (RDM) aspects. Their primary aim is to help reNEW research groups organize, store, and share data effectively, ensuring alignment with institutional policies, legal requirements, and best practices.
+The **reNEW Data Champions** are dedicated volunteers who support researchers within their respective research groups, assisting them in finding resources that enhance their data management practices. Their primary role is to guide reNEW research groups in **organizing, storing, and sharing data effectively**, ensuring compliance with institutional policies, legal requirements, and best practices. Data Champions help streamline Research Data Management (RDM) processes by providing targeted support, making data more accessible, secure, and aligned with FAIR principles.
 
 By emphasizing the FAIR principles—Findable, Accessible, Interoperable, and Reusable—the Data Champions enable researchers to implement structured data management strategies that enhance the quality, accessibility, and longevity of their research outputs.
 
