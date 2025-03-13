@@ -83,6 +83,7 @@
 ## Biomedical Repository
 
 * [⚪ Biomedical Data Repositories](biomedical-repository/biomedical-data-repositories.md)
+* [⚪ Guidance: Biomedical Repositories](https://sharing.nih.gov/data-management-and-sharing-policy/sharing-scientific-data/repositories-for-sharing-scientific-data)
 
 ## reNEW Websites
 
