@@ -66,13 +66,13 @@
 
 ## Information Videos
 
-* [🟢 eLearning RDM](https://www.deic.dk/en/RDMElearn)
 * [🟢 Information Videos](information-videos/seminars/README.md)
   * [🟢 Organize Your Data ](https://bit.ly/File_Name)
   * [🟢 OMERO Plus Demo - Glencoe Software](https://bit.ly/3XrwCGN)
   * [🟢 reNEW Labguru Training Video 1](https://bit.ly/reNEW_Train_1)
   * [🟢 reNEW Labguru Training Video 2](https://bit.ly/reNEW_Train_2)
   * [🟢 Horizon Europe DMP - Webinar](https://deic.dk/da/event/webinar-14062023)
+* [🟢 eLearning RDM](https://www.deic.dk/en/RDMElearn)
 
 ## Open Science&#x20;
 
@@ -83,7 +83,8 @@
 ## Biomedical Repository
 
 * [⚪ Biomedical Data Repositories](biomedical-repository/biomedical-data-repositories.md)
-* [⚪ Guidance: Biomedical Repositories](https://sharing.nih.gov/data-management-and-sharing-policy/sharing-scientific-data/repositories-for-sharing-scientific-data)
+* [⚪ Guidance: Biomedical Repositories I](https://sharing.nih.gov/data-management-and-sharing-policy/sharing-scientific-data/repositories-for-sharing-scientific-data)
+* [⚪ Guidance: Biomedical Repositories II](https://www.nlm.nih.gov/NIHbmic/domain_specific_repositories.html)
 
 ## reNEW Websites
 
