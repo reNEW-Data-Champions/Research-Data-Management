@@ -8,21 +8,21 @@
 
 ## RDM Resources
 
-* [🟢 What is RDM?](rdm-resources/what-is-rdm.md)
+* [🟢 What is RDM?](rdm-resources/what-is-rdm/README.md)
+  * [🟢 RDM Checklist](rdm-resources/what-is-rdm/rdm-checklist.md)
+  * [🟢 Research Project Process](rdm-resources/what-is-rdm/research-planning.md)
 * [🟢 Labguru Support](https://bit.ly/LABGURU_1)
 * [🟢 Research Portal](https://kunet.ku.dk/work-areas/research/Pages/default.aspx)
 * [🟢 RDM Portal](https://kunet.ku.dk/work-areas/research/data/Pages/default.aspx)
-* [🟢 RDM Checklist](rdm-resources/rdm-checklist.md)
-* [🟢 Research Project Process](rdm-resources/research-planning.md)
 
 ## Elixir Resources
 
-* [🟠 What is Elixir?](elixir-resources/what-is-elixir.md)
-* [🟠 RDM Guide for Life Sciences (Elixir)](https://bit.ly/RDM_GUIDE)
-* [🟠 RDM  Kit for Life Sciences (Elixir)](https://bit.ly/RDM_Kit)
-* [🟠 RDM  Kit for BioImaging (Elixir)](https://rdmkit.elixir-europe.org/bioimaging_data)
-* [🟠 RDM  Kit for Bioinformatics (Elixir)](https://rdmkit.elixir-europe.org/structural_bioinformatics)
-* [🟠 RDM  Kit for Data Repository (Elixir)](https://rdmkit.elixir-europe.org/data_publication)
+* [🟠 What is Elixir?](elixir-resources/what-is-elixir/README.md)
+  * [🟠 RDM Guide for Life Sciences (Elixir)](https://bit.ly/RDM_GUIDE)
+  * [🟠 RDM  Kit for Life Sciences (Elixir)](https://bit.ly/RDM_Kit)
+  * [🟠 RDM  Kit for BioImaging (Elixir)](https://rdmkit.elixir-europe.org/bioimaging_data)
+  * [🟠 RDM  Kit for Bioinformatics (Elixir)](https://rdmkit.elixir-europe.org/structural_bioinformatics)
+  * [🟠 RDM  Kit for Data Repository (Elixir)](https://rdmkit.elixir-europe.org/data_publication)
 
 ## Organizing Your Data
 
@@ -82,9 +82,9 @@
 
 ## Biomedical Repository
 
-* [⚪ Biomedical Data Repositories](biomedical-repository/biomedical-data-repositories.md)
-* [⚪ Guidance: Biomedical Repositories I](https://sharing.nih.gov/data-management-and-sharing-policy/sharing-scientific-data/repositories-for-sharing-scientific-data)
-* [⚪ Guidance: Biomedical Repositories II](https://www.nlm.nih.gov/NIHbmic/domain_specific_repositories.html)
+* [⚪ Biomedical Data Repositories](biomedical-repository/biomedical-data-repositories/README.md)
+  * [⚪ Guidance: Biomedical Repositories I](https://sharing.nih.gov/data-management-and-sharing-policy/sharing-scientific-data/repositories-for-sharing-scientific-data)
+  * [⚪ Guidance: Biomedical Repositories II](https://www.nlm.nih.gov/NIHbmic/domain_specific_repositories.html)
 
 ## reNEW Websites
 
