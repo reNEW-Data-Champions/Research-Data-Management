@@ -15,7 +15,7 @@ layout:
 
 # 🔵 Data Champions at reNEW
 
-## <mark style="color:blue;">**Data Champions:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">Research Data Management Excellence</mark>
+## <mark style="color:blue;">**Data Champions:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">Research Data Management</mark>
 
 ### <mark style="color:blue;">Data Champions at reNEW:</mark>&#x20;
 
