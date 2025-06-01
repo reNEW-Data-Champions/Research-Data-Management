@@ -37,16 +37,16 @@ By embedding the FAIR principles—Findable, Accessible, Interoperable, and Reus
 The reNEW Data Champion network cultivates a scholarly culture of collaboration and knowledge exchange, transcending disciplinary and institutional boundaries. Through this network, the Data Champions:
 
 * Facilitate peer learning and knowledge sharing to address RDM challenges with informed solutions.
-* Promote the adoption of standardized RDM methodologies that streamline research workflows and enhance data integrity.\
-  Champion open science and data sharing initiatives to amplify the reach and impact of reNEW research.
+* Promote the adoption of standardized RDM methodologies that streamline research workflows and enhance data integrity.
+* Champion open science and data sharing initiatives to amplify the reach and impact of reNEW research.
 
 #### <mark style="color:blue;">Contributing to Long-Term Research Impact and Sustainability</mark>
 
 The contributions of reNEW Data Champions are essential in:
 
-* Enhancing research reproducibility and methodological rigor, ensuring that datasets are verifiable and trustworthy.\
-  Facilitating interdisciplinary collaboration and data exchange, promoting integrative approaches to scientific inquiry.\
-  Preserving and valorizing research data, transforming it into a sustainable resource for the broader scientific community and future generations.
+* Enhancing research reproducibility and methodological rigor, ensuring that datasets are verifiable and trustworthy.
+* Facilitating interdisciplinary collaboration and data exchange, promoting integrative approaches to scientific inquiry.
+* Preserving and valorizing research data, transforming it into a sustainable resource for the broader scientific community and future generations.
 
 #### <mark style="color:blue;">A Strategic Imperative for Research Advancement</mark>
 
