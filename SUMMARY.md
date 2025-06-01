@@ -15,14 +15,17 @@
 * [🟢 Research Portal](https://kunet.ku.dk/work-areas/research/Pages/default.aspx)
 * [🟢 RDM Portal](https://kunet.ku.dk/work-areas/research/data/Pages/default.aspx)
 
-## Elixir Resources
+## Elixir Resources - RDM
 
-* [🟠 What is Elixir?](elixir-resources/what-is-elixir/README.md)
+* [🟠 What is Elixir?](elixir-resources-rdm/what-is-elixir/README.md)
   * [🟠 RDM Guide for Life Sciences (Elixir)](https://bit.ly/RDM_GUIDE)
   * [🟠 RDM  Kit for Life Sciences (Elixir)](https://bit.ly/RDM_Kit)
-  * [🟠 RDM  Kit for BioImaging (Elixir)](https://rdmkit.elixir-europe.org/bioimaging_data)
+  * [🟠 RDM  Kit for Single-cell sequencing (Elixir)](https://bit.ly/rdm-scs)
+  * [🟠 RDM  Kit for Bioimaging (Elixir)](https://rdmkit.elixir-europe.org/bioimaging_data)
   * [🟠 RDM  Kit for Bioinformatics (Elixir)](https://rdmkit.elixir-europe.org/structural_bioinformatics)
+  * [🟠 RDM  Kit for Human Data (Elixir)](https://bit.ly/RDN-Human_Data)
   * [🟠 RDM  Kit for Data Repository (Elixir)](https://rdmkit.elixir-europe.org/data_publication)
+  * [🟠 RDM  Kit for Documentation and Metadata (Elixir)](https://bit.ly/RDMKit-Metadata)
 
 ## Organizing Your Data
 

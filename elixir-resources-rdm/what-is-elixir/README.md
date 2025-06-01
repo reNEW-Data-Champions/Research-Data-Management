@@ -8,9 +8,7 @@ description: The RDMkit from Elixir
 
 ### <mark style="color:yellow;">**ELIXIR Research Data Management Kit (RDMkit) for reNEW**</mark> <mark style="color:yellow;">**Guidance on applying FAIR principles to life science research data**</mark>
 
-***
-
-<mark style="color:yellow;">**Overview: Who Is the RDMkit For?**</mark>
+## <mark style="color:yellow;">Overview: Who is the RDMkit for?</mark>
 
 The [<mark style="color:yellow;">ELIXIR Research Data Management Kit (RDMkit)</mark>](https://rdmkit.elixir-europe.org/index) is a community-driven resource designed to help life scientists manage research data more effectively by the FAIR principles (Findable, Accessible, Interoperable, Reusable). Designed to encompass each stage of the research data lifecycle, the RDMkit offers practical methods, tools, and advice for researchers, data managers, and policymakers. However, not every stage will be relevant to everyone.
 
