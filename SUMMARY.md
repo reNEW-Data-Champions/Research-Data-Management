@@ -3,8 +3,8 @@
 ## Data Champions Program
 
 * [🔵 Data Champions at reNEW](README.md)
-* [License and Reusability](data-champions-program/license-and-reusability.md)
-* [Contact Details](data-champions-program/contact-details.md)
+* [🔵 License and Reusability](data-champions-program/license-and-reusability.md)
+* [🔵 Contact Details](data-champions-program/contact-details.md)
 
 ## RDM Resources
 
