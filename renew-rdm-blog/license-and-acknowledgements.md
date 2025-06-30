@@ -13,13 +13,9 @@ layout:
     visible: true
 ---
 
-# 🟡 License  and Acknowledgements
+# 🟣 License and Acknowledgements
 
-<div data-full-width="true">
-
-<figure><img src="../.gitbook/assets/ReNEW_Logo_Tagline_FullColour_2022.png" alt=""><figcaption><p>Novo Nordisk Foundation Center for Stem Cell Medicine - reNEW</p></figcaption></figure>
-
-</div>
+<div data-full-width="true"><figure><img src="../.gitbook/assets/ReNEW_Logo_Tagline_FullColour_2022.png" alt=""><figcaption><p>Novo Nordisk Foundation Center for Stem Cell Medicine - reNEW</p></figcaption></figure></div>
 
 
 

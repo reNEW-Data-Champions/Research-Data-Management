@@ -2,7 +2,7 @@
 description: Bulk RNA Sequencing
 ---
 
-# 🟡 Bulk RNA Sequencing
+# Bulk RNA Sequencing
 
 
 

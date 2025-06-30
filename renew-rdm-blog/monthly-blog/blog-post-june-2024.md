@@ -2,7 +2,7 @@
 description: June 18, 2024 - Blog Post
 ---
 
-# 🟡 Blog Post - June 2024
+# 🔵 Blog Post - April 2025
 
 ## Biomedical Research Infrastructure and the Imperative for Robust Research Data Management: A Personal Perspective
 

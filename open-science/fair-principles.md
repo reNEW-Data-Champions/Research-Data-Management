@@ -2,7 +2,7 @@
 description: The Guide to the FAIR Principles
 ---
 
-# 🟠 FAIR Principles
+# 🟣 FAIR Principles
 
 
 

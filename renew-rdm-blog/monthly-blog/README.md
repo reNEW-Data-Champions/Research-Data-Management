@@ -1,6 +1,6 @@
 ---
-description: Research Data Management Blog
+description: Research Data Management Newsletters
 ---
 
-# 🟡 Monthly Blog
+# 🔵 Monthly Newsletter
 

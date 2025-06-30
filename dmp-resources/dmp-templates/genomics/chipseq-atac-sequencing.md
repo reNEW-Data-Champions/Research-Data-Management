@@ -2,7 +2,7 @@
 description: ChiPseq ATAc Sequencing
 ---
 
-# 🟡 ChiPseq ATAC Sequencing
+# ChiPseq ATAC Sequencing
 
 
 

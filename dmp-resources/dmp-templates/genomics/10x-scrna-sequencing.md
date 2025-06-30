@@ -2,7 +2,7 @@
 description: 10X scRNA Sequencing DMP Template
 ---
 
-# 🟡 10X scRNA Sequencing
+# 10X scRNA Sequencing
 
 
 

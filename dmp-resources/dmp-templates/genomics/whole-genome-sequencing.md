@@ -2,7 +2,7 @@
 description: Whole Genome Sequencing
 ---
 
-# 🟡 Whole Genome Sequencing
+# Whole Genome Sequencing
 
 
 

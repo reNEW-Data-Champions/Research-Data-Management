@@ -2,7 +2,7 @@
 description: August 10, 2024 - Blog Post
 ---
 
-# 🟡 Blog Post - Aug 2024
+# 🔵 Blog Post - June 2025
 
 ## Research Data Management at Universities: Storage Solutions
 

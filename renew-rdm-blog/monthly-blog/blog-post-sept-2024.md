@@ -2,7 +2,7 @@
 description: September 9, 2024 - Blog Post
 ---
 
-# 🟡 Blog Post - Sept 2024
+# 🔵 Blog Post - July 2025
 
 ## **Reproducibility and Open Science: Pillars for Advancing Scientific Progress**
 

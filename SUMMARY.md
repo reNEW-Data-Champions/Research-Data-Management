@@ -69,7 +69,7 @@
 
 ## Information Videos
 
-* [Information Videos](information-videos/seminars/README.md)
+* [🟢 Information Videos](information-videos/seminars/README.md)
   * [🟢 Organize Your Data](https://bit.ly/File_Name)
   * [🟢 OMERO Plus Demo - Glencoe Software](https://bit.ly/3XrwCGN)
   * [🟢 reNEW Labguru Training Video 1](https://bit.ly/reNEW_Train_1)
@@ -79,20 +79,20 @@
 
 ## Open Science
 
-* [FAIR Principles](open-science/fair-principles.md)
-* [FAIR Principles - MP4](open-science/fair-principles-mp4.md)
-* [Open Science - 8 Pillars](open-science/open-science-8-pillars.md)
+* [🟣 FAIR Principles](open-science/fair-principles.md)
+* [🟣 FAIR Principles - MP4](open-science/fair-principles-mp4.md)
+* [🟣 Open Science - 8 Pillars](open-science/open-science-8-pillars.md)
 
 ## Biomedical Repository
 
-* [Biomedical Data Repositories](biomedical-repository/biomedical-data-repositories/README.md)
+* [⚪ Biomedical Data Repositories](biomedical-repository/biomedical-data-repositories/README.md)
   * [⚪ Guidance: Biomedical Repositories I](https://sharing.nih.gov/data-management-and-sharing-policy/sharing-scientific-data/repositories-for-sharing-scientific-data)
   * [⚪ Guidance: Biomedical Repositories II](https://www.nlm.nih.gov/NIHbmic/domain_specific_repositories.html)
   * [⚪ PLOS Guidance: Biomedical Repositories III](https://journals.plos.org/plosbiology/s/recommended-repositories)
 
 ## reNEW Websites
 
-* [reNEW Websites](renew-websites/renew-websites/README.md)
+* [🌎 reNEW Websites](renew-websites/renew-websites/README.md)
   * [🌎 reNEW Website](https://renew.science/)
   * [🌎 reNEW Connect](https://alumni.sharepoint.com/sites/UCPH_reNEWConnect/SitePages/Home.aspx)
   * [🌎 reNEW KUnet](https://kunet.ku.dk/faculty-and-department/renew/Pages/default.aspx)
@@ -112,35 +112,33 @@
 
 ## GDPR Resources
 
-* [Data Protection Agency](gdpr-resources/data-protection-agency.md)
-* [GDPR for Researchers](gdpr-resources/gdpr-for-researchers.md)
-* [🛑 GDPR Resouces](https://kunet.ku.dk/work-areas/research/data/personal-data/Pages/default.aspx)
-* [🛑 GDPR - Project Like Mine](https://bit.ly/GDPR_PLM)
+* [🔴 Data Protection Agency](gdpr-resources/data-protection-agency.md)
+* [🔴 GDPR for Researchers](gdpr-resources/gdpr-for-researchers.md)
+* [🔴 GDPR Resouces](https://kunet.ku.dk/work-areas/research/data/personal-data/Pages/default.aspx)
+* [🔴 GDPR - Project Like Mine](https://bit.ly/GDPR_PLM)
 
 ## UCPH IT Resources
 
-* [Archive vs. Backup](ucph-it-resources/archive-vs.-backup.md)
-* [UCPH HPC Guide](ucph-it-resources/ucph-hpc-guide.md)
-* [UCPH Data Storage](ucph-it-resources/ucph-data-storage.md)
-* [🟤 UCPH Research IT](https://kunet.ku.dk/work-areas/research/Research%20Infrastructure/research-it/Pages/default.aspx)
+* [🟡 Archive vs. Backup](ucph-it-resources/archive-vs.-backup.md)
+* [🟡 UCPH HPC Guide](ucph-it-resources/ucph-hpc-guide.md)
+* [🟡 UCPH Data Storage](ucph-it-resources/ucph-data-storage.md)
+* [🟡 UCPH Research IT](https://kunet.ku.dk/work-areas/research/Research%20Infrastructure/research-it/Pages/default.aspx)
 
 ## Infographics
 
-* [FAIR Principles](infographics/fair-principles.md)
-* [Open Science Pillars](infographics/open-science-pillars.md)
-* [Research Process](infographics/research-process.md)
-* [RODMM Framework](infographics/rodmm-framework.md)
-* [UCPH HPC Quick Guide](infographics/ucph-hpc-quick-guide.md)
+* [🟠 FAIR Principles](infographics/fair-principles.md)
+* [🟠 Open Science Pillars](infographics/open-science-pillars.md)
+* [🟠 Research Process](infographics/research-process.md)
+* [🟠 RODMM Framework](infographics/rodmm-framework.md)
+* [🟠 UCPH HPC Quick Guide](infographics/ucph-hpc-quick-guide.md)
 
 ## reNEW RDM Blog
 
-* [Monthly Blog](renew-rdm-blog/monthly-blog/README.md)
-  * [Disclaimer](renew-rdm-blog/monthly-blog/disclaimer.md)
-  * [Blog Post - May 2024](renew-rdm-blog/monthly-blog/blog-post-may-2024.md)
-  * [Blog Post - June 2024](renew-rdm-blog/monthly-blog/blog-post-june-2024.md)
-  * [Blog Post - July 2024](renew-rdm-blog/monthly-blog/blog-post-july-2024.md)
-  * [Blog Post - Aug 2024](renew-rdm-blog/monthly-blog/blog-post-aug-2024.md)
-  * [Blog Post - Sept 2024](renew-rdm-blog/monthly-blog/blog-post-sept-2024.md)
-  * [Blog Post - Oct 2024](renew-rdm-blog/monthly-blog/blog-post-oct-2024.md)
-  * [Blog Post - Nov 2024](renew-rdm-blog/monthly-blog/blog-post-nov-2024.md)
-* [License and Acknowledgements](renew-rdm-blog/license-and-acknowledgements.md)
+* [🔵 Monthly Newsletter](renew-rdm-blog/monthly-blog/README.md)
+  * [🔵 Disclaimer](renew-rdm-blog/monthly-blog/disclaimer.md)
+  * [🔵 Blog Post - March 2025](renew-rdm-blog/monthly-blog/blog-post-may-2024.md)
+  * [🔵 Blog Post - April 2025](renew-rdm-blog/monthly-blog/blog-post-june-2024.md)
+  * [🔵 Blog Post - May 2025](renew-rdm-blog/monthly-blog/blog-post-july-2024.md)
+  * [🔵 Blog Post - June 2025](renew-rdm-blog/monthly-blog/blog-post-aug-2024.md)
+  * [🔵 Blog Post - July 2025](renew-rdm-blog/monthly-blog/blog-post-sept-2024.md)
+* [🟣 License and Acknowledgements](renew-rdm-blog/license-and-acknowledgements.md)

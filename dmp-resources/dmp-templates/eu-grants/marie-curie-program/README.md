@@ -1,2 +1,2 @@
-# 🟡 Marie Curie Fellowship Resources
+# Marie Curie Program
 
