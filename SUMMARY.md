@@ -15,9 +15,9 @@
 * [🟢 Research Portal](https://kunet.ku.dk/work-areas/research/Pages/default.aspx)
 * [🟢 RDM Portal](https://kunet.ku.dk/work-areas/research/data/Pages/default.aspx)
 
-## Elixir Resources - RDM
+## RDM Kit by Elixir
 
-* [🟠 What is Elixir?](elixir-resources-rdm/what-is-elixir/README.md)
+* [🟠 What is Elixir?](rdm-kit-by-elixir/what-is-elixir/README.md)
   * [🟠 RDM Guide for Life Sciences (Elixir)](https://bit.ly/RDM_GUIDE)
   * [🟠 RDM Kit for Life Sciences (Elixir)](https://bit.ly/RDM_Kit)
   * [🟠 RDM Kit for Single-cell sequencing (Elixir)](https://bit.ly/rdm-scs)
@@ -29,8 +29,8 @@
 
 ## Organizing Your Data
 
-* [🔴 Batch Renaming](organizing-your-data/batch-renaming.md)
 * [🔴 File and Folder Tips](organizing-your-data/file-and-folder-tips/README.md)
+  * [🔴 Batch Renaming](organizing-your-data/file-and-folder-tips/batch-renaming.md)
   * [🔴 File and Folder Tips I](organizing-your-data/file-and-folder-tips/file-and-folder-tips-i.md)
   * [🔴 File and Folder Tips II](organizing-your-data/file-and-folder-tips/file-and-folder-tips-ii.md)
   * [🔴 File and Folder Tips III](organizing-your-data/file-and-folder-tips/file-and-folder-tips-iii.md)
