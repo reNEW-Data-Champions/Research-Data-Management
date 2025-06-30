@@ -2,7 +2,7 @@
 layout: landing
 ---
 
-# 🟣 Kirkeby Group
+# 🔵 Kirkeby Group
 
 ## [Group research](https://renew.ku.dk/research/reseach-groups/kirkeby-group/#collapse-1582021919959)
 

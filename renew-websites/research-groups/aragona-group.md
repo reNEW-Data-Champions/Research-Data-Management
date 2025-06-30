@@ -2,7 +2,7 @@
 layout: landing
 ---
 
-# 🟣 Aragona Group
+# 🔵 Aragona Group
 
 ## [Group research](https://renew.ku.dk/research/reseach-groups/aragona/#collapse-1582021919959)
 

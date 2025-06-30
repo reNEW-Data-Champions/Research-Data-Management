@@ -1,2 +1,2 @@
-# 🟣 Research Groups
+# 🔵 Research Groups
 

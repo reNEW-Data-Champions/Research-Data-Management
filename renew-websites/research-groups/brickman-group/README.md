@@ -2,7 +2,7 @@
 layout: landing
 ---
 
-# 🟣 Brickman Group
+# 🔵 Brickman Group
 
 ## [Group research](https://renew.ku.dk/research/reseach-groups/brickman-group/#collapse-1582021919959)
 

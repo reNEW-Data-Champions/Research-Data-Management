@@ -2,7 +2,7 @@
 layout: landing
 ---
 
-# 🟣 Little Group
+# 🔵 Little Group
 
 ## [Group research](https://renew.ku.dk/research/reseach-groups/little-group/#collapse-1582021919959)
 
