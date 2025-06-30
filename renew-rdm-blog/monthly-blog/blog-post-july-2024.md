@@ -1,8 +1,8 @@
 ---
-description: July 3, 2024 - Blog Post
+description: Leveraging Machine-Actionable DMPs for Enhanced Research Workflows
 ---
 
-# 🔵 Blog Post - May 2025
+# 🔵 Newsletter - May 2025
 
 ## Leveraging Machine-Actionable DMPs for Enhanced Research Workflows
 

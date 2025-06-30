@@ -1,12 +1,12 @@
 ---
-description: August 10, 2024 - Blog Post
+description: 'Research Data Management at Universities: Storage Solutions'
 ---
 
-# 🔵 Blog Post - June 2025
+# 🔵 Newsletter - June 2025
 
 ## Research Data Management at Universities: Storage Solutions
 
-Universities worldwide are hubs for cutting-edge research across many fields. From social sciences to hard sciences, the data generated from these research initiatives are often vast and intricate. Properly managing this research data is paramount for the accuracy and replicability of studies and ensuring data security, accessibility, and compliance with institutional or funding mandates. Let's explore the challenges universities face regarding research data management (RDM) and the storage solutions they employ.
+Universities worldwide are hubs for cutting-edge research across many fields. From social sciences to hard sciences, the data generated from these research initiatives is often vast and intricate. Properly managing this research data is paramount for the accuracy and replicability of studies and ensuring data security, accessibility, and compliance with institutional or funding mandates. Let's explore the challenges universities face regarding research data management (RDM) and the storage solutions they employ.
 
 ### The Unique Challenge of University Research Data
 
