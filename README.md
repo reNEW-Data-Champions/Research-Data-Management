@@ -51,3 +51,10 @@ The contributions of reNEW Data Champions are essential in:
 #### <mark style="color:blue;">A Strategic Imperative for Research Advancement</mark>
 
 By engaging in the reNEW Data Champion Program, participants are at the forefront of a transformative movement that elevates RDM from a procedural obligation to a strategic enabler of research excellence. Their commitment fosters a culture of responsible and impactful data stewardship, reinforcing reNEW’s mission to advance biomedical research with rigor, transparency, and global relevance.
+
+[![GitBook](https://img.shields.io/static/v1?message=Documented%20on%20GitBook&logo=gitbook&logoColor=ffffff&label=%20&labelColor=5c5c5c&color=3F89A1)](https://www.gitbook.com/preview?utm_source=gitbook_readme_badge&utm_medium=organic&utm_campaign=preview_documentation&utm_content=link)
+<a href="https://www.gitbook.com/preview?utm_source=gitbook_readme_badge&utm_medium=organic&utm_campaign=preview_documentation&utm_content=link">
+    <img
+        src="https://img.shields.io/static/v1?message=Documented%20on%20GitBook&logo=gitbook&logoColor=ffffff&label=%20&labelColor=5c5c5c&color=3F89A1"
+    />
+</a>
