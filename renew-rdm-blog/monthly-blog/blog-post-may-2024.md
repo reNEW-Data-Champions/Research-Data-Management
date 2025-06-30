@@ -2,7 +2,7 @@
 description: Enhancing Genomic Research with Metadata
 ---
 
-# 🔵 Blog Post - March 2025
+# 🟠 Newsletter - March 2025
 
 ## The Critical Role of Metadata in Genomics: Enhancing Research through Domain-Specific Repositories
 

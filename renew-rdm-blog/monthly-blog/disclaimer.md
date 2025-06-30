@@ -1,6 +1,6 @@
-# 🔵 Disclaimer
+# 🟠 Disclaimer
 
-{% hint style="success" %}
+{% hint style="warning" %}
 
 
 ***

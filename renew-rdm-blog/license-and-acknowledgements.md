@@ -13,7 +13,7 @@ layout:
     visible: true
 ---
 
-# 🟣 License and Acknowledgements
+# 🟠 License and Acknowledgements
 
 <div data-full-width="true"><figure><img src="../.gitbook/assets/ReNEW_Logo_Tagline_FullColour_2022.png" alt=""><figcaption><p>Novo Nordisk Foundation Center for Stem Cell Medicine - reNEW</p></figcaption></figure></div>
 
@@ -31,11 +31,11 @@ I am committed to ensuring the content of this website accurately mirrors the mo
 
 ***
 
-{% hint style="info" %}
+{% hint style="danger" %}
 Please don't hesitate to contact [Richard Dennis](mailto:richard.dennis@sund.ku.dk), Research Consultant - Data Steward. We value your input and thank you for your visit.
 {% endhint %}
 
-{% hint style="danger" %}
+{% hint style="info" %}
 **Research Data Management Infographic Series**: by [Richard Dennis](mailto:richard.dennis@sund.ku.dk) - [NNF Center for Stem Cell Medicine - reNEW - Data Champion Program, University of Copenhagen.](https://renew.ku.dk/) Licensed under a [Creative Commons Attribution–Non-Commercial–No Derivates 4.0 International License.](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 **Research Data Management Guides and Documents**: by [Richard Dennis](mailto:richard.dennis@sund.ku.dk) - [NNF Center for Stem Cell Medicine - reNEW - Data Champion Program, University of Copenhagen.](https://renew.ku.dk/) Licensed under a [Creative Commons Attribution–Non-Commercial–No Derivates 4.0 International License.](https://creativecommons.org/licenses/by-nc-nd/4.0/)

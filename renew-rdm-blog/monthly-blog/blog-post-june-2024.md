@@ -4,7 +4,7 @@ description: >-
   Management: A Personal Perspective
 ---
 
-# 🔵 Newsletter - April 2025
+# 🟠 Newsletter - April 2025
 
 ## Biomedical Research Infrastructure and the Imperative for Robust Research Data Management: A Personal Perspective
 

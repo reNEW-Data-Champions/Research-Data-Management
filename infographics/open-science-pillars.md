@@ -2,10 +2,6 @@
 description: Open Science - Eight Pillars for LERU
 ---
 
-# 🟠 What is Open Science?
+# 🟡 Open Science Pillars
 
-<div data-full-width="true">
-
-<figure><img src="../../.gitbook/assets/Updated-01.jpg" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div data-full-width="true"><figure><img src="../.gitbook/assets/Updated-01.jpg" alt=""><figcaption></figcaption></figure></div>

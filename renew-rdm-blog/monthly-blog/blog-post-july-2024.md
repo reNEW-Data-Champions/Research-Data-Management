@@ -2,7 +2,7 @@
 description: Leveraging Machine-Actionable DMPs for Enhanced Research Workflows
 ---
 
-# 🔵 Newsletter - May 2025
+# 🟠 Newsletter - May 2025
 
 ## Leveraging Machine-Actionable DMPs for Enhanced Research Workflows
 

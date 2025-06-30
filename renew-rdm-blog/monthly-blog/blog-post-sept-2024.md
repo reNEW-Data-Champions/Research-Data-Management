@@ -2,7 +2,7 @@
 description: 'Reproducibility and Open Science: Pillars for Advancing Scientific Progress'
 ---
 
-# 🔵 Newsletter - July 2025
+# 🟠 Newsletter - July 2025
 
 ## **Reproducibility and Open Science: Pillars for Advancing Scientific Progress**
 

@@ -2,7 +2,7 @@
 layout: landing
 ---
 
-# 🔵 Jensen Group
+# Jensen Group
 
 ## [Group research](https://renew.ku.dk/research/reseach-groups/jensen-group/#collapse-1582021919959)
 

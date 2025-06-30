@@ -2,7 +2,7 @@
 description: The RDMkit from Elixir
 ---
 
-# 🟠 What is Elixir?
+# 🟡 What is Elixir?
 
 &#x9;			&#x9;
 

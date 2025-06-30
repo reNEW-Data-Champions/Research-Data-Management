@@ -2,7 +2,7 @@
 layout: landing
 ---
 
-# 🔵 Sedzinski Group
+# Sedzinski Group
 
 ## [Group research](https://renew.ku.dk/research/reseach-groups/sedzinski-group/#collapse-1582021919959)
 

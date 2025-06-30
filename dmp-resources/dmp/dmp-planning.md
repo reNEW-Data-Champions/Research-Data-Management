@@ -2,7 +2,7 @@
 description: The Importance of Research Data Management
 ---
 
-# 🟡 Data Management Planning
+# 🔴 DMP Planning
 
 
 
