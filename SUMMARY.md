@@ -8,16 +8,16 @@
 
 ## RDM Resources
 
-* [What is RDM?](rdm-resources/what-is-rdm/README.md)
-  * [RDM Checklist](rdm-resources/what-is-rdm/rdm-checklist.md)
-  * [Research Project Process](rdm-resources/what-is-rdm/research-planning.md)
+* [🟢 What is RDM?](rdm-resources/what-is-rdm/README.md)
+  * [🟢 RDM Checklist](rdm-resources/what-is-rdm/rdm-checklist.md)
+  * [🟢 Research Project Process](rdm-resources/what-is-rdm/research-planning.md)
 * [🟢 Labguru Support](https://bit.ly/LABGURU_1)
 * [🟢 Research Portal](https://kunet.ku.dk/work-areas/research/Pages/default.aspx)
 * [🟢 RDM Portal](https://kunet.ku.dk/work-areas/research/data/Pages/default.aspx)
 
 ## Elixir Resources - RDM
 
-* [What is Elixir?](elixir-resources-rdm/what-is-elixir/README.md)
+* [🟠 What is Elixir?](elixir-resources-rdm/what-is-elixir/README.md)
   * [🟠 RDM Guide for Life Sciences (Elixir)](https://bit.ly/RDM_GUIDE)
   * [🟠 RDM Kit for Life Sciences (Elixir)](https://bit.ly/RDM_Kit)
   * [🟠 RDM Kit for Single-cell sequencing (Elixir)](https://bit.ly/rdm-scs)
@@ -29,24 +29,24 @@
 
 ## Organizing Your Data
 
-* [Batch Renaming](organizing-your-data/batch-renaming.md)
-* [File and Folder Tips](organizing-your-data/file-and-folder-tips/README.md)
-  * [File and Folder Tips I](organizing-your-data/file-and-folder-tips/file-and-folder-tips-i.md)
-  * [File and Folder Tips II](organizing-your-data/file-and-folder-tips/file-and-folder-tips-ii.md)
-  * [File and Folder Tips III](organizing-your-data/file-and-folder-tips/file-and-folder-tips-iii.md)
-  * [File and Folder Tips IV](organizing-your-data/file-and-folder-tips/file-and-folder-tips-iv.md)
-  * [README File Template](organizing-your-data/file-and-folder-tips/readme-file-template.md)
+* [🔴 Batch Renaming](organizing-your-data/batch-renaming.md)
+* [🔴 File and Folder Tips](organizing-your-data/file-and-folder-tips/README.md)
+  * [🔴 File and Folder Tips I](organizing-your-data/file-and-folder-tips/file-and-folder-tips-i.md)
+  * [🔴 File and Folder Tips II](organizing-your-data/file-and-folder-tips/file-and-folder-tips-ii.md)
+  * [🔴 File and Folder Tips III](organizing-your-data/file-and-folder-tips/file-and-folder-tips-iii.md)
+  * [🔴 File and Folder Tips IV](organizing-your-data/file-and-folder-tips/file-and-folder-tips-iv.md)
+  * [🔴 README File Template](organizing-your-data/file-and-folder-tips/readme-file-template.md)
 
 ## EOSC
 
-* [European Open Science Cloud](eosc/european-open-science-cloud.md)
+* [⚪ European Open Science Cloud](eosc/european-open-science-cloud.md)
 
 ## DMP Resources
 
-* [DMP](dmp-resources/dmp/README.md)
-  * [DMP Planning](dmp-resources/dmp/dmp-planning.md)
-  * [Data Management Plans](dmp-resources/dmp/data-management-plans.md)
-* [DMP Templates](dmp-resources/dmp-templates/README.md)
+* [🟡 DMP](dmp-resources/dmp/README.md)
+  * [🟡 DMP Planning](dmp-resources/dmp/dmp-planning.md)
+  * [🟡 Data Management Plans](dmp-resources/dmp/data-management-plans.md)
+* [🟡 DMP Templates](dmp-resources/dmp-templates/README.md)
   * [EU Grants](dmp-resources/dmp-templates/eu-grants/README.md)
     * [EU Grants](dmp-resources/dmp-templates/eu-grants/eu-grants/README.md)
       * [Horizon Europe DMP](dmp-resources/dmp-templates/eu-grants/eu-grants/horizon-europe-dmp.md)

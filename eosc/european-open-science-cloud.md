@@ -2,9 +2,9 @@
 description: What is the EOSC and What it means to researchers?
 ---
 
-# 🔴 European Open Science Cloud
+# ⚪ European Open Science Cloud
 
-{% hint style="danger" %}
+{% hint style="info" %}
 
 
 ## <mark style="color:blue;">**What is the European Open Science Cloud (EOSC)?**</mark>
@@ -100,7 +100,7 @@ In 2021, EOSC entered its expansion phase to scale up and integrate more researc
 
 1\. <mark style="color:blue;">**2015:**</mark> EOSC was introduced in the European Digital Single Market strategy.
 
-2\. <mark style="color:blue;">**2016:**</mark> High-Level Expert Group publishes realizing the European Open Science Cloud.
+2\. <mark style="color:blue;">**2016:**</mark> High-Level Expert Group publishes on realizing the European Open Science Cloud.
 
 3\. <mark style="color:blue;">**2018:**</mark> Official launch of EOSC during Austria’s EU Presidency.
 
@@ -118,7 +118,7 @@ In 2021, EOSC entered its expansion phase to scale up and integrate more researc
 
 Looking ahead, EOSC aims to:
 
-<mark style="color:blue;">**Achieve Full Integration by Connecting all major European research infrastructures, ensuring seamless access to data and services across disciplines and countries.**</mark>
+<mark style="color:blue;">**Achieve Full Integration by connecting all major European research infrastructures, ensuring seamless access to data and services across disciplines and countries.**</mark>
 
 <mark style="color:blue;">**Support Research Communities:**</mark> Provide tools and platforms tailored to the needs of diverse research domains.
 
