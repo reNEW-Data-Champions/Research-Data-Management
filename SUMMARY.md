@@ -17,7 +17,7 @@
 
 ## RDM Kit by Elixir
 
-* [🟡 What is Elixir?](rdm-kit-by-elixir/what-is-elixir/README.md)
+* [🟡 RDMKit](rdm-kit-by-elixir/what-is-elixir/README.md)
   * [🟡 RDM Guide for Life Sciences (Elixir)](https://bit.ly/RDM_GUIDE)
   * [🟡 RDM Kit for Life Sciences (Elixir)](https://bit.ly/RDM_Kit)
   * [🟡 RDM Kit for Single-cell sequencing (Elixir)](https://bit.ly/rdm-scs)
