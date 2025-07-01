@@ -1,5 +1,5 @@
 ---
-description: The Importance of Research Data Management
+description: Data Management Plan Resources
 ---
 
 # 🔴 DMP Planning

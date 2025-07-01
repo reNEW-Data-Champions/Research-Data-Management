@@ -1,8 +1,8 @@
 ---
-description: Research Data Management Planning Process
+description: Research Data Management Resources
 ---
 
-# 🟢 Research Project Process
+# 🟢 Data Life Cycle Project Process
 
 
 

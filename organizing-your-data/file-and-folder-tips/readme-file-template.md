@@ -1,5 +1,5 @@
 ---
-description: README File Template
+description: Organizing Your Data - Tips and Recommendations
 ---
 
 # 🟠 README File Template

@@ -1,5 +1,5 @@
 ---
-description: File and Folder Structure
+description: Organizing Your Data - Tips and Recommendations
 ---
 
 # 🟠 File and Folder Tips II

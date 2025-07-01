@@ -1,5 +1,5 @@
 ---
-description: DMP Templates
+description: Data Management Plan Resources
 ---
 
 # 🔴 DMP Templates

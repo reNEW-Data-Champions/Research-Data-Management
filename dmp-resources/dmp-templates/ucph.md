@@ -1,7 +1,7 @@
 ---
-description: Data Management Plan
+description: Data Management Plan Resources
 ---
 
-# 🔴 UCPH
+# 🔴 UCPH DMP Template
 
 {% file src="../../.gitbook/assets/UCPH Data Management Plan Template v2.1.docx" %}

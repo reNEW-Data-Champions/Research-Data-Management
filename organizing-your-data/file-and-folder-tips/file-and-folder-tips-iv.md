@@ -1,5 +1,5 @@
 ---
-description: Folders and Directories
+description: Organizing Your Data - Tips and Recommendations
 ---
 
 # 🟠 File and Folder Tips IV

@@ -9,8 +9,8 @@
 ## 🟢 RDM Resources
 
 * [🟢 What is RDM?](rdm-resources/what-is-rdm/README.md)
-  * [🟢 RDM Checklist](rdm-resources/what-is-rdm/rdm-checklist.md)
-  * [🟢 Research Project Process](rdm-resources/what-is-rdm/research-planning.md)
+  * [🟢 Research Data Management Checklist](rdm-resources/what-is-rdm/rdm-checklist.md)
+  * [🟢 Data Life Cycle Project Process](rdm-resources/what-is-rdm/research-planning.md)
 * [🟢 Labguru Support](https://bit.ly/LABGURU_1)
 * [🟢 Research Portal](https://kunet.ku.dk/work-areas/research/Pages/default.aspx)
 * [🟢 RDM Portal](https://kunet.ku.dk/work-areas/research/data/Pages/default.aspx)
@@ -43,11 +43,11 @@
 
 ## 🔴 DMP Resources
 
-* [🔴 DMP](dmp-resources/dmp/README.md)
+* [🔴 What is a DMP](dmp-resources/dmp/README.md)
   * [🔴 DMP Planning](dmp-resources/dmp/dmp-planning.md)
-  * [🔴 DMP Seminar](dmp-resources/dmp/data-management-plans.md)
+  * [🔴 Data Management Plan Seminar](dmp-resources/dmp/data-management-plans.md)
 * [🔴 DMP Templates](dmp-resources/dmp-templates/README.md)
-  * [🔴 UCPH](dmp-resources/dmp-templates/ucph.md)
+  * [🔴 UCPH DMP Template](dmp-resources/dmp-templates/ucph.md)
 * [🔴 EU Grants](dmp-resources/eu-grants/README.md)
   * [🔴 ERC DMP](dmp-resources/eu-grants/erc-dmp.md)
   * [🔴 ERC DMP](dmp-resources/eu-grants/erc-dmp-1.md)

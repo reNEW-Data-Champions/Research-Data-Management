@@ -1,5 +1,5 @@
 ---
-description: File and Folder Batch Renaming Software
+description: Organizing Your Data - Tips and Recommendations
 ---
 
 # 🟠 Batch Renaming

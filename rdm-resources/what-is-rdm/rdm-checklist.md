@@ -1,5 +1,5 @@
 ---
-description: 'Research Data Life Cycle: Guidance and Checklist'
+description: Research Data Management Resources
 layout:
   title:
     visible: true
@@ -13,6 +13,6 @@ layout:
     visible: true
 ---
 
-# 🟢 RDM Checklist
+# 🟢 Research Data Management Checklist
 
 {% embed url="https://docs.google.com/document/d/1KvwXep670OFzXByfz3APyxHSEAmRktqrWScz_Ybmn38/edit?usp=sharing" fullWidth="true" %}
