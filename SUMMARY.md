@@ -1,12 +1,12 @@
 # Table of contents
 
-## 🔵 Data Champions Program
+## Data Champions Program
 
 * [🔵 Data Champions at reNEW](README.md)
 * [🔵 License and Reusability](data-champions-program/license-and-reusability.md)
 * [🔵 Contact Details](data-champions-program/contact-details.md)
 
-## 🟢 UCPH RDM Resources
+## UCPH RDM Resources
 
 * [🟢 What is RDM?](ucph-rdm-resources/what-is-rdm/README.md)
   * [🟢 Research Data Management Checklist](ucph-rdm-resources/what-is-rdm/rdm-checklist.md)
@@ -15,7 +15,7 @@
 * [🟢 UCPH Research Portal](https://kunet.ku.dk/work-areas/research/Pages/default.aspx)
 * [🟢 UCPH RDM Portal](https://kunet.ku.dk/work-areas/research/data/Pages/default.aspx)
 
-## 🟡 RDM Kit by Elixir
+## RDM Kit by Elixir
 
 * [🟡 What is Elixir?](rdm-kit-by-elixir/what-is-elixir/README.md)
   * [🟡 RDM Guide for Life Sciences (Elixir)](https://bit.ly/RDM_GUIDE)
@@ -27,7 +27,7 @@
   * [🟡 RDM Kit for Data Repository (Elixir)](https://rdmkit.elixir-europe.org/data_publication)
   * [🟡 RDM Kit for Documentation and Metadata (Elixir)](https://bit.ly/RDMKit-Metadata)
 
-## 🟠 Organizing Your Data
+## Organizing Your Data
 
 * [🟠 File and Folder Tips](organizing-your-data/file-and-folder-tips/README.md)
   * [🟠 Batch Renaming](organizing-your-data/file-and-folder-tips/batch-renaming.md)
@@ -37,11 +37,11 @@
   * [🟠 File and Folder Tips IV](organizing-your-data/file-and-folder-tips/file-and-folder-tips-iv.md)
   * [🟠 README File Template](organizing-your-data/file-and-folder-tips/readme-file-template.md)
 
-## 🟤 EOSC
+## EOSC
 
 * [🟤 European Open Science Cloud](eosc/european-open-science-cloud.md)
 
-## 🔴 DMP Resources
+## DMP Resources
 
 * [🔴 What is a DMP](dmp-resources/dmp/README.md)
   * [🔴 DMP Planning](dmp-resources/dmp/dmp-planning.md)
@@ -66,7 +66,7 @@
     * [🔴 Whole Genome Sequencing](dmp-resources/dmp-templates/genomics/whole-genome-sequencing.md)
 * [🔴 DeiC DMP Online](https://dmp.deic.dk/)
 
-## 🟢 Informational Videos
+## Informational Videos
 
 * [🟢 Informational Videos](informational-videos/seminars/README.md)
   * [🟢 eLearning RDM](https://www.deic.dk/en/RDMElearn)
@@ -76,20 +76,20 @@
   * [🟢 reNEW Labguru Training Video 1](https://bit.ly/reNEW_Train_1)
   * [🟢 reNEW Labguru Training Video 2](https://bit.ly/reNEW_Train_2)
 
-## 🟣 Open Science
+## Open Science
 
 * [🟣 FAIR Principles](open-science/fair-principles.md)
 * [🟣 FAIR Principles - MP4](open-science/fair-principles-mp4.md)
 * [🟣 Open Science - 8 Pillars](open-science/open-science-8-pillars.md)
 
-## ⚫ Biomedical Repository
+## Biomedical Repository
 
 * [⚫ Biomedical Data Repositories](biomedical-repository/biomedical-data-repositories/README.md)
   * [⚫ Guidance: Biomedical Repositories I](https://sharing.nih.gov/data-management-and-sharing-policy/sharing-scientific-data/repositories-for-sharing-scientific-data)
   * [⚫ Guidance: Biomedical Repositories II](https://www.nlm.nih.gov/NIHbmic/domain_specific_repositories.html)
   * [⚫ PLOS Guidance: Biomedical Repositories III](https://journals.plos.org/plosbiology/s/recommended-repositories)
 
-## 🌐 BMI / reNEW Websites
+## BMI / reNEW Websites
 
 * [🌐 Informational Websites](bmi-renew-websites/renew-websites/README.md)
   * [🌎 BMI Website](https://bmi.ku.dk/english/)
@@ -110,21 +110,21 @@
   * [Sedzinski Group](bmi-renew-websites/research-groups/sedzinski-group.md)
   * [Zylicz Group](bmi-renew-websites/research-groups/zylicz-group.md)
 
-## 🔵 GDPR Resources
+## GDPR Resources
 
 * [🔵 Data Protection Agency](gdpr-resources/data-protection-agency.md)
 * [🔵 GDPR for Researchers](gdpr-resources/gdpr-for-researchers.md)
 * [🔵 GDPR Resouces](https://kunet.ku.dk/work-areas/research/data/personal-data/Pages/default.aspx)
 * [🔵 GDPR - Project Like Mine](https://bit.ly/GDPR_PLM)
 
-## 🟢 UCPH IT Resources
+## UCPH IT Resources
 
 * [🟢 Archive vs. Backup](ucph-it-resources/archive-vs.-backup.md)
 * [🟢 UCPH HPC Guide](ucph-it-resources/ucph-hpc-guide.md)
 * [🟢 UCPH Data Storage](ucph-it-resources/ucph-data-storage.md)
 * [🟢 UCPH Research IT](https://kunet.ku.dk/work-areas/research/Research%20Infrastructure/research-it/Pages/default.aspx)
 
-## 🟡 Infographics
+## Infographics
 
 * [🟡 FAIR Principles](infographics/fair-principles.md)
 * [🟡 Open Science Pillars](infographics/open-science-pillars.md)
@@ -132,7 +132,7 @@
 * [🟡 RODMM Framework](infographics/rodmm-framework.md)
 * [🟡 UCPH HPC Quick Guide](infographics/ucph-hpc-quick-guide.md)
 
-## 🟠 reNEW RDM Blog
+## reNEW RDM Blog
 
 * [🟠 Monthly Newsletter](renew-rdm-blog/monthly-blog/README.md)
   * [🟠 Disclaimer](renew-rdm-blog/monthly-blog/disclaimer.md)
