@@ -6,14 +6,14 @@
 * [🔵 License and Reusability](data-champions-program/license-and-reusability.md)
 * [🔵 Contact Details](data-champions-program/contact-details.md)
 
-## 🟢 RDM Resources
+## 🟢 UCPH RDM Resources
 
-* [🟢 What is RDM?](rdm-resources/what-is-rdm/README.md)
-  * [🟢 Research Data Management Checklist](rdm-resources/what-is-rdm/rdm-checklist.md)
-  * [🟢 Data Life Cycle Project Process](rdm-resources/what-is-rdm/research-planning.md)
-* [🟢 Labguru Support](https://bit.ly/LABGURU_1)
-* [🟢 Research Portal](https://kunet.ku.dk/work-areas/research/Pages/default.aspx)
-* [🟢 RDM Portal](https://kunet.ku.dk/work-areas/research/data/Pages/default.aspx)
+* [🟢 What is RDM?](ucph-rdm-resources/what-is-rdm/README.md)
+  * [🟢 Research Data Management Checklist](ucph-rdm-resources/what-is-rdm/rdm-checklist.md)
+  * [🟢 Data Life Cycle Project Process](ucph-rdm-resources/what-is-rdm/research-planning.md)
+* [🟢 UCPH Labguru Tools](https://bit.ly/LABGURU_1)
+* [🟢 UCPH Research Portal](https://kunet.ku.dk/work-areas/research/Pages/default.aspx)
+* [🟢 UCPH RDM Portal](https://kunet.ku.dk/work-areas/research/data/Pages/default.aspx)
 
 ## 🟡 RDM Kit by Elixir
 
@@ -66,15 +66,15 @@
     * [🔴 Whole Genome Sequencing](dmp-resources/dmp-templates/genomics/whole-genome-sequencing.md)
 * [🔴 DeiC DMP Online](https://dmp.deic.dk/)
 
-## 🟢 Information Videos
+## 🟢 Informational Videos
 
-* [🟢 Information Videos](information-videos/seminars/README.md)
-  * [🟢 Organize Your Data](https://bit.ly/File_Name)
+* [🟢 Informational Videos](informational-videos/seminars/README.md)
+  * [🟢 eLearning RDM](https://www.deic.dk/en/RDMElearn)
+  * [🟢 Horizon Europe DMP - Webinar](https://deic.dk/da/event/webinar-14062023)
   * [🟢 OMERO Plus Demo - Glencoe Software](https://bit.ly/3XrwCGN)
+  * [🟢 Organize Your Data](https://bit.ly/File_Name)
   * [🟢 reNEW Labguru Training Video 1](https://bit.ly/reNEW_Train_1)
   * [🟢 reNEW Labguru Training Video 2](https://bit.ly/reNEW_Train_2)
-  * [🟢 Horizon Europe DMP - Webinar](https://deic.dk/da/event/webinar-14062023)
-* [🟢 eLearning RDM](https://www.deic.dk/en/RDMElearn)
 
 ## 🟣 Open Science
 
@@ -89,25 +89,26 @@
   * [⚫ Guidance: Biomedical Repositories II](https://www.nlm.nih.gov/NIHbmic/domain_specific_repositories.html)
   * [⚫ PLOS Guidance: Biomedical Repositories III](https://journals.plos.org/plosbiology/s/recommended-repositories)
 
-## 🌐 reNEW Websites
+## 🌐 BMI / reNEW Websites
 
-* [🌐 reNEW Websites](renew-websites/renew-websites/README.md)
+* [🌐 Informational Websites](bmi-renew-websites/renew-websites/README.md)
+  * [🌎 BMI Website](https://bmi.ku.dk/english/)
+  * [🌎 reNEW KUnet](https://kunet.ku.dk/faculty-and-department/renew/Pages/default.aspx)
   * [🌎 reNEW Website](https://renew.science/)
   * [🌎 reNEW Connect](https://alumni.sharepoint.com/sites/UCPH_reNEWConnect/SitePages/Home.aspx)
-  * [🌎 reNEW KUnet](https://kunet.ku.dk/faculty-and-department/renew/Pages/default.aspx)
   * [🌎 reNEW Genomics](https://bit.ly/reNEW_GEN)
   * [🌎 reNEW Imaging](https://kunet.ku.dk/faculty-and-department/renew/Labs%20and%20Research%20Platforms/Research%20Platforms/Imaging%20Platform/Pages/default.aspx)
   * [🌎 reNEW DanGPU](https://bit.ly/DANGPU)
   * [🌎 reNEW Flow Cy](https://kunet.ku.dk/faculty-and-department/renew/Labs%20and%20Research%20Platforms/Research%20Platforms/Flow%20Cytometry%20Platform/Pages/default.aspx)
-* [🌐 Research Groups](renew-websites/research-groups/README.md)
-  * [Aragona Group](renew-websites/research-groups/aragona-group.md)
-  * [Brickman Group](renew-websites/research-groups/brickman-group/README.md)
+* [🌐 Research Groups](bmi-renew-websites/research-groups/README.md)
+  * [Aragona Group](bmi-renew-websites/research-groups/aragona-group.md)
+  * [Brickman Group](bmi-renew-websites/research-groups/brickman-group/README.md)
     * [Brickman Group](https://brickmanlab.github.io/)
-  * [Jensen Group](renew-websites/research-groups/jensen-group.md)
-  * [Kirkeby Group](renew-websites/research-groups/kirkeby-group.md)
-  * [Little Group](renew-websites/research-groups/little-group.md)
-  * [Sedzinski Group](renew-websites/research-groups/sedzinski-group.md)
-  * [Zylicz Group](renew-websites/research-groups/zylicz-group.md)
+  * [Jensen Group](bmi-renew-websites/research-groups/jensen-group.md)
+  * [Kirkeby Group](bmi-renew-websites/research-groups/kirkeby-group.md)
+  * [Little Group](bmi-renew-websites/research-groups/little-group.md)
+  * [Sedzinski Group](bmi-renew-websites/research-groups/sedzinski-group.md)
+  * [Zylicz Group](bmi-renew-websites/research-groups/zylicz-group.md)
 
 ## 🔵 GDPR Resources
 
