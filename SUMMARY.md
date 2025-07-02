@@ -8,9 +8,9 @@
 
 ## UCPH RDM Resources
 
-* [🟢 What is RDM?](ucph-rdm-resources/what-is-rdm/README.md)
-  * [🟢 Research Data Management Checklist](ucph-rdm-resources/what-is-rdm/rdm-checklist.md)
-  * [🟢 Data Life Cycle Project Process](ucph-rdm-resources/what-is-rdm/research-planning.md)
+* [🟢 What is RDM?](ucph-rdm-resources/what-is-rdm.md)
+* [🟢 Data Life Cycle Project Process](ucph-rdm-resources/research-planning.md)
+* [🟢 Research Data Management Checklist](ucph-rdm-resources/rdm-checklist.md)
 * [🟢 UCPH Labguru Tools](https://bit.ly/LABGURU_1)
 * [🟢 UCPH Research Portal](https://kunet.ku.dk/work-areas/research/Pages/default.aspx)
 * [🟢 UCPH RDM Portal](https://kunet.ku.dk/work-areas/research/data/Pages/default.aspx)

@@ -1,5 +1,5 @@
 ---
-description: Research Data Management Resources
+description: UCPH Research Data Management Resources
 ---
 
 # 🟢 What is RDM?
