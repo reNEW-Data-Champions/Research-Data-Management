@@ -1,16 +1,5 @@
 ---
 description: License  and Acknowledgements
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # 🟠 License and Acknowledgements

@@ -2,50 +2,42 @@
 description: Data Management Plan Resources
 ---
 
-# 🔴 What is a DMP
+# 🔴 What is a DMP?
 
-A DMP (Data Management Plan) is a formal document outlining how data will be handled throughout a research project. It ensures that data is managed effectively, remains accessible, and complies with institutional, funding, and legal requirements. Institutions and funding agencies, especially those emphasizing open science and FAIR (Findable, Accessible, Interoperable, and Reusable) principles., often require DMPs
+### **BMI reNEW – Data Management Support**
 
-#### Key Components of a DMP
+I appreciate your interest in research data management at BMI reNEW. As imaging-heavy biomedical research generates vast, complex datasets, it is vital to plan carefully how you manage, store, and share this data.
 
-1. **Data Description**
-   * What data will be collected, generated, or used?
-   * The format, volume, and data types (e.g., numeric, text, images).
-2. **Data Collection and Processing**
-   * Methods for collecting and generating data.
-   * Tools, technologies, or software involved in the process.
-3. **Metadata and Documentation**
-   * Standards for describing the data to ensure others understand and use it.
-   * Metadata schemas and formats (e.g., Dublin Core, JSON).
-4. **Storage and Backup**
-   * Where the data will be stored (local servers, cloud storage, institutional repositories).
-   * Backup strategies to ensure data integrity and availability.
-5. **Ethics and Legal Compliance**
-   * How data will comply with ethical guidelines and legal regulations (e.g., GDPR).
-   * How will sensitive or personal data be protected?
-6. **Data Sharing and Access**
-   * Plans for making the data accessible to others (e.g., open access, embargo periods).
-   * Use data repositories or platforms (e.g., Zenodo, Dryad, Dataverse).
-7. **Long-Term Preservation**
-   * Steps to ensure data longevity (e.g., archival formats, institutional support).
-   * Identifying repositories for long-term storage.
-8. **Responsibilities**
-   * Identifying who is responsible for data management during and after the project.
-   * Roles for principal investigators, data stewards, and collaborators.
-9. **Budget and Resources**
-   * Estimating costs related to data management (e.g., storage, personnel, software).
+A **Data Management Plan (DMP)** is a formal document that helps you structure your data workflow from start to finish. It ensures compliance with institutional, funding, and legal requirements, essential for open science and FAIR principles (Findable, Accessible, Interoperable, and Reusable).
 
-#### Importance of a DMP
+### **Why create a DMP?**
 
-* **Organization**: Helps researchers plan data management tasks systematically.
-* **Compliance**: Meets requirements from funding agencies and institutions.
-* **FAIR Principles**: Supports others in making data reusable.
-* **Risk Mitigation**: Reduces risks of data loss, corruption, or misuse.
-* **Collaboration**: Enhances transparency and supports collaboration among researchers.
+* Organizes your data management tasks.
+* Meets funder and institutional requirements.
+* Supports FAIR data sharing and reuse.
+* Reduces risks of data loss or misuse.
+* Facilitates collaboration and transparency.
 
-#### Tools for Creating a DMP
+### **Key Components of a DMP:**
 
-* **DMPonline**: A tool to create and manage DMPs tailored to funding agencies' requirements.
-* **DMPTool**: Popular in the US, especially for federal grant applications.
-* **RDA DMP Common Standard**: Provides an interoperable framework for DMPs.
+* **Data Description:** What data (e.g., images) will be collected, in which formats, and volumes.
+* **Collection & Processing:** Methods, tools, and software used.
+* **Metadata & Documentation:** Standards to describe data so others can understand and use it.
+* **Storage & Backup:** Secure storage locations and backup strategies.
+* **Ethics & Legal Compliance:** GDPR and ethical safeguards for sensitive data.
+* **Sharing & Access:** How and when data will be shared, using repositories like Zenodo or Dataverse.
+* **Long-Term Preservation:** Ensuring data remains accessible over time.
+* **Roles & Responsibilities:** Assigning clear management responsibilities.
+* **Budget & Resources:** Estimating storage, software, and staff time costs.
+
+### **Tools to help you:**
+
+* **DMPonline** (Europe)
+* **DMPTool** (US)
+* **RDA DMP Common Standard**
+
+
+
+**Contact:**\
+**I’m Richard Dennis, Data Steward at BMI reNEW. I am available for private consultations on-site every Wednesday from 2:00 PM to 3:00 PM. Feel free to reach out for personalized assistance with your DMP or any aspect of research data management.**
 

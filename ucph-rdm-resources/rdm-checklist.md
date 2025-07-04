@@ -1,16 +1,5 @@
 ---
 description: Research Data Management Resources
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # 🟢 Research Data Management Checklist

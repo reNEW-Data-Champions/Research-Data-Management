@@ -43,7 +43,7 @@
 
 ## DMP Resources
 
-* [🔴 What is a DMP](dmp-resources/dmp/README.md)
+* [🔴 What is a DMP?](dmp-resources/dmp/README.md)
   * [🔴 DMP Planning](dmp-resources/dmp/dmp-planning.md)
   * [🔴 Data Management Plan Seminar](dmp-resources/dmp/data-management-plans.md)
 * [🔴 DMP Templates](dmp-resources/dmp-templates/README.md)
@@ -78,9 +78,9 @@
 
 ## Open Science
 
-* [🟣 FAIR Principles](open-science/fair-principles.md)
-* [🟣 FAIR Principles - MP4](open-science/fair-principles-mp4.md)
-* [🟣 Open Science - 8 Pillars](open-science/open-science-8-pillars.md)
+* [🟣 FAIR Principles](https://www.howtofair.dk/)
+* [🟣 FAIR Principles - Graphic](open-science/fair-principles.md)
+* [🟣 Open Science - 8 Pillars](open-science/open-science-pillars.md)
 
 ## Biomedical Repository
 

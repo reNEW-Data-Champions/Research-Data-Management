@@ -1,16 +1,5 @@
 ---
 description: Archive vs. Backup
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # 🟢 Archive vs. Backup

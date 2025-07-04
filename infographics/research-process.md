@@ -1,16 +1,5 @@
 ---
 description: Steps for the Reserach Project Process
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # 🟡 Research Process

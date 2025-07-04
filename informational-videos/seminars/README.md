@@ -1,16 +1,5 @@
 ---
 description: Data Champions Informational Videos
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # 🟢 Informational Videos

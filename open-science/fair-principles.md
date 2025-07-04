@@ -1,9 +1,7 @@
 ---
-description: The Guide to the FAIR Principles
+description: The FAIR Data Principles
 ---
 
-# 🟣 FAIR Principles
+# 🟣 FAIR Principles - Graphic
 
-
-
-{% embed url="https://docs.google.com/document/d/1zilRV3OVRHVyt3_NzQokuS6Rc3_eQz4iUaFXMA7t-RU/edit?usp=sharing" fullWidth="true" %}
+<div data-full-width="true"><figure><img src="../.gitbook/assets/image (51).png" alt=""><figcaption><p>Image Provided by: ARDC, <a href="https://ardc.edu.au/resource/fair-data-training-resources/">Australian Research Data Commons</a></p></figcaption></figure></div>
