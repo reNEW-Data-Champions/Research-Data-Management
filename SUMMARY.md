@@ -3,8 +3,6 @@
 ## Data Champions Program
 
 * [🔵 Data Champions at reNEW](README.md)
-* [🔵 License and Reusability](data-champions-program/license-and-reusability.md)
-* [🔵 Contact Details](data-champions-program/contact-details.md)
 
 ## UCPH RDM Resources
 
@@ -152,3 +150,10 @@
   * [🟠 Newsletter - June 2025](renew-rdm-blog/monthly-blog/blog-post-aug-2024.md)
   * [🟠 Newsletter - July 2025](renew-rdm-blog/monthly-blog/blog-post-sept-2024.md)
 * [🟠 License and Acknowledgements](renew-rdm-blog/license-and-acknowledgements.md)
+
+## License  / Acknowledgements
+
+* [🔴 License and Acknowledgements](license-acknowledgements/license-and-acknowledgements.md)
+* [🔴 Disclaimer](license-acknowledgements/disclaimer.md)
+* [🔴 License and Reusability](license-acknowledgements/license-and-reusability.md)
+* [🔴 Contact Details](license-acknowledgements/contact-details.md)
