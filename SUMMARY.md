@@ -76,13 +76,7 @@
 
 ## OMERO Support
 
-* [🟢 Informational Videos](omero-support/seminars/README.md)
-  * [🟢 eLearning RDM](https://www.deic.dk/en/RDMElearn)
-  * [🟢 Horizon Europe DMP - Webinar](https://deic.dk/da/event/webinar-14062023)
-  * [🟢 OMERO Plus Demo - Glencoe Software](https://bit.ly/3XrwCGN)
-  * [🟢 Organize Your Data](https://bit.ly/File_Name)
-  * [🟢 reNEW Labguru Training Video 1](https://bit.ly/reNEW_Train_1)
-  * [🟢 reNEW Labguru Training Video 2](https://bit.ly/reNEW_Train_2)
+* [🟡 Informational Videos](omero-support/seminars.md)
 
 ## Open Science
 

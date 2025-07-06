@@ -2,7 +2,7 @@
 description: Data Champions Informational Videos
 ---
 
-# 🟢 Informational Videos
+# 🟡 Informational Videos
 
 This section features informational videos and training materials designed to support researchers in developing effective data management practices. Practical videos on organizing research data include strategies for consistent file naming, folder hierarchies, version control, and documentation to enhance findability and reproducibility. An introductory video on the OMERO Bioimaging Data Management Solution offers an overview of its capabilities for storing, annotating, and sharing large-scale microscopy data, with details on how this platform will be available for use at the University in late 2025 to support structured bioimaging data workflows.
 
