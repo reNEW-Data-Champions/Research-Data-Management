@@ -155,5 +155,5 @@
 
 * [🔴 License and Acknowledgements](license-acknowledgements/license-and-acknowledgements.md)
 * [🔴 Disclaimer](license-acknowledgements/disclaimer.md)
-* [🔴 License and Reusability](license-acknowledgements/license-and-reusability.md)
-* [🔴 Contact Details](license-acknowledgements/contact-details.md)
+* [🔴 License and Reusability](data-champions-program/license-and-reusability.md)
+* [🔴 Contact Details](data-champions-program/contact-details.md)
