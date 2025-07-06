@@ -76,6 +76,16 @@
   * [🟢 reNEW Labguru Training Video 1](https://bit.ly/reNEW_Train_1)
   * [🟢 reNEW Labguru Training Video 2](https://bit.ly/reNEW_Train_2)
 
+## OMERO Support
+
+* [🟢 Informational Videos](omero-support/seminars/README.md)
+  * [🟢 eLearning RDM](https://www.deic.dk/en/RDMElearn)
+  * [🟢 Horizon Europe DMP - Webinar](https://deic.dk/da/event/webinar-14062023)
+  * [🟢 OMERO Plus Demo - Glencoe Software](https://bit.ly/3XrwCGN)
+  * [🟢 Organize Your Data](https://bit.ly/File_Name)
+  * [🟢 reNEW Labguru Training Video 1](https://bit.ly/reNEW_Train_1)
+  * [🟢 reNEW Labguru Training Video 2](https://bit.ly/reNEW_Train_2)
+
 ## Open Science
 
 * [🟣 FAIR Principles](https://www.howtofair.dk/)
@@ -87,7 +97,7 @@
 * [⚫ Biomedical Data Repositories](biomedical-repository/biomedical-data-repositories/README.md)
   * [⚫ Guidance: Biomedical Repositories I](https://sharing.nih.gov/data-management-and-sharing-policy/sharing-scientific-data/repositories-for-sharing-scientific-data)
   * [⚫ Guidance: Biomedical Repositories II](https://www.nlm.nih.gov/NIHbmic/domain_specific_repositories.html)
-  * [⚫ PLOS Guidance: Biomedical Repositories III](https://journals.plos.org/plosbiology/s/recommended-repositories)
+  * [⚫ Guidance: Biomedical Repositories III](https://journals.plos.org/plosbiology/s/recommended-repositories)
 
 ## BMI / reNEW Websites
 

@@ -39,5 +39,5 @@ A **Data Management Plan (DMP)** is a formal document that helps you structure y
 
 
 **Contact:**\
-**I’m Richard Dennis, Data Steward at BMI reNEW. I am available for private consultations on-site every Wednesday from 2:00 PM to 3:00 PM. Feel free to reach out for personalized assistance with your DMP or any aspect of research data management.**
+**Don't hesitate to contact Richard Dennis for private consultations on-site every Wednesday from 2:00 PM to 3:00 PM for personalized assistance with your DMP or any aspect of research data management.**
 
