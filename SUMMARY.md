@@ -76,7 +76,12 @@
 
 ## OMERO Support
 
-* [🟡 Informational Videos](omero-support/seminars.md)
+* [🟡 Informational Videos](omero-support/seminars/README.md)
+  * [🟡 Introduction to OMERO - Long ](https://youtu.be/nSCrMO_c-5s?si=6S4bJX1P5E2GtxHL)
+  * [🟡 Introduction to OMERO - Short](https://youtu.be/y2hnU0HrORw?si=XvO_rr-sG-qCeA51)
+  * [🟡 OMERO Basics and Navigation](https://youtu.be/e3u-Ugd4W7w?si=DB-B2Me3X2OQMPX7)
+  * [🟡  OMERO - Import of images](https://youtu.be/wnw-woX9OxI?si=fLs-Ma0L0Et95t-g)
+  * [🟡 OMERO Using OMERO.figure](https://youtu.be/YeCFaB7VAAQ?si=geIOjeWQmAgoxNE9)
 
 ## Open Science
 
