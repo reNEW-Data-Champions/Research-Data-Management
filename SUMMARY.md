@@ -148,11 +148,7 @@
   * [🟠 Newsletter - May 2025](renew-rdm-blog/monthly-blog/blog-post-july-2024.md)
   * [🟠 Newsletter - June 2025](renew-rdm-blog/monthly-blog/blog-post-aug-2024.md)
   * [🟠 Newsletter - July 2025](renew-rdm-blog/monthly-blog/blog-post-sept-2024.md)
-* [🟠 License and Acknowledgements](renew-rdm-blog/license-and-acknowledgements.md)
 
 ## License  / Acknowledgements
 
-* [🔴 License and Acknowledgements](license-acknowledgements/license-and-acknowledgements.md)
-* [🔴 Disclaimer](license-acknowledgements/disclaimer.md)
-* [🔴 License and Reusability](data-champions-program/license-and-reusability.md)
-* [🔴 Contact Details](data-champions-program/contact-details.md)
+* [🟣 License and Acknowledgements](license-acknowledgements/license-and-acknowledgements.md)
