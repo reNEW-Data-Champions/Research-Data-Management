@@ -126,7 +126,6 @@
 
 * [🟢 Archive vs. Backup](ucph-it-resources/archive-vs.-backup.md)
 * [🟢 UCPH HPC Guide](ucph-it-resources/ucph-hpc-guide.md)
-* [🟢 UCPH Data Storage](ucph-it-resources/ucph-data-storage.md)
 * [🟢 UCPH Research IT](https://kunet.ku.dk/work-areas/research/Research%20Infrastructure/research-it/Pages/default.aspx)
 
 ## Infographics
