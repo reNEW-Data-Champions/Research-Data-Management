@@ -7,7 +7,7 @@
 
 ## UCPH RDM Resources
 
-* [🟢 What is RDM?](ucph-rdm-resources/what-is-rdm.md)
+* [🟢 Research Data Management](ucph-rdm-resources/what-is-rdm.md)
 * [🟢 UCPH Labguru Tools](https://bit.ly/LABGURU_1)
 * [🟢 UCPH Research Portal](https://kunet.ku.dk/work-areas/research/Pages/default.aspx)
 * [🟢 UCPH RDM Portal](https://kunet.ku.dk/work-areas/research/data/Pages/default.aspx)
@@ -40,9 +40,8 @@
 
 ## DMP Resources
 
-* [🔴 What is a DMP?](dmp-resources/dmp/README.md)
-  * [🔴 DMP Planning](dmp-resources/dmp/dmp-planning.md)
-  * [🔴 Data Management Plan Seminar](dmp-resources/dmp/data-management-plans.md)
+* [🔴 What is a DMP?](dmp-resources/dmp.md)
+* [🔴 DMP Planning](dmp-resources/dmp-planning.md)
 * [🔴 DMP Templates](dmp-resources/dmp-templates/README.md)
   * [🔴 UCPH DMP Template](dmp-resources/dmp-templates/ucph.md)
   * [🔴 EU Grant Templates](dmp-resources/dmp-templates/eu-grants/README.md)
