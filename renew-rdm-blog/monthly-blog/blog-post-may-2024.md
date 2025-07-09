@@ -88,9 +88,3 @@ Genomic repositories store and provide access to genomic data, focusing on maint
    * Website: [ELIXIR](https://elixir-europe.org/)
 
 These repositories are vital in genomic research, offering diverse data types and services. They are essential resources for researchers in the field of genomics, providing access to a wealth of genetic information.
-
-### &#x20;
-
-***
-
-&#x20;
