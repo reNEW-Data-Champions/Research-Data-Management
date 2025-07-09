@@ -7,14 +7,14 @@
 
 ## UCPH RDM Resources
 
-* [🟢 Research Data Management](ucph-rdm-resources/what-is-rdm.md)
-* [🟢 UCPH Labguru Tools](https://bit.ly/LABGURU_1)
-* [🟢 UCPH Research Portal](https://kunet.ku.dk/work-areas/research/Pages/default.aspx)
-* [🟢 UCPH RDM Portal](https://kunet.ku.dk/work-areas/research/data/Pages/default.aspx)
+* [🟢 Research Data Management](ucph-rdm-resources/what-is-rdm/README.md)
+  * [🟢 UCPH Labguru Tools](https://bit.ly/LABGURU_1)
+  * [🟢 UCPH Research Portal](https://kunet.ku.dk/work-areas/research/Pages/default.aspx)
+  * [🟢 UCPH RDM Portal](https://kunet.ku.dk/work-areas/research/data/Pages/default.aspx)
 
-## RDM Kit by Elixir
+## Research Data Management&#x20;
 
-* [🟡 RDMKit](rdm-kit-by-elixir/what-is-elixir/README.md)
+* [🟡 RDM Support Resources](research-data-management/what-is-elixir/README.md)
   * [🟡 RDM Guide for Life Sciences (Elixir)](https://bit.ly/RDM_GUIDE)
   * [🟡 RDM Kit for Life Sciences (Elixir)](https://bit.ly/RDM_Kit)
   * [🟡 RDM Kit for Single-cell sequencing (Elixir)](https://bit.ly/rdm-scs)
@@ -40,8 +40,8 @@
 
 ## DMP Resources
 
-* [🔴 What is a DMP?](dmp-resources/dmp.md)
-* [🔴 DMP Planning](dmp-resources/dmp-planning.md)
+* [🔴 What is a DMP?](dmp-resources/dmp/README.md)
+  * [🔴 DMP Planning](dmp-resources/dmp/dmp-planning.md)
 * [🔴 DMP Templates](dmp-resources/dmp-templates/README.md)
   * [🔴 UCPH DMP Template](dmp-resources/dmp-templates/ucph.md)
   * [🔴 EU Grant Templates](dmp-resources/dmp-templates/eu-grants/README.md)
@@ -117,8 +117,8 @@
 
 ## GDPR Resources
 
-* [🔵 Data Protection Agency](gdpr-resources/data-protection-agency.md)
-* [🔵 GDPR for Researchers](gdpr-resources/gdpr-for-researchers.md)
+* [🔵 GDPR for Researchers](gdpr-resources/gdpr-for-researchers/README.md)
+  * [🔵 Data Protection Agency](gdpr-resources/gdpr-for-researchers/data-protection-agency.md)
 * [🔵 GDPR Resouces](https://kunet.ku.dk/work-areas/research/data/personal-data/Pages/default.aspx)
 * [🔵 GDPR - Project Like Mine](https://bit.ly/GDPR_PLM)
 
