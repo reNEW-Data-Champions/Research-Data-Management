@@ -105,6 +105,7 @@
   * [🌎 reNEW Imaging](https://kunet.ku.dk/faculty-and-department/renew/Labs%20and%20Research%20Platforms/Research%20Platforms/Imaging%20Platform/Pages/default.aspx)
   * [🌎 reNEW DanGPU](https://bit.ly/DANGPU)
   * [🌎 reNEW Flow Cy](https://kunet.ku.dk/faculty-and-department/renew/Labs%20and%20Research%20Platforms/Research%20Platforms/Flow%20Cytometry%20Platform/Pages/default.aspx)
+  * [🌎 reNEW Publications](https://publication.renew-platforms.dk/)
 * [🌐 Research Groups](bmi-renew-websites/research-groups/README.md)
   * [Aragona Group](bmi-renew-websites/research-groups/aragona-group.md)
   * [Brickman Group](bmi-renew-websites/research-groups/brickman-group/README.md)
