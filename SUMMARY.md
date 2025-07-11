@@ -90,14 +90,14 @@
 
 ## Biomedical Repository
 
-* [⚫ Biomedical Data Repositories](biomedical-repository/biomedical-data-repositories/README.md)
+* [🔴 Biomedical Data Repositories](biomedical-repository/biomedical-data-repositories/README.md)
   * [⚫ Guidance: Biomedical Repositories I](https://sharing.nih.gov/data-management-and-sharing-policy/sharing-scientific-data/repositories-for-sharing-scientific-data)
   * [⚫ Guidance: Biomedical Repositories II](https://www.nlm.nih.gov/NIHbmic/domain_specific_repositories.html)
   * [⚫ Guidance: Biomedical Repositories III](https://journals.plos.org/plosbiology/s/recommended-repositories)
 
 ## BMI / reNEW Websites
 
-* [🌐 Informational Websites](bmi-renew-websites/renew-websites/README.md)
+* [🌐 reNEW Websites](bmi-renew-websites/renew-websites/README.md)
   * [🌎 BMI Website](https://bmi.ku.dk/english/)
   * [🌎 reNEW KUnet](https://kunet.ku.dk/faculty-and-department/renew/Pages/default.aspx)
   * [🌎 reNEW Website](https://renew.science/)
@@ -107,15 +107,18 @@
   * [🌎 reNEW DanGPU](https://bit.ly/DANGPU)
   * [🌎 reNEW Flow Cy](https://kunet.ku.dk/faculty-and-department/renew/Labs%20and%20Research%20Platforms/Research%20Platforms/Flow%20Cytometry%20Platform/Pages/default.aspx)
   * [🌎 reNEW Publications](https://publication.renew-platforms.dk/)
-* [🌐 Research Groups](bmi-renew-websites/research-groups/README.md)
-  * [Aragona Group](bmi-renew-websites/research-groups/aragona-group.md)
-  * [Brickman Group](bmi-renew-websites/research-groups/brickman-group/README.md)
+
+## reNEW Research Groups
+
+* [🌐 Research Groups](renew-research-groups/research-groups/README.md)
+  * [Aragona Group](renew-research-groups/research-groups/aragona-group.md)
+  * [Brickman Group](renew-research-groups/research-groups/brickman-group/README.md)
     * [Brickman Group](https://brickmanlab.github.io/)
-  * [Jensen Group](bmi-renew-websites/research-groups/jensen-group.md)
-  * [Kirkeby Group](bmi-renew-websites/research-groups/kirkeby-group.md)
-  * [Little Group](bmi-renew-websites/research-groups/little-group.md)
-  * [Sedzinski Group](bmi-renew-websites/research-groups/sedzinski-group.md)
-  * [Zylicz Group](bmi-renew-websites/research-groups/zylicz-group.md)
+  * [Jensen Group](renew-research-groups/research-groups/jensen-group.md)
+  * [Kirkeby Group](renew-research-groups/research-groups/kirkeby-group.md)
+  * [Little Group](renew-research-groups/research-groups/little-group.md)
+  * [Sedzinski Group](renew-research-groups/research-groups/sedzinski-group.md)
+  * [Zylicz Group](renew-research-groups/research-groups/zylicz-group.md)
 
 ## GDPR Resources
 
@@ -142,11 +145,11 @@
 
 * [🟠 Monthly Newsletter](renew-rdm-blog/monthly-blog/README.md)
   * [🟠 Disclaimer](renew-rdm-blog/monthly-blog/disclaimer.md)
-  * [🟠 Newsletter - March 2025](renew-rdm-blog/monthly-blog/blog-post-may-2024.md)
-  * [🟠 Newsletter - April 2025](renew-rdm-blog/monthly-blog/blog-post-june-2024.md)
-  * [🟠 Newsletter - May 2025](renew-rdm-blog/monthly-blog/blog-post-july-2024.md)
-  * [🟠 Newsletter - June 2025](renew-rdm-blog/monthly-blog/blog-post-aug-2024.md)
-  * [🟠 Newsletter - July 2025](renew-rdm-blog/monthly-blog/blog-post-sept-2024.md)
+  * [🟠 Newsletter - March 2025](renew-rdm-blog/monthly-blog/blog-post-march-2025.md)
+  * [🟠 Newsletter - April 2025](renew-rdm-blog/monthly-blog/blog-post-april-2025.md)
+  * [🟠 Newsletter - May 2025](renew-rdm-blog/monthly-blog/blog-post-may-2025.md)
+  * [🟠 Newsletter - June 2025](renew-rdm-blog/monthly-blog/blog-post-june-2025.md)
+  * [🟠 Newsletter - July 2025](renew-rdm-blog/monthly-blog/blog-post-july-2025.md)
 
 ## License  / Acknowledgements
 
