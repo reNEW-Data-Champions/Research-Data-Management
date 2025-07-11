@@ -10,13 +10,7 @@ The reNEW Data Champions are a dedicated group of volunteers embedded within res
 
 Beyond technical support, the reNEW Data Champions foster a collaborative research culture grounded in shared knowledge and mutual learning. They facilitate peer-to-peer discussions, organize training opportunities, and promote adopting standardized RDM practices that streamline research processes and improve data quality. As advocates for open science, they encourage responsible data sharing and transparency, helping to position reNEW research within the global movement toward more accessible and reproducible science. In doing so, they not only support the success of individual projects but also contribute to the long-term sustainability and societal value of the research conducted at reNEW.
 
-***
 
-## About  this Website
-
-This website is the central onboarding and support hub for Research Data Management (RDM) at the Department of Biomedical Sciences (BMI) and reNEW at the University of Copenhagen. It is structured to help new and experienced researchers easily navigate RDM requirements, policies, and best practices. The site is organized into clear sections: **UCPH RDM Resources** detailing institutional policies and support; the **RDM Kit by ELIXIR** offering practical, community-developed guidance; **How to Organize Your Data**, with strategies for consistent file naming and structuring; and a **Short Introduction to EOSC DMP Resources** to familiarize users with European data planning standards.
-
-Additional sections include **What is Open Science**, which explains the principles and motivations behind making research more transparent and accessible; **Biomedical Repositories Resources**, providing curated links and guidance on selecting appropriate archives for sensitive and complex biomedical data; **Infographics** that distill key RDM concepts into clear, visual summaries; and **UCPH IT Resources**, offering information on secure storage, backup, and institutional tools. By bringing these resources together in one place, the website aims to support a consistent, informed, and efficient approach to data management throughout BMI and reNEW.
 
 
 

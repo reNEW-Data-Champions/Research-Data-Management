@@ -8,9 +8,9 @@
 ## UCPH RDM Resources
 
 * [🟢 Research Data Management](ucph-rdm-resources/what-is-rdm/README.md)
+  * [🟢 UCPH RDM Portal](https://kunet.ku.dk/work-areas/research/data/Pages/default.aspx)
   * [🟢 UCPH Labguru Tools](https://bit.ly/LABGURU_1)
   * [🟢 UCPH Research Portal](https://kunet.ku.dk/work-areas/research/Pages/default.aspx)
-  * [🟢 UCPH RDM Portal](https://kunet.ku.dk/work-areas/research/data/Pages/default.aspx)
 
 ## Research Data Management&#x20;
 
@@ -42,25 +42,25 @@
 
 * [🔴 What is a DMP?](dmp-resources/dmp/README.md)
   * [🔴 DMP Planning](dmp-resources/dmp/dmp-planning.md)
-* [🔴 DMP Templates](dmp-resources/dmp-templates/README.md)
-  * [🔴 UCPH DMP Template](dmp-resources/dmp-templates/ucph.md)
-  * [🔴 EU Grant Templates](dmp-resources/dmp-templates/eu-grants/README.md)
-    * [🔴 ERC DMP](dmp-resources/dmp-templates/eu-grants/erc-dmp.md)
-    * [🔴 ERC DMP](dmp-resources/dmp-templates/eu-grants/erc-dmp-1.md)
-    * [🔴 Horizon Europe DMP](dmp-resources/dmp-templates/eu-grants/horizon-europe-dmp.md)
-    * [🔴 Horizon Europe DMP](dmp-resources/dmp-templates/eu-grants/horizon-europe-dmp-1.md)
-    * [🔴 Horizon 2020 DMP](dmp-resources/dmp-templates/eu-grants/horizon-2020-dmp.md)
-    * [🔴 Horizon 2020 DMP](dmp-resources/dmp-templates/eu-grants/horizon-2020-dmp-1.md)
-    * [🔴 Marie Curie Program](dmp-resources/dmp-templates/eu-grants/marie-curie-program/README.md)
-      * [🔴 Implementation Guide for Marie Curie Fellows](dmp-resources/dmp-templates/eu-grants/marie-curie-program/implementation-guide-for-marie-curie-fellows.md)
-      * [🔴 Marie Curie Fellows Website](https://marie-sklodowska-curie-actions.ec.europa.eu/resources-0)
-  * [🔴 Genomics Templates](dmp-resources/dmp-templates/genomics/README.md)
-    * [🔴 10X scRNA Sequencing](dmp-resources/dmp-templates/genomics/10x-scrna-sequencing.md)
-    * [🔴 Bulk RNA Sequencing](dmp-resources/dmp-templates/genomics/bulk-rna-sequencing.md)
-    * [🔴 ChiPseq ATAC Sequencing](dmp-resources/dmp-templates/genomics/chipseq-atac-sequencing.md)
-    * [🔴 CUT and RUN/CUT and TAG Sequencing](dmp-resources/dmp-templates/genomics/cut-and-run-cut-and-tag-sequencing.md)
-    * [🔴 Whole Genome Sequencing](dmp-resources/dmp-templates/genomics/whole-genome-sequencing.md)
-* [🔴 DeiC DMP Online](https://dmp.deic.dk/)
+  * [🔴 DMP Templates](dmp-resources/dmp/dmp-templates/README.md)
+    * [🔴 UCPH DMP Template](dmp-resources/dmp/dmp-templates/ucph.md)
+    * [🔴 EU Grant Templates](dmp-resources/dmp/dmp-templates/eu-grants/README.md)
+      * [🔴 ERC DMP](dmp-resources/dmp/dmp-templates/eu-grants/erc-dmp.md)
+      * [🔴 ERC DMP](dmp-resources/dmp/dmp-templates/eu-grants/erc-dmp-1.md)
+      * [🔴 Horizon Europe DMP](dmp-resources/dmp/dmp-templates/eu-grants/horizon-europe-dmp.md)
+      * [🔴 Horizon Europe DMP](dmp-resources/dmp/dmp-templates/eu-grants/horizon-europe-dmp-1.md)
+      * [🔴 Horizon 2020 DMP](dmp-resources/dmp/dmp-templates/eu-grants/horizon-2020-dmp.md)
+      * [🔴 Horizon 2020 DMP](dmp-resources/dmp/dmp-templates/eu-grants/horizon-2020-dmp-1.md)
+      * [🔴 Marie Curie Program](dmp-resources/dmp/dmp-templates/eu-grants/marie-curie-program/README.md)
+        * [🔴 Implementation Guide for Marie Curie Fellows](dmp-resources/dmp/dmp-templates/eu-grants/marie-curie-program/implementation-guide-for-marie-curie-fellows.md)
+        * [🔴 Marie Curie Fellows Website](https://marie-sklodowska-curie-actions.ec.europa.eu/resources-0)
+    * [🔴 Genomics Templates](dmp-resources/dmp/dmp-templates/genomics/README.md)
+      * [🔴 10X scRNA Sequencing](dmp-resources/dmp/dmp-templates/genomics/10x-scrna-sequencing.md)
+      * [🔴 Bulk RNA Sequencing](dmp-resources/dmp/dmp-templates/genomics/bulk-rna-sequencing.md)
+      * [🔴 ChiPseq ATAC Sequencing](dmp-resources/dmp/dmp-templates/genomics/chipseq-atac-sequencing.md)
+      * [🔴 CUT and RUN/CUT and TAG Sequencing](dmp-resources/dmp/dmp-templates/genomics/cut-and-run-cut-and-tag-sequencing.md)
+      * [🔴 Whole Genome Sequencing](dmp-resources/dmp/dmp-templates/genomics/whole-genome-sequencing.md)
+  * [🔴 DeiC DMP Online](https://dmp.deic.dk/)
 
 ## Informational Videos
 
@@ -83,9 +83,9 @@
 
 ## Open Science
 
-* [🟣 FAIR Principles](https://www.howtofair.dk/)
-* [🟣 FAIR Principles - Graphic](open-science/fair-principles.md)
-* [🟣 Open Science - 8 Pillars](open-science/open-science-pillars.md)
+* [🟣 FAIR Principles - Graphic](open-science/fair-principles/README.md)
+  * [🟣 FAIR Principles](https://www.howtofair.dk/)
+  * [🟣 Open Science - 8 Pillars](open-science/fair-principles/open-science-pillars.md)
 
 ## Biomedical Repository
 
@@ -120,22 +120,22 @@
 
 * [🔵 GDPR for Researchers](gdpr-resources/gdpr-for-researchers/README.md)
   * [🔵 Data Protection Agency](gdpr-resources/gdpr-for-researchers/data-protection-agency.md)
-* [🔵 GDPR Resouces](https://kunet.ku.dk/work-areas/research/data/personal-data/Pages/default.aspx)
-* [🔵 GDPR - Project Like Mine](https://bit.ly/GDPR_PLM)
+  * [🔵 GDPR Resouces](https://kunet.ku.dk/work-areas/research/data/personal-data/Pages/default.aspx)
+  * [🔵 GDPR - Project Like Mine](https://bit.ly/GDPR_PLM)
 
 ## UCPH IT Resources
 
-* [🟢 Archive vs. Backup](ucph-it-resources/archive-vs.-backup.md)
-* [🟢 UCPH HPC Guide](ucph-it-resources/ucph-hpc-guide.md)
-* [🟢 UCPH Research IT](https://kunet.ku.dk/work-areas/research/Research%20Infrastructure/research-it/Pages/default.aspx)
+* [🟢 UCPH HPC Guide](ucph-it-resources/ucph-hpc-guide/README.md)
+  * [🟢 UCPH Research IT](https://kunet.ku.dk/work-areas/research/Research%20Infrastructure/research-it/Pages/default.aspx)
+  * [🟢 Archive vs. Backup](ucph-it-resources/ucph-hpc-guide/archive-vs.-backup.md)
 
 ## Infographics
 
-* [🟡 FAIR Principles](infographics/fair-principles.md)
-* [🟡 Open Science Pillars](infographics/open-science-pillars.md)
-* [🟡 Research Process](infographics/research-process.md)
-* [🟡 RODMM Framework](infographics/rodmm-framework.md)
-* [🟡 UCPH HPC Quick Guide](infographics/ucph-hpc-quick-guide.md)
+* [🟡 Research Process](infographics/research-process/README.md)
+  * [🟡 RODMM Framework](infographics/research-process/rodmm-framework.md)
+  * [🟡 Open Science Pillars](infographics/research-process/open-science-pillars.md)
+  * [🟡 UCPH HPC Quick Guide](infographics/research-process/ucph-hpc-quick-guide.md)
+  * [🟡 FAIR Principles](infographics/research-process/fair-principles.md)
 
 ## reNEW RDM Blog
 
