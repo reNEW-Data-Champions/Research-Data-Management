@@ -80,6 +80,7 @@
   * [🟡 OMERO Basics and Navigation](https://youtu.be/e3u-Ugd4W7w?si=DB-B2Me3X2OQMPX7)
   * [🟡  OMERO - Import of images](https://youtu.be/wnw-woX9OxI?si=fLs-Ma0L0Et95t-g)
   * [🟡 OMERO Using OMERO.figure](https://youtu.be/YeCFaB7VAAQ?si=geIOjeWQmAgoxNE9)
+  * [🟡 Open and standardised imaging data](https://embl-ebi.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=d06b66c7-1cec-487b-9ce9-b2eb00f71b13)
 
 ## Open Science
 
