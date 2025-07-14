@@ -2,7 +2,7 @@
 description: Introduction to OMERO, Bioimaging Data Management Platform
 ---
 
-# 🟡 Informational Videos
+# 🟠 OMERO Videos & Demos
 
 ### Introduction to OMERO – Bioimaging Data Management at reNEW
 

@@ -40,11 +40,29 @@
       * [🟢 ChiPseq ATAC Sequencing](core-rdm-knowledge-base/dmp/dmp-templates/genomics/chipseq-atac-sequencing.md)
       * [🟢 CUT and RUN/CUT and TAG Sequencing](core-rdm-knowledge-base/dmp/dmp-templates/genomics/cut-and-run-cut-and-tag-sequencing.md)
       * [🟢 Whole Genome Sequencing](core-rdm-knowledge-base/dmp/dmp-templates/genomics/whole-genome-sequencing.md)
-  * [🟢 DeiC DMP Online](https://dmp.deic.dk/)
 
-## Research Data Management&#x20;
+## Tools & Technology
 
-* [🟡 RDM Support Resources](research-data-management/what-is-elixir/README.md)
+* [🟠 UCPH IT & HPC Guide](tools-and-technology/ucph-hpc-guide/README.md)
+  * [🟠 UCPH Research IT](https://kunet.ku.dk/work-areas/research/Research%20Infrastructure/research-it/Pages/default.aspx)
+  * [🟠 Archive vs. Backup](tools-and-technology/ucph-hpc-guide/archive-vs.-backup.md)
+  * [🟠 OMERO Videos & Demos](tools-and-technology/ucph-hpc-guide/seminars/README.md)
+    * [🟠 Introduction to OMERO - Long ](https://youtu.be/nSCrMO_c-5s?si=6S4bJX1P5E2GtxHL)
+    * [🟠 Introduction to OMERO - Short](https://youtu.be/y2hnU0HrORw?si=XvO_rr-sG-qCeA51)
+    * [🟠 OMERO Basics and Navigation](https://youtu.be/e3u-Ugd4W7w?si=DB-B2Me3X2OQMPX7)
+    * [🟠  OMERO - Import of images](https://youtu.be/wnw-woX9OxI?si=fLs-Ma0L0Et95t-g)
+    * [🟠 OMERO Using OMERO.figure](https://youtu.be/YeCFaB7VAAQ?si=geIOjeWQmAgoxNE9)
+    * [🟠 Open and standardised imaging data](https://embl-ebi.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=d06b66c7-1cec-487b-9ce9-b2eb00f71b13)
+* [🟠 Repository & Data Services](tools-and-technology/biomedical-data-repositories/README.md)
+  * [🟠 DeiC DMP Online](https://dmp.deic.dk/)
+  * [🟠 European Open Science Cloud](tools-and-technology/biomedical-data-repositories/european-open-science-cloud.md)
+  * [🟠 Guidance: Biomedical Repositories I](https://sharing.nih.gov/data-management-and-sharing-policy/sharing-scientific-data/repositories-for-sharing-scientific-data)
+  * [🟠 Guidance: Biomedical Repositories II](https://www.nlm.nih.gov/NIHbmic/domain_specific_repositories.html)
+  * [🟠 Guidance: Biomedical Repositories III](https://journals.plos.org/plosbiology/s/recommended-repositories)
+
+## Legal & Compliance
+
+* [🟡 RDM Support Resources](legal-and-compliance/what-is-elixir/README.md)
   * [🟡 RDM Guide for Life Sciences (Elixir)](https://bit.ly/RDM_GUIDE)
   * [🟡 RDM Kit for Life Sciences (Elixir)](https://bit.ly/RDM_Kit)
   * [🟡 RDM Kit for Single-cell sequencing (Elixir)](https://bit.ly/rdm-scs)
@@ -53,14 +71,6 @@
   * [🟡 RDM Kit for Human Data (Elixir)](https://bit.ly/RDN-Human_Data)
   * [🟡 RDM Kit for Data Repository (Elixir)](https://rdmkit.elixir-europe.org/data_publication)
   * [🟡 RDM Kit for Documentation and Metadata (Elixir)](https://bit.ly/RDMKit-Metadata)
-
-## Organizing Your Data
-
-## EOSC
-
-* [🔴 European Open Science Cloud](eosc/european-open-science-cloud.md)
-
-## DMP Resources
 
 ## Informational Videos
 
@@ -74,14 +84,6 @@
 
 ## OMERO Support
 
-* [🟡 Informational Videos](omero-support/seminars/README.md)
-  * [🟡 Introduction to OMERO - Long ](https://youtu.be/nSCrMO_c-5s?si=6S4bJX1P5E2GtxHL)
-  * [🟡 Introduction to OMERO - Short](https://youtu.be/y2hnU0HrORw?si=XvO_rr-sG-qCeA51)
-  * [🟡 OMERO Basics and Navigation](https://youtu.be/e3u-Ugd4W7w?si=DB-B2Me3X2OQMPX7)
-  * [🟡  OMERO - Import of images](https://youtu.be/wnw-woX9OxI?si=fLs-Ma0L0Et95t-g)
-  * [🟡 OMERO Using OMERO.figure](https://youtu.be/YeCFaB7VAAQ?si=geIOjeWQmAgoxNE9)
-  * [🟡 Open and standardised imaging data](https://embl-ebi.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=d06b66c7-1cec-487b-9ce9-b2eb00f71b13)
-
 ## Open Science
 
 * [🟣 FAIR Principles - Graphic](open-science/fair-principles/README.md)
@@ -89,11 +91,6 @@
   * [🟣 Open Science - 8 Pillars](open-science/fair-principles/open-science-pillars.md)
 
 ## Biomedical Repository
-
-* [🔴 Biomedical Data Repositories](biomedical-repository/biomedical-data-repositories/README.md)
-  * [⚫ Guidance: Biomedical Repositories I](https://sharing.nih.gov/data-management-and-sharing-policy/sharing-scientific-data/repositories-for-sharing-scientific-data)
-  * [⚫ Guidance: Biomedical Repositories II](https://www.nlm.nih.gov/NIHbmic/domain_specific_repositories.html)
-  * [⚫ Guidance: Biomedical Repositories III](https://journals.plos.org/plosbiology/s/recommended-repositories)
 
 ## BMI / reNEW Websites
 
@@ -128,10 +125,6 @@
   * [🔵 GDPR - Project Like Mine](https://bit.ly/GDPR_PLM)
 
 ## UCPH IT Resources
-
-* [🟢 UCPH HPC Guide](ucph-it-resources/ucph-hpc-guide/README.md)
-  * [🟢 UCPH Research IT](https://kunet.ku.dk/work-areas/research/Research%20Infrastructure/research-it/Pages/default.aspx)
-  * [🟢 Archive vs. Backup](ucph-it-resources/ucph-hpc-guide/archive-vs.-backup.md)
 
 ## Infographics
 
