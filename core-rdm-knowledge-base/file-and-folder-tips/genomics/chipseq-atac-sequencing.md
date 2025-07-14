@@ -1,9 +1,9 @@
 ---
-description: ChiPseq ATAc Sequencing
+description: Organizing Your Data
 ---
 
 # 🟢 ChiPseq ATAC Sequencing
 
 
 
-{% file src="../../../../.gitbook/assets/ChIPseq ATAC Sequencing.docx" %}
+{% file src="../../../.gitbook/assets/ChIPseq ATAC Sequencing.docx" %}

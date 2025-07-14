@@ -1,5 +1,5 @@
 ---
-description: Introduction to OMERO, Bioimaging Data Management Platform
+description: Tools & Technology
 ---
 
 # 🟠 OMERO Support

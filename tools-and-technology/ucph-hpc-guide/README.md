@@ -1,5 +1,5 @@
 ---
-description: UCPH High Performance Computing (HPC)
+description: Tools & Technology
 ---
 
 # 🟠 UCPH IT & HPC Guide

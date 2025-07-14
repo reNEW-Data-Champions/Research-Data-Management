@@ -1,5 +1,5 @@
 ---
-description: Data Management Plan Resources
+description: Organizing Your Data
 ---
 
 # 🟢 Genomics Templates

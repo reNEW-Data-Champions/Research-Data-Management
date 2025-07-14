@@ -1,5 +1,5 @@
 ---
-description: Open Science - Eight Pillars for LERU
+description: RDM Principles & Frameworks
 ---
 
 # 🟢 Open Science - 8 Pillars

@@ -4,6 +4,8 @@ description: Data Management Plan Resources
 
 # 🟢 DMP Resources
 
+## 2.3 **DMP Resources**
+
 ## reNEW - Data Management Plans Support
 
 A Data Management Plan (DMP) is an essential tool that guides researchers in systematically organizing their entire data workflow while ensuring compliance with institutional, funder, and legal requirements. By supporting open science and adhering to the FAIR principles—making data Findable, Accessible, Interoperable, and Reusable—a well-crafted DMP ensures that research data is properly managed throughout its entire life cycle, from initial creation or acquisition to long-term storage and potential reuse.

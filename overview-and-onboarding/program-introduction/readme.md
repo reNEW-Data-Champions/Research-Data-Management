@@ -1,5 +1,5 @@
 ---
-description: Data Champions at reNEW
+description: Program Introduction
 ---
 
 # 🔵 Data Champions at reNEW

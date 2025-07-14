@@ -1,5 +1,5 @@
 ---
-description: The FAIR Data Principles
+description: RDM Principles & Frameworks
 ---
 
 # 🟢 FAIR Principles - Graphic

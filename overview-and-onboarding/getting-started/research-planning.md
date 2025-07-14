@@ -1,5 +1,5 @@
 ---
-description: Onboarding at reNEW
+description: Getting Started
 ---
 
 # 🔵 Onboarding at reNEW

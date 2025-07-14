@@ -105,6 +105,9 @@
   * [🟣 Open Science Pillars](visual-aids-and-nfographics/research-process/open-science-pillars.md)
   * [🟣 UCPH HPC Quick Guide](visual-aids-and-nfographics/research-process/ucph-hpc-quick-guide.md)
   * [🟣 FAIR Principles](visual-aids-and-nfographics/research-process/fair-principles.md)
+  * [🟣 RODMM Framework](visual-aids-and-nfographics/research-process/rodmm-framework.md)
+  * [🟣 RDM Directory Structure](visual-aids-and-nfographics/research-process/file-and-folder-tips.md)
+* [🟣 Research Process Flowcharts](visual-aids-and-nfographics/research-process-1.md)
 
 ## reNEW Research Groups
 

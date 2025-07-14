@@ -1,5 +1,5 @@
 ---
-description: Organizing Your Data - Tips and Recommendations
+description: Organizing Your Data
 ---
 
 # 🟢 File and Folder Tips III

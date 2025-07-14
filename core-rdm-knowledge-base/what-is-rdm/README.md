@@ -2,9 +2,9 @@
 description: UCPH Research Data Management Resources
 ---
 
-# 🟢 Research Data Management
+# 🟢 RDM Principles & Frameworks
 
-
+## 2.2 **RDM Principles & Frameworks**
 
 **Research Data Management (RDM)** is a systematic approach to organizing, storing, preserving, and sharing research data throughout its lifecycle. It is essential to ensure that data remains accessible, reliable, reusable, and compliant with institutional and funding requirements. Effective RDM involves implementing policies, standards, and best practices that govern how research data is managed, from when it is collected until its long-term preservation and accessibility.
 
