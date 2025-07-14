@@ -81,6 +81,16 @@
   * [🟠  OMERO - Import of images](https://youtu.be/wnw-woX9OxI?si=fLs-Ma0L0Et95t-g)
   * [🟠 OMERO Using OMERO.figure](https://youtu.be/YeCFaB7VAAQ?si=geIOjeWQmAgoxNE9)
   * [🟠 Open and standardised imaging data](https://embl-ebi.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=d06b66c7-1cec-487b-9ce9-b2eb00f71b13)
+* [🟠 reNEW Websites](tools-and-technology/renew-websites/README.md)
+  * [🌎 BMI Website](https://bmi.ku.dk/english/)
+  * [🌎 reNEW KUnet](https://kunet.ku.dk/faculty-and-department/renew/Pages/default.aspx)
+  * [🌎 reNEW Website](https://renew.science/)
+  * [🌎 reNEW Connect](https://alumni.sharepoint.com/sites/UCPH_reNEWConnect/SitePages/Home.aspx)
+  * [🌎 reNEW Genomics](https://bit.ly/reNEW_GEN)
+  * [🌎 reNEW Imaging](https://kunet.ku.dk/faculty-and-department/renew/Labs%20and%20Research%20Platforms/Research%20Platforms/Imaging%20Platform/Pages/default.aspx)
+  * [🌎 reNEW DanGPU](https://bit.ly/DANGPU)
+  * [🌎 reNEW Flow Cy](https://kunet.ku.dk/faculty-and-department/renew/Labs%20and%20Research%20Platforms/Research%20Platforms/Flow%20Cytometry%20Platform/Pages/default.aspx)
+  * [🌎 reNEW Publications](https://publication.renew-platforms.dk/)
 
 ## Legal & Compliance
 
@@ -95,19 +105,6 @@
   * [🟣 Open Science Pillars](visual-aids-and-nfographics/research-process/open-science-pillars.md)
   * [🟣 UCPH HPC Quick Guide](visual-aids-and-nfographics/research-process/ucph-hpc-quick-guide.md)
   * [🟣 FAIR Principles](visual-aids-and-nfographics/research-process/fair-principles.md)
-
-## BMI / reNEW Websites
-
-* [🌐 reNEW Websites](bmi-renew-websites/renew-websites/README.md)
-  * [🌎 BMI Website](https://bmi.ku.dk/english/)
-  * [🌎 reNEW KUnet](https://kunet.ku.dk/faculty-and-department/renew/Pages/default.aspx)
-  * [🌎 reNEW Website](https://renew.science/)
-  * [🌎 reNEW Connect](https://alumni.sharepoint.com/sites/UCPH_reNEWConnect/SitePages/Home.aspx)
-  * [🌎 reNEW Genomics](https://bit.ly/reNEW_GEN)
-  * [🌎 reNEW Imaging](https://kunet.ku.dk/faculty-and-department/renew/Labs%20and%20Research%20Platforms/Research%20Platforms/Imaging%20Platform/Pages/default.aspx)
-  * [🌎 reNEW DanGPU](https://bit.ly/DANGPU)
-  * [🌎 reNEW Flow Cy](https://kunet.ku.dk/faculty-and-department/renew/Labs%20and%20Research%20Platforms/Research%20Platforms/Flow%20Cytometry%20Platform/Pages/default.aspx)
-  * [🌎 reNEW Publications](https://publication.renew-platforms.dk/)
 
 ## reNEW Research Groups
 
