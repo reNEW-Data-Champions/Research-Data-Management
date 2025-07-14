@@ -2,7 +2,7 @@
 description: License and Acknowledgements
 ---
 
-# 🟠 Disclaimer
+# 🟡 Disclaimer
 
 {% hint style="danger" %}
 

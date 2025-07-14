@@ -2,7 +2,7 @@
 layout: landing
 ---
 
-# Zylicz Group
+# 🟡 Zylicz Group
 
 ## [Research Group](https://renew.ku.dk/research/reseach-groups/zylicz-group/#collapse-1582021919959)
 

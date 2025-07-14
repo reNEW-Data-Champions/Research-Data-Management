@@ -4,7 +4,7 @@ description: >-
   Management
 ---
 
-# 🟠 Newsletter - April 2025
+# 🟡 Newsletter - April 2025
 
 ## Biomedical Research Infrastructure and the Imperative for Robust Research Data Management
 
@@ -97,5 +97,3 @@ The future of biomedical research depends on confronting these challenges direct
 By investing in data management infrastructure, adopting standardized practices, ensuring interoperability, safeguarding privacy, and fostering a culture of responsible data stewardship, the biomedical research community can maximize the value of its data assets.
 
 Effective RDM is not a peripheral concern but central to building a trustworthy, collaborative, and impactful research ecosystem.
-
-&#x20;

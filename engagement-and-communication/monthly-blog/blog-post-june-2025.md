@@ -2,7 +2,7 @@
 description: 'Research Data Management at Universities: Storage Solutions'
 ---
 
-# 🟠 Newsletter - June 2025
+# 🟡 Newsletter - June 2025
 
 ## Research Data Management at Universities: Storage Solutions
 

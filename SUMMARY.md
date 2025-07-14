@@ -83,6 +83,7 @@
   * [🟠 Open and standardised imaging data](https://embl-ebi.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=d06b66c7-1cec-487b-9ce9-b2eb00f71b13)
 * [🟠 reNEW Websites](tools-and-technology/renew-websites/README.md)
   * [🌎 BMI Website](https://bmi.ku.dk/english/)
+  * [🌎 BMI Onboarding](https://kunet.ku.dk/faculty-and-department/bmi/about/epartment_documents/Pages/default.aspx#collapseMSOZoneCell_WebPartWPQ9)
   * [🌎 reNEW KUnet](https://kunet.ku.dk/faculty-and-department/renew/Pages/default.aspx)
   * [🌎 reNEW Website](https://renew.science/)
   * [🌎 reNEW Connect](https://alumni.sharepoint.com/sites/UCPH_reNEWConnect/SitePages/Home.aspx)
@@ -109,28 +110,22 @@
   * [🟣 RDM Directory Structure](visual-aids-and-nfographics/research-process/file-and-folder-tips.md)
 * [🟣 Research Process Flowcharts](visual-aids-and-nfographics/research-process-1.md)
 
-## reNEW Research Groups
+## Engagement & Communication
 
-* [🌐 Research Groups](renew-research-groups/research-groups/README.md)
-  * [Aragona Group](renew-research-groups/research-groups/aragona-group.md)
-  * [Brickman Group](renew-research-groups/research-groups/brickman-group/README.md)
+* [🟡 Monthly Newsletter](engagement-and-communication/monthly-blog/README.md)
+  * [🟡 Disclaimer](engagement-and-communication/monthly-blog/disclaimer.md)
+  * [🟡 Newsletter - March 2025](engagement-and-communication/monthly-blog/blog-post-march-2025.md)
+  * [🟡 Newsletter - April 2025](engagement-and-communication/monthly-blog/blog-post-april-2025.md)
+  * [🟡 Newsletter - May 2025](engagement-and-communication/monthly-blog/blog-post-may-2025.md)
+  * [🟡 Newsletter - June 2025](engagement-and-communication/monthly-blog/blog-post-june-2025.md)
+  * [🟡 Newsletter - July 2025](engagement-and-communication/monthly-blog/blog-post-july-2025.md)
+* [🟡 Research Groups](engagement-and-communication/research-groups/README.md)
+  * [🟡 Aragona Group](engagement-and-communication/research-groups/aragona-group.md)
+  * [🟡 Brickman Group](engagement-and-communication/research-groups/brickman-group/README.md)
     * [Brickman Group](https://brickmanlab.github.io/)
-  * [Jensen Group](renew-research-groups/research-groups/jensen-group.md)
-  * [Kirkeby Group](renew-research-groups/research-groups/kirkeby-group.md)
-  * [Little Group](renew-research-groups/research-groups/little-group.md)
-  * [Sedzinski Group](renew-research-groups/research-groups/sedzinski-group.md)
-  * [Zylicz Group](renew-research-groups/research-groups/zylicz-group.md)
-
-## reNEW RDM Blog
-
-* [🟠 Monthly Newsletter](renew-rdm-blog/monthly-blog/README.md)
-  * [🟠 Disclaimer](renew-rdm-blog/monthly-blog/disclaimer.md)
-  * [🟠 Newsletter - March 2025](renew-rdm-blog/monthly-blog/blog-post-march-2025.md)
-  * [🟠 Newsletter - April 2025](renew-rdm-blog/monthly-blog/blog-post-april-2025.md)
-  * [🟠 Newsletter - May 2025](renew-rdm-blog/monthly-blog/blog-post-may-2025.md)
-  * [🟠 Newsletter - June 2025](renew-rdm-blog/monthly-blog/blog-post-june-2025.md)
-  * [🟠 Newsletter - July 2025](renew-rdm-blog/monthly-blog/blog-post-july-2025.md)
-
-## License  / Acknowledgements
-
-* [🟣 License and Acknowledgements](license-acknowledgements/license-and-acknowledgements.md)
+  * [🟡 Jensen Group](engagement-and-communication/research-groups/jensen-group.md)
+  * [🟡 Kirkeby Group](engagement-and-communication/research-groups/kirkeby-group.md)
+  * [🟡 Little Group](engagement-and-communication/research-groups/little-group.md)
+  * [🟡 Sedzinski Group](engagement-and-communication/research-groups/sedzinski-group.md)
+  * [🟡 Zylicz Group](engagement-and-communication/research-groups/zylicz-group.md)
+* [🟡 License and Acknowledgements](engagement-and-communication/license-and-acknowledgements.md)

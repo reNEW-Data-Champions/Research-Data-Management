@@ -2,7 +2,7 @@
 description: Leveraging Machine-Actionable DMPs for Enhanced Research Workflows
 ---
 
-# 🟠 Newsletter - May 2025
+# 🟡 Newsletter - May 2025
 
 ### Introduction
 
@@ -52,4 +52,3 @@ The true potential of maDMPs is realized when their structured information can b
 The shift toward **machine-actionable Data Management Plans** represents a significant advancement in managing and leveraging research datahow research data is managed and leveraged. By enabling automation, reducing errors, improving interoperability, and supporting compliance, maDMPs can save researchers valuable time and resources.
 
 Adopting maDMPs is not just about operational efficiency but about empowering the research community to focus more on discovery and innovation. As research becomes increasingly data-driven, implementing and utilizing maDMPs will be essential in building a more robust, transparent, and collaborative scientific ecosystem.
-
