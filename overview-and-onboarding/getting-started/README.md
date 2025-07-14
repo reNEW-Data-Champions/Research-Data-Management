@@ -4,4 +4,4 @@ description: Onboarding at reNEW (how to join, first steps)
 
 # 🔵 Getting Started
 
-This part guides new Data Champions through the onboarding process. You’ll find clearly defined eligibility criteria, an overview of the orientation timeline (from application to active engagement), and first‑step checklists—setting everyone up for confidence and success in their new role.
+Designed to support new Data Champions, researchers, and group leaders, this section presents a clear onboarding roadmap: eligibility criteria, orientation milestones, and essential first actions, ensuring everyone begins their journey with clarity and confidence.

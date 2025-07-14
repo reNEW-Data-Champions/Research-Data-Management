@@ -6,14 +6,9 @@ description: Onboarding at reNEW
 
 
 
-<figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfBUEkyEVkkowpmxaYHZvQXpPvCSMYMIn_O02oyXlJ5v1rzRWloLADarkYTAteOUTBKTVGEZyyGxgnf17gTfY4CZ0eJBLSmtrQryGHWvYFMr31jZCSZduhvPRHsVjuOC6GJBYmcKw?key=ndMbg9Q1CrKjaxfZzuxxNA" alt=""><figcaption></figcaption></figure>
+This section serves as a comprehensive onboarding and support hub for Research Data Management (RDM) at reNEW, University of Copenhagen. It empowers new and experienced researchers to navigate institutional requirements, policies, and best practices confidently. The site is organized into clearly defined sections, offering a structured path to mastering RDM—from foundational concepts to specialized workflows—ensuring clarity and ease of use at every stage.
 
-## About this Website
-
-This website is the central onboarding and support hub for Research Data Management (RDM) at the Department of Biomedical Sciences (BMI) reNEW at the University of Copenhagen. It is structured to help new and experienced researchers easily navigate RDM requirements, policies, and best practices. The site is organized into clear sections: UCPH RDM Resources detailing institutional policies and support; the RDM Kit by ELIXIR offering practical, community-developed guidance; How to Organize Your Data, with strategies for consistent file naming and structuring; and a Short Introduction to EOSC DMP Resources to familiarize users with European data planning standards.
-
-\
-Additional sections include What is Open Science, which explains the principles and motivations behind making research more transparent and accessible; Biomedical Repositories Resources, providing curated links and guidance on selecting appropriate archives for sensitive and complex biomedical data; Infographics that distill key RDM concepts into clear, visual summaries; and UCPH IT Resources, offering information on secure storage, backup, and institutional tools. By bringing these resources together in one place, the website aims to support a consistent, informed, and efficient approach to data management throughout BMI and reNEW.
+Importantly, curated biomedical resources specific to BMI and reNEW—such as sequencing templates, platform guides, and research group portals—are included to support your domain-specific work. These resources are complemented by the UCPH Research Portal, which remains the official institutional gateway for RDM tools, policies, and infrastructure, ensuring that you always reference trusted and authoritative information.
 
 
 

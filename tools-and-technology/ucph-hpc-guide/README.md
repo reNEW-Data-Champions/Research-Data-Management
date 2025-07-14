@@ -4,4 +4,4 @@ description: UCPH High Performance Computing (HPC)
 
 # 🟠 UCPH IT & HPC Guide
 
-{% embed url="https://docs.google.com/document/d/1eyLFCYnSuA-3rSbgcGW2sZpPq3MAxC1Cxwr_bWRssFI/edit?usp=sharing" fullWidth="true" %}
+Navigate UCPH’s technical infrastructure confidently—covering archive vs backup, HPC usage, and UCPH Research IT advice—via intuitive quick-start guides and institutional best practices.

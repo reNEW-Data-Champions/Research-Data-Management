@@ -1,8 +1,8 @@
 ---
-description: Infographic
+description: Organizing Your Data
 layout: landing
 ---
 
 # 🟢 Organizing Your Data
 
-<div data-full-width="true"><figure><img src="../../.gitbook/assets/RDM_Checklist_Directory.jpg" alt=""><figcaption></figcaption></figure></div>
+Master the fundamentals of data structuring with guidance on batch renaming, folder hierarchies, version control, README templates, and now specialized **Sequencing Data Templates** (10X scRNA‑Seq, bulk RNA‑Seq, ChIP‑Seq/ATAC, CUT\&RUN/CUT\&TAG, WGS).

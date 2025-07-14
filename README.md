@@ -4,4 +4,4 @@ description: Data Champions at reNEW (mission, roles, goals)
 
 # 🔵 Program Introduction
 
-The Data Champions at reNEW program empower individuals to become advocates and experts in research data management. This section introduces the initiative’s mission, the core responsibilities of Data Champions, and the strategic importance of their role in fostering FAIR data practices and building a stronger RDM culture.
+The Data Champions at reNEW program empowers researchers to lead the charge in improving data management practices. This section outlines the program’s mission, your role as a champion, and how your contributions drive cultural change and FAIR adoption within reNEW.

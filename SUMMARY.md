@@ -21,12 +21,13 @@
     * [🟢 ChiPseq ATAC Sequencing](core-rdm-knowledge-base/file-and-folder-tips/genomics/chipseq-atac-sequencing.md)
     * [🟢 CUT and RUN/CUT and TAG Sequencing](core-rdm-knowledge-base/file-and-folder-tips/genomics/cut-and-run-cut-and-tag-sequencing.md)
     * [🟢 Whole Genome Sequencing](core-rdm-knowledge-base/file-and-folder-tips/genomics/whole-genome-sequencing.md)
+  * [🟢 RDM Directory Structure](core-rdm-knowledge-base/file-and-folder-tips/file-and-folder-tips.md)
   * [🟢 README File Template](core-rdm-knowledge-base/file-and-folder-tips/readme-file-template.md)
 * [🟢 RDM Principles & Frameworks](core-rdm-knowledge-base/what-is-rdm/README.md)
   * [🟢 FAIR Principles](https://www.howtofair.dk/)
-  * [🟢 Open Science - 8 Pillars](core-rdm-knowledge-base/what-is-rdm/open-science-pillars.md)
   * [🟢 FAIR Principles - Graphic](core-rdm-knowledge-base/what-is-rdm/fair-principles.md)
   * [🟢 RODMM Framework](core-rdm-knowledge-base/what-is-rdm/rodmm-framework.md)
+  * [🟢 Open Science - 8 Pillars](core-rdm-knowledge-base/what-is-rdm/open-science-pillars.md)
 
 ***
 
@@ -68,6 +69,7 @@
   * [🟠 Guidance: Biomedical Repositories I](https://sharing.nih.gov/data-management-and-sharing-policy/sharing-scientific-data/repositories-for-sharing-scientific-data)
   * [🟠 Guidance: Biomedical Repositories II](https://www.nlm.nih.gov/NIHbmic/domain_specific_repositories.html)
   * [🟠 Guidance: Biomedical Repositories III](https://journals.plos.org/plosbiology/s/recommended-repositories)
+  * [🟠 Guidance: Biomedical Repositories IV](tools-and-technology/biomedical-data-repositories/biomedical-data-repositories.md)
 * [🟠 Informational Videos](tools-and-technology/seminars/README.md)
   * [🟠 eLearning RDM](https://www.deic.dk/en/RDMElearn)
   * [🟠 Horizon Europe DMP ](https://deic.dk/da/event/webinar-14062023)
