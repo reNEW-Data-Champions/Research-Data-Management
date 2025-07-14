@@ -2,7 +2,7 @@
 description: UCPH HPC Quick Guide
 ---
 
-# 🟡 UCPH HPC Quick Guide
+# 🟣 UCPH HPC Quick Guide
 
 
 
