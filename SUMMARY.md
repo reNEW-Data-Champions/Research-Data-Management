@@ -1,16 +1,46 @@
 # Table of contents
 
-## Data Champions Program
+## Overview & Onboarding
 
-* [🔵 Data Champions at reNEW](README.md)
-* [🔵 Onboarding at reNEW](data-champions-program/research-planning.md)
+* [🔵 Program Introduction](README.md)
+  * [🔵 Data Champions at reNEW](overview-and-onboarding/program-introduction/readme.md)
+* [🔵 Getting Started](overview-and-onboarding/getting-started/README.md)
+  * [🔵 Onboarding at reNEW](overview-and-onboarding/getting-started/research-planning.md)
 
-## UCPH RDM Resources
+## Core RDM Knowledge Base
 
-* [🟢 Research Data Management](ucph-rdm-resources/what-is-rdm/README.md)
+* [🟢 Organizing Your Data](core-rdm-knowledge-base/file-and-folder-tips/README.md)
+  * [🟢 Batch Renaming](core-rdm-knowledge-base/file-and-folder-tips/batch-renaming.md)
+  * [🟢 File and Folder Tips I](core-rdm-knowledge-base/file-and-folder-tips/file-and-folder-tips-i.md)
+  * [🟢 File and Folder Tips II](core-rdm-knowledge-base/file-and-folder-tips/file-and-folder-tips-ii.md)
+  * [🟢 File and Folder Tips III](core-rdm-knowledge-base/file-and-folder-tips/file-and-folder-tips-iii.md)
+  * [🟢 File and Folder Tips IV](core-rdm-knowledge-base/file-and-folder-tips/file-and-folder-tips-iv.md)
+  * [🟢 README File Template](core-rdm-knowledge-base/file-and-folder-tips/readme-file-template.md)
+* [🟢 RDM Principles & Frameworks](core-rdm-knowledge-base/what-is-rdm/README.md)
   * [🟢 UCPH RDM Portal](https://kunet.ku.dk/work-areas/research/data/Pages/default.aspx)
   * [🟢 UCPH Labguru Tools](https://bit.ly/LABGURU_1)
   * [🟢 UCPH Research Portal](https://kunet.ku.dk/work-areas/research/Pages/default.aspx)
+* [🟢 DMP Resources](core-rdm-knowledge-base/dmp/README.md)
+  * [🟢 DMP Planning](core-rdm-knowledge-base/dmp/dmp-planning.md)
+  * [🟢 DMP Templates](core-rdm-knowledge-base/dmp/dmp-templates/README.md)
+    * [🟢 UCPH DMP Template](core-rdm-knowledge-base/dmp/dmp-templates/ucph.md)
+    * [🟢 EU Grant Templates](core-rdm-knowledge-base/dmp/dmp-templates/eu-grants/README.md)
+      * [🟢 ERC DMP](core-rdm-knowledge-base/dmp/dmp-templates/eu-grants/erc-dmp.md)
+      * [🟢 ERC DMP](core-rdm-knowledge-base/dmp/dmp-templates/eu-grants/erc-dmp-1.md)
+      * [🟢 Horizon Europe DMP](core-rdm-knowledge-base/dmp/dmp-templates/eu-grants/horizon-europe-dmp.md)
+      * [🟢 Horizon Europe DMP](core-rdm-knowledge-base/dmp/dmp-templates/eu-grants/horizon-europe-dmp-1.md)
+      * [🟢 Horizon 2020 DMP](core-rdm-knowledge-base/dmp/dmp-templates/eu-grants/horizon-2020-dmp.md)
+      * [🟢 Horizon 2020 DMP](core-rdm-knowledge-base/dmp/dmp-templates/eu-grants/horizon-2020-dmp-1.md)
+      * [🟢 Marie Curie Program](core-rdm-knowledge-base/dmp/dmp-templates/eu-grants/marie-curie-program/README.md)
+        * [🟢 Implementation Guide for Marie Curie Fellows](core-rdm-knowledge-base/dmp/dmp-templates/eu-grants/marie-curie-program/implementation-guide-for-marie-curie-fellows.md)
+        * [🟢 Marie Curie Fellows Website](https://marie-sklodowska-curie-actions.ec.europa.eu/resources-0)
+    * [🟢 Genomics Templates](core-rdm-knowledge-base/dmp/dmp-templates/genomics/README.md)
+      * [🟢 10X scRNA Sequencing](core-rdm-knowledge-base/dmp/dmp-templates/genomics/10x-scrna-sequencing.md)
+      * [🟢 Bulk RNA Sequencing](core-rdm-knowledge-base/dmp/dmp-templates/genomics/bulk-rna-sequencing.md)
+      * [🟢 ChiPseq ATAC Sequencing](core-rdm-knowledge-base/dmp/dmp-templates/genomics/chipseq-atac-sequencing.md)
+      * [🟢 CUT and RUN/CUT and TAG Sequencing](core-rdm-knowledge-base/dmp/dmp-templates/genomics/cut-and-run-cut-and-tag-sequencing.md)
+      * [🟢 Whole Genome Sequencing](core-rdm-knowledge-base/dmp/dmp-templates/genomics/whole-genome-sequencing.md)
+  * [🟢 DeiC DMP Online](https://dmp.deic.dk/)
 
 ## Research Data Management&#x20;
 
@@ -26,41 +56,11 @@
 
 ## Organizing Your Data
 
-* [🟠 File and Folder Tips](organizing-your-data/file-and-folder-tips/README.md)
-  * [🟠 Batch Renaming](organizing-your-data/file-and-folder-tips/batch-renaming.md)
-  * [🟠 File and Folder Tips I](organizing-your-data/file-and-folder-tips/file-and-folder-tips-i.md)
-  * [🟠 File and Folder Tips II](organizing-your-data/file-and-folder-tips/file-and-folder-tips-ii.md)
-  * [🟠 File and Folder Tips III](organizing-your-data/file-and-folder-tips/file-and-folder-tips-iii.md)
-  * [🟠 File and Folder Tips IV](organizing-your-data/file-and-folder-tips/file-and-folder-tips-iv.md)
-  * [🟠 README File Template](organizing-your-data/file-and-folder-tips/readme-file-template.md)
-
 ## EOSC
 
-* [🟤 European Open Science Cloud](eosc/european-open-science-cloud.md)
+* [🔴 European Open Science Cloud](eosc/european-open-science-cloud.md)
 
 ## DMP Resources
-
-* [🔴 What is a DMP?](dmp-resources/dmp/README.md)
-  * [🔴 DMP Planning](dmp-resources/dmp/dmp-planning.md)
-  * [🔴 DMP Templates](dmp-resources/dmp/dmp-templates/README.md)
-    * [🔴 UCPH DMP Template](dmp-resources/dmp/dmp-templates/ucph.md)
-    * [🔴 EU Grant Templates](dmp-resources/dmp/dmp-templates/eu-grants/README.md)
-      * [🔴 ERC DMP](dmp-resources/dmp/dmp-templates/eu-grants/erc-dmp.md)
-      * [🔴 ERC DMP](dmp-resources/dmp/dmp-templates/eu-grants/erc-dmp-1.md)
-      * [🔴 Horizon Europe DMP](dmp-resources/dmp/dmp-templates/eu-grants/horizon-europe-dmp.md)
-      * [🔴 Horizon Europe DMP](dmp-resources/dmp/dmp-templates/eu-grants/horizon-europe-dmp-1.md)
-      * [🔴 Horizon 2020 DMP](dmp-resources/dmp/dmp-templates/eu-grants/horizon-2020-dmp.md)
-      * [🔴 Horizon 2020 DMP](dmp-resources/dmp/dmp-templates/eu-grants/horizon-2020-dmp-1.md)
-      * [🔴 Marie Curie Program](dmp-resources/dmp/dmp-templates/eu-grants/marie-curie-program/README.md)
-        * [🔴 Implementation Guide for Marie Curie Fellows](dmp-resources/dmp/dmp-templates/eu-grants/marie-curie-program/implementation-guide-for-marie-curie-fellows.md)
-        * [🔴 Marie Curie Fellows Website](https://marie-sklodowska-curie-actions.ec.europa.eu/resources-0)
-    * [🔴 Genomics Templates](dmp-resources/dmp/dmp-templates/genomics/README.md)
-      * [🔴 10X scRNA Sequencing](dmp-resources/dmp/dmp-templates/genomics/10x-scrna-sequencing.md)
-      * [🔴 Bulk RNA Sequencing](dmp-resources/dmp/dmp-templates/genomics/bulk-rna-sequencing.md)
-      * [🔴 ChiPseq ATAC Sequencing](dmp-resources/dmp/dmp-templates/genomics/chipseq-atac-sequencing.md)
-      * [🔴 CUT and RUN/CUT and TAG Sequencing](dmp-resources/dmp/dmp-templates/genomics/cut-and-run-cut-and-tag-sequencing.md)
-      * [🔴 Whole Genome Sequencing](dmp-resources/dmp/dmp-templates/genomics/whole-genome-sequencing.md)
-  * [🔴 DeiC DMP Online](https://dmp.deic.dk/)
 
 ## Informational Videos
 
