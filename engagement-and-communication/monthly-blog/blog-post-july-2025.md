@@ -1,5 +1,5 @@
 ---
-description: 'Reproducibility and Open Science: Pillars for Advancing Scientific Progress'
+description: Montly Newsletter
 ---
 
 # 🟡 Newsletter - July 2025

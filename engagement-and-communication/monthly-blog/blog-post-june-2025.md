@@ -1,5 +1,5 @@
 ---
-description: 'Research Data Management at Universities: Storage Solutions'
+description: Montly Newsletter
 ---
 
 # 🟡 Newsletter - June 2025

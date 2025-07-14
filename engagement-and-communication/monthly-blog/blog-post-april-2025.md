@@ -1,7 +1,5 @@
 ---
-description: >-
-  Biomedical Research Infrastructure and the Imperative for Robust Research Data
-  Management
+description: Monthly Newsletter
 ---
 
 # 🟡 Newsletter - April 2025

@@ -1,12 +1,10 @@
 ---
-description: Leveraging Machine-Actionable DMPs for Enhanced Research Workflows
+description: Monthly Newsletter
 ---
 
 # 🟡 Newsletter - May 2025
 
-### Introduction
-
-Today's research landscape is evolving unprecedentedly, with data being pivotal in shaping scientific discovery. Effective data management becomes imperative as the volume of research data grows exponentially.
+## Leveraging Machine-Actionable DMPs for Enhanced Research Workflows
 
 **Data Management Plans (DMPs)** have long been essential tools for helping researchers plan how to handle, store, and share data throughout the research lifecycle. However, to meet the demands of an increasingly complex and interconnected research environment, there is a clear need to move beyond static, traditional DMPs toward **dynamic, integrated, and machine-actionable DMPs (maDMPs)**.
 
