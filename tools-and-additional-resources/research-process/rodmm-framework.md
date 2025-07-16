@@ -4,7 +4,7 @@ description: Research Open Data Management Matrix (RODMM Framework)
 
 # 🟣 RODMM Framework
 
-### **The Research Open Data Management Matrix**
+## **The Research Open Data Management Matrix**
 
 This matrix introduces researchers to the essential and interconnected concepts of **Open Science**, **Research Data Management (RDM)**, the **FAIR Principles**, and **Data Governance**. These concepts are often presented in isolation, leaving researchers unclear about how they relate. This matrix is designed to bridge that gap by showing their interdependencies clearly and in a structured.
 

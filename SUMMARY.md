@@ -79,10 +79,10 @@
   * [🟠 Guidance: Biomedical Repositories III](https://journals.plos.org/plosbiology/s/recommended-repositories)
   * [🟠 Guidance: Biomedical Repositories IV](analyze-and-share/biomedical-data-repositories/biomedical-data-repositories.md)
 
-## Compliance & Archive
+## Archive & Compliance
 
-* [🔴 GDPR for Researchers](compliance-and-archive/gdpr-for-researchers/README.md)
-  * [🔴 Data Protection Agency](compliance-and-archive/gdpr-for-researchers/data-protection-agency.md)
+* [🔴 GDPR for Researchers](archive-and-compliance/gdpr-for-researchers/README.md)
+  * [🔴 Data Protection Agency](archive-and-compliance/gdpr-for-researchers/data-protection-agency.md)
   * [🔴 GDPR Resouces](https://kunet.ku.dk/work-areas/research/data/personal-data/Pages/default.aspx)
   * [🔴 GDPR - Project Like Mine](https://bit.ly/GDPR_PLM)
 
@@ -90,10 +90,10 @@
 
 * [🟣 Quick Guides](tools-and-additional-resources/research-process/README.md)
   * [🟣 Open Science Pillars](tools-and-additional-resources/research-process/open-science-pillars.md)
-  * [🟣 UCPH HPC Quick Guide](tools-and-additional-resources/research-process/ucph-hpc-quick-guide.md)
   * [🟣 FAIR Principles](tools-and-additional-resources/research-process/fair-principles.md)
   * [🟣 RODMM Framework](tools-and-additional-resources/research-process/rodmm-framework.md)
   * [🟣 RDM Directory Structure](tools-and-additional-resources/research-process/file-and-folder-tips.md)
+  * [🟣 UCPH HPC Quick Guide](tools-and-additional-resources/research-process/ucph-hpc-quick-guide.md)
 * [🟣 Informational Videos](tools-and-additional-resources/seminars/README.md)
   * [🟣 eLearning RDM](https://www.deic.dk/en/RDMElearn)
   * [🟣 Horizon Europe DMP ](https://deic.dk/da/event/webinar-14062023)
