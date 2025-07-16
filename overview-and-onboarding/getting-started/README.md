@@ -4,7 +4,7 @@ description: Onboarding at reNEW
 
 # 🔵 Getting Started
 
-## 1.2  Getting Started
+## Getting Started
 
 This section serves as a comprehensive onboarding and support hub for Research Data Management (RDM) at reNEW, University of Copenhagen. It empowers new and experienced researchers to navigate institutional requirements, policies, and best practices confidently. The site is organized into clearly defined sections, offering a structured path to mastering RDM—from foundational concepts to specialized workflows—ensuring clarity and ease of use at every stage.
 

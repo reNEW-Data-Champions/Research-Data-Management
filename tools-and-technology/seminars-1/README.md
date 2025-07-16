@@ -4,7 +4,7 @@ description: Tools & Technology
 
 # 🟠 OMERO Support
 
-## 3.4 **OMERO Support**
+## **OMERO Support**
 
 This section introduces **OMERO**, the dedicated Bioimaging Data Management solution to be deployed at **reNEW in Winter 2025**. OMERO is an advanced, open-source platform specifically designed to manage, store, annotate, and share large-scale microscopy and bioimaging data. It supports structured, **FAIR-compliant** workflows by enabling secure, centralized storage of raw image files alongside rich metadata, annotations, and analysis results.
 

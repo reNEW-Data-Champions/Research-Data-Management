@@ -2,8 +2,7 @@
 
 ## Overview & Onboarding
 
-* [🔵 Introduction to Data Champions](README.md)
-  * [🔵 Data Champions at reNEW](overview-and-onboarding/introduction-to-data-champions/readme.md)
+* [🔵 Data Champions at reNEW](README.md)
 * [🔵 Getting Started](overview-and-onboarding/getting-started/README.md)
   * [🔵 Onboarding at reNEW](overview-and-onboarding/getting-started/research-planning.md)
 

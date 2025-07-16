@@ -4,7 +4,7 @@ description: Data Management Plan Resources
 
 # 🟢 DMP Resources
 
-## 2.3 **DMP Resources**
+## **DMP Resources**
 
 ## reNEW - Data Management Plans Support
 
