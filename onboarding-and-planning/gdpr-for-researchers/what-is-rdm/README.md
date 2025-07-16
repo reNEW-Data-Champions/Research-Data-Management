@@ -2,7 +2,7 @@
 description: UCPH Research Data Management Resources
 ---
 
-# 🟢 RDM Principles & Frameworks
+# 🔴 RDM Principles & Frameworks
 
 ## **RDM Principles & Frameworks**
 

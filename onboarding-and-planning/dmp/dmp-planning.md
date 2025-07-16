@@ -2,7 +2,7 @@
 description: Data Management Plan Resources
 ---
 
-# 🟢 DMP Planning
+# 🔴 DMP: Guide Sheet
 
 
 

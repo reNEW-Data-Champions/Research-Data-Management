@@ -2,7 +2,7 @@
 description: Data Management Plan Resources
 ---
 
-# 🟢 DMP Templates
+# 🔴 Templates Hub
 
 ## DMP Templates
 

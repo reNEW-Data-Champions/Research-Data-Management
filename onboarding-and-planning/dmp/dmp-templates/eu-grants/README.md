@@ -2,7 +2,7 @@
 description: Data Management Plan Resources
 ---
 
-# 🟢 EU Grant Templates
+# 🔴 EU Grant Templates
 
 ## EU Grant Templates
 
