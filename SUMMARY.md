@@ -6,6 +6,13 @@
 * [🔵 Getting Started](overview-and-welcome/getting-started/README.md)
   * [🔵 Onboarding at reNEW](overview-and-welcome/getting-started/research-planning.md)
 
+## Onboarding & Planning
+
+* [🔴 What is RDM and FAIR?](onboarding-and-planning/gdpr-for-researchers.md)
+* [🔴 GDPR - Project Like Mine](https://bit.ly/GDPR_PLM)
+* [🔴 GDPR Resouces](https://kunet.ku.dk/work-areas/research/data/personal-data/Pages/default.aspx)
+* [🔴 Data Protection Agency](onboarding-and-planning/data-protection-agency.md)
+
 ## Core RDM Knowledge Base
 
 * [🟢 Organizing Your Data](core-rdm-knowledge-base/file-and-folder-tips/README.md)
