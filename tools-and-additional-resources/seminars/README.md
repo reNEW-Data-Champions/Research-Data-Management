@@ -2,7 +2,7 @@
 description: Tools & Technology
 ---
 
-# 🟠 Informational Videos
+# 🟣 Informational Videos
 
 ## **Informational Videos**
 

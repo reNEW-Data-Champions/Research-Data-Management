@@ -23,7 +23,7 @@
     * [🔴 RDM Kit for Human Data (Elixir)](https://bit.ly/RDN-Human_Data)
     * [🔴 RDM Kit for Data Repository (Elixir)](https://rdmkit.elixir-europe.org/data_publication)
     * [🔴 RDM Kit for Documentation and Metadata (Elixir)](https://bit.ly/RDMKit-Metadata)
-* [🔴 DMP Planning](onboarding-and-planning/dmp/README.md)
+* [🔴 DMP Planning Hub](onboarding-and-planning/dmp/README.md)
   * [🔴 DMP: Guide Sheet](onboarding-and-planning/dmp/dmp-planning.md)
   * [🔴 Templates Hub](onboarding-and-planning/dmp/dmp-templates/README.md)
     * [🔴 UCPH DMP Template](onboarding-and-planning/dmp/dmp-templates/ucph.md)
@@ -41,7 +41,7 @@
 
 ## Collect and Store
 
-* [🟢 Organizing Your Data](collect-and-store/file-and-folder-tips/README.md)
+* [🟢 Organizing Your Data Hub](collect-and-store/file-and-folder-tips/README.md)
   * [🟢 Batch Renaming](collect-and-store/file-and-folder-tips/batch-renaming.md)
   * [🟢 File and Folder Tips I](collect-and-store/file-and-folder-tips/file-and-folder-tips-i.md)
   * [🟢 File and Folder Tips II](collect-and-store/file-and-folder-tips/file-and-folder-tips-ii.md)
@@ -55,34 +55,50 @@
     * [🟢 Whole Genome Sequencing](collect-and-store/file-and-folder-tips/genomics/whole-genome-sequencing.md)
   * [🟢 RDM Directory Structure](collect-and-store/file-and-folder-tips/file-and-folder-tips.md)
   * [🟢 README File Template](collect-and-store/file-and-folder-tips/readme-file-template.md)
+* [🟢 IT & HPC Workflows](collect-and-store/ucph-hpc-guide/README.md)
+  * [🟢 Archive vs. Backup](collect-and-store/ucph-hpc-guide/archive-vs.-backup.md)
+  * [🟢 UCPH Research IT](https://kunet.ku.dk/work-areas/research/Research%20Infrastructure/research-it/Pages/default.aspx)
+  * [🟢 UCPH Labguru Tools](https://bit.ly/LABGURU_1)
+  * [🟢 UCPH Research Portal](https://kunet.ku.dk/work-areas/research/Pages/default.aspx)
+  * [🟢 UCPH RDM Portal](https://kunet.ku.dk/work-areas/research/data/Pages/default.aspx)
+* [🟢 OMERO Workflows](collect-and-store/seminars/README.md)
+  * [🟢 Introduction to OMERO - Long ](https://youtu.be/nSCrMO_c-5s?si=6S4bJX1P5E2GtxHL)
+  * [🟢 Introduction to OMERO - Short](https://youtu.be/y2hnU0HrORw?si=XvO_rr-sG-qCeA51)
+  * [🟢 OMERO Basics and Navigation](https://youtu.be/e3u-Ugd4W7w?si=DB-B2Me3X2OQMPX7)
+  * [🟢  OMERO - Import of images](https://youtu.be/wnw-woX9OxI?si=fLs-Ma0L0Et95t-g)
+  * [🟢 OMERO Using OMERO.figure](https://youtu.be/YeCFaB7VAAQ?si=geIOjeWQmAgoxNE9)
+  * [🟢 Open and standardised imaging data](https://embl-ebi.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=d06b66c7-1cec-487b-9ce9-b2eb00f71b13)
 
-## Tools & Technology
+## Analyze & Share
 
-* [🟠 UCPH IT & HPC Guide](tools-and-technology/ucph-hpc-guide/README.md)
-  * [🟠 Archive vs. Backup](tools-and-technology/ucph-hpc-guide/archive-vs.-backup.md)
-  * [🟠 UCPH Research IT](https://kunet.ku.dk/work-areas/research/Research%20Infrastructure/research-it/Pages/default.aspx)
-  * [🟠 UCPH Labguru Tools](https://bit.ly/LABGURU_1)
-  * [🟠 UCPH Research Portal](https://kunet.ku.dk/work-areas/research/Pages/default.aspx)
-  * [🟠 UCPH RDM Portal](https://kunet.ku.dk/work-areas/research/data/Pages/default.aspx)
-* [🟠 Repository & Data Services](tools-and-technology/biomedical-data-repositories/README.md)
+* [🟠 Repository & Data Services](analyze-and-share/biomedical-data-repositories/README.md)
   * [🟠 DeiC DMP Online](https://dmp.deic.dk/)
-  * [🟠 European Open Science Cloud](tools-and-technology/biomedical-data-repositories/european-open-science-cloud.md)
+  * [🟠 European Open Science Cloud](analyze-and-share/biomedical-data-repositories/european-open-science-cloud.md)
   * [🟠 Guidance: Biomedical Repositories I](https://sharing.nih.gov/data-management-and-sharing-policy/sharing-scientific-data/repositories-for-sharing-scientific-data)
   * [🟠 Guidance: Biomedical Repositories II](https://www.nlm.nih.gov/NIHbmic/domain_specific_repositories.html)
   * [🟠 Guidance: Biomedical Repositories III](https://journals.plos.org/plosbiology/s/recommended-repositories)
-  * [🟠 Guidance: Biomedical Repositories IV](tools-and-technology/biomedical-data-repositories/biomedical-data-repositories.md)
-* [🟠 Informational Videos](tools-and-technology/seminars/README.md)
-  * [🟠 eLearning RDM](https://www.deic.dk/en/RDMElearn)
-  * [🟠 Horizon Europe DMP ](https://deic.dk/da/event/webinar-14062023)
-  * [🟠 Organize Your Data](https://www.youtube.com/watch?v=YslfY4W-NAg)
-* [🟠 OMERO Support](tools-and-technology/seminars-1/README.md)
-  * [🟠 Introduction to OMERO - Long ](https://youtu.be/nSCrMO_c-5s?si=6S4bJX1P5E2GtxHL)
-  * [🟠 Introduction to OMERO - Short](https://youtu.be/y2hnU0HrORw?si=XvO_rr-sG-qCeA51)
-  * [🟠 OMERO Basics and Navigation](https://youtu.be/e3u-Ugd4W7w?si=DB-B2Me3X2OQMPX7)
-  * [🟠  OMERO - Import of images](https://youtu.be/wnw-woX9OxI?si=fLs-Ma0L0Et95t-g)
-  * [🟠 OMERO Using OMERO.figure](https://youtu.be/YeCFaB7VAAQ?si=geIOjeWQmAgoxNE9)
-  * [🟠 Open and standardised imaging data](https://embl-ebi.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=d06b66c7-1cec-487b-9ce9-b2eb00f71b13)
-* [🟠 reNEW Websites](tools-and-technology/renew-websites/README.md)
+  * [🟠 Guidance: Biomedical Repositories IV](analyze-and-share/biomedical-data-repositories/biomedical-data-repositories.md)
+
+## Compliance & Archive
+
+* [🔴 GDPR for Researchers](compliance-and-archive/gdpr-for-researchers/README.md)
+  * [🔴 Data Protection Agency](compliance-and-archive/gdpr-for-researchers/data-protection-agency.md)
+  * [🔴 GDPR Resouces](https://kunet.ku.dk/work-areas/research/data/personal-data/Pages/default.aspx)
+  * [🔴 GDPR - Project Like Mine](https://bit.ly/GDPR_PLM)
+
+## Tools & Additional Resources
+
+* [🟣 Quick Guides](tools-and-additional-resources/research-process/README.md)
+  * [🟣 Open Science Pillars](tools-and-additional-resources/research-process/open-science-pillars.md)
+  * [🟣 UCPH HPC Quick Guide](tools-and-additional-resources/research-process/ucph-hpc-quick-guide.md)
+  * [🟣 FAIR Principles](tools-and-additional-resources/research-process/fair-principles.md)
+  * [🟣 RODMM Framework](tools-and-additional-resources/research-process/rodmm-framework.md)
+  * [🟣 RDM Directory Structure](tools-and-additional-resources/research-process/file-and-folder-tips.md)
+* [🟣 Informational Videos](tools-and-additional-resources/seminars/README.md)
+  * [🟣 eLearning RDM](https://www.deic.dk/en/RDMElearn)
+  * [🟣 Horizon Europe DMP ](https://deic.dk/da/event/webinar-14062023)
+  * [🟣 Organize Your Data](https://www.youtube.com/watch?v=YslfY4W-NAg)
+* [🟣 reNEW Websites](tools-and-additional-resources/renew-websites/README.md)
   * [🌎 BMI Website](https://bmi.ku.dk/english/)
   * [🌎 BMI Onboarding](https://kunet.ku.dk/faculty-and-department/bmi/about/epartment_documents/Pages/default.aspx#collapseMSOZoneCell_WebPartWPQ9)
   * [🌎 reNEW KUnet](https://kunet.ku.dk/faculty-and-department/renew/Pages/default.aspx)
@@ -93,22 +109,6 @@
   * [🌎 reNEW DanGPU](https://bit.ly/DANGPU)
   * [🌎 reNEW Flow Cy](https://kunet.ku.dk/faculty-and-department/renew/Labs%20and%20Research%20Platforms/Research%20Platforms/Flow%20Cytometry%20Platform/Pages/default.aspx)
   * [🌎 reNEW Publications](https://publication.renew-platforms.dk/)
-
-## Legal & Compliance
-
-* [🔴 GDPR for Researchers](legal-and-compliance/gdpr-for-researchers/README.md)
-  * [🔴 Data Protection Agency](legal-and-compliance/gdpr-for-researchers/data-protection-agency.md)
-  * [🔴 GDPR Resouces](https://kunet.ku.dk/work-areas/research/data/personal-data/Pages/default.aspx)
-  * [🔴 GDPR - Project Like Mine](https://bit.ly/GDPR_PLM)
-
-## Visual Aids & nfographics
-
-* [🟣 Quick Guides & Cheat-sheets](visual-aids-and-nfographics/research-process/README.md)
-  * [🟣 Open Science Pillars](visual-aids-and-nfographics/research-process/open-science-pillars.md)
-  * [🟣 UCPH HPC Quick Guide](visual-aids-and-nfographics/research-process/ucph-hpc-quick-guide.md)
-  * [🟣 FAIR Principles](visual-aids-and-nfographics/research-process/fair-principles.md)
-  * [🟣 RODMM Framework](visual-aids-and-nfographics/research-process/rodmm-framework.md)
-  * [🟣 RDM Directory Structure](visual-aids-and-nfographics/research-process/file-and-folder-tips.md)
 
 ## Engagement & Communication
 
