@@ -1,10 +1,10 @@
 # Table of contents
 
-## Overview & Onboarding
+## Overview and Welcome
 
 * [🔵 Data Champions at reNEW](README.md)
-* [🔵 Getting Started](overview-and-onboarding/getting-started/README.md)
-  * [🔵 Onboarding at reNEW](overview-and-onboarding/getting-started/research-planning.md)
+* [🔵 Getting Started](overview-and-welcome/getting-started/README.md)
+  * [🔵 Onboarding at reNEW](overview-and-welcome/getting-started/research-planning.md)
 
 ## Core RDM Knowledge Base
 
