@@ -89,10 +89,12 @@
 ## Tools & Additional Resources
 
 * [🟣 Quick Guides](tools-and-additional-resources/research-process/README.md)
-  * [🟣 Open Science Pillars](tools-and-additional-resources/research-process/open-science-pillars.md)
+  * [🟣 Bioimaging Workflows](tools-and-additional-resources/research-process/bioimaging-workflows.md)
+  * [🟣 Data Life Cycle](tools-and-additional-resources/research-process/data-life-cycle.md)
   * [🟣 FAIR Principles](tools-and-additional-resources/research-process/fair-principles.md)
-  * [🟣 RODMM Framework](tools-and-additional-resources/research-process/rodmm-framework.md)
+  * [🟣 Open Science Pillars](tools-and-additional-resources/research-process/open-science-pillars.md)
   * [🟣 RDM Directory Structure](tools-and-additional-resources/research-process/file-and-folder-tips.md)
+  * [🟣 RODMM Framework](tools-and-additional-resources/research-process/rodmm-framework.md)
   * [🟣 UCPH HPC Quick Guide](tools-and-additional-resources/research-process/ucph-hpc-quick-guide.md)
 * [🟣 Informational Videos](tools-and-additional-resources/seminars/README.md)
   * [🟣 eLearning RDM](https://www.deic.dk/en/RDMElearn)
