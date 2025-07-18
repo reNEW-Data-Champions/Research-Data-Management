@@ -1,5 +1,6 @@
 ---
 description: Data Champions at reNEW (mission, roles, goals)
+layout: landing
 ---
 
 # 🔵 Data Champions at reNEW
