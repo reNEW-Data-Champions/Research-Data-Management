@@ -9,20 +9,10 @@
 ## Onboarding & Planning
 
 * [🔴 What is RDM and FAIR?](onboarding-and-planning/gdpr-for-researchers/README.md)
-  * [🔴 RDM Principles & Frameworks](onboarding-and-planning/gdpr-for-researchers/what-is-rdm/README.md)
-    * [🔴 FAIR Principles](https://www.howtofair.dk/)
-    * [🔴 FAIR Principles - Graphic](onboarding-and-planning/gdpr-for-researchers/what-is-rdm/fair-principles.md)
-    * [🔴 RODMM Framework](onboarding-and-planning/gdpr-for-researchers/what-is-rdm/rodmm-framework.md)
-    * [🔴 Open Science - 8 Pillars](onboarding-and-planning/gdpr-for-researchers/what-is-rdm/open-science-pillars.md)
-  * [🔴 RDM Resources - Elixir](onboarding-and-planning/gdpr-for-researchers/what-is-elixir/README.md)
-    * [🔴 RDM Guide for Life Sciences](https://bit.ly/RDM_GUIDE)
-    * [🔴 RDM Kit for Life Sciences](https://bit.ly/RDM_Kit)
-    * [🔴 RDM Kit for Single-cell sequencing](https://bit.ly/rdm-scs)
-    * [🔴 RDM Kit for Bioimaging](https://rdmkit.elixir-europe.org/bioimaging_data)
-    * [🔴 RDM Kit for Bioinformatics](https://rdmkit.elixir-europe.org/structural_bioinformatics)
-    * [🔴 RDM Kit for Human Data](https://bit.ly/RDN-Human_Data)
-    * [🔴 RDM Kit for Data Repository](https://rdmkit.elixir-europe.org/data_publication)
-    * [🔴 RDM Kit for Documentation and Metadata](https://bit.ly/RDMKit-Metadata)
+  * [🔴 FAIR Principles - Graphic](onboarding-and-planning/gdpr-for-researchers/fair-principles.md)
+  * [🔴 RODMM Framework](onboarding-and-planning/gdpr-for-researchers/rodmm-framework.md)
+  * [🔴 Open Science - 8 Pillars](onboarding-and-planning/gdpr-for-researchers/open-science-pillars.md)
+  * [🔴 FAIR Principles](https://www.howtofair.dk/)
 * [🔴 DMP Planning Hub](onboarding-and-planning/dmp/README.md)
   * [🔴 DMP: Guide Sheet](onboarding-and-planning/dmp/dmp-planning.md)
   * [🔴 Templates Hub](onboarding-and-planning/dmp/dmp-templates/README.md)
@@ -34,10 +24,16 @@
       * [🔴 Horizon Europe DMP](onboarding-and-planning/dmp/dmp-templates/eu-grants/horizon-europe-dmp-1.md)
       * [🔴 Horizon 2020 DMP](onboarding-and-planning/dmp/dmp-templates/eu-grants/horizon-2020-dmp.md)
       * [🔴 Horizon 2020 DMP](onboarding-and-planning/dmp/dmp-templates/eu-grants/horizon-2020-dmp-1.md)
-
-***
-
-* [🔴 Project Planning Tips](research-process.md)
+* [🔴 Project Planning Tips](onboarding-and-planning/research-process.md)
+* [🔴 RDM Resources - Elixir](onboarding-and-planning/what-is-elixir/README.md)
+  * [🔴 RDM Guide for Life Sciences](https://bit.ly/RDM_GUIDE)
+  * [🔴 RDM Kit for Life Sciences](https://bit.ly/RDM_Kit)
+  * [🔴 RDM Kit for Single-cell sequencing](https://bit.ly/rdm-scs)
+  * [🔴 RDM Kit for Bioimaging](https://rdmkit.elixir-europe.org/bioimaging_data)
+  * [🔴 RDM Kit for Bioinformatics](https://rdmkit.elixir-europe.org/structural_bioinformatics)
+  * [🔴 RDM Kit for Human Data](https://bit.ly/RDN-Human_Data)
+  * [🔴 RDM Kit for Data Repository](https://rdmkit.elixir-europe.org/data_publication)
+  * [🔴 RDM Kit for Documentation and Metadata](https://bit.ly/RDMKit-Metadata)
 
 ## Collect and Store
 
