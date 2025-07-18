@@ -1,5 +1,5 @@
 ---
-description: Data Management Plan Resources
+description: DMP Planning Hub
 ---
 
 # 🔴 Templates Hub

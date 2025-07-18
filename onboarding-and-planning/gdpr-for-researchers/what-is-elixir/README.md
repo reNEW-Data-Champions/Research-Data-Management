@@ -2,9 +2,9 @@
 description: The RDMkit from Elixir
 ---
 
-# 🔴 RDM Support Resources
+# 🔴 RDM Resources - Elixir
 
-## **RDM Support Resources (ELIXIR Kits)**
+## **RDM Support Resources (ELIXIR)**
 
 The ELIXIR Research Data Management Kit (RDMkit) is a community-driven resource designed to help life scientists manage research data more effectively per the FAIR principles—making data **Findable, Accessible, Interoperable, and Reusable**. Covering each stage of the research data lifecycle, the RDMkit offers practical guidance, tools, and methods for researchers, data managers, and policymakers. While comprehensive, not every section will be equally relevant to all users.
 
