@@ -14,16 +14,7 @@
   * [🔴 RODMM Framework](onboarding-and-planning/gdpr-for-researchers/what-is-rdm/rodmm-framework.md)
   * [🔴 Open Science - 8 Pillars](onboarding-and-planning/gdpr-for-researchers/what-is-rdm/open-science-pillars.md)
 * [🔴 DMP Planning Hub](onboarding-and-planning/dmp/README.md)
-  * [🔴 DMP: Guide Sheet](onboarding-and-planning/dmp/dmp-planning.md)
-  * [🔴 Templates Hub](onboarding-and-planning/dmp/dmp-templates/README.md)
-    * [🔴 UCPH DMP Template](onboarding-and-planning/dmp/dmp-templates/ucph.md)
-    * [🔴 EU Grant Templates](onboarding-and-planning/dmp/dmp-templates/eu-grants/README.md)
-      * [🔴 ERC DMP](onboarding-and-planning/dmp/dmp-templates/eu-grants/erc-dmp.md)
-      * [🔴 ERC DMP](onboarding-and-planning/dmp/dmp-templates/eu-grants/erc-dmp-1.md)
-      * [🔴 Horizon Europe DMP](onboarding-and-planning/dmp/dmp-templates/eu-grants/horizon-europe-dmp.md)
-      * [🔴 Horizon Europe DMP](onboarding-and-planning/dmp/dmp-templates/eu-grants/horizon-europe-dmp-1.md)
-      * [🔴 Horizon 2020 DMP](onboarding-and-planning/dmp/dmp-templates/eu-grants/horizon-2020-dmp.md)
-      * [🔴 Horizon 2020 DMP](onboarding-and-planning/dmp/dmp-templates/eu-grants/horizon-2020-dmp-1.md)
+  * [🔴 DMP Guide Sheet](onboarding-and-planning/dmp/dmp-guide-sheet.md)
 * [🔴 Project Planning Tips](research-process.md)
 * [🔴 RDM Resources - Elixir](onboarding-and-planning/gdpr-for-researchers/what-is-elixir/README.md)
   * [🔴 RDM Guide for Life Sciences](https://bit.ly/RDM_GUIDE)
@@ -34,6 +25,15 @@
   * [🔴 RDM Kit for Human Data](https://bit.ly/RDN-Human_Data)
   * [🔴 RDM Kit for Data Repository](https://rdmkit.elixir-europe.org/data_publication)
   * [🔴 RDM Kit for Documentation and Metadata](https://bit.ly/RDMKit-Metadata)
+* [🔴 Templates Hub](onboarding-and-planning/dmp-templates/README.md)
+  * [🔴 UCPH DMP Template](onboarding-and-planning/dmp-templates/ucph.md)
+  * [🔴 EU Grant Templates](onboarding-and-planning/dmp-templates/eu-grants/README.md)
+    * [🔴 ERC DMP](onboarding-and-planning/dmp-templates/eu-grants/erc-dmp.md)
+    * [🔴 ERC DMP](onboarding-and-planning/dmp-templates/eu-grants/erc-dmp-1.md)
+    * [🔴 Horizon Europe DMP](onboarding-and-planning/dmp-templates/eu-grants/horizon-europe-dmp.md)
+    * [🔴 Horizon Europe DMP](onboarding-and-planning/dmp-templates/eu-grants/horizon-europe-dmp-1.md)
+    * [🔴 Horizon 2020 DMP](onboarding-and-planning/dmp-templates/eu-grants/horizon-2020-dmp.md)
+    * [🔴 Horizon 2020 DMP](onboarding-and-planning/dmp-templates/eu-grants/horizon-2020-dmp-1.md)
 
 ## Collect and Store
 
@@ -74,6 +74,7 @@
   * [🟠 Guidance: Biomedical Repositories II](https://www.nlm.nih.gov/NIHbmic/domain_specific_repositories.html)
   * [🟠 Guidance: Biomedical Repositories III](https://journals.plos.org/plosbiology/s/recommended-repositories)
   * [🟠 Guidance: Biomedical Repositories IV](analyze-and-share/biomedical-data-repositories/biomedical-data-repositories.md)
+* [🟠 Open Access Webinar](https://docs.google.com/presentation/d/1Z1glm6bIsMC3UFJ0fQyXRLgLmi5Q8two/edit?usp=sharing\&ouid=117065044619902942572\&rtpof=true\&sd=true)
 
 ## Archive & Compliance
 

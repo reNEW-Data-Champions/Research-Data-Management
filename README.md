@@ -1,17 +1,5 @@
 ---
 description: Data Champions at reNEW (mission, roles, goals)
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # 🔵 Data Champions at reNEW
