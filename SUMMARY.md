@@ -3,24 +3,34 @@
 ## Overview and Welcome
 
 * [🔵 Data Champions at reNEW](README.md)
-* [🔵 Getting Started](overview-and-welcome/getting-started/README.md)
-  * [🔵 Onboarding at reNEW](overview-and-welcome/getting-started/research-planning.md)
 
-***
+## Onboarding at reNEW
 
-* [🔵 Research Data Life Cycle](research-data-life-cycle.md)
+* [🟡 Getting Started](onboarding-at-renew/getting-started/README.md)
+  * [🟡 Onboarding at reNEW](onboarding-at-renew/getting-started/research-planning.md)
+  * [🟡 Research Data Life Cycle](onboarding-at-renew/getting-started/research-data-life-cycle.md)
+  * [🟡 Research Project Process](onboarding-at-renew/getting-started/research-process.md)
+  * [🟡 GDPR for Researchers](onboarding-at-renew/getting-started/gdpr-for-researchers.md)
 
-## Onboarding & Planning
+## Design & Planning
 
-* [🔴 What is RDM and FAIR?](onboarding-and-planning/gdpr-for-researchers/README.md)
-  * [🔴 FAIR Principles](onboarding-and-planning/gdpr-for-researchers/what-is-rdm/fair-principles.md)
+* [🔴 What is RDM and FAIR?](design-and-planning/gdpr-for-researchers/README.md)
+  * [🔴 FAIR Principles](design-and-planning/gdpr-for-researchers/fair-principles.md)
   * [🔴 FAIR Principles](https://www.howtofair.dk/)
-  * [🔴 RODMM Framework](onboarding-and-planning/gdpr-for-researchers/what-is-rdm/rodmm-framework.md)
-  * [🔴 Open Science - 8 Pillars](onboarding-and-planning/gdpr-for-researchers/what-is-rdm/open-science-pillars.md)
-* [🔴 DMP Planning Hub](onboarding-and-planning/dmp/README.md)
-  * [🔴 DMP Guide Sheet](onboarding-and-planning/dmp/dmp-guide-sheet.md)
-* [🔴 Project Planning Tips](research-process.md)
-* [🔴 RDM Resources - Elixir](onboarding-and-planning/gdpr-for-researchers/what-is-elixir/README.md)
+  * [🔴 RODMM Framework](design-and-planning/gdpr-for-researchers/rodmm-framework.md)
+  * [🔴 Open Science - 8 Pillars](design-and-planning/gdpr-for-researchers/open-science-pillars.md)
+* [🔴 DMP Planning Hub](design-and-planning/dmp/README.md)
+  * [🔴 DMP Guide Sheet](design-and-planning/dmp/dmp-guide-sheet.md)
+  * [🔴 Templates Hub](design-and-planning/dmp/dmp-templates/README.md)
+    * [🔴 UCPH DMP Template](design-and-planning/dmp/dmp-templates/ucph.md)
+    * [🔴 EU Grant Templates](design-and-planning/dmp/dmp-templates/eu-grants/README.md)
+      * [🔴 ERC DMP](design-and-planning/dmp/dmp-templates/eu-grants/erc-dmp.md)
+      * [🔴 ERC DMP](design-and-planning/dmp/dmp-templates/eu-grants/erc-dmp-1.md)
+      * [🔴 Horizon Europe DMP](design-and-planning/dmp/dmp-templates/eu-grants/horizon-europe-dmp.md)
+      * [🔴 Horizon Europe DMP](design-and-planning/dmp/dmp-templates/eu-grants/horizon-europe-dmp-1.md)
+      * [🔴 Horizon 2020 DMP](design-and-planning/dmp/dmp-templates/eu-grants/horizon-2020-dmp.md)
+      * [🔴 Horizon 2020 DMP](design-and-planning/dmp/dmp-templates/eu-grants/horizon-2020-dmp-1.md)
+* [🔴 RDM Resources - Elixir](design-and-planning/what-is-elixir/README.md)
   * [🔴 RDM Guide for Life Sciences](https://bit.ly/RDM_GUIDE)
   * [🔴 RDM Kit for Life Sciences](https://bit.ly/RDM_Kit)
   * [🔴 RDM Kit for Single-cell sequencing](https://bit.ly/rdm-scs)
@@ -29,39 +39,30 @@
   * [🔴 RDM Kit for Human Data](https://bit.ly/RDN-Human_Data)
   * [🔴 RDM Kit for Data Repository](https://rdmkit.elixir-europe.org/data_publication)
   * [🔴 RDM Kit for Documentation and Metadata](https://bit.ly/RDMKit-Metadata)
-* [🔴 Templates Hub](onboarding-and-planning/dmp-templates/README.md)
-  * [🔴 UCPH DMP Template](onboarding-and-planning/dmp-templates/ucph.md)
-  * [🔴 EU Grant Templates](onboarding-and-planning/dmp-templates/eu-grants/README.md)
-    * [🔴 ERC DMP](onboarding-and-planning/dmp-templates/eu-grants/erc-dmp.md)
-    * [🔴 ERC DMP](onboarding-and-planning/dmp-templates/eu-grants/erc-dmp-1.md)
-    * [🔴 Horizon Europe DMP](onboarding-and-planning/dmp-templates/eu-grants/horizon-europe-dmp.md)
-    * [🔴 Horizon Europe DMP](onboarding-and-planning/dmp-templates/eu-grants/horizon-europe-dmp-1.md)
-    * [🔴 Horizon 2020 DMP](onboarding-and-planning/dmp-templates/eu-grants/horizon-2020-dmp.md)
-    * [🔴 Horizon 2020 DMP](onboarding-and-planning/dmp-templates/eu-grants/horizon-2020-dmp-1.md)
 
-## Collect and Store
+## Collect & Create
 
-* [🟢 Organizing Your Data Hub](collect-and-store/file-and-folder-tips/README.md)
-  * [🟢 Batch Renaming](collect-and-store/file-and-folder-tips/batch-renaming.md)
-  * [🟢 File and Folder Tips I](collect-and-store/file-and-folder-tips/file-and-folder-tips-i.md)
-  * [🟢 File and Folder Tips II](collect-and-store/file-and-folder-tips/file-and-folder-tips-ii.md)
-  * [🟢 File and Folder Tips III](collect-and-store/file-and-folder-tips/file-and-folder-tips-iii.md)
-  * [🟢 File and Folder Tips IV](collect-and-store/file-and-folder-tips/file-and-folder-tips-iv.md)
-  * [🟢 Genomics Templates](collect-and-store/file-and-folder-tips/genomics/README.md)
-    * [🟢 10X scRNA Sequencing](collect-and-store/file-and-folder-tips/genomics/10x-scrna-sequencing.md)
-    * [🟢 Bulk RNA Sequencing](collect-and-store/file-and-folder-tips/genomics/bulk-rna-sequencing.md)
-    * [🟢 ChiPseq ATAC Sequencing](collect-and-store/file-and-folder-tips/genomics/chipseq-atac-sequencing.md)
-    * [🟢 CUT and RUN/CUT and TAG Sequencing](collect-and-store/file-and-folder-tips/genomics/cut-and-run-cut-and-tag-sequencing.md)
-    * [🟢 Whole Genome Sequencing](collect-and-store/file-and-folder-tips/genomics/whole-genome-sequencing.md)
-  * [🟢 RDM Directory Structure](collect-and-store/file-and-folder-tips/file-and-folder-tips.md)
-  * [🟢 README File Template](collect-and-store/file-and-folder-tips/readme-file-template.md)
-* [🟢 IT & HPC Workflows](collect-and-store/ucph-hpc-guide/README.md)
-  * [🟢 Archive vs. Backup](collect-and-store/ucph-hpc-guide/archive-vs.-backup.md)
+* [🟢 Organize Your Data Hub](collect-and-create/file-and-folder-tips/README.md)
+  * [🟢 Batch Renaming](collect-and-create/file-and-folder-tips/batch-renaming.md)
+  * [🟢 File and Folder Tips I](collect-and-create/file-and-folder-tips/file-and-folder-tips-i.md)
+  * [🟢 File and Folder Tips II](collect-and-create/file-and-folder-tips/file-and-folder-tips-ii.md)
+  * [🟢 File and Folder Tips III](collect-and-create/file-and-folder-tips/file-and-folder-tips-iii.md)
+  * [🟢 File and Folder Tips IV](collect-and-create/file-and-folder-tips/file-and-folder-tips-iv.md)
+  * [🟢 Genomics Templates](collect-and-create/file-and-folder-tips/genomics/README.md)
+    * [🟢 10X scRNA Sequencing](collect-and-create/file-and-folder-tips/genomics/10x-scrna-sequencing.md)
+    * [🟢 Bulk RNA Sequencing](collect-and-create/file-and-folder-tips/genomics/bulk-rna-sequencing.md)
+    * [🟢 ChiPseq ATAC Sequencing](collect-and-create/file-and-folder-tips/genomics/chipseq-atac-sequencing.md)
+    * [🟢 CUT and RUN/CUT and TAG Sequencing](collect-and-create/file-and-folder-tips/genomics/cut-and-run-cut-and-tag-sequencing.md)
+    * [🟢 Whole Genome Sequencing](collect-and-create/file-and-folder-tips/genomics/whole-genome-sequencing.md)
+  * [🟢 RDM Directory Structure](collect-and-create/file-and-folder-tips/file-and-folder-tips.md)
+  * [🟢 README File Template](collect-and-create/file-and-folder-tips/readme-file-template.md)
+* [🟢 IT & HPC Workflows](collect-and-create/ucph-hpc-guide/README.md)
+  * [🟢 Archive vs. Backup](collect-and-create/ucph-hpc-guide/archive-vs.-backup.md)
   * [🟢 UCPH Research IT](https://kunet.ku.dk/work-areas/research/Research%20Infrastructure/research-it/Pages/default.aspx)
   * [🟢 UCPH Labguru Tools](https://bit.ly/LABGURU_1)
   * [🟢 UCPH Research Portal](https://kunet.ku.dk/work-areas/research/Pages/default.aspx)
   * [🟢 UCPH RDM Portal](https://kunet.ku.dk/work-areas/research/data/Pages/default.aspx)
-* [🟢 OMERO Workflows](collect-and-store/seminars/README.md)
+* [🟢 OMERO Workflows](collect-and-create/seminars/README.md)
   * [🟢 Introduction to OMERO - Long ](https://youtu.be/nSCrMO_c-5s?si=6S4bJX1P5E2GtxHL)
   * [🟢 Introduction to OMERO - Short](https://youtu.be/y2hnU0HrORw?si=XvO_rr-sG-qCeA51)
   * [🟢 OMERO Basics and Navigation](https://youtu.be/e3u-Ugd4W7w?si=DB-B2Me3X2OQMPX7)
@@ -69,23 +70,31 @@
   * [🟢 OMERO Using OMERO.figure](https://youtu.be/YeCFaB7VAAQ?si=geIOjeWQmAgoxNE9)
   * [🟢 Open and standardised imaging data](https://embl-ebi.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=d06b66c7-1cec-487b-9ce9-b2eb00f71b13)
 
-## Analyze & Share
+## Analyze & Collaborate
 
-* [🟠 Repository & Data Services](analyze-and-share/biomedical-data-repositories/README.md)
+* [🟤 Data Storage & Collaboration](analyze-and-collaborate/data-storage-and-collaboration.md)
+
+## Evaluate & Archive
+
+* [🔴 GDPR for Researchers](evaluate-and-archive/gdpr-for-researchers/README.md)
+  * [🔴 Data Protection Agency](evaluate-and-archive/gdpr-for-researchers/data-protection-agency.md)
+  * [🔴 GDPR Resouces](https://kunet.ku.dk/work-areas/research/data/personal-data/Pages/default.aspx)
+  * [🔴 GDPR - Project Like Mine](https://bit.ly/GDPR_PLM)
+
+## Share & Publish
+
+* [🔴 GDPR for Researchers](share-and-publish/gdpr-for-researchers/README.md)
+  * [🔴 Data Protection Agency](share-and-publish/gdpr-for-researchers/data-protection-agency.md)
+  * [🔴 GDPR Resouces](https://kunet.ku.dk/work-areas/research/data/personal-data/Pages/default.aspx)
+  * [🔴 GDPR - Project Like Mine](https://bit.ly/GDPR_PLM)
+* [🟠 Open Access Webinar](https://docs.google.com/presentation/d/1Z1glm6bIsMC3UFJ0fQyXRLgLmi5Q8two/edit?usp=sharing\&ouid=117065044619902942572\&rtpof=true\&sd=true)
+* [🟠 Repository & Data Services](share-and-publish/biomedical-data-repositories/README.md)
   * [🟠 DeiC DMP Online](https://dmp.deic.dk/)
-  * [🟠 European Open Science Cloud](analyze-and-share/biomedical-data-repositories/european-open-science-cloud.md)
+  * [🟠 European Open Science Cloud](share-and-publish/biomedical-data-repositories/european-open-science-cloud.md)
   * [🟠 Guidance: Biomedical Repositories I](https://sharing.nih.gov/data-management-and-sharing-policy/sharing-scientific-data/repositories-for-sharing-scientific-data)
   * [🟠 Guidance: Biomedical Repositories II](https://www.nlm.nih.gov/NIHbmic/domain_specific_repositories.html)
   * [🟠 Guidance: Biomedical Repositories III](https://journals.plos.org/plosbiology/s/recommended-repositories)
-  * [🟠 Guidance: Biomedical Repositories IV](analyze-and-share/biomedical-data-repositories/biomedical-data-repositories.md)
-* [🟠 Open Access Webinar](https://docs.google.com/presentation/d/1Z1glm6bIsMC3UFJ0fQyXRLgLmi5Q8two/edit?usp=sharing\&ouid=117065044619902942572\&rtpof=true\&sd=true)
-
-## Archive & Compliance
-
-* [🔴 GDPR for Researchers](archive-and-compliance/gdpr-for-researchers/README.md)
-  * [🔴 Data Protection Agency](archive-and-compliance/gdpr-for-researchers/data-protection-agency.md)
-  * [🔴 GDPR Resouces](https://kunet.ku.dk/work-areas/research/data/personal-data/Pages/default.aspx)
-  * [🔴 GDPR - Project Like Mine](https://bit.ly/GDPR_PLM)
+  * [🟠 Guidance: Biomedical Repositories IV](share-and-publish/biomedical-data-repositories/biomedical-data-repositories.md)
 
 ## Tools & Additional Resources
 

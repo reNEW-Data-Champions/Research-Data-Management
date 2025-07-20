@@ -2,7 +2,7 @@
 description: Onboarding at reNEW
 ---
 
-# 🔵 Getting Started
+# 🟡 Getting Started
 
 ## Getting Started
 
