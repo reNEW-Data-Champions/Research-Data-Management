@@ -6,6 +6,10 @@
 * [🔵 Getting Started](overview-and-welcome/getting-started/README.md)
   * [🔵 Onboarding at reNEW](overview-and-welcome/getting-started/research-planning.md)
 
+***
+
+* [🔵 Research Data Life Cycle](research-data-life-cycle.md)
+
 ## Onboarding & Planning
 
 * [🔴 What is RDM and FAIR?](onboarding-and-planning/gdpr-for-researchers/README.md)
@@ -87,14 +91,15 @@
 
 * [🟣 Quick Guides](tools-and-additional-resources/research-process/README.md)
   * [🟣 Bioimaging Workflows](tools-and-additional-resources/research-process/bioimaging-workflows.md)
-  * [🟣 Data Life Cycle](tools-and-additional-resources/research-process/data-life-cycle.md)
   * [🟣 FAIR Principles](tools-and-additional-resources/research-process/fair-principles.md)
   * [🟣 Open Science Pillars](tools-and-additional-resources/research-process/open-science-pillars.md)
   * [🟣 RDM Directory Structure](tools-and-additional-resources/research-process/file-and-folder-tips.md)
   * [🟣 RODMM Framework](tools-and-additional-resources/research-process/rodmm-framework.md)
   * [🟣 UCPH HPC Quick Guide](tools-and-additional-resources/research-process/ucph-hpc-quick-guide.md)
-* [🟣 Informational Videos](tools-and-additional-resources/seminars/README.md)
-  * [🟣 eLearning RDM](https://www.deic.dk/en/RDMElearn)
+* [🟣 eLearning RDM Videos](tools-and-additional-resources/seminars/README.md)
+  * [🟣 Module 1](https://www.youtube.com/watch?v=wK4o7iliJHQ)
+  * [🟣 Module 2](https://www.youtube.com/watch?v=OvEHYCSmzCA)
+  * [🟣 Module 3](https://youtu.be/tvs5_X5rn8w)
   * [🟣 Horizon Europe DMP ](https://deic.dk/da/event/webinar-14062023)
   * [🟣 Organize Your Data](https://www.youtube.com/watch?v=YslfY4W-NAg)
 * [🟣 reNEW Websites](tools-and-additional-resources/renew-websites/README.md)
