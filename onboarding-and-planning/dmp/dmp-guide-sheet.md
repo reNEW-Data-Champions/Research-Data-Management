@@ -9,9 +9,9 @@ The research data lifecycle is a framework that illustrates the different stages
 
 This lifecycle model breaks down each project phase concerning data, from planning and design, collection and analysis, storage, sharing, and eventual reuse. At its core lies the "Store & Manage" stage, which ensures data integrity, security, and accessibility throughout the project. While the lifecycle is often presented as a linear sequence—from "Plan & Design" to "Access & Reuse"—in practice, researchers frequently move between these stages in a non-linear, iterative manner as their project evolves and new needs arise.
 
-## **Plan and Design Stage**
+## &#x20;                                       **Plan and Design Stage**
 
-<div data-full-width="true"><figure><img src="../../.gitbook/assets/1.png" alt=""><figcaption></figcaption></figure></div>
+<div align="center" data-full-width="true"><figure><img src="../../.gitbook/assets/1.png" alt=""><figcaption></figcaption></figure></div>
 
 A Data Management Plan (DMP) is vital for research projects. It is a comprehensive document outlining data handling, security, and sharing throughout and beyond the project. As funding entities and research institutions increasingly demand DMPs, their formality varies from informal internal documents to formal submissions for funding agencies.
 
@@ -52,7 +52,7 @@ For more insight into the questions you should ask and answer, check out the [Da
 * [Research and Sharing Data Guide](https://bit.ly/3O1Il7W)
 * [Protecting Data for Long-Term Use](https://bit.ly/3QoE6Vs)
 
-**The University of Copenhagen Guides for writing DMP**
+**The University of Copenhagen Guide for writing DMP**
 
 * [UCPH Policy on Data Management Planning](https://kunet.ku.dk/work-areas/research/data/Documents/UCPHPolicyforResearchDataManagement2022-EN.pdf)
 * [Guidelines on how to fill out a Data Management Plan (DMP)](https://kunet.ku.dk/work-areas/research/data/data-management-plans/Pages/default.aspx)
