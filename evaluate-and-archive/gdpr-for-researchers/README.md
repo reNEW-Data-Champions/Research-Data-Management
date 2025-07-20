@@ -2,7 +2,7 @@
 description: GDPR for Researchers
 ---
 
-# 🔴 GDPR for Researchers
+# ⚪ GDPR for Researchers
 
 ## **GDPR for Researchers**
 

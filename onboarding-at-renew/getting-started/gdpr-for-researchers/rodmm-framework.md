@@ -2,7 +2,7 @@
 description: Research Open Data Management Matrix (RODMM Framework)
 ---
 
-# 🔴 RODMM Framework
+# 🟡 RODMM Framework
 
 ### **The Research Open Data Management Matrix**
 

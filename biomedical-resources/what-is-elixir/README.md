@@ -2,7 +2,7 @@
 description: The RDMkit from Elixir
 ---
 
-# 🔴 RDM Resources - Elixir
+# 🔵 RDM Resources - Elixir
 
 ## **RDM Support Resources (ELIXIR)**
 

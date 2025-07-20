@@ -8,37 +8,31 @@
 
 * [🟡 Getting Started](onboarding-at-renew/getting-started/README.md)
   * [🟡 Onboarding at reNEW](onboarding-at-renew/getting-started/research-planning.md)
+  * [🟡 RDM, FAIR & Open Science](onboarding-at-renew/getting-started/gdpr-for-researchers/README.md)
+    * [🟡 FAIR Principles](onboarding-at-renew/getting-started/gdpr-for-researchers/fair-principles.md)
+    * [🟡 FAIR Principles](https://www.howtofair.dk/)
+    * [🟡 RODMM Framework](onboarding-at-renew/getting-started/gdpr-for-researchers/rodmm-framework.md)
+    * [🟡 Open Science - 8 Pillars](onboarding-at-renew/getting-started/gdpr-for-researchers/open-science-pillars.md)
   * [🟡 Research Data Life Cycle](onboarding-at-renew/getting-started/research-data-life-cycle.md)
   * [🟡 Research Project Process](onboarding-at-renew/getting-started/research-process.md)
-  * [🟡 GDPR for Researchers](onboarding-at-renew/getting-started/gdpr-for-researchers.md)
 
 ## Design & Planning
 
-* [🔴 What is RDM and FAIR?](design-and-planning/gdpr-for-researchers/README.md)
-  * [🔴 FAIR Principles](design-and-planning/gdpr-for-researchers/fair-principles.md)
-  * [🔴 FAIR Principles](https://www.howtofair.dk/)
-  * [🔴 RODMM Framework](design-and-planning/gdpr-for-researchers/rodmm-framework.md)
-  * [🔴 Open Science - 8 Pillars](design-and-planning/gdpr-for-researchers/open-science-pillars.md)
 * [🔴 DMP Planning Hub](design-and-planning/dmp/README.md)
   * [🔴 DMP Guide Sheet](design-and-planning/dmp/dmp-guide-sheet.md)
-  * [🔴 Templates Hub](design-and-planning/dmp/dmp-templates/README.md)
-    * [🔴 UCPH DMP Template](design-and-planning/dmp/dmp-templates/ucph.md)
-    * [🔴 EU Grant Templates](design-and-planning/dmp/dmp-templates/eu-grants/README.md)
-      * [🔴 ERC DMP](design-and-planning/dmp/dmp-templates/eu-grants/erc-dmp.md)
-      * [🔴 ERC DMP](design-and-planning/dmp/dmp-templates/eu-grants/erc-dmp-1.md)
-      * [🔴 Horizon Europe DMP](design-and-planning/dmp/dmp-templates/eu-grants/horizon-europe-dmp.md)
-      * [🔴 Horizon Europe DMP](design-and-planning/dmp/dmp-templates/eu-grants/horizon-europe-dmp-1.md)
-      * [🔴 Horizon 2020 DMP](design-and-planning/dmp/dmp-templates/eu-grants/horizon-2020-dmp.md)
-      * [🔴 Horizon 2020 DMP](design-and-planning/dmp/dmp-templates/eu-grants/horizon-2020-dmp-1.md)
-* [🔴 RDM Resources - Elixir](design-and-planning/what-is-elixir/README.md)
-  * [🔴 RDM Guide for Life Sciences](https://bit.ly/RDM_GUIDE)
-  * [🔴 RDM Kit for Life Sciences](https://bit.ly/RDM_Kit)
-  * [🔴 RDM Kit for Single-cell sequencing](https://bit.ly/rdm-scs)
-  * [🔴 RDM Kit for Bioimaging](https://rdmkit.elixir-europe.org/bioimaging_data)
-  * [🔴 RDM Kit for Bioinformatics](https://rdmkit.elixir-europe.org/structural_bioinformatics)
-  * [🔴 RDM Kit for Human Data](https://bit.ly/RDN-Human_Data)
-  * [🔴 RDM Kit for Data Repository](https://rdmkit.elixir-europe.org/data_publication)
-  * [🔴 RDM Kit for Documentation and Metadata](https://bit.ly/RDMKit-Metadata)
+* [🔴 Templates Hub](design-and-planning/dmp-templates/README.md)
+  * [🔴 UCPH DMP Template](design-and-planning/dmp-templates/ucph.md)
+  * [🔴 EU Grant Templates](design-and-planning/dmp-templates/eu-grants/README.md)
+    * [🔴 ERC DMP](design-and-planning/dmp-templates/eu-grants/erc-dmp.md)
+    * [🔴 ERC DMP](design-and-planning/dmp-templates/eu-grants/erc-dmp-1.md)
+    * [🔴 Horizon Europe DMP](design-and-planning/dmp-templates/eu-grants/horizon-europe-dmp.md)
+    * [🔴 Horizon Europe DMP](design-and-planning/dmp-templates/eu-grants/horizon-europe-dmp-1.md)
+    * [🔴 Horizon 2020 DMP](design-and-planning/dmp-templates/eu-grants/horizon-2020-dmp.md)
+    * [🔴 Horizon 2020 DMP](design-and-planning/dmp-templates/eu-grants/horizon-2020-dmp-1.md)
+* [🔴 GDPR for Researchers](design-and-planning/gdpr-for-researchers/README.md)
+  * [🔴 Data Protection Agency](design-and-planning/gdpr-for-researchers/data-protection-agency.md)
+  * [🔴 GDPR Resouces](https://kunet.ku.dk/work-areas/research/data/personal-data/Pages/default.aspx)
+  * [🔴 GDPR - Project Like Mine](https://bit.ly/GDPR_PLM)
 
 ## Collect & Create
 
@@ -76,17 +70,13 @@
 
 ## Evaluate & Archive
 
-* [🔴 GDPR for Researchers](evaluate-and-archive/gdpr-for-researchers/README.md)
-  * [🔴 Data Protection Agency](evaluate-and-archive/gdpr-for-researchers/data-protection-agency.md)
-  * [🔴 GDPR Resouces](https://kunet.ku.dk/work-areas/research/data/personal-data/Pages/default.aspx)
-  * [🔴 GDPR - Project Like Mine](https://bit.ly/GDPR_PLM)
+* [⚪ GDPR for Researchers](evaluate-and-archive/gdpr-for-researchers/README.md)
+  * [⚪ Data Protection Agency](evaluate-and-archive/gdpr-for-researchers/data-protection-agency.md)
+  * [⚪ GDPR Resouces](https://kunet.ku.dk/work-areas/research/data/personal-data/Pages/default.aspx)
+  * [⚪ GDPR - Project Like Mine](https://bit.ly/GDPR_PLM)
 
 ## Share & Publish
 
-* [🔴 GDPR for Researchers](share-and-publish/gdpr-for-researchers/README.md)
-  * [🔴 Data Protection Agency](share-and-publish/gdpr-for-researchers/data-protection-agency.md)
-  * [🔴 GDPR Resouces](https://kunet.ku.dk/work-areas/research/data/personal-data/Pages/default.aspx)
-  * [🔴 GDPR - Project Like Mine](https://bit.ly/GDPR_PLM)
 * [🟠 Open Access Webinar](https://docs.google.com/presentation/d/1Z1glm6bIsMC3UFJ0fQyXRLgLmi5Q8two/edit?usp=sharing\&ouid=117065044619902942572\&rtpof=true\&sd=true)
 * [🟠 Repository & Data Services](share-and-publish/biomedical-data-repositories/README.md)
   * [🟠 DeiC DMP Online](https://dmp.deic.dk/)
@@ -95,6 +85,18 @@
   * [🟠 Guidance: Biomedical Repositories II](https://www.nlm.nih.gov/NIHbmic/domain_specific_repositories.html)
   * [🟠 Guidance: Biomedical Repositories III](https://journals.plos.org/plosbiology/s/recommended-repositories)
   * [🟠 Guidance: Biomedical Repositories IV](share-and-publish/biomedical-data-repositories/biomedical-data-repositories.md)
+
+## Biomedical resources
+
+* [🔵 RDM Resources - Elixir](biomedical-resources/what-is-elixir/README.md)
+  * [🔵 RDM Guide for Life Sciences](https://bit.ly/RDM_GUIDE)
+  * [🔵 RDM Kit for Life Sciences](https://bit.ly/RDM_Kit)
+  * [🔵 RDM Kit for Single-cell sequencing](https://bit.ly/rdm-scs)
+  * [🔵 RDM Kit for Bioimaging](https://rdmkit.elixir-europe.org/bioimaging_data)
+  * [🔵 RDM Kit for Bioinformatics](https://rdmkit.elixir-europe.org/structural_bioinformatics)
+  * [🔵 RDM Kit for Human Data](https://bit.ly/RDN-Human_Data)
+  * [🔵 RDM Kit for Data Repository](https://rdmkit.elixir-europe.org/data_publication)
+  * [🔵 RDM Kit for Documentation and Metadata](https://bit.ly/RDMKit-Metadata)
 
 ## Tools & Additional Resources
 
