@@ -8,17 +8,18 @@
 
 * [🟡 Getting Started](onboarding-at-renew/getting-started/README.md)
   * [🟡 Onboarding at reNEW](onboarding-at-renew/getting-started/research-planning.md)
-  * [🟡 RDM, FAIR & Open Science](onboarding-at-renew/getting-started/gdpr-for-researchers/README.md)
-    * [🟡 FAIR Principles](onboarding-at-renew/getting-started/gdpr-for-researchers/fair-principles.md)
+  * [🟡 Research Data Life Cycle: Guidance  & Checklist](onboarding-at-renew/getting-started/research-planning-1.md)
+  * [🟡 RDM Hub](onboarding-at-renew/getting-started/rdm-hub/README.md)
+    * [🟡 FAIR Principles](onboarding-at-renew/getting-started/rdm-hub/fair-principles.md)
     * [🟡 FAIR Principles](https://www.howtofair.dk/)
-    * [🟡 RODMM Framework](onboarding-at-renew/getting-started/gdpr-for-researchers/rodmm-framework.md)
-    * [🟡 Open Science - 8 Pillars](onboarding-at-renew/getting-started/gdpr-for-researchers/open-science-pillars.md)
+    * [🟡 RODMM Framework](onboarding-at-renew/getting-started/rdm-hub/rodmm-framework.md)
+    * [🟡 Open Science - 8 Pillars](onboarding-at-renew/getting-started/rdm-hub/open-science-pillars.md)
   * [🟡 Research Data Life Cycle](onboarding-at-renew/getting-started/research-data-life-cycle.md)
   * [🟡 Research Project Process](onboarding-at-renew/getting-started/research-process.md)
 
 ## Design & Planning
 
-* [🔴 DMP Planning Hub](design-and-planning/dmp/README.md)
+* [🔴 DMP  Hub](design-and-planning/dmp/README.md)
   * [🔴 DMP Guide Sheet](design-and-planning/dmp/dmp-guide-sheet.md)
 * [🔴 Templates Hub](design-and-planning/dmp-templates/README.md)
   * [🔴 UCPH DMP Template](design-and-planning/dmp-templates/ucph.md)

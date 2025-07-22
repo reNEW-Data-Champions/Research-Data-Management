@@ -6,7 +6,7 @@ description: Data Storage, Collaboration, and HPC Resources at reNEW, UCPH
 
 <div align="left"><figure><img src="../.gitbook/assets/1 (1).jpeg" alt=""><figcaption></figcaption></figure></div>
 
-## **Data Storage, Collaboration, and HPC Resources at UCPH** <a href="#qkgro3bbmczl" id="qkgro3bbmczl"></a>
+### **Data Storage, Collaboration, and HPC Resources at UCPH** <a href="#qkgro3bbmczl" id="qkgro3bbmczl"></a>
 
 ### **Introduction** <a href="#qqgtgcfy7mzs" id="qqgtgcfy7mzs"></a>
 
