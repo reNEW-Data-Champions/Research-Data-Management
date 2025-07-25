@@ -6,7 +6,7 @@ description: Research Open Data Management Matrix (RODMM Framework)
 
 ### **The Research Open Data Management Matrix**
 
-This matrix aims to introduce researchers to the essential and interconnected concepts of **Open Science**, **Research Data Management (RDM)**, the **FAIR Principles**, and **Data Governance**. These concepts are often presented in isolation, leaving researchers unclear about how they relate. This matrix is designed to bridge that gap by showing their interdependencies clearly and in a structured.
+This matrix introduces researchers to the essential and interconnected concepts of **Open Science**, **Research Data Management (RDM)**, the **FAIR Principles**, and **Data Governance**. These concepts are often presented in isolation, leaving researchers unclear about how they relate. This matrix is designed to bridge that gap by showing their interdependencies clearly and in a structured.
 
 The **Research Open Data Management Matrix** is a comprehensive framework that supports effective data management across the entire research data lifecycle, fully aligned with **Open Science** and **FAIR** (Findable, Accessible, Interoperable, and Reusable) principles.
 
@@ -18,6 +18,6 @@ The **Research Open Data Management Matrix** is essential for researchers and da
 
 
 
-<div data-full-width="true"><figure><img src="../../../.gitbook/assets/Designrff-1.jpg" alt=""><figcaption><p>Research Open Data Management Matrix (RODMM)</p></figcaption></figure></div>
+<div align="center" data-full-width="false"><figure><img src="../../../.gitbook/assets/Designrff-1.jpg" alt=""><figcaption><p>Research Open Data Management Matrix (RODMM)</p></figcaption></figure></div>
 
-<div data-full-width="true"><figure><img src="../../../.gitbook/assets/Designrff-2.jpg" alt=""><figcaption><p>Research Open Data Management Matrix (RODMM)</p></figcaption></figure></div>
+<div align="center" data-full-width="false"><figure><img src="../../../.gitbook/assets/Designrff-2.jpg" alt=""><figcaption><p>Research Open Data Management Matrix (RODMM)</p></figcaption></figure></div>

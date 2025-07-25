@@ -10,4 +10,4 @@ This section serves as a comprehensive onboarding and support hub for Research D
 
 Importantly, curated biomedical resources specific to reNEW—such as sequencing templates, platform guides, and research group portals—are included to support your domain-specific work. These resources are complemented by the UCPH Research Portal, which remains the official institutional gateway for RDM tools, policies, and infrastructure, ensuring that you always reference trusted and authoritative information.
 
-\
+If you need personalized assistance with developing your DMP or any aspect of research data management, don't hesitate to contact <mark style="color:red;">**Richard Dennis**</mark>. On-site consultations are available every Wednesday from 2:00 PM to 3:00 PM or by appointment.\

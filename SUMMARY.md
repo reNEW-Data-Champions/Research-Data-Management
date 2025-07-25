@@ -8,14 +8,14 @@
 
 * [🟡 Getting Started](onboarding-at-renew/getting-started/README.md)
   * [🟡 Onboarding at reNEW](onboarding-at-renew/getting-started/research-planning.md)
-  * [🟡 Research Data Life Cycle: Guidance  & Checklist](onboarding-at-renew/getting-started/research-planning-1.md)
   * [🟡 RDM Hub](onboarding-at-renew/getting-started/rdm-hub/README.md)
+    * [🟡 Data Life Cycle: Guidance  & Checklist](onboarding-at-renew/getting-started/rdm-hub/research-planning.md)
     * [🟡 FAIR Principles](onboarding-at-renew/getting-started/rdm-hub/fair-principles.md)
     * [🟡 FAIR Principles](https://www.howtofair.dk/)
-    * [🟡 RODMM Framework](onboarding-at-renew/getting-started/rdm-hub/rodmm-framework.md)
     * [🟡 Open Science - 8 Pillars](onboarding-at-renew/getting-started/rdm-hub/open-science-pillars.md)
-  * [🟡 Research Data Life Cycle](onboarding-at-renew/getting-started/research-data-life-cycle.md)
-  * [🟡 Research Project Process](onboarding-at-renew/getting-started/research-process.md)
+    * [🟡 Research Data Life Cycle](onboarding-at-renew/getting-started/rdm-hub/research-data-life-cycle.md)
+    * [🟡 Research Project Process](onboarding-at-renew/getting-started/rdm-hub/research-process.md)
+    * [🟡 RODMM Framework](onboarding-at-renew/getting-started/rdm-hub/rodmm-framework.md)
 
 ## Design & Planning
 
