@@ -71,13 +71,14 @@
 
 ## Evaluate & Archive
 
-* [⚪ GDPR for Researchers](evaluate-and-archive/gdpr-for-researchers/README.md)
-  * [⚪ Data Protection Agency](evaluate-and-archive/gdpr-for-researchers/data-protection-agency.md)
-  * [⚪ GDPR Resouces](https://kunet.ku.dk/work-areas/research/data/personal-data/Pages/default.aspx)
-  * [⚪ GDPR - Project Like Mine](https://bit.ly/GDPR_PLM)
+* [Evaluate & Archive Stage](evaluate-and-archive/evaluate-and-archive-stage.md)
+* [⚪ IT Support Hub](evaluate-and-archive/ucph-hpc-guide/README.md)
+  * [⚪ Archive vs. Backup](evaluate-and-archive/ucph-hpc-guide/archive-vs.-backup.md)
+  * [⚪ UCPH Research IT](https://kunet.ku.dk/work-areas/research/Research%20Infrastructure/research-it/Pages/default.aspx)
 
 ## Share & Publish
 
+* [Share & Publish Stage](share-and-publish/share-and-publish-stage.md)
 * [🟠 Open Access Webinar](https://docs.google.com/presentation/d/1Z1glm6bIsMC3UFJ0fQyXRLgLmi5Q8two/edit?usp=sharing\&ouid=117065044619902942572\&rtpof=true\&sd=true)
 * [🟠 Repository &  Services](share-and-publish/biomedical-data-repositories/README.md)
   * [🟠 European Open Science Cloud](share-and-publish/biomedical-data-repositories/european-open-science-cloud.md)
