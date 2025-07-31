@@ -21,6 +21,7 @@
 
 ## Plan & Design
 
+* [Plan & Design Stage](plan-and-design/plan-and-design-stage.md)
 * [🔴 DMP  Hub](plan-and-design/dmp/README.md)
   * [🔴 DMP Guide Sheet](plan-and-design/dmp/dmp-guide-sheet.md)
   * [🔴 DeiC DMP Online](https://dmp.deic.dk/)
@@ -39,13 +40,10 @@
       * [🔴 ChiPseq ATAC Sequencing](plan-and-design/dmp/dmp-templates/genomics/chipseq-atac-sequencing.md)
       * [🔴 CUT and RUN/CUT and TAG Sequencing](plan-and-design/dmp/dmp-templates/genomics/cut-and-run-cut-and-tag-sequencing.md)
       * [🔴 Whole Genome Sequencing](plan-and-design/dmp/dmp-templates/genomics/whole-genome-sequencing.md)
-* [🔴 Compliance Hub](plan-and-design/gdpr-for-researchers/README.md)
-  * [🔴 Data Protection Agency](plan-and-design/gdpr-for-researchers/data-protection-agency.md)
-  * [🔴 GDPR Resouces](https://kunet.ku.dk/work-areas/research/data/personal-data/Pages/default.aspx)
-  * [🔴 GDPR - Project Like Mine](https://bit.ly/GDPR_PLM)
 
 ## Collect & Create
 
+* [Collect & Create Stage](collect-and-create/collect-and-create-stage.md)
 * [🟢 Organizing Data Hub](collect-and-create/file-and-folder-tips/README.md)
   * [🟢 Batch Renaming](collect-and-create/file-and-folder-tips/batch-renaming.md)
   * [🟢 File and Folder  Structure Tips](collect-and-create/file-and-folder-tips/file-and-folder-tips-i.md)
@@ -64,7 +62,12 @@
 
 ## Analyze & Collaborate
 
+* [Analyze & Collaborate Stage](analyze-and-collaborate/analyze-and-collaborate-stage.md)
 * [🟤 Data Storage & Collaboration](analyze-and-collaborate/data-storage-and-collaboration.md)
+* [🟤 Compliance Hub](analyze-and-collaborate/gdpr-for-researchers/README.md)
+  * [🟤 Data Protection Agency](analyze-and-collaborate/gdpr-for-researchers/data-protection-agency.md)
+  * [🟤 GDPR Resouces](https://kunet.ku.dk/work-areas/research/data/personal-data/Pages/default.aspx)
+  * [🟤 GDPR - Project Like Mine](https://bit.ly/GDPR_PLM)
 
 ## Evaluate & Archive
 
@@ -106,12 +109,17 @@
 * [🟣 Quick Guides](tools-and-resources/research-process/README.md)
   * [🟣 Bioimaging Workflows](tools-and-resources/research-process/bioimaging-workflows.md)
   * [🟣 FAIR Principles](tools-and-resources/research-process/fair-principles.md)
+  * [🟣 File Naming Guide](tools-and-resources/research-process/file-naming-guide.md)
   * [🟣 HPC Quick Guide](tools-and-resources/research-process/ucph-hpc-quick-guide.md)
   * [🟣 Labguru Quick Guide I](tools-and-resources/research-process/fair-principles-1.md)
   * [🟣 Labguru Quick Guide II](tools-and-resources/research-process/fair-principles-2.md)
   * [🟣 Open Science](tools-and-resources/research-process/open-science-pillars.md)
   * [🟣 Research Workflows](tools-and-resources/research-process/research-workflows.md)
   * [🟣 RDM Directory Structure](tools-and-resources/research-process/file-and-folder-tips.md)
+  * [🟣 Directory Structure Guide](tools-and-resources/research-process/directory-structure-guide.md)
+  * [🟣 Directory & Naming Guide - Side 1](tools-and-resources/research-process/directory-and-naming-guide-side-1.md)
+  * [🟣 Directory & Naming Guide - Side 2](tools-and-resources/research-process/directory-and-naming-guide-side-2.md)
+  * [Page](tools-and-resources/research-process/page.md)
   * [🟣 RODMM Framework](tools-and-resources/research-process/rodmm-framework.md)
 * [🟣 reNEW Websites](tools-and-resources/renew-websites/README.md)
   * [🌎 BMI Website](https://bmi.ku.dk/english/)

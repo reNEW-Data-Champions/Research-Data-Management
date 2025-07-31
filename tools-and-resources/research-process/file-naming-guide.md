@@ -1,5 +1,5 @@
 ---
-description: Organizing Your Data
+description: File Naming Guide
 layout:
   width: default
   title:
@@ -16,6 +16,6 @@ layout:
     visible: true
 ---
 
-# 🟣 RDM Directory Structure
+# 🟣 File Naming Guide
 
-<div data-full-width="false"><figure><img src="../../.gitbook/assets/RDM_Checklist_Directory.jpg" alt=""><figcaption></figcaption></figure></div>
+<figure><img src="../../.gitbook/assets/File_Naming_Guidelines.jpg" alt=""><figcaption></figcaption></figure>
