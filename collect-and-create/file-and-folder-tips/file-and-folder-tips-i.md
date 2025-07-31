@@ -4,9 +4,9 @@ description: Organizing Your Data
 
 # 🟢 File and Folder Tips
 
-## Organizing Your Research Data: Folder and File Structure and Naming Conventions — Tips and Recommendations
+## Organizing Your Research Data:&#x20;
 
-
+### Folder and File Structure and Naming Conventions — Tips and Recommendations
 
 ### 1. Why Organize: Context and Objectives
 
@@ -36,8 +36,6 @@ The collection and creation stage in the research data management lifecycle is c
 | Collaboration and communication       | Encourage open communication; hold regular meetings; define roles and responsibilities for data management tasks.                                                                                                    |
 
 Outcome. By addressing these elements early, research groups lay a strong foundation for effective data management, high-quality research, and successful collaboration.
-
-***
 
 ### 3. Documentation & Metadata: Steps and Best Practices
 
