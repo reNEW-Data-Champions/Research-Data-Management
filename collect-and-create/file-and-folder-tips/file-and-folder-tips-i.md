@@ -2,13 +2,9 @@
 description: Organizing Your Data
 ---
 
-# 🟢 File and Folder Tips
+# 🟢 File and Folder  Structure Tips
 
-## Organizing Your Research Data:&#x20;
-
-### Folder and File Structure and Naming Conventions — Tips and Recommendations
-
-### 1. Why Organize: Context and Objectives
+## 1. Why Organize?
 
 A data management workflow streamlines research data and processes to ensure understandability and reproducibility for those unfamiliar with the project. To achieve this objective, team members need clear, concise guidelines and tasks, responsibility for their work, and a means to share progress and feedback.
 
@@ -21,7 +17,7 @@ Four essential components of an effective data management workflow:
 
 Motivation. Once you initiate data creation, collection, or manipulation, it can quickly become disorganized. To save time and avoid errors in the long run, you and your colleagues must establish a consistent approach to naming and structuring files and folders and incorporating documentation (or "metadata". Adds context to your data, enabling you and others to understand better and utilize it in the short, medium, and long term.
 
-### 2. Collection & Creation Stage: Essentials for Research Groups
+## 2. Collection & Creation Stage: Essentials for Research Groups
 
 The collection and creation stage in the research data management lifecycle is critical, as it sets the foundation for the entire research process. The following elements should be addressed.
 
@@ -37,23 +33,23 @@ The collection and creation stage in the research data management lifecycle is c
 
 Outcome. By addressing these elements early, research groups lay a strong foundation for effective data management, high-quality research, and successful collaboration.
 
-### 3. Documentation & Metadata: Steps and Best Practices
+## 3. Documentation & Metadata: Steps and Best Practices
 
 Organizing your data using documentation and metadata is essential for maintaining a clear understanding of your data and facilitating its discoverability and use by others. Implement the following:
 
 * Choose appropriate metadata standards. Each standard is designed for specific data types or disciplines. Identify the most relevant standard for your data and use it as the basis for organizing and documenting it.
-* Create a data dictionary. Describe each variable/data element (names, descriptions, data types, units, allowable values). This ensures that others can interpret the data accurately.
+* Create a data dictionary. Describe each variable/data element (names, descriptions, data types, units, allowable values) so that others can interpret the data accurately.
 * Document data collection and processing methods. Clearly describe procedures for collecting, processing, and analyzing your data for reproducibility and quality evaluation.
 * Use consistent naming conventions. Adopt consistent conventions for files, folders, and variables to improve findability.
-* Add descriptive file names and folder structures. Use clear, informative names and a logical folder structure to help users quickly identify and access data.
-* Include version control information. Track updates/revisions with change logs and version numbers (or use a VCS such as Git/SVN..
+* Add descriptive file names and folder structures. Clear, informative names and a logical folder structure will help users quickly identify and access data.
+* Include version control information. Track updates/revisions with change logs and version numbers (or use a VCS like Git/SVN..
 * Store documentation and metadata with the data. Keep READMEs and metadata in the same location as the data (same folder or nearby README..
 * Update documentation and metadata as needed. Review and update regularly, especially as data changes or new data are added.\
 
 
-### 4. Naming and Organizing Files: Practical Guidance
+## 4. Naming and Organizing Files: Practical Guidance
 
-#### 4.1 Tips for Naming Files
+### 4.1  Tips for Naming Files
 
 * Descriptive file names: Indicate content and purpose; include project name, date, version number, and author initials where relevant.
 * Consistent naming convention: Standardize across the project to prevent confusion and improve retrieval.
@@ -61,22 +57,22 @@ Organizing your data using documentation and metadata is essential for maintaini
 * Appropriate file extensions: Always include the correct file extension so files open correctly.\
 
 
-#### 4.2 Tips for Organizing Files
+### 4.2  Tips for Organizing Files
 
 * Logical folders: Group related files and reflect project hierarchy for quick access.
 * Clear folder names: Accurately represent folder contents and purpose.
 * Separate working vs final: Maintain separate locations for drafts/intermediate data vs published/cleaned outputs.
-* Version control: Use version numbers (e.g., v1, v2, v3. or a VCS to track changes.
+* Version control: To track changes, use version numbers (e.g., v1, v2, v3) or a VCSUse version numbers (e.g., v1, v2, v3. or a VCS to track changes.
 * Keep documentation with data: Store data dictionaries, README, and metadata alongside datasets.
 * Regular review: Periodically assess and reorganize to keep the structure effective and current.\
 
 
-### 5. Organizing Your Files: Best Practices in Detail
+## 5. Organizing Your Files: Best Practices in Detail
 
 Create a logical folder structure. Design a hierarchy that reflects the structure of your project or research (e.g., main folders for data, analysis, and reports, and subfolders for specific tasks or datasets).
 
 1. Use clear and descriptive folder names. Make navigation intuitive by accurately naming each folder.
-2. Adopt a consistent naming convention. Include elements such as project name, date, version number, author initials, or descriptors.
+2. Adopt a consistent naming convention. Include project name, date, version number, author initials, or descriptors.
 3. Avoid special characters and spaces. Use underscores \_ or hyphens - to separate words/elements when needed.
 4. Use appropriate file extensions. Always include .txt, .csv, .docx, etc., as applicable.
 5. Separate working files from final versions. Prevent confusion by keeping drafts and final versions apart.
@@ -84,7 +80,7 @@ Create a logical folder structure. Design a hierarchy that reflects the structur
 7. Keep documentation and metadata together with data. Provide context within the same folders.
 8. Regularly review and update your file organization. Consolidate, rename, or reorganize as the project evolves.
 
-### 6. Creating File Names: What to Consider
+## 6. Creating File Names: What to Consider
 
 When creating a file name in the context of research data management, consider the following to ensure clarity, organization, and accessibility:
 
@@ -96,21 +92,19 @@ When creating a file name in the context of research data management, consider t
 * Use lowercase letters: Helps with case-sensitive file systems and cross-platform compatibility.
 * File extension: Always include the correct extension (e.g., .txt, .csv, .docx..
 
-By considering these aspects, you improve organization and accessibility—making collaboration and sharing easier.
+Considering these aspects improves organization and accessibility, making collaboration and sharing easier.
 
-***
-
-### 7. Directory Structure & Naming Convention (reNEW Copenhagen Example.
+## 7. Directory Structure & Naming Convention Example.
 
 Efficient organization of research data in bioinformatics, genomics, and imaging within a biomedical research environment is vital for optimizing productivity, eliminating redundancy, and preserving data integrity. A systematic, carefully crafted directory structure and naming convention are paramount. The following guide establishes a coherent, well‑organized plan tailored for reNEW Copenhagen.
 
-#### 7.1 Root Directory
+### 7.1  Root Directory
 
 Create a root directory for your research project. Name it with a relevant and easily identifiable project name, for example:
 
-Jensen\_Skin\_Intestine\_Project/
+#### **Jensen\_Skin\_Intestine\_Project/**
 
-#### 7.2 Subdirectories (Major Research Areas.
+### 7.2  Subdirectories (Major Research Areas).
 
 Within the root directory, create subdirectories for each major research area (bioinformatics, genomics, and imaging.. Use a clear, consistent naming convention, such as:
 
@@ -120,11 +114,11 @@ Within the root directory, create subdirectories for each major research area (b
 
 03\_Imaging\_Data/
 
-#### 7.3 Research Themes
+### 7.3  Research Themes
 
 Within each research area, create subdirectories for different research themes or topics. For instance:
 
-01\_Bioinformatics\_Data/
+**01\_Bioinformatics\_Data/**
 
 ├── 01\_Protein\_Structure\_Analysis/
 
@@ -132,7 +126,7 @@ Within each research area, create subdirectories for different research themes o
 
 └── 03\_Metagenomics\_Analysis/
 
-02\_Genomics\_Data/
+**02\_Genomics\_Data/**
 
 ├── 01\_Whole\_Genome\_Sequencing/
 
@@ -140,7 +134,7 @@ Within each research area, create subdirectories for different research themes o
 
 └── 03\_Metagenomics/
 
-03\_Microscopy\_Data/
+**03\_Microscopy\_Data/**
 
 ├── 01\_Confocal\_microscopy/
 
@@ -148,21 +142,21 @@ Within each research area, create subdirectories for different research themes o
 
 └── 03\_Light\_microscopy
 
-#### 7.4 Experiments and Timepoints
+### 7.4  Experiments and Timepoints
 
-Create subdirectories for specific experiments or time points for each research theme or topic. Use a consistent naming convention that includes the date (YYYY-MM-DD. and a short description, e.g.:
+Create subdirectories for specific experiments or time points for each research theme or topic. Use a consistent naming convention that includes the date (YYYY-MM-DD). and a short description, e.g.:
 
-01\_Whole\_Genome\_Sequencing/
+**01\_Whole\_Genome\_Sequencing/**
 
 ├── 2023-04-01\_Mouse\_Genome\_Seq/
 
 └── 2023-04-02\_Human\_Genome\_Seq/
 
-#### 7.5 Data Types and Formats (per Experiment/Timepoint.
+### 7.5  Data Types and Formats (per Experiment/Timepoint.
 
 Within each experiment/timepoint directory, create subdirectories for different data types or formats, for example:
 
-2023-04-01\_Mouse\_Genome\_Seq/
+**2023-04-01\_Mouse\_Genome\_Seq/**
 
 ├── 01\_Raw\_Data/
 
@@ -170,29 +164,29 @@ Within each experiment/timepoint directory, create subdirectories for different 
 
 └── 03\_Analysis\_Results/
 
-#### 7.6 Naming Files (Examples.
+### 7.6  Naming Files (Examples.
 
 Use a consistent naming convention for all files, including details like the date, sample identifier, data type, and version (if applicable.:
 
-01\_Raw\_Data/
+**01\_Raw\_Data/**
 
 ├── 2023-04-01\_Mouse\_Genome\_Seq\_Sample01\_Raw\_v1.fastq
 
 └── 2023-04-01\_Mouse\_Genome\_Seq\_Sample02\_Raw\_v1.fastq
 
-02\_Processed\_Data/
+**02\_Processed\_Data/**
 
 ├── 2023-04-01\_Mouse\_Genome\_Seq\_Sample01\_Processed\_v1.fasta
 
 └── 2023-04-01\_Mouse\_Genome\_Seq\_Sample02\_Processed\_v1.fasta
 
-03\_Analysis\_Results/
+**03\_Analysis\_Results/**
 
 ├── 2023-04-01\_Mouse\_Genome\_Seq\_Sample01\_Variants\_v1.vcf
 
 └── 2023-04-01\_Mouse\_Genome\_Seq\_Sample02\_Variants\_v1.vcf
 
-#### 7.7 Metadata and Documentation (per Experiment/Timepoint.
+### 7.7  Metadata and Documentation (per Experiment/Timepoint.
 
 Include a metadata file and a README with detailed information about the experiment, data types, formats, and processing steps. Suggested names:
 
@@ -200,28 +194,28 @@ Metadata\_2023-04-01\_Mouse\_Genome\_Seq.csv
 
 README\_2023-04-01\_Mouse\_Genome\_Seq.txt
 
-#### 7.8 Backup and Version Control
+### 7.8 Backup and Version Control
 
 Ensure regular backups and use version control (e.g., Git. to track script changes, analysis pipelines, and other relevant files.
 
 Outcome. By adhering to these principles, you establish a systematic, user‑friendly framework for managing and storing research data at reNEW Copenhagen, streamlining access, facilitating entry, and enabling seamless collaboration across diverse teams.
 
-### 8. Developing Your Naming Schema
+## 8. Developing Your Naming Schema
 
-* Be Consistent! Use the same elements (e.g., date, experiment number, version number. in the same order for related files.
-* Document It! Keep a record of your naming schemas in a plain text README file that lives with your data files.\
+* Be Consistent!  For related files, use the same elements (e.g., date, experiment number, version number) in the same order.
+* Document It! Record your naming schemas in plain text in the README file with your data files.\
 
 
-### 9. Best Practice — Detailed Examples
+## 9. Best Practice — Detailed Examples
 
-#### 9.1 Length
+### 9.1 Length
 
 * Guideline: Limit the file name to 32 characters (preferably less!..
 * Example: 32CharactersLooksExactlyLikeThis.csv
 
-#### 9.2 Spaces, Periods & Special Characters
+### 9.2 Spaces, Periods & Special Characters
 
-Don’t use\*
+**Don’t use**
 
 * spaces
 * hyphens & dashes
@@ -229,13 +223,13 @@ Don’t use\*
 * other special characters (& , \* % # ; \* ! @$ ^ \~ ' { } \[ ] ? < >.\
 
 
-Use†
+**Use**
 
 * underscores \_
 * camelCase\
 
 
-Examples
+**Examples**
 
 * NO name.date.txt
 * NO name date v1.txt
@@ -247,14 +241,14 @@ Examples
 * YES Handout\_fileNaming\_20180215.pdf\
 
 
-#### 9.3 Dates
+### 9.3 Dates
 
 * Guideline: Use a consistent date format for sorting and easy file finding.
 * Recommended: YYYYMMDD as a suitable default format.
 
-#### 9.4 Numbering
+### 9.4 Numbering
 
-* Guideline: Use leading zeros to allow for multi‑digit versions when using sequential numbering. This keeps files in the intended order when sorting by name.\
+* Guideline: When using sequential numbering, use leading zeros to allow for multi‑digit versionsUse leading zeros to allow for multi‑digit versions when using sequential numbering. This keeps files in the intended order when sorting by name.\
 
 * Sequences:
 
@@ -269,7 +263,7 @@ Examples
 * YES ProjID\_v01.csv and ProjID\_v12.csv\
 
 
-### 10. Example Directory Tree (Extended.
+## 10. Example Directory Tree (Extended.
 
 reNEW\_Group/
 
@@ -351,12 +345,10 @@ reNEW\_Group/
 
 &#x20;   ├── Tools\_TLC\_FC\_YYYYMMDD/
 
-&#x20;   └── Resources\_RSC\_FC\_YYYYMMDD/
-
-\
+&#x20;   └── Resources\_RSC\_FC\_YYYYMMDD/\
 
 
-Abbreviations (for quick reference.:
+Abbreviations (for quick reference):
 
 * GNM: Genomics
 * MIC: Microscopy
@@ -368,7 +360,6 @@ Abbreviations (for quick reference.:
 * PTCL: Protocols
 * TLC: Tools
 * RSC: Resources\
-  \
 
 
 About file extensions (examples.:
@@ -380,13 +371,13 @@ About file extensions (examples.:
 * .pdf — documents such as reports or protocols.\
 
 
-Readme practice. A README file can be maintained in each project directory and subdirectory to explain content and record other essential details.
+Readme practice. A README file can be maintained in each project directory and subdirectory to explain the content and record other essential details.
 
 Key principle. Maintain consistency with the organization's naming convention and directory structure to ensure ease of navigation, data retrieval, and understanding among all team members.
 
 ***
 
-### 11. Final Checklist (Actionable Summary.
+## 11. Final Checklist (Actionable Summary).
 
 * Establish DMP, storage, backup, and sharing policies.
 * Confirm ethical compliance (consent, anonymization, data protection..

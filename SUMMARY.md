@@ -48,7 +48,7 @@
 
 * [🟢 Organizing Data Hub](collect-and-create/file-and-folder-tips/README.md)
   * [🟢 Batch Renaming](collect-and-create/file-and-folder-tips/batch-renaming.md)
-  * [🟢 File and Folder Tips](collect-and-create/file-and-folder-tips/file-and-folder-tips-i.md)
+  * [🟢 File and Folder  Structure Tips](collect-and-create/file-and-folder-tips/file-and-folder-tips-i.md)
   * [🟢 README File Template](collect-and-create/file-and-folder-tips/readme-file-template.md)
 * [🟢 IT Support Hub](collect-and-create/ucph-hpc-guide/README.md)
   * [🟢 Archive vs. Backup](collect-and-create/ucph-hpc-guide/archive-vs.-backup.md)
