@@ -4,49 +4,62 @@ description: Monthly Newsletter
 
 # 🟡 Newsletter - May 2025
 
-## Leveraging Machine-Actionable DMPs for Enhanced Research Workflows
+### &#x20;and is**Leveraging Machine-Actionable DMPs for Enhanced Research Workflows**
 
-**Data Management Plans (DMPs)** have long been essential tools for helping researchers plan how to handle, store, and share data throughout the research lifecycle. However, to meet the demands of an increasingly complex and interconnected research environment, there is a clear need to move beyond static, traditional DMPs toward **dynamic, integrated, and machine-actionable DMPs (maDMPs)**.
+**Disclaimer**\
+The views expressed here are my own in my professional capacity as a Data Steward and Research Data Manager. They do not necessarily represent the official positions of the Novo Nordisk Foundation Center for Stem Cell Medicine – reNEW.
 
-### The Importance of Machine-Actionable DMPs
+## **Introduction**
 
-Unlike traditional DMPs, **machine-actionable DMPs** are not static text documents. Instead, they are **dynamic, machine-readable, and interoperable** plans that can be integrated into multiple stages of the research data lifecycle.
+Data Management Plans (DMPs) are a cornerstone of good research practice. They guide how data will be collected, stored, shared, and preserved throughout the research lifecycle. Traditionally, DMPs have been static documents—useful at the planning stage but rarely integrated into the day-to-day workflow.
 
-This approach enables automated exchange, integration, and reuse of information across systems, significantly improving research workflows.
+Today, research environments are increasingly complex, interconnected, and data-driven. To meet these demands, we need to move beyond static text documents toward **machine-actionable Data Management Plans (maDMPs)**—dynamic, interoperable tools that integrate seamlessly into research systems and workflows.
 
-**Key benefits of maDMPs include:**
+## **Key Challenges with Traditional DMPs**
 
-* **Efficiency**
-  * Reduce manual effort by allowing information to be automatically read, updated, and shared across platforms.
-  * Streamline data management and minimize administrative overhead.
-* **Accuracy**
-  * Machine-readable formats help eliminate human errors during manual data entry.
-* **Interoperability**
-  * Enable integration with other systems and services throughout the research lifecycle.
-  * Facilitate seamless data exchange, enhancing collaborative research.
-* **Compliance**
-  * Simplify the process of meeting funder, institutional, and regulatory data management requirements.
-  * Support easy updating and sharing of plans to maintain ongoing compliance.
+* **Static Format** – Cannot adapt easily to evolving project needs.
+* **Manual Processes** – Require repeated data entry across multiple systems.
+* **Limited Integration** – Information is locked in PDFs or Word documents, not reusable by machines.
+* **Compliance Burden** – Updating and reporting require manual effort, risking errors and omissions.
 
-### Extracting Information from maDMPs to Enhance Research Workflows
+## **Best Practices and Solutions: Moving to maDMPs**
 
-The true potential of maDMPs is realized when their structured information can be **automatically extracted and used** to support research activities.
+**Efficiency**
 
-**Examples of how maDMPs can be leveraged:**
+* Automate information exchange between systems (e.g., repositories, funding portals).
+* Reduce administrative work through auto-population of metadata fields.
 
-* **Automating Research Workflows**
-  * Metadata from maDMPs can automatically populate data repositories, ensuring consistency and saving time.
-  * Enable automated registration of datasets, reducing duplication of effort.
-* **Integration with Existing Systems**
-  * Connect maDMPs to laboratory information systems for real-time data tracking.
-  * Link with publication platforms to monitor data sharing and citation impact.
-* **Monitoring Compliance**
-  * Automatically track and report on compliance with data management policies and funder mandates.
-  * Generate up-to-date reports on data management status with minimal manual intervention.
-* **Supporting Collaboration**
-  * Facilitate seamless sharing of structured data management plans among collaborators.
-  * Promote openness and efficiency in multi-institutional or interdisciplinary projects.
+**Accuracy**
 
-The shift toward **machine-actionable Data Management Plans** represents a significant advancement in managing and leveraging research datahow research data is managed and leveraged. By enabling automation, reducing errors, improving interoperability, and supporting compliance, maDMPs can save researchers valuable time and resources.
+* Machine-readable formats eliminate repetitive manual entry and reduce human error.
 
-Adopting maDMPs is not just about operational efficiency but about empowering the research community to focus more on discovery and innovation. As research becomes increasingly data-driven, implementing and utilizing maDMPs will be essential in building a more robust, transparent, and collaborative scientific ecosystem.
+**Interoperability**
+
+* Integrate with research infrastructure such as Laboratory Information Management Systems (LIMS), repositories, and publication platforms.
+
+**Compliance**
+
+* Automatically track alignment with funder, institutional, and legal requirements.
+* Enable real-time updates and reporting without rewriting the DMP from scratch.
+
+## **Local Context: reNEW and UCPH**
+
+At reNEW and across the University of Copenhagen, DMPs are required or strongly encouraged for funded projects. Current practice often involves text-based templates, which can be limiting for collaborative, data-intensive research.
+
+Implementing **machine-actionable DMPs** could:
+
+* Improve alignment between project planning, UCPH-approved storage systems, and FAIR data principles.
+* Support compliance with Horizon Europe, ERC, and Danish funder mandates through automated reporting.
+* Enhance collaboration between UCPH research groups and international partners by enabling system-to-system DMP sharing.
+
+## **Practical Recommendations**
+
+1. **Adopt maDMP Tools** – Use platforms like the Research Data Alliance’s maDMP specifications or DMPonline with machine-actionable export formats.
+2. **Integrate with Existing Systems** – Connect DMP tools with institutional repositories, ERDA storage, and publication workflows.
+3. **Automate Metadata Population** – Allow DMP fields to feed dataset registration and DOI requests directly feed dataset registration and DOI requests.
+4. **Embed Compliance Checks** – Configure maDMPs to flag non-compliance before reporting deadlines.
+5. **Promote Collaborative Access** – Ensure collaborators can view and update maDMPs in real time.
+
+## **Looking Ahead**
+
+Machine-actionable DMPs are more than an administrative upgrade—they are a strategic enabler of reproducible, efficient, and collaborative science. By adopting maDMPs, reNEW researchers can reduce manual burden, increase compliance confidence, and focus more on discovery.
