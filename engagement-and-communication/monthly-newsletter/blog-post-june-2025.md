@@ -9,7 +9,7 @@ description: Montly Newsletter
 > **Disclaimer**\
 > &#xNAN;_&#x54;he views and thoughts expressed here are my own in my professional capacity as a Data Steward and Research Data Manager. They do not reflect the official opinions or positions of my employer, the Novo Nordisk Foundation Center for Stem Cell Medicine – reNEW._
 
-### Introduction
+## Introduction
 
 Universities worldwide serve as hubs for cutting-edge research across various disciplines. The data generated through these initiatives is often vast and complex, ranging from social sciences survey data to high-resolution imaging and genomic sequencing in the biomedical sciences.
 
@@ -22,11 +22,11 @@ Proper research data management (RDM) is essential for:
 
 As research projects grow in scale and complexity, universities face mounting challenges in providing sustainable, equitable, and technically robust storage solutions.
 
-### The Unique Challenges of University Research Data
+## The Unique Challenges of University Research Data
 
 Universities must support a highly diverse research environment, each area having unique data management requirements.
 
-**Key challenges include:**
+### **Key challenges include:**
 
 * **Multidisciplinarity**
   * Universities must serve many disciplines simultaneously, generating different types, volumes, and data formats.
@@ -37,11 +37,11 @@ Universities must support a highly diverse research environment, each area havin
 * **Compliance and Ethical Considerations**
   * Storage solutions must adhere to strict ethical and legal standards, especially for sensitive data such as medical research involving human subjects.
 
-### Storage Solutions for Research Data Management
+## Storage Solutions for Research Data Management
 
 To address these challenges, universities typically adopt various storage strategies tailored to academic research needs.
 
-**Standard storage solutions include:**
+### **Standard storage solutions include:**
 
 #### On-Premise Storage Systems
 
@@ -75,14 +75,14 @@ To address these challenges, universities typically adopt various storage strate
 * Long-term preservation solutions with lower costs and slower retrieval speeds.
 * Ideal for data that is infrequently accessed but must be retained for reproducibility, compliance, or future research questions.
 
-### Local Challenge: UCPH IT Storage Costs
+## Local Challenge: UCPH IT Storage Costs
 
 > **Important Context**\
 > Within the University of Copenhagen environment, a recent development has significant implications for RDM planning.
 
 University of Copenhagen (UCPH) IT has begun charging research groups directly for storage. However, their current model provides only **tiered "active" storage options** without a true **Tier 3 cold storage solution** for archival needs.
 
-**Key concerns include:**
+### **Key concerns include:**
 
 * **Cost Equity**
   * Without a low-cost archival tier, researchers needing to preserve large datasets face high, recurring costs.
@@ -94,11 +94,11 @@ University of Copenhagen (UCPH) IT has begun charging research groups directly f
   * Researchers may be forced to delete valuable datasets to manage budgets.
   * Longitudinal studies, reproducibility efforts, and open data commitments are undermined if preservation becomes too expensive.
 
-### Recommendations and Considerations
+## Recommendations and Considerations
 
 As data generation continues to grow, universities—including UCPH—must prioritize the development of **sustainable, equitable, and technically robust storage strategies**.
 
-**Key recommendations include:**
+### **Key recommendations include:**
 
 * **Develop Tiered Storage Models**
   * Include true Tier 3 cold storage solutions with significantly reduced costs for archival data.

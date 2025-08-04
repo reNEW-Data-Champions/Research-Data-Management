@@ -67,7 +67,7 @@
 * [🟤 Compliance Hub](analyze-and-collaborate/gdpr-for-researchers/README.md)
   * [🟤 Data Protection Agency](analyze-and-collaborate/gdpr-for-researchers/data-protection-agency.md)
   * [🟤 GDPR Resouces](https://kunet.ku.dk/work-areas/research/data/personal-data/Pages/default.aspx)
-  * [🟤 GDPR - Project Like Mine](https://bit.ly/GDPR_PLM)
+  * [🟤 Project Like Mine](https://bit.ly/GDPR_PLM)
 
 ## Evaluate & Archive
 
