@@ -10,11 +10,9 @@ The reNEW Data Champions are dedicated volunteers committed to guiding researche
 
 By emphasizing the FAIR principles—findable, Accessible, Interoperable, and Reusable—the Data Champions enable researchers to implement structured data management strategies that enhance the quality, accessibility, and longevity of their research outputs.
 
-***
-
 ## Building a Strong Data Management Network
 
-Within reNEW, the Data Champions cultivate a collaborative support network that spans diverse research groups. They assist researchers in navigating data management challenges and encourage the adoption of standardized, efficient practices. By facilitating improved data organization and accessibility, they:
+Within reNEW, the Data Champions cultivate a collaborative support network that spans diverse research groups. They assist researchers in navigating data management challenges and encourage adopting standardized, efficient practices. By facilitating improved data organization and accessibility, they:
 
 * **Enhance research reproducibility and integrity.**
 * **Encourage collaboration and data sharing** across research groups.
