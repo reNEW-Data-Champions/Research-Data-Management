@@ -81,11 +81,11 @@
 * [Share & Publish Stage](share-and-publish/share-and-publish-stage.md)
 * [🟠 Open Access Webinar](https://docs.google.com/presentation/d/1Z1glm6bIsMC3UFJ0fQyXRLgLmi5Q8two/edit?usp=sharing\&ouid=117065044619902942572\&rtpof=true\&sd=true)
 * [🟠 Repository &  Services](share-and-publish/biomedical-data-repositories/README.md)
-  * [🟠 European Open Science Cloud](share-and-publish/biomedical-data-repositories/european-open-science-cloud.md)
+  * [🟠 Biomedical Repositories](share-and-publish/biomedical-data-repositories/biomedical-data-repositories.md)
+  * [🟠 EOSC](share-and-publish/biomedical-data-repositories/european-open-science-cloud.md)
   * [🟠 Guidance: Biomedical Repositories I](https://sharing.nih.gov/data-management-and-sharing-policy/sharing-scientific-data/repositories-for-sharing-scientific-data)
   * [🟠 Guidance: Biomedical Repositories II](https://www.nlm.nih.gov/NIHbmic/domain_specific_repositories.html)
   * [🟠 Guidance: Biomedical Repositories III](https://journals.plos.org/plosbiology/s/recommended-repositories)
-  * [🟠 Guidance: Biomedical Repositories IV](share-and-publish/biomedical-data-repositories/biomedical-data-repositories.md)
 
 ## Biomedical resources
 

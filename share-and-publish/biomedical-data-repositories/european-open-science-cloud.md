@@ -1,10 +1,10 @@
 ---
-description: What is the EOSC and What it means to researchers?
+description: What is the European Open Science Cloud and What it means to researchers?
 ---
 
-# 🟠 European Open Science Cloud
+# 🟠 EOSC
 
-### What is the European Open Science Cloud (EOSC)?
+## What is the European Open Science Cloud (EOSC)?
 
 The **European Open Science Cloud (EOSC)** is the European Commission’s flagship initiative to build a **federated, open, and trusted digital ecosystem** for managing and sharing research data and services across Europe. Designed to support researchers, innovators, companies, and citizens, EOSC offers a seamless environment for **accessing, managing, and reusing** research data, tools, and services.
 
