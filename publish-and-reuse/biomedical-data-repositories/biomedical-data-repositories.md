@@ -2,7 +2,7 @@
 description: Biomedical Data Repositories
 ---
 
-# 🟠 Biomedical Repositories
+# 🔵 Biomedical Repositories
 
 ## Biomedical Data Repositories for reNEW Researchers
 

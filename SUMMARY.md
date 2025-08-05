@@ -40,6 +40,15 @@
       * [🔴 ChiPseq ATAC Sequencing](plan-and-design/dmp/dmp-templates/genomics/chipseq-atac-sequencing.md)
       * [🔴 CUT and RUN/CUT and TAG Sequencing](plan-and-design/dmp/dmp-templates/genomics/cut-and-run-cut-and-tag-sequencing.md)
       * [🔴 Whole Genome Sequencing](plan-and-design/dmp/dmp-templates/genomics/whole-genome-sequencing.md)
+* [🔴 RDM Resources - Elixir](plan-and-design/what-is-elixir/README.md)
+  * [🔴 RDM Guide for Life Sciences](https://bit.ly/RDM_GUIDE)
+  * [🔴 RDM Kit for Life Sciences](https://bit.ly/RDM_Kit)
+  * [🔴 RDM Kit for Single-cell sequencing](https://bit.ly/rdm-scs)
+  * [🔴 RDM Kit for Bioimaging](https://rdmkit.elixir-europe.org/bioimaging_data)
+  * [🔴 RDM Kit for Bioinformatics](https://rdmkit.elixir-europe.org/structural_bioinformatics)
+  * [🔴 RDM Kit for Human Data](https://bit.ly/RDN-Human_Data)
+  * [🔴 RDM Kit for Data Repository](https://rdmkit.elixir-europe.org/data_publication)
+  * [🔴 RDM Kit for Documentation and Metadata](https://bit.ly/RDMKit-Metadata)
 
 ## Collect & Create
 
@@ -78,26 +87,17 @@
 
 ## Share & Disseminate
 
-* [Share & Disseminate Stage](share-and-disseminate/share-and-disseminate-stage.md)
+* [Share & Disseminate Stage](share-and-publish/share-and-publish-stage.md)
 * [🟠 Open Access Webinar](https://docs.google.com/presentation/d/1Z1glm6bIsMC3UFJ0fQyXRLgLmi5Q8two/edit?usp=sharing\&ouid=117065044619902942572\&rtpof=true\&sd=true)
-* [🟠 Biomedical Repositories List](share-and-disseminate/biomedical-data-repositories/README.md)
-  * [🟠 Biomedical Repositories](share-and-disseminate/biomedical-data-repositories/biomedical-data-repositories.md)
-  * [🟠 Domain Specific Repostories](share-and-disseminate/biomedical-data-repositories/domain-specific-repostories.md)
-  * [🟠 EOSC](share-and-disseminate/biomedical-data-repositories/european-open-science-cloud.md)
-  * [🟠 PLOS: List of Data Repositories](https://journals.plos.org/plosbiology/s/recommended-repositories)
 
 ## Publish & Reuse
 
 * [Publish & Reuse Stage](publish-and-reuse/publish-and-reuse-stage.md)
-* [🔵 RDM Resources - Elixir](publish-and-reuse/what-is-elixir/README.md)
-  * [🔵 RDM Guide for Life Sciences](https://bit.ly/RDM_GUIDE)
-  * [🔵 RDM Kit for Life Sciences](https://bit.ly/RDM_Kit)
-  * [🔵 RDM Kit for Single-cell sequencing](https://bit.ly/rdm-scs)
-  * [🔵 RDM Kit for Bioimaging](https://rdmkit.elixir-europe.org/bioimaging_data)
-  * [🔵 RDM Kit for Bioinformatics](https://rdmkit.elixir-europe.org/structural_bioinformatics)
-  * [🔵 RDM Kit for Human Data](https://bit.ly/RDN-Human_Data)
-  * [🔵 RDM Kit for Data Repository](https://rdmkit.elixir-europe.org/data_publication)
-  * [🔵 RDM Kit for Documentation and Metadata](https://bit.ly/RDMKit-Metadata)
+* [🔵 Biomedical Repositories](publish-and-reuse/biomedical-data-repositories/README.md)
+  * [🔵 Biomedical Repositories](publish-and-reuse/biomedical-data-repositories/biomedical-data-repositories.md)
+  * [🔵 Domain Specific Repostories](publish-and-reuse/biomedical-data-repositories/domain-specific-repostories.md)
+  * [🔵 EOSC](publish-and-reuse/biomedical-data-repositories/european-open-science-cloud.md)
+  * [🔵 PLOS: List of Data Repositories](https://journals.plos.org/plosbiology/s/recommended-repositories)
 
 ## Tools & Resources
 

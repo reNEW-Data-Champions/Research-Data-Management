@@ -2,7 +2,7 @@
 description: What is the European Open Science Cloud and What it means to researchers?
 ---
 
-# 🟠 EOSC
+# 🔵 EOSC
 
 ## **European Open Science Cloud (EOSC) – Researcher Overview**
 

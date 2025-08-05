@@ -17,7 +17,7 @@ layout:
     visible: true
 ---
 
-# Share & Publish Stage
+# Share & Disseminate Stage
 
 <figure><img src="../.gitbook/assets/Share and Disseminate.jpg" alt=""><figcaption><p>Share &#x26; Publish Stage</p></figcaption></figure>
 
