@@ -6,6 +6,7 @@
 
 ## Onboarding at reNEW
 
+* [Biomedical Data Life Cycle](onboarding-at-renew/biomedical-data-life-cycle.md)
 * [🟡 Getting Started](onboarding-at-renew/getting-started/README.md)
   * [🟡 Onboarding at reNEW](onboarding-at-renew/getting-started/research-planning.md)
   * [🟡 RDM Hub](onboarding-at-renew/getting-started/rdm-hub/README.md)
