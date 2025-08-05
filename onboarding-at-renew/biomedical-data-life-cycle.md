@@ -21,9 +21,7 @@ layout:
 
 <figure><img src="../.gitbook/assets/4 (2).png" alt=""><figcaption><p>Biomedical Data Life Cycle</p></figcaption></figure>
 
-**Research Data Lifecycle** by [LMA Research Data Management Working Group](https://datamanagement.hms.harvard.edu/) is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/).  [Find all versions and materials for the lifecycle in Zenodo](https://doi.org/10.5281/zenodo.8075933).
-
-
+**(Biomedical) Research Data Lifecycle** by [LMA Research Data Management Working Group](https://datamanagement.hms.harvard.edu/) is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/).  [Find all versions and materials for the lifecycle in Zenodo](https://doi.org/10.5281/zenodo.8075933).
 
 Below is a **summary table of the Biomedical Research Data Lifecycle** with all major RDM stages. It aligns with institutional, ethical, and funder expectations relevant to **reNEW, UCPH**, and **European biomedical research** environments.
 
