@@ -76,19 +76,20 @@
   * [⚪ Archive vs. Backup](evaluate-and-archive/ucph-hpc-guide/archive-vs.-backup.md)
   * [⚪ UCPH Research IT](https://kunet.ku.dk/work-areas/research/Research%20Infrastructure/research-it/Pages/default.aspx)
 
-## Share & Publish
+## Share & Disseminate
 
-* [Share & Publish Stage](share-and-publish/share-and-publish-stage.md)
+* [Share & Disseminate Stage](share-and-disseminate/share-and-disseminate-stage.md)
 * [🟠 Open Access Webinar](https://docs.google.com/presentation/d/1Z1glm6bIsMC3UFJ0fQyXRLgLmi5Q8two/edit?usp=sharing\&ouid=117065044619902942572\&rtpof=true\&sd=true)
-* [🟠 Biomedical Repositories List](share-and-publish/biomedical-data-repositories/README.md)
-  * [🟠 Biomedical Repositories](share-and-publish/biomedical-data-repositories/biomedical-data-repositories.md)
-  * [🟠 Domain Specific Repostories](share-and-publish/biomedical-data-repositories/domain-specific-repostories.md)
-  * [🟠 EOSC](share-and-publish/biomedical-data-repositories/european-open-science-cloud.md)
+* [🟠 Biomedical Repositories List](share-and-disseminate/biomedical-data-repositories/README.md)
+  * [🟠 Biomedical Repositories](share-and-disseminate/biomedical-data-repositories/biomedical-data-repositories.md)
+  * [🟠 Domain Specific Repostories](share-and-disseminate/biomedical-data-repositories/domain-specific-repostories.md)
+  * [🟠 EOSC](share-and-disseminate/biomedical-data-repositories/european-open-science-cloud.md)
   * [🟠 PLOS: List of Data Repositories](https://journals.plos.org/plosbiology/s/recommended-repositories)
 
-## Biomedical resources
+## Publish & Reuse
 
-* [🔵 RDM Resources - Elixir](biomedical-resources/what-is-elixir/README.md)
+* [Publish & Reuse Stage](publish-and-reuse/publish-and-reuse-stage.md)
+* [🔵 RDM Resources - Elixir](publish-and-reuse/what-is-elixir/README.md)
   * [🔵 RDM Guide for Life Sciences](https://bit.ly/RDM_GUIDE)
   * [🔵 RDM Kit for Life Sciences](https://bit.ly/RDM_Kit)
   * [🔵 RDM Kit for Single-cell sequencing](https://bit.ly/rdm-scs)

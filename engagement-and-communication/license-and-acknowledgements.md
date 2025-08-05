@@ -4,7 +4,7 @@ description: License  and Acknowledgements
 
 # 🟡 License and Acknowledgements
 
-## 6.2 **License + Acknowledgements**
+## **License  and Acknowledgements**
 
 Understand how you can adapt, reuse, and remix shared resources. This section outlines our materials' licensing terms (e.g., CC-BY, CC-BY-SA). It provides clear attribution for content creators, ensuring transparency, legal clarity, and proper crediting across the reNEW community.
 
@@ -21,7 +21,7 @@ I have curated these resources and guides with one clear objective: to strengthe
 {% endhint %}
 
 {% hint style="success" %}
-I am committed to ensuring the content of this website accurately mirrors the most recent policy updates, advancements in support and services, and valuable feedback from our users. As part of our ongoing endeavor for excellence, certain documents are still in the process of refinement. Your assistance in identifying inaccuracies or omissions would be highly valued, as it helps us maintain the highest accuracy and reliability of information.
+I am committed to ensuring that this website's content accurately mirrors the most recent policy updates, advancements in support and services, and valuable feedback from our users. As part of our ongoing endeavor for excellence, certain documents are still being refined. Your assistance in identifying inaccuracies or omissions would be highly valued, as it helps us maintain the highest accuracy and reliability of information.
 
 
 {% endhint %}
