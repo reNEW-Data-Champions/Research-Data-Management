@@ -1,5 +1,5 @@
 ---
-description: Data Champions at reNEW (mission, roles, goals)
+description: Data Champions at reNEW
 ---
 
 # 🔵 Data Champions at reNEW
