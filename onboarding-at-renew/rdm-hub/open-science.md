@@ -1,10 +1,24 @@
 ---
 description: Open Science 8 Pillars LERU
+layout:
+  width: wide
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
 # 🟡 Open Science
 
-![](<../../../.gitbook/assets/0 (1).jpeg>)
+![](<../../.gitbook/assets/0 (1).jpeg>)
 
 
 
