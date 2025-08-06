@@ -86,8 +86,12 @@
 
 ## Share & Disseminate
 
-* [Share & Disseminate Stage](share-and-publish/share-and-publish-stage.md)
-* [🟠 Open Access Webinar](https://docs.google.com/presentation/d/1Z1glm6bIsMC3UFJ0fQyXRLgLmi5Q8two/edit?usp=sharing\&ouid=117065044619902942572\&rtpof=true\&sd=true)
+* [Share & Disseminate Stage](share-and-disseminate/share-and-disseminate-stage/README.md)
+  * [🟠 Open Access Hub](share-and-disseminate/share-and-disseminate-stage/open-access-hub/README.md)
+    * [🟠 Open Access Requirements](https://kunet.ku.dk/work-areas/research/publishing/open_access/funders/Pages/default.aspx)
+    * [🟠 Open Access Types](https://kunet.ku.dk/work-areas/research/publishing/open_access/oa-types/Pages/default.aspx)
+    * [🟠 Open Access Video](https://www.youtube.com/watch?v=676JM1M_gFg\&t=5s)
+    * [🟠 Open Access Webinar](https://docs.google.com/presentation/d/1Z1glm6bIsMC3UFJ0fQyXRLgLmi5Q8two/edit?usp=sharing\&ouid=117065044619902942572\&rtpof=true\&sd=true)
 
 ## Publish & Reuse
 
