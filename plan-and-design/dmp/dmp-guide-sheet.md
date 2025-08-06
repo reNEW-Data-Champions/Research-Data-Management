@@ -1,6 +1,27 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+---
+
 # 🔴 DMP Guide Sheet
 
 ## **GUIDE SHEET: Data Management Plans**
+
+## &#x20;                                       **Plan and Design Stage**
+
+<div align="center" data-full-width="true"><figure><img src="../../.gitbook/assets/1.png" alt=""><figcaption></figcaption></figure></div>
 
 ## **Data Management Planning**
 
@@ -8,10 +29,6 @@
 The research data lifecycle is a framework that illustrates the different stages of managing data throughout a research project, highlighting its progression from initial planning to final reuse. Effective data management requires thoughtful planning and thorough documentation of how data will be collected, organized, stored, and shared.
 
 This lifecycle model breaks down each project phase concerning data, from planning and design, collection and analysis, storage, sharing, and eventual reuse. At its core lies the "Store & Manage" stage, which ensures data integrity, security, and accessibility throughout the project. While the lifecycle is often presented as a linear sequence—from "Plan & Design" to "Access & Reuse"—in practice, researchers frequently move between these stages in a non-linear, iterative manner as their project evolves and new needs arise.
-
-## &#x20;                                       **Plan and Design Stage**
-
-<div align="center" data-full-width="true"><figure><img src="../../.gitbook/assets/1.png" alt=""><figcaption></figcaption></figure></div>
 
 A Data Management Plan (DMP) is vital for research projects. It is a comprehensive document outlining data handling, security, and sharing throughout and beyond the project. As funding entities and research institutions increasingly demand DMPs, their formality varies from informal internal documents to formal submissions for funding agencies.
 
