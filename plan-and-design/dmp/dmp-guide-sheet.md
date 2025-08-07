@@ -17,7 +17,7 @@ layout:
 
 # 🔴 DMP Guide Sheet
 
-## **GUIDE SHEET: Data Management Plans**
+## **Data Management Plans: Guide Sheet**
 
 ## &#x20;                                       **Plan and Design Stage**
 
