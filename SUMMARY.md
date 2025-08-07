@@ -13,8 +13,8 @@
 * [🟡 Biomedical Data Life Cycle](research-data-management/biomedical-data-life-cycle.md)
 * [🟡 RDM Hub](research-data-management/rdm-hub/README.md)
   * [🟡 Guidance  & Checklist](research-data-management/rdm-hub/research-planning.md)
-  * [🟡 FAIR Principles](research-data-management/rdm-hub/fair-principles/README.md)
-    * [🟡 FAIR Principles](https://www.howtofair.dk/)
+  * [🟡 FAIR Principles](research-data-management/rdm-hub/fair-principles.md)
+  * [🟡 FAIR Principles](https://www.howtofair.dk/)
   * [🟡 Open Science](research-data-management/rdm-hub/open-science.md)
   * [🟡 Research Project Process](research-data-management/rdm-hub/research-process.md)
   * [🟡 UCPH Research Portal](https://kunet.ku.dk/work-areas/research/Pages/default.aspx)
@@ -23,9 +23,6 @@
 ## Plan & Design
 
 * [Plan & Design Stage](plan-and-design/plan-and-design-stage.md)
-* [🔴 DMP  Hub](plan-and-design/dmp/README.md)
-  * [🔴 DMP Guide Sheet](plan-and-design/dmp/dmp-guide-sheet.md)
-  * [🔴 DeiC DMP Online](https://dmp.deic.dk/)
 * [🔴 Elixir Hub](plan-and-design/what-is-elixir/README.md)
   * [🔴 RDM Guide for Life Sciences](https://bit.ly/RDM_GUIDE)
   * [🔴 RDM Kit for Life Sciences](https://bit.ly/RDM_Kit)
@@ -50,6 +47,8 @@
     * [🔴 ChiPseq ATAC Sequencing](plan-and-design/dmp-templates/genomics/chipseq-atac-sequencing.md)
     * [🔴 CUT and RUN/CUT and TAG Sequencing](plan-and-design/dmp-templates/genomics/cut-and-run-cut-and-tag-sequencing.md)
     * [🔴 Whole Genome Sequencing](plan-and-design/dmp-templates/genomics/whole-genome-sequencing.md)
+* [🔴 DMP Guide Sheet](plan-and-design/dmp-guide-sheet/README.md)
+  * [🔴 DeiC DMP Online](https://dmp.deic.dk/)
 
 ## Collect & Create
 
