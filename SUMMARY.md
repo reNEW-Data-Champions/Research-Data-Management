@@ -6,14 +6,17 @@
 
 ## Onboarding at reNEW
 
-* [Biomedical Data Life Cycle](onboarding-at-renew/biomedical-data-life-cycle.md)
-* [🟡 Onboarding at reNEW](onboarding-at-renew/research-planning.md)
-* [🟡 RDM Hub](onboarding-at-renew/rdm-hub/README.md)
-  * [🟡 Guidance  & Checklist](onboarding-at-renew/rdm-hub/research-planning.md)
-  * [🟡 FAIR Principles](onboarding-at-renew/rdm-hub/fair-principles/README.md)
+* [🟠 Onboarding at reNEW](onboarding-at-renew/research-planning.md)
+
+## Research Data Management
+
+* [🟡 Biomedical Data Life Cycle](research-data-management/biomedical-data-life-cycle.md)
+* [🟡 RDM Hub](research-data-management/rdm-hub/README.md)
+  * [🟡 Guidance  & Checklist](research-data-management/rdm-hub/research-planning.md)
+  * [🟡 FAIR Principles](research-data-management/rdm-hub/fair-principles/README.md)
     * [🟡 FAIR Principles](https://www.howtofair.dk/)
-  * [🟡 Open Science](onboarding-at-renew/rdm-hub/open-science.md)
-  * [🟡 Research Project Process](onboarding-at-renew/rdm-hub/research-process.md)
+  * [🟡 Open Science](research-data-management/rdm-hub/open-science.md)
+  * [🟡 Research Project Process](research-data-management/rdm-hub/research-process.md)
   * [🟡 UCPH Research Portal](https://kunet.ku.dk/work-areas/research/Pages/default.aspx)
   * [🟡 UCPH RDM Portal](https://kunet.ku.dk/work-areas/research/data/Pages/default.aspx)
 
