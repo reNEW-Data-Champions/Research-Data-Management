@@ -2,7 +2,7 @@
 description: Steps for the Reserach Project Process
 ---
 
-# 🟣 Quick Guides & Cheat-sheets
+# 🟣 Quick Guides
 
 ## **Quick‑Guides**
 

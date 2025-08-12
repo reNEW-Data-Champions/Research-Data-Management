@@ -3,6 +3,17 @@
 ## Overview and Welcome
 
 * [🔵 Data Champions at reNEW](README.md)
+* [🔵 BM / reNEW Websites](overview-and-welcome/renew-websites/README.md)
+  * [🌎 BMI Website](https://bmi.ku.dk/english/)
+  * [🌎 BMI Onboarding](https://kunet.ku.dk/faculty-and-department/bmi/about/epartment_documents/Pages/default.aspx#collapseMSOZoneCell_WebPartWPQ9)
+  * [🌎 reNEW KUnet](https://kunet.ku.dk/faculty-and-department/renew/Pages/default.aspx)
+  * [🌎 reNEW Website](https://renew.science/)
+  * [🌎 reNEW Connect](https://alumni.sharepoint.com/sites/UCPH_reNEWConnect/SitePages/Home.aspx)
+  * [🌎 reNEW Genomics](https://bit.ly/reNEW_GEN)
+  * [🌎 reNEW Imaging](https://kunet.ku.dk/faculty-and-department/renew/Labs%20and%20Research%20Platforms/Research%20Platforms/Imaging%20Platform/Pages/default.aspx)
+  * [🌎 reNEW DanGPU](https://bit.ly/DANGPU)
+  * [🌎 reNEW Flow Cy](https://kunet.ku.dk/faculty-and-department/renew/Labs%20and%20Research%20Platforms/Research%20Platforms/Flow%20Cytometry%20Platform/Pages/default.aspx)
+  * [🌎 reNEW Publications](https://publication.renew-platforms.dk/)
 
 ## Onboarding at reNEW
 
@@ -19,6 +30,12 @@
   * [🟡 Research Project Process](research-data-management/rdm-hub/research-process.md)
   * [🟡 UCPH Research Portal](https://kunet.ku.dk/work-areas/research/Pages/default.aspx)
   * [🟡 UCPH RDM Portal](https://kunet.ku.dk/work-areas/research/data/Pages/default.aspx)
+* [🟡 eLearning RDM Videos](research-data-management/seminars/README.md)
+  * [🟡 RDM Module 1](https://www.youtube.com/watch?v=wK4o7iliJHQ)
+  * [🟡 RDM Module 2](https://www.youtube.com/watch?v=OvEHYCSmzCA)
+  * [🟡 RDM Module 3](https://youtu.be/tvs5_X5rn8w)
+  * [🟡 Horizon Europe DMP ](https://deic.dk/da/event/webinar-14062023)
+  * [🟡 Organize Your Data](https://www.youtube.com/watch?v=YslfY4W-NAg)
 
 ## Plan & Design
 
@@ -103,40 +120,24 @@
   * [🔵 EOSC](publish-and-reuse/biomedical-data-repositories/european-open-science-cloud.md)
   * [🔵 PLOS: List of Data Repositories](https://journals.plos.org/plosbiology/s/recommended-repositories)
 
-## Tools & Resources
+## Biomedical Tools
 
-* [🟣 eLearning RDM Videos](tools-and-resources/seminars/README.md)
-  * [🟣 Module 1](https://www.youtube.com/watch?v=wK4o7iliJHQ)
-  * [🟣 Module 2](https://www.youtube.com/watch?v=OvEHYCSmzCA)
-  * [🟣 Module 3](https://youtu.be/tvs5_X5rn8w)
-  * [🟣 Horizon Europe DMP ](https://deic.dk/da/event/webinar-14062023)
-  * [🟣 Organize Your Data](https://www.youtube.com/watch?v=YslfY4W-NAg)
-* [🟣 Quick Guides](tools-and-resources/research-process/README.md)
-  * [🟣 Bioimaging Workflows](tools-and-resources/research-process/bioimaging-workflows.md)
-  * [🟣 Directory Structure Guide](tools-and-resources/research-process/directory-structure-guide.md)
-  * [🟣 Directory & Naming Guide - Side 1](tools-and-resources/research-process/directory-and-naming-guide-side-1.md)
-  * [🟣 Directory & Naming Guide - Side 2](tools-and-resources/research-process/directory-and-naming-guide-side-2.md)
-  * [🟣 FAIR Principles](tools-and-resources/research-process/fair-principles.md)
-  * [🟣 File Naming Guide](tools-and-resources/research-process/file-naming-guide.md)
-  * [🟣 HPC Quick Guide](tools-and-resources/research-process/ucph-hpc-quick-guide.md)
-  * [🟣 Labguru Quick Guide I](tools-and-resources/research-process/fair-principles-1.md)
-  * [🟣 Labguru Quick Guide II](tools-and-resources/research-process/fair-principles-2.md)
-  * [🟣 Open Science](tools-and-resources/research-process/open-science-pillars.md)
-  * [🟣 Research Workflows v1](tools-and-resources/research-process/research-workflows-v1.md)
-  * [🟣 Research Workflows v2](tools-and-resources/research-process/research-workflows-v2.md)
-  * [🟣 RDM Directory Structure](tools-and-resources/research-process/file-and-folder-tips.md)
-  * [🟣 RODMM Framework](tools-and-resources/research-process/rodmm-framework.md)
-* [🟣 reNEW Websites](tools-and-resources/renew-websites/README.md)
-  * [🌎 BMI Website](https://bmi.ku.dk/english/)
-  * [🌎 BMI Onboarding](https://kunet.ku.dk/faculty-and-department/bmi/about/epartment_documents/Pages/default.aspx#collapseMSOZoneCell_WebPartWPQ9)
-  * [🌎 reNEW KUnet](https://kunet.ku.dk/faculty-and-department/renew/Pages/default.aspx)
-  * [🌎 reNEW Website](https://renew.science/)
-  * [🌎 reNEW Connect](https://alumni.sharepoint.com/sites/UCPH_reNEWConnect/SitePages/Home.aspx)
-  * [🌎 reNEW Genomics](https://bit.ly/reNEW_GEN)
-  * [🌎 reNEW Imaging](https://kunet.ku.dk/faculty-and-department/renew/Labs%20and%20Research%20Platforms/Research%20Platforms/Imaging%20Platform/Pages/default.aspx)
-  * [🌎 reNEW DanGPU](https://bit.ly/DANGPU)
-  * [🌎 reNEW Flow Cy](https://kunet.ku.dk/faculty-and-department/renew/Labs%20and%20Research%20Platforms/Research%20Platforms/Flow%20Cytometry%20Platform/Pages/default.aspx)
-  * [🌎 reNEW Publications](https://publication.renew-platforms.dk/)
+* [🟣 Quick Guides](biomedical-tools/research-process/README.md)
+  * [🟣 Bioimaging Workflows](biomedical-tools/research-process/bioimaging-workflows.md)
+  * [🟣 Directory Structure Guide](biomedical-tools/research-process/directory-structure-guide.md)
+  * [🟣 Directory & Naming Guide - Side 1](biomedical-tools/research-process/directory-and-naming-guide-side-1.md)
+  * [🟣 Directory & Naming Guide - Side 2](biomedical-tools/research-process/directory-and-naming-guide-side-2.md)
+  * [🟣 FAIR Principles](biomedical-tools/research-process/fair-principles.md)
+  * [🟣 File Naming Guide](biomedical-tools/research-process/file-naming-guide.md)
+  * [🟣 HPC Quick Guide](biomedical-tools/research-process/ucph-hpc-quick-guide.md)
+  * [🟣 Labguru Quick Guide I](biomedical-tools/research-process/fair-principles-1.md)
+  * [🟣 Labguru Quick Guide II](biomedical-tools/research-process/fair-principles-2.md)
+  * [🟣 Open Science](biomedical-tools/research-process/open-science-pillars.md)
+  * [🟣 Research Workflows v1](biomedical-tools/research-process/research-workflows-v1.md)
+  * [🟣 Research Workflows v2](biomedical-tools/research-process/research-workflows-v2.md)
+  * [🟣 RDM Directory Structure](biomedical-tools/research-process/file-and-folder-tips.md)
+  * [🟣 RODMM Framework](biomedical-tools/research-process/rodmm-framework.md)
+* [🟣 Biomedical Tools & Resources](biomedical-tools/biomedical-tools-and-resources.md)
 
 ## Engagement & Communication
 
