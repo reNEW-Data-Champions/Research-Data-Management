@@ -6,9 +6,7 @@ description: Overview and Welcome
 
 ## Welcome to the reNEW Research Data Management Platform
 
-**Supporting Researchers at the University of Copenhagen – Copenhagen Node**
-
-This platform is your central hub for **Research Data Management (RDM)** support at _reNEW – Copenhagen Node_. Whether you're a new researcher getting started or a senior scientist refining your workflows, this site is designed to help you navigate RDM policies, practices, and tools with clarity and confidence.
+This platform is your central hub for **Research Data Management (RDM)** support at _reNEW_. Whether you're a new researcher getting started or a senior scientist refining your workflows, this site is designed to help you navigate RDM policies, practices, and tools with clarity and confidence.
 
 ***
 
@@ -67,5 +65,5 @@ Please don't hesitate to contact me if you need support with any aspect of resea
 
 **Contact:**\
 Richard Dennis\
-&#xNAN;_&#x44;ata Steward, reNEW – Copenhagen Node_\
+&#xNAN;_&#x44;ata Steward, reNEW_ \
 Available Wednesdays, 14:00–15:00, or by appointment
