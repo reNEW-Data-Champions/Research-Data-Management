@@ -36,9 +36,9 @@
   * [🟡 UCPH Research Portal](https://kunet.ku.dk/work-areas/research/Pages/default.aspx)
   * [🟡 UCPH RDM Portal](https://kunet.ku.dk/work-areas/research/data/Pages/default.aspx)
 
-***
+## Biomedical Data Life Cycle Stages
 
-* [Biomedical Data Life Cycle](biomedical-data-life-cycle.md)
+* [🟣 Biomedical Data Life Cycle](biomedical-data-life-cycle-stages/biomedical-data-life-cycle.md)
 
 ## Plan & Design
 
