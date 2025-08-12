@@ -21,7 +21,12 @@
 
 ## Research Data Management
 
-* [🟡 Biomedical Data Life Cycle](research-data-management/biomedical-data-life-cycle.md)
+* [🟡 eLearning RDM Videos](research-data-management/seminars/README.md)
+  * [🟡 RDM Module 1](https://www.youtube.com/watch?v=wK4o7iliJHQ)
+  * [🟡 RDM Module 2](https://www.youtube.com/watch?v=OvEHYCSmzCA)
+  * [🟡 RDM Module 3](https://youtu.be/tvs5_X5rn8w)
+  * [🟡 Horizon Europe DMP ](https://deic.dk/da/event/webinar-14062023)
+  * [🟡 Organize Your Data](https://www.youtube.com/watch?v=YslfY4W-NAg)
 * [🟡 RDM Hub](research-data-management/rdm-hub/README.md)
   * [🟡 Guidance  & Checklist](research-data-management/rdm-hub/research-planning.md)
   * [🟡 FAIR Principles](research-data-management/rdm-hub/fair-principles.md)
@@ -30,12 +35,10 @@
   * [🟡 Research Project Process](research-data-management/rdm-hub/research-process.md)
   * [🟡 UCPH Research Portal](https://kunet.ku.dk/work-areas/research/Pages/default.aspx)
   * [🟡 UCPH RDM Portal](https://kunet.ku.dk/work-areas/research/data/Pages/default.aspx)
-* [🟡 eLearning RDM Videos](research-data-management/seminars/README.md)
-  * [🟡 RDM Module 1](https://www.youtube.com/watch?v=wK4o7iliJHQ)
-  * [🟡 RDM Module 2](https://www.youtube.com/watch?v=OvEHYCSmzCA)
-  * [🟡 RDM Module 3](https://youtu.be/tvs5_X5rn8w)
-  * [🟡 Horizon Europe DMP ](https://deic.dk/da/event/webinar-14062023)
-  * [🟡 Organize Your Data](https://www.youtube.com/watch?v=YslfY4W-NAg)
+
+***
+
+* [Biomedical Data Life Cycle](biomedical-data-life-cycle.md)
 
 ## Plan & Design
 
