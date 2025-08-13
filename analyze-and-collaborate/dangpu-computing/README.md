@@ -44,5 +44,5 @@ This shared HPC infrastructure enhances computational capacity across the **Facu
 
 ***
 
-**For more information:** Contact **Sen Li** or visit the DanGPU website.
+**For more information:** Contact **Sen Li** or visit the [DanGPU website](https://sgn102.pages.ku.dk/a-not-long-tour-of-dangpu/).
 

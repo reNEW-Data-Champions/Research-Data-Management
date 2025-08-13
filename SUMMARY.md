@@ -128,6 +128,7 @@
 
 ## Biomedical Resources
 
+* [🟣 Biomedical Tools & Resources](biomedical-resources/biomedical-tools-and-resources.md)
 * [🟣 Quick Guides](biomedical-resources/research-process/README.md)
   * [🟣 Bioimaging Workflows](biomedical-resources/research-process/bioimaging-workflows.md)
   * [🟣 Directory Structure Guide](biomedical-resources/research-process/directory-structure-guide.md)
@@ -143,7 +144,6 @@
   * [🟣 Research Workflows v2](biomedical-resources/research-process/research-workflows-v2.md)
   * [🟣 RDM Directory Structure](biomedical-resources/research-process/file-and-folder-tips.md)
   * [🟣 RODMM Framework](biomedical-resources/research-process/rodmm-framework.md)
-* [🟣 Biomedical Tools & Resources](biomedical-resources/biomedical-tools-and-resources.md)
 
 ## Newsletters
 
