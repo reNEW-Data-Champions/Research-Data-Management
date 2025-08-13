@@ -17,9 +17,9 @@
 
 ## Onboarding at reNEW
 
-* [🟠 Onboarding at reNEW](onboarding-at-renew/research-planning.md)
-* [🟠 DanGPU Computing](onboarding-at-renew/dangpu-computing/README.md)
-  * [🟠 reNEW DanGPU](https://bit.ly/DANGPU)
+* [🟠 Onboarding at reNEW](onboarding-at-renew/research-planning/README.md)
+  * [🟠 DanGPU Computing](onboarding-at-renew/research-planning/dangpu-computing/README.md)
+    * [🟠 reNEW DanGPU](https://bit.ly/DANGPU)
 
 ## Research Data Management
 
@@ -75,10 +75,6 @@
 ## Collect & Create
 
 * [Collect & Create Stage](collect-and-create/collect-and-create-stage.md)
-* [🟢 Organizing Data Hub](collect-and-create/file-and-folder-tips/README.md)
-  * [🟢 Batch Renaming](collect-and-create/file-and-folder-tips/batch-renaming.md)
-  * [🟢 File and Folder  Structure Tips](collect-and-create/file-and-folder-tips/file-and-folder-tips-i.md)
-  * [🟢 README File Template](collect-and-create/file-and-folder-tips/readme-file-template.md)
 * [🟢 IT Support Hub](collect-and-create/ucph-hpc-guide/README.md)
   * [🟢 UCPH Research IT](https://kunet.ku.dk/work-areas/research/Research%20Infrastructure/research-it/Pages/default.aspx)
   * [🟢 UCPH Labguru Tools](https://bit.ly/LABGURU_1)
@@ -89,17 +85,21 @@
   * [🟢  OMERO - Import of images](https://youtu.be/wnw-woX9OxI?si=fLs-Ma0L0Et95t-g)
   * [🟢 OMERO Using OMERO.figure](https://youtu.be/YeCFaB7VAAQ?si=geIOjeWQmAgoxNE9)
   * [🟢 Open and standardised imaging data](https://embl-ebi.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=d06b66c7-1cec-487b-9ce9-b2eb00f71b13)
+* [🟢 Organizing Data Hub](collect-and-create/file-and-folder-tips/README.md)
+  * [🟢 Batch Renaming](collect-and-create/file-and-folder-tips/batch-renaming.md)
+  * [🟢 File and Folder  Structure Tips](collect-and-create/file-and-folder-tips/file-and-folder-tips-i.md)
+  * [🟢 README File Template](collect-and-create/file-and-folder-tips/readme-file-template.md)
 
 ## Analyze & Collaborate
 
 * [Analyze & Collaborate Stage](analyze-and-collaborate/analyze-and-collaborate-stage.md)
-* [🟤 Data Storage & Collaboration](analyze-and-collaborate/data-storage-and-collaboration.md)
 * [🟤 Compliance Hub](analyze-and-collaborate/gdpr-for-researchers/README.md)
   * [🟤 Data Protection Agency](analyze-and-collaborate/gdpr-for-researchers/data-protection-agency.md)
   * [🟤 GDPR Resouces](https://kunet.ku.dk/work-areas/research/data/personal-data/Pages/default.aspx)
   * [🟤 Project Like Mine](https://bit.ly/GDPR_PLM)
 * [🟤 DanGPU Computing](analyze-and-collaborate/dangpu-computing/README.md)
   * [🟤 reNEW DanGPU](https://bit.ly/DANGPU)
+* [🟤 Data Storage & Collaboration](analyze-and-collaborate/data-storage-and-collaboration.md)
 
 ## Evaluate & Archive
 
