@@ -20,6 +20,7 @@
 * [🟠 Onboarding at reNEW](onboarding-at-renew/research-planning/README.md)
   * [🟠 DanGPU Computing](onboarding-at-renew/research-planning/dangpu-computing/README.md)
     * [🟠 reNEW DanGPU](https://bit.ly/DANGPU)
+  * [🟠 Training, Course, and Event Resources](onboarding-at-renew/research-planning/training-course-and-event-resources.md)
 
 ## Research Data Management
 
