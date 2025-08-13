@@ -3,7 +3,7 @@
 ## Overview and Welcome
 
 * [🔵 Data Champions at reNEW](README.md)
-* [🔵 BM / reNEW Websites](overview-and-welcome/renew-websites/README.md)
+* [🔵 BMI / reNEW Websites](overview-and-welcome/renew-websites/README.md)
   * [🌎 BMI Website](https://bmi.ku.dk/english/)
   * [🌎 BMI Onboarding](https://kunet.ku.dk/faculty-and-department/bmi/about/epartment_documents/Pages/default.aspx#collapseMSOZoneCell_WebPartWPQ9)
   * [🌎 reNEW KUnet](https://kunet.ku.dk/faculty-and-department/renew/Pages/default.aspx)
@@ -18,6 +18,8 @@
 ## Onboarding at reNEW
 
 * [🟠 Onboarding at reNEW](onboarding-at-renew/research-planning.md)
+* [🟠 DanGPU Computing](onboarding-at-renew/dangpu-computing/README.md)
+  * [🟠 reNEW DanGPU](https://bit.ly/DANGPU)
 
 ## Research Data Management
 
@@ -43,16 +45,9 @@
 ## Plan & Design
 
 * [Plan & Design Stage](plan-and-design/plan-and-design-stage.md)
-* [🔴 Elixir Hub](plan-and-design/what-is-elixir/README.md)
-  * [🔴 RDM Guide for Life Sciences](https://bit.ly/RDM_GUIDE)
-  * [🔴 RDM Kit for Life Sciences](https://bit.ly/RDM_Kit)
-  * [🔴 RDM Kit for Single-cell sequencing](https://bit.ly/rdm-scs)
-  * [🔴 RDM Kit for Bioimaging](https://rdmkit.elixir-europe.org/bioimaging_data)
-  * [🔴 RDM Kit for Bioinformatics](https://rdmkit.elixir-europe.org/structural_bioinformatics)
-  * [🔴 RDM Kit for Human Data](https://bit.ly/RDN-Human_Data)
-  * [🔴 RDM Kit for Data Repository](https://rdmkit.elixir-europe.org/data_publication)
-  * [🔴 RDM Kit for Documentation and Metadata](https://bit.ly/RDMKit-Metadata)
-* [🔴 Templates Hub](plan-and-design/dmp-templates/README.md)
+* [🔴 DMP Guide Sheet](plan-and-design/dmp-guide-sheet/README.md)
+  * [🔴 DeiC DMP Online](https://dmp.deic.dk/)
+* [🔴 DMP Templates Hub](plan-and-design/dmp-templates/README.md)
   * [🔴 UCPH DMP Template](plan-and-design/dmp-templates/ucph.md)
   * [🔴 EU Grant Templates](plan-and-design/dmp-templates/eu-grants/README.md)
     * [🔴 ERC DMP](plan-and-design/dmp-templates/eu-grants/erc-dmp.md)
@@ -67,8 +62,15 @@
     * [🔴 ChiPseq ATAC Sequencing](plan-and-design/dmp-templates/genomics/chipseq-atac-sequencing.md)
     * [🔴 CUT and RUN/CUT and TAG Sequencing](plan-and-design/dmp-templates/genomics/cut-and-run-cut-and-tag-sequencing.md)
     * [🔴 Whole Genome Sequencing](plan-and-design/dmp-templates/genomics/whole-genome-sequencing.md)
-* [🔴 DMP Guide Sheet](plan-and-design/dmp-guide-sheet/README.md)
-  * [🔴 DeiC DMP Online](https://dmp.deic.dk/)
+* [🔴 Elixir Resources Hub](plan-and-design/what-is-elixir/README.md)
+  * [🔴 RDM Guide for Life Sciences](https://bit.ly/RDM_GUIDE)
+  * [🔴 RDM Kit for Life Sciences](https://bit.ly/RDM_Kit)
+  * [🔴 RDM Kit for Single-cell sequencing](https://bit.ly/rdm-scs)
+  * [🔴 RDM Kit for Bioimaging](https://rdmkit.elixir-europe.org/bioimaging_data)
+  * [🔴 RDM Kit for Bioinformatics](https://rdmkit.elixir-europe.org/structural_bioinformatics)
+  * [🔴 RDM Kit for Human Data](https://bit.ly/RDN-Human_Data)
+  * [🔴 RDM Kit for Data Repository](https://rdmkit.elixir-europe.org/data_publication)
+  * [🔴 RDM Kit for Documentation and Metadata](https://bit.ly/RDMKit-Metadata)
 
 ## Collect & Create
 
@@ -78,7 +80,6 @@
   * [🟢 File and Folder  Structure Tips](collect-and-create/file-and-folder-tips/file-and-folder-tips-i.md)
   * [🟢 README File Template](collect-and-create/file-and-folder-tips/readme-file-template.md)
 * [🟢 IT Support Hub](collect-and-create/ucph-hpc-guide/README.md)
-  * [🟢 Archive vs. Backup](collect-and-create/ucph-hpc-guide/archive-vs.-backup.md)
   * [🟢 UCPH Research IT](https://kunet.ku.dk/work-areas/research/Research%20Infrastructure/research-it/Pages/default.aspx)
   * [🟢 UCPH Labguru Tools](https://bit.ly/LABGURU_1)
 * [🟢 OMERO Hub](collect-and-create/seminars/README.md)
@@ -97,6 +98,8 @@
   * [🟤 Data Protection Agency](analyze-and-collaborate/gdpr-for-researchers/data-protection-agency.md)
   * [🟤 GDPR Resouces](https://kunet.ku.dk/work-areas/research/data/personal-data/Pages/default.aspx)
   * [🟤 Project Like Mine](https://bit.ly/GDPR_PLM)
+* [🟤 DanGPU Computing](analyze-and-collaborate/dangpu-computing/README.md)
+  * [🟤 reNEW DanGPU](https://bit.ly/DANGPU)
 
 ## Evaluate & Archive
 
