@@ -4,8 +4,6 @@ description: Data Storage, Collaboration, and HPC Resources at reNEW, UCPH
 
 # 🟤 Data Storage & Collaboration
 
-<div align="left"><figure><img src="../.gitbook/assets/1 (1).jpeg" alt=""><figcaption></figcaption></figure></div>
-
 ## **Data Storage, Collaboration, and HPC Resources at UCPH** <a href="#qkgro3bbmczl" id="qkgro3bbmczl"></a>
 
 ## **Introduction** <a href="#qqgtgcfy7mzs" id="qqgtgcfy7mzs"></a>
@@ -155,11 +153,13 @@ Biomedical research at reNEW often involves large-scale imaging analyses, comput
 * Located in Finland (EuroHPC initiative)
 * Suitable for cutting-edge, large-scale computational needs
 
-### **Special Note: DanGPU HPC at reNEW** <a href="#id-3t2i2s6xpb7x" id="id-3t2i2s6xpb7x"></a>
+## <mark style="color:red;">**Special Note: DAN HPC at reNEW**</mark> <a href="#id-3t2i2s6xpb7x" id="id-3t2i2s6xpb7x"></a>
 
-* Owned by DanStem/reNEW, SUND, and KU
-* Specialized GPU server for **image data analysis**
+* Owned by DanStem/reNEW, SUND, CGEN/ICMM, CPR at SUND, co-admin with KU
+* Shared CPU server for Genomics Data Analysis
+* Specialized GPU node for **image data analysis**
 * Connects large datasets stored on KU-IT storage for advanced computation
+* See[ DAN System User Guide](https://sgn102.pages.ku.dk/a-not-long-tour-of-dangpu/) for more information
 
 ### **Access and Support** <a href="#wids8ul9700p" id="wids8ul9700p"></a>
 

@@ -18,9 +18,9 @@
 ## Onboarding at reNEW
 
 * [🟠 Onboarding at reNEW](onboarding-at-renew/research-planning/README.md)
-  * [🟠 DanGPU Computing](onboarding-at-renew/research-planning/dangpu-computing/README.md)
-    * [🟠 reNEW DanGPU](https://bit.ly/DANGPU)
-  * [🟠 Training, Course, and Event Resources](onboarding-at-renew/research-planning/training-course-and-event-resources.md)
+  * [🟠 DAN HPC at reNEW](onboarding-at-renew/research-planning/dan-hpc-at-renew/README.md)
+    * [🟠 DAN HPC at reNEW](https://bit.ly/DANGPU)
+  * [🟠 Training, & Course Resources](onboarding-at-renew/research-planning/training-and-course-resources.md)
 
 ## Research Data Management
 
@@ -98,8 +98,8 @@
   * [🟤 Data Protection Agency](analyze-and-collaborate/gdpr-for-researchers/data-protection-agency.md)
   * [🟤 GDPR Resouces](https://kunet.ku.dk/work-areas/research/data/personal-data/Pages/default.aspx)
   * [🟤 Project Like Mine](https://bit.ly/GDPR_PLM)
-* [🟤 DanGPU Computing](analyze-and-collaborate/dangpu-computing/README.md)
-  * [🟤 reNEW DanGPU](https://bit.ly/DANGPU)
+* [🟤 DAN HPC at reNEW](analyze-and-collaborate/dan-hpc-at-renew/README.md)
+  * [🟤 DAN HPC at reNEW](https://bit.ly/DANGPU)
 * [🟤 Data Storage & Collaboration](analyze-and-collaborate/data-storage-and-collaboration.md)
 
 ## Evaluate & Archive
