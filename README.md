@@ -15,7 +15,7 @@ This platform is your central hub for **Research Data Management (RDM)** support
 This site is structured to offer a comprehensive, easy-to-follow path through the core elements of research data management:
 
 * **Onboarding support** for new researchers
-* **Institutional policies** and **funder requirements**
+* **UCPH policies** and **funder requirements**
 * **Best practices** across the research lifecycle
 * **FAIR data principles** (Findable, Accessible, Interoperable, Reusable)
 
