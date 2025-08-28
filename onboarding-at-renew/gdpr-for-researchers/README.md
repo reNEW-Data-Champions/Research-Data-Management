@@ -2,7 +2,7 @@
 description: GDPR for Researchers
 ---
 
-# 🟤 Compliance Hub
+# 🔴 Compliance Hub
 
 ## **GDPR for Researchers**
 
