@@ -2,7 +2,7 @@
 description: Tools & Technology
 ---
 
-# 🟢 OMERO Workflows
+# 🟢 OMERO Hub
 
 ## **OMERO Support**
 

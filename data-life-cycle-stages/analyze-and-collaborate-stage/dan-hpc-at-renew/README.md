@@ -15,7 +15,7 @@ layout:
     visible: true
 ---
 
-# 🟤 DanGPU Computing
+# 🟤 DAN HPC at reNEW
 
 ## DAN HPC System Overview
 

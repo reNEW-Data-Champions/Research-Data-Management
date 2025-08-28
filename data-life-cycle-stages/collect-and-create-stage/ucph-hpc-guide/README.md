@@ -2,7 +2,7 @@
 description: Tools & Technology
 ---
 
-# 🟢 IT & HPC Workflows
+# 🟢 IT Support Hub
 
 ## **UCPH IT & HPC Guides**
 
