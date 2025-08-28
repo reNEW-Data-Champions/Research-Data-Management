@@ -108,8 +108,7 @@
 
 ## Biomedical Resources
 
-* [🟣 Biomedical Tools & Resources](biomedical-resources/biomedical-tools-and-resources.md)
-* [🟣 Quick Guides](biomedical-resources/research-process/README.md)
+* [🟣 Informational Guides](biomedical-resources/research-process/README.md)
   * [🟣 Bioimaging Workflows](biomedical-resources/research-process/bioimaging-workflows.md)
   * [🟣 Directory Structure Guide](biomedical-resources/research-process/directory-structure-guide.md)
   * [🟣 Directory & Naming Guide - Side 1](biomedical-resources/research-process/directory-and-naming-guide-side-1.md)
