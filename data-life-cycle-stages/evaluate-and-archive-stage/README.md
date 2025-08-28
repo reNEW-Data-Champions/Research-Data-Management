@@ -1,6 +1,5 @@
 ---
 description: Evaluate & Archive Stage
-icon: dna
 layout:
   width: wide
   title:
@@ -17,9 +16,9 @@ layout:
     visible: true
 ---
 
-# Evaluate & Archive Stage
+# ⚪ Evaluate & Archive Stage
 
-<figure><img src="../.gitbook/assets/Evaluate and Archive.jpg" alt=""><figcaption><p>Evaluate &#x26; Archive Stage</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Evaluate and Archive.jpg" alt=""><figcaption><p>Evaluate &#x26; Archive Stage</p></figcaption></figure>
 
 ## **Evaluate and Archive Stage – Summary Table**
 

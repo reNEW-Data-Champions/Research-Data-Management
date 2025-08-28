@@ -1,6 +1,5 @@
 ---
 description: Collect & Create Stage
-icon: bin-bottles
 layout:
   width: wide
   title:
@@ -17,9 +16,9 @@ layout:
     visible: true
 ---
 
-# Collect & Create Stage
+# 🟢 Collect & Create Stage
 
-<figure><img src="../.gitbook/assets/15 (1).jpeg" alt=""><figcaption><p>Collect &#x26; Create Stage</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/15 (1).jpeg" alt=""><figcaption><p>Collect &#x26; Create Stage</p></figcaption></figure>
 
 ## **Collect & Create Stage — Detailed Summary Table**
 

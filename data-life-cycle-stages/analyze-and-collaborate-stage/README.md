@@ -1,6 +1,5 @@
 ---
 description: Analyze & Collaborate Stage
-icon: chart-line
 layout:
   width: wide
   title:
@@ -17,9 +16,9 @@ layout:
     visible: true
 ---
 
-# Analyze & Collaborate Stage
+# 🟤 Analyze & Collaborate Stage
 
-<figure><img src="../.gitbook/assets/0 (1) (1).jpeg" alt=""><figcaption><p>Analyze &#x26; Collaborate Stage</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/0 (1) (1).jpeg" alt=""><figcaption><p>Analyze &#x26; Collaborate Stage</p></figcaption></figure>
 
 ## **Analyze and Collaborate Stage – Summary Table**
 

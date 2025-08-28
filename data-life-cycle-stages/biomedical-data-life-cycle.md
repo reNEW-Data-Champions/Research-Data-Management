@@ -16,7 +16,7 @@ layout:
     visible: true
 ---
 
-# 🟣 Biomedical Data Life Cycle
+# 🟠 Biomedical Data Life Cycle
 
 <figure><img src="../.gitbook/assets/4 (2).png" alt=""><figcaption><p>Biomedical Data Life Cycle</p></figcaption></figure>
 
