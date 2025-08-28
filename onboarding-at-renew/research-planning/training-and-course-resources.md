@@ -16,7 +16,7 @@ layout:
     visible: true
 ---
 
-# 🟠 Training, Course, and Event Resources
+# 🔴 Training, & Course Resources
 
 ## Training, Course, and Event Resources Table
 

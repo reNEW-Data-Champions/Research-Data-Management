@@ -17,10 +17,10 @@
 
 ## Onboarding at reNEW
 
-* [🟠 Onboarding at reNEW](onboarding-at-renew/research-planning/README.md)
-  * [🟠 DAN HPC at reNEW](onboarding-at-renew/research-planning/dan-hpc-at-renew/README.md)
-    * [🟠 DAN HPC at reNEW](https://bit.ly/DANGPU)
-  * [🟠 Training, & Course Resources](onboarding-at-renew/research-planning/training-and-course-resources.md)
+* [🔴 Onboarding at reNEW](onboarding-at-renew/research-planning/README.md)
+  * [🔴 DAN HPC at reNEW](onboarding-at-renew/research-planning/dan-hpc-at-renew/README.md)
+    * [🔴 DAN HPC at reNEW](https://bit.ly/DANGPU)
+  * [🔴 Training, & Course Resources](onboarding-at-renew/research-planning/training-and-course-resources.md)
 
 ## Research Data Management
 

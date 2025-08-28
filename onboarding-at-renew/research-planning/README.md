@@ -16,7 +16,7 @@ layout:
     visible: true
 ---
 
-# 🟠 Onboarding at reNEW
+# 🔴 Onboarding at reNEW
 
 {% embed url="https://docs.google.com/presentation/d/1EDf4Eokbnx7PqDAODQG_7wCuVGo5GT0ZnBnJcnvKlmw/edit?usp=sharing" fullWidth="false" %}
 
