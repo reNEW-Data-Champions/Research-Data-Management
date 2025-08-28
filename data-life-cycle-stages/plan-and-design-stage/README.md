@@ -1,5 +1,6 @@
 ---
 description: Plan & Design Stage
+icon: '1'
 layout:
   width: wide
   title:
@@ -16,7 +17,7 @@ layout:
     visible: true
 ---
 
-# 🔴 Plan & Design Stage
+# Plan & Design Stage
 
 <figure><img src="../../.gitbook/assets/5.jpeg" alt=""><figcaption><p>Plan &#x26; Design Stage</p></figcaption></figure>
 

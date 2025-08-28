@@ -16,7 +16,7 @@ layout:
     visible: true
 ---
 
-# 🟡 Open Science
+# 🔴 Open Science
 
 ![](<../../.gitbook/assets/0 (1).jpeg>)
 

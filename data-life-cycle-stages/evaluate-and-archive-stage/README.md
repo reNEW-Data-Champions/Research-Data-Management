@@ -1,5 +1,6 @@
 ---
 description: Evaluate & Archive Stage
+icon: '4'
 layout:
   width: wide
   title:
@@ -16,7 +17,7 @@ layout:
     visible: true
 ---
 
-# ⚪ Evaluate & Archive Stage
+# Evaluate & Archive Stage
 
 <figure><img src="../../.gitbook/assets/Evaluate and Archive.jpg" alt=""><figcaption><p>Evaluate &#x26; Archive Stage</p></figcaption></figure>
 

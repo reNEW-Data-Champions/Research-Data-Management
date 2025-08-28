@@ -1,5 +1,6 @@
 ---
 description: Publish & Reuse Stage
+icon: '6'
 layout:
   width: wide
   title:
@@ -16,7 +17,7 @@ layout:
     visible: true
 ---
 
-# 🔵 Publish & Reuse Stage
+# Publish & Reuse Stage
 
 <figure><img src="../../.gitbook/assets/Access and Reuse.jpg" alt=""><figcaption><p>Publish &#x26; Reuse Stage</p></figcaption></figure>
 

@@ -2,7 +2,7 @@
 description: DMP Planning Hub
 ---
 
-# 🔴 Templates Hub
+# 🟡 DMP Templates Hub
 
 ## DMP Templates
 

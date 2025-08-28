@@ -16,7 +16,7 @@ layout:
     visible: true
 ---
 
-# 🔴 DMP Guide Sheet
+# 🟡 DMP Guide Sheet
 
 <div align="center" data-full-width="true"><figure><img src="../../../.gitbook/assets/1.png" alt=""><figcaption><p>Data Management Plans: Guide Sheet</p></figcaption></figure></div>
 

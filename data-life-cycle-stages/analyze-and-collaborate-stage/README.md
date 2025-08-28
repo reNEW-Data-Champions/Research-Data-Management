@@ -1,5 +1,6 @@
 ---
 description: Analyze & Collaborate Stage
+icon: '3'
 layout:
   width: wide
   title:
@@ -16,7 +17,7 @@ layout:
     visible: true
 ---
 
-# 🟤 Analyze & Collaborate Stage
+# Analyze & Collaborate Stage
 
 <figure><img src="../../.gitbook/assets/0 (1) (1).jpeg" alt=""><figcaption><p>Analyze &#x26; Collaborate Stage</p></figcaption></figure>
 

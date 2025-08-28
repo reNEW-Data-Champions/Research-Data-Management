@@ -2,7 +2,7 @@
 description: What is RDM and FAIR?
 ---
 
-# 🟡 RDM, FAIR & Open Science
+# 🔴 Data Management Hub
 
 ## **What is RDM and FAIR?**
 

@@ -1,5 +1,6 @@
 ---
 description: Share & Publish Stage
+icon: '5'
 layout:
   width: wide
   title:
@@ -16,7 +17,7 @@ layout:
     visible: true
 ---
 
-# 🟠 Share & Disseminate Stage
+# Share & Disseminate Stage
 
 <figure><img src="../../.gitbook/assets/Share and Disseminate.jpg" alt=""><figcaption><p>Share &#x26; Publish Stage</p></figcaption></figure>
 
