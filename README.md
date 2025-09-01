@@ -2,7 +2,7 @@
 description: Overview and Welcome
 ---
 
-# 🔵 Data Champions at reNEW
+# 🔴 Data Champions at reNEW
 
 ## Welcome to the reNEW Research Data Management Platform
 
