@@ -1,8 +1,22 @@
 ---
 description: Research Open Data Management Matrix (RODMM Framework)
+layout:
+  width: wide
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
-# 🟣 RODMM Framework
+# 🔵 RODMM Framework
 
 ## **The Research Open Data Management Matrix**
 

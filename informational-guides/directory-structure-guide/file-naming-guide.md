@@ -1,7 +1,7 @@
 ---
 description: File Naming Guide
 layout:
-  width: default
+  width: wide
   title:
     visible: true
   description:
@@ -16,6 +16,6 @@ layout:
     visible: true
 ---
 
-# 🟣 File Naming Guide
+# 🔵 File Naming Guide
 
 <figure><img src="../../.gitbook/assets/File_Naming_Guidelines.jpg" alt=""><figcaption></figcaption></figure>

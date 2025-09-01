@@ -1,7 +1,7 @@
 ---
 description: Organizing Your Data
 layout:
-  width: default
+  width: wide
   title:
     visible: true
   description:
@@ -16,6 +16,6 @@ layout:
     visible: true
 ---
 
-# 🟣 RDM Directory Structure
+# 🔵 RDM Directory Structure
 
 <div data-full-width="false"><figure><img src="../../.gitbook/assets/RDM_Checklist_Directory.jpg" alt=""><figcaption></figcaption></figure></div>

@@ -1,7 +1,7 @@
 ---
 description: Directory Structure Guide
 layout:
-  width: default
+  width: wide
   title:
     visible: true
   description:
@@ -16,6 +16,6 @@ layout:
     visible: true
 ---
 
-# 🟣 Directory Structure Guide
+# 🔵 Directory Structure Guide
 
 <figure><img src="../../.gitbook/assets/Directory_Structure.jpg" alt=""><figcaption></figcaption></figure>
