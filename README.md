@@ -1,69 +1,47 @@
 ---
-description: Overview and Welcome
+description: Onboarding at reNEW
+layout:
+  width: wide
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
-# 🔴 Data Champions at reNEW
+# 🟠 Onboarding at reNEW
 
-## Welcome to the reNEW Research Data Management Platform
+## Onboarding for reNEW Researchers.
 
-### This platform is your central hub for **Research Data Management (RDM)** support at _reNEW_. Whether you're a new researcher getting started or a senior scientist refining your workflows, this site is designed to help you navigate RDM policies, practices, and tools with clarity and confidence.
+Welcome to reNEW. As a newly employed researcher, you are encouraged to engage with our Research Data Management (RDM) framework from the outset of your project.
 
-***
+To support your onboarding, this platform provides a structured introduction to the core elements of responsible data management, including guidance on UCPH policies, FAIR data principles, and funder requirements. The resources are designed to help you plan, manage, and share your data with clarity and confidence.
 
-## Getting Started with RDM at reNEW
+As part of your orientation, please review the following two introductory presentations:
 
-This site is structured to offer a comprehensive, easy-to-follow path through the core elements of research data management:
+* **Promoting Good Research Data Management through the Use of Data Champions**\
+  This is an overview of how peer-led RDM support is embedded across reNEW to improve reproducibility, compliance, and data culture.
+* **Data Management Plan (DMP) Seminar**\
+  A short introduction to what a DMP is, why it matters, and how to create one in alignment with UCPH and funder expectations.
 
-* **Onboarding support** for new researchers
-* **UCPH policies** and **funder requirements**
-* **Best practices** across the research lifecycle
-* **FAIR data principles** (Findable, Accessible, Interoperable, Reusable)
+These materials will help you learn best practices and connect you to the local support network, including the Data Steward and reNEW Data Champions.
 
-You’ll also find domain-specific guidance and biomedical resources tailored to reNEW’s research focus:
-
-* Sequencing data templates
-* Platform-specific documentation
-* Links to research group data portals
-
-To ensure alignment with institutional standards, the platform links directly to the **UCPH Research Portal**—your authoritative source for RDM tools, services, and policy compliance.
-
-> **Need help?**\
-> In-person consultations with the Data Steward are available every **Wednesday from 14:00 to 15:00**, or by appointment.\
-> **Contact:** _Richard Dennis_
+For questions or support, please contact:\
+**Richard Dennis**\
+Data Steward, reNEW\
+Available Wednesdays 14:00–15:00, or by appointment.
 
 ***
 
-## Introduction to the Data Champions Program
+{% embed url="https://docs.google.com/presentation/d/1EDf4Eokbnx7PqDAODQG_7wCuVGo5GT0ZnBnJcnvKlmw/edit?usp=sharing" fullWidth="false" %}
 
-The **reNEW Data Champions** are a team of volunteer researchers trained to provide **peer-to-peer RDM support**. They aim to make data management more accessible, consistent, and embedded across reNEW.
 
-### What they support:
 
-* Helping colleagues organise, store, and share data effectively
-* Promoting compliance with **legal**, **institutional**, and **funder** requirements
-* Supporting the adoption of the **FAIR principles**
-
-The Champions work closely with researchers to implement best practices that improve the quality and longevity of research outputs.
-
-***
-
-## Building a Responsible Data Culture at reNEW
-
-By fostering a collaborative approach to RDM, the Data Champions help strengthen research integrity and sustainability across the Node. Their impact includes:
-
-* Enhancing **research reproducibility** and **data integrity**
-* Promoting **collaboration** and responsible **data sharing**
-* Ensuring long-term value and accessibility of research data
-
-Through these efforts, the Data Champions contribute to a more transparent, efficient, and future-proof research environment within reNEW.
-
-***
-
-## Contact & Support
-
-Please don't hesitate to contact me if you need support with any aspect of research data management, including developing a DMP, improving your data workflows, or understanding requirements.
-
-**Contact:**\
-Richard Dennis\
-&#xNAN;_&#x44;ata Steward, reNEW_ \
-Available Wednesdays, 14:00–15:00, or by appointment
+{% embed url="https://docs.google.com/presentation/d/1ryuNYL0PftwsndEKAbbwaXTB6emPWmhvwO_gKkRsoyI/edit?usp=sharing" fullWidth="false" %}

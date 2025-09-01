@@ -1,10 +1,9 @@
 # Table of contents
 
-## Data Champions  at reNEW
+## Onboarding at reNEW
 
-* [🔴 Data Champions at reNEW](README.md)
-* [🔴 Onboarding at reNEW](data-champions-at-renew/research-planning.md)
-* [🔴 BMI / reNEW Websites](data-champions-at-renew/renew-websites/README.md)
+* [🟠 Onboarding at reNEW](README.md)
+* [🟠 BMI / reNEW Websites](onboarding-at-renew/renew-websites/README.md)
   * [🌎 BMI Website](https://bmi.ku.dk/english/)
   * [🌎 BMI Onboarding](https://kunet.ku.dk/faculty-and-department/bmi/about/epartment_documents/Pages/default.aspx#collapseMSOZoneCell_WebPartWPQ9)
   * [🌎 reNEW KUnet](https://kunet.ku.dk/faculty-and-department/renew/Pages/default.aspx)
@@ -15,6 +14,10 @@
   * [🌎 reNEW DanGPU](https://bit.ly/DANGPU)
   * [🌎 reNEW Flow Cy](https://kunet.ku.dk/faculty-and-department/renew/Labs%20and%20Research%20Platforms/Research%20Platforms/Flow%20Cytometry%20Platform/Pages/default.aspx)
   * [🌎 reNEW Publications](https://publication.renew-platforms.dk/)
+
+## Data Champions  at reNEW
+
+* [🔴 Data Champions at reNEW](<README (1).md>)
 * [🔴 Data Protection Hub](data-champions-at-renew/gdpr-for-researchers/README.md)
   * [🔴 Data Protection Agency](data-champions-at-renew/gdpr-for-researchers/data-protection-agency.md)
   * [🔴 GDPR Guide](https://kunet.ku.dk/work-areas/research/data/personal-data/Pages/default.aspx)
@@ -108,8 +111,8 @@
 * [🟣 Informational Guides](biomedical-resources/research-process/README.md)
   * [🟣 Bioimaging Workflows](biomedical-resources/research-process/bioimaging-workflows.md)
   * [🟣 Directory Structure Guide](biomedical-resources/research-process/directory-structure-guide.md)
-  * [🟣 Directory & Naming Guide - Side 1](biomedical-resources/research-process/directory-and-naming-guide-side-1.md)
-  * [🟣 Directory & Naming Guide - Side 2](biomedical-resources/research-process/directory-and-naming-guide-side-2.md)
+  * [🟣 Naming Guide - Side 1](biomedical-resources/research-process/naming-guide-side-1.md)
+  * [🟣 Naming Guide - Side 2](biomedical-resources/research-process/naming-guide-side-2.md)
   * [🟣 FAIR Principles](biomedical-resources/research-process/fair-principles.md)
   * [🟣 File Naming Guide](biomedical-resources/research-process/file-naming-guide.md)
   * [🟣 HPC Quick Guide](biomedical-resources/research-process/ucph-hpc-quick-guide.md)
