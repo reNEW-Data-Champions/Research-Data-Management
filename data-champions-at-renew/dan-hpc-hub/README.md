@@ -15,7 +15,7 @@ layout:
     visible: true
 ---
 
-# 🔴 DAN HPC at reNEW
+# 🔴 DAN HPC Hub
 
 ## DAN HPC System Overview
 

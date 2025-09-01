@@ -20,11 +20,11 @@ layout:
 
 ## Onboarding for reNEW Researchers.
 
-Welcome to reNEW. As a newly employed researcher, you are encouraged to engage with our Research Data Management (RDM) framework from the outset of your project.
+### Welcome to reNEW. As a newly employed researcher, you are encouraged to engage with our Research Data Management (RDM) framework from the outset of your project.
 
-To support your onboarding, this platform provides a structured introduction to the core elements of responsible data management, including guidance on UCPH policies, FAIR data principles, and funder requirements. The resources are designed to help you plan, manage, and share your data with clarity and confidence.
+### To support your onboarding, this platform provides a structured introduction to the core elements of responsible data management, including guidance on UCPH policies, FAIR data principles, and funder requirements. The resources are designed to help you plan, manage, and share your data with clarity and confidence.
 
-As part of your orientation, please review the following two introductory presentations:
+### As part of your orientation, please review the following two introductory presentations:
 
 * **Promoting Good Research Data Management through the Use of Data Champions**\
   This is an overview of how peer-led RDM support is embedded across reNEW to improve reproducibility, compliance, and data culture.

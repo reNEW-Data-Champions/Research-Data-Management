@@ -6,7 +6,7 @@ description: Overview and Welcome
 
 ## Welcome to the reNEW Research Data Management Platform
 
-This platform is your central hub for **Research Data Management (RDM)** support at _reNEW_. Whether you're a new researcher getting started or a senior scientist refining your workflows, this site is designed to help you navigate RDM policies, practices, and tools with clarity and confidence.
+### This platform is your central hub for **Research Data Management (RDM)** support at _reNEW_. Whether you're a new researcher getting started or a senior scientist refining your workflows, this site is designed to help you navigate RDM policies, practices, and tools with clarity and confidence.
 
 ***
 

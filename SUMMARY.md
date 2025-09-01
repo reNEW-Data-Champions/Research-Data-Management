@@ -1,10 +1,10 @@
 # Table of contents
 
-## RDM  at reNEW
+## Data Champions  at reNEW
 
 * [🔴 Data Champions at reNEW](README.md)
-* [🔴 Onboarding at reNEW](rdm-at-renew/research-planning.md)
-* [🔴 BMI / reNEW Websites](rdm-at-renew/renew-websites/README.md)
+* [🔴 Onboarding at reNEW](data-champions-at-renew/research-planning.md)
+* [🔴 BMI / reNEW Websites](data-champions-at-renew/renew-websites/README.md)
   * [🌎 BMI Website](https://bmi.ku.dk/english/)
   * [🌎 BMI Onboarding](https://kunet.ku.dk/faculty-and-department/bmi/about/epartment_documents/Pages/default.aspx#collapseMSOZoneCell_WebPartWPQ9)
   * [🌎 reNEW KUnet](https://kunet.ku.dk/faculty-and-department/renew/Pages/default.aspx)
@@ -15,26 +15,26 @@
   * [🌎 reNEW DanGPU](https://bit.ly/DANGPU)
   * [🌎 reNEW Flow Cy](https://kunet.ku.dk/faculty-and-department/renew/Labs%20and%20Research%20Platforms/Research%20Platforms/Flow%20Cytometry%20Platform/Pages/default.aspx)
   * [🌎 reNEW Publications](https://publication.renew-platforms.dk/)
-* [🔴 Compliance Hub](rdm-at-renew/gdpr-for-researchers/README.md)
-  * [🔴 Data Protection Agency](rdm-at-renew/gdpr-for-researchers/data-protection-agency.md)
+* [🔴 Data Protection Hub](data-champions-at-renew/gdpr-for-researchers/README.md)
+  * [🔴 Data Protection Agency](data-champions-at-renew/gdpr-for-researchers/data-protection-agency.md)
   * [🔴 GDPR Guide](https://kunet.ku.dk/work-areas/research/data/personal-data/Pages/default.aspx)
-* [🔴 Data Management Hub](rdm-at-renew/data-management-hub/README.md)
-  * [🔴 eLearning RDM Videos](rdm-at-renew/data-management-hub/seminars/README.md)
+* [🔴 Data Management Hub](data-champions-at-renew/data-management-hub/README.md)
+  * [🔴 eLearning RDM Videos](data-champions-at-renew/data-management-hub/seminars/README.md)
     * [🔴 RDM Module 1](https://www.youtube.com/watch?v=wK4o7iliJHQ)
     * [🔴 RDM Module 2](https://www.youtube.com/watch?v=OvEHYCSmzCA)
     * [🔴 RDM Module 3](https://youtu.be/tvs5_X5rn8w)
     * [🔴 Horizon Europe DMP ](https://deic.dk/da/event/webinar-14062023)
     * [🔴 Organize Your Data](https://www.youtube.com/watch?v=YslfY4W-NAg)
-  * [🔴 Guidance  & Checklist](rdm-at-renew/data-management-hub/research-planning.md)
-  * [🔴 FAIR Principles](rdm-at-renew/data-management-hub/fair-principles.md)
+  * [🔴 Guidance  & Checklist](data-champions-at-renew/data-management-hub/research-planning.md)
+  * [🔴 FAIR Principles](data-champions-at-renew/data-management-hub/fair-principles.md)
   * [🔴 FAIR Principles](https://www.howtofair.dk/)
-  * [🔴 Open Science](rdm-at-renew/data-management-hub/open-science.md)
-  * [🔴 Research Project Process](rdm-at-renew/data-management-hub/research-process.md)
+  * [🔴 Open Science](data-champions-at-renew/data-management-hub/open-science.md)
+  * [🔴 Research Project Process](data-champions-at-renew/data-management-hub/research-process.md)
   * [🔴 UCPH Portal](https://kunet.ku.dk/work-areas/research/Pages/default.aspx)
   * [🔴 UCPH RDM Portal](https://kunet.ku.dk/work-areas/research/data/Pages/default.aspx)
-* [🔴 DAN HPC at reNEW](rdm-at-renew/dan-hpc-at-renew/README.md)
+* [🔴 DAN HPC Hub](data-champions-at-renew/dan-hpc-hub/README.md)
   * [🔴 DAN HPC at reNEW](https://bit.ly/DANGPU)
-* [🔴 Training, & Courses Hub](rdm-at-renew/training-and-courses-hub.md)
+* [🔴 Training, & Courses Hub](data-champions-at-renew/training-and-courses-hub.md)
 
 ## Research Data Life Cycle
 
