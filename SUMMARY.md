@@ -2,7 +2,7 @@
 
 ## Onboarding at reNEW
 
-* [🟠 Onboarding at reNEW](README.md)
+* [🟠 Data Champions at reNEW](README.md)
 * [🟠 BMI / reNEW Websites](onboarding-at-renew/renew-websites/README.md)
   * [🌎 BMI Website](https://bmi.ku.dk/english/)
   * [🌎 BMI Onboarding](https://kunet.ku.dk/faculty-and-department/bmi/about/epartment_documents/Pages/default.aspx#collapseMSOZoneCell_WebPartWPQ9)
@@ -14,10 +14,10 @@
   * [🌎 reNEW DanGPU](https://bit.ly/DANGPU)
   * [🌎 reNEW Flow Cy](https://kunet.ku.dk/faculty-and-department/renew/Labs%20and%20Research%20Platforms/Research%20Platforms/Flow%20Cytometry%20Platform/Pages/default.aspx)
   * [🌎 reNEW Publications](https://publication.renew-platforms.dk/)
+* [🟠 Onboarding at reNEW](<README (1).md>)
 
 ## Data Champions  at reNEW
 
-* [🔴 Data Champions at reNEW](<README (1).md>)
 * [🔴 Data Protection Hub](data-champions-at-renew/gdpr-for-researchers/README.md)
   * [🔴 Data Protection Agency](data-champions-at-renew/gdpr-for-researchers/data-protection-agency.md)
   * [🔴 GDPR Guide](https://kunet.ku.dk/work-areas/research/data/personal-data/Pages/default.aspx)
