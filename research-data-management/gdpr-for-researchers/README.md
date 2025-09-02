@@ -1,5 +1,5 @@
 ---
-description: GDPR for Researchers
+description: Data Protection Hub
 layout:
   width: wide
   title:

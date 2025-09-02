@@ -1,5 +1,5 @@
 ---
-description: Onboarding at reNEW
+description: Training, Course, and Event Resources
 layout:
   width: wide
   title:

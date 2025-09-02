@@ -1,5 +1,5 @@
 ---
-description: RDM Principles & Frameworks
+description: FAIR Principles
 layout:
   width: wide
   title:
