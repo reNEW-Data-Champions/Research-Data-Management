@@ -1,5 +1,5 @@
 ---
-description: The RDMkit from Elixir
+description: Elixir Resources
 layout:
   width: wide
   title:
@@ -16,7 +16,7 @@ layout:
     visible: true
 ---
 
-# 🟢 Elixir Resources Hub
+# 🟢 Elixir Resources
 
 ## **RDM Support Resources (ELIXIR)**
 

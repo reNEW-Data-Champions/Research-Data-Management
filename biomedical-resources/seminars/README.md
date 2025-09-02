@@ -1,5 +1,5 @@
 ---
-description: Tools & Technology
+description: OMERO Resources
 layout:
   width: wide
   title:
@@ -16,7 +16,7 @@ layout:
     visible: true
 ---
 
-# 🟢 OMERO Hub
+# 🟢 OMERO Resources
 
 ## **OMERO Support**
 

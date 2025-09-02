@@ -1,5 +1,5 @@
 ---
-description: Directory & Naming Guide - Side 2
+description: NIH Domain Specific Repostories
 layout:
   width: wide
   title:
@@ -16,6 +16,6 @@ layout:
     visible: true
 ---
 
-# 🔵 Naming Guide - Side 2
+# 🔵 Domain Repostories
 
-<figure><img src="../../.gitbook/assets/Directory and Naming Structure - 2.jpg" alt=""><figcaption></figcaption></figure>
+{% embed url="https://docs.google.com/spreadsheets/d/1HBcvcg0NWxo-FlWKIAJ4YpoKjM46c0YIWZ0yVgGOQ-s/edit?usp=sharing" fullWidth="true" %}

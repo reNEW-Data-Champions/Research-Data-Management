@@ -1,5 +1,19 @@
 ---
 description: What is the European Open Science Cloud and What it means to researchers?
+layout:
+  width: wide
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
 # 🔵 EOSC

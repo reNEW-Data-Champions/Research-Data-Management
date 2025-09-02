@@ -1,5 +1,5 @@
 ---
-description: Directory & Naming Guide - Side 2
+description: Bioimaging Workflows
 layout:
   width: wide
   title:
@@ -16,6 +16,6 @@ layout:
     visible: true
 ---
 
-# 🔵 Naming Guide - Side 2
+# 🔵 Bioimaging Workflows
 
-<figure><img src="../../.gitbook/assets/Directory and Naming Structure - 2.jpg" alt=""><figcaption></figcaption></figure>
+<div align="center" data-full-width="false"><figure><img src="../.gitbook/assets/Bioimaging Workflow.jpg" alt=""><figcaption></figcaption></figure></div>

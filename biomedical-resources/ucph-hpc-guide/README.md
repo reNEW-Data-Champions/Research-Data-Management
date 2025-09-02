@@ -1,5 +1,5 @@
 ---
-description: Tools & Technology
+description: IT Support Resources
 layout:
   width: wide
   title:
@@ -16,7 +16,7 @@ layout:
     visible: true
 ---
 
-# 🟢 IT Support Hub
+# 🟢 IT Support Resources
 
 ## **UCPH IT & HPC Guides**
 
