@@ -14,7 +14,7 @@
   * [🌎 reNEW DanGPU](https://bit.ly/DANGPU)
   * [🌎 reNEW Flow Cy](https://kunet.ku.dk/faculty-and-department/renew/Labs%20and%20Research%20Platforms/Research%20Platforms/Flow%20Cytometry%20Platform/Pages/default.aspx)
   * [🌎 reNEW Publications](https://publication.renew-platforms.dk/)
-* [🟠 Onboarding at reNEW](<README (1).md>)
+* [🟠 Onboarding at reNEW](onboarding-at-renew/onboarding-at-renew.md)
 
 ## Data Champions  at reNEW
 
