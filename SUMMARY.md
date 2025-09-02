@@ -25,60 +25,6 @@
     * [🟠 Horizon Europe DMP ](https://deic.dk/da/event/webinar-14062023)
     * [🟠 Organize Your Data](https://www.youtube.com/watch?v=YslfY4W-NAg)
 
-## Research Data Management
-
-* [🔴 Data Management Hub](research-data-management/data-management-hub/README.md)
-  * [🔴 FAIR Principles](research-data-management/data-management-hub/fair-principles.md)
-  * [🔴 Open Science](research-data-management/data-management-hub/open-science.md)
-  * [🔴 Research Project Process](research-data-management/data-management-hub/research-process.md)
-  * [🔴 FAIR Principles](https://www.howtofair.dk/)
-  * [🔴 UCPH Portal](https://kunet.ku.dk/work-areas/research/Pages/default.aspx)
-  * [🔴 UCPH RDM Portal](https://kunet.ku.dk/work-areas/research/data/Pages/default.aspx)
-* [🔴 Data Protection Hub](research-data-management/gdpr-for-researchers/README.md)
-  * [🔴 Data Protection Agency](research-data-management/gdpr-for-researchers/data-protection-agency.md)
-  * [🔴 GDPR Guide](https://kunet.ku.dk/work-areas/research/data/personal-data/Pages/default.aspx)
-
-## Biomedical Resources
-
-* [🟢 Elixir Resources](biomedical-resources/what-is-elixir/README.md)
-  * [🟢 RDM Guide for Life Sciences](https://bit.ly/RDM_GUIDE)
-  * [🟢 RDM Kit for Life Sciences](https://bit.ly/RDM_Kit)
-  * [🟢 RDM Kit for Single-cell sequencing](https://bit.ly/rdm-scs)
-  * [🟢 RDM Kit for Bioimaging](https://rdmkit.elixir-europe.org/bioimaging_data)
-  * [🟢 RDM Kit for Bioinformatics](https://rdmkit.elixir-europe.org/structural_bioinformatics)
-  * [🟢 RDM Kit for Human Data](https://bit.ly/RDN-Human_Data)
-  * [🟢 RDM Kit for Data Repository](https://rdmkit.elixir-europe.org/data_publication)
-  * [🟢 RDM Kit for Documentation and Metadata](https://bit.ly/RDMKit-Metadata)
-* [🟢 OMERO Resources](biomedical-resources/seminars/README.md)
-  * [🟢 Introduction to OMERO - Long ](https://youtu.be/nSCrMO_c-5s?si=6S4bJX1P5E2GtxHL)
-  * [🟢 Introduction to OMERO - Short](https://youtu.be/y2hnU0HrORw?si=XvO_rr-sG-qCeA51)
-  * [🟢 OMERO Basics and Navigation](https://youtu.be/e3u-Ugd4W7w?si=DB-B2Me3X2OQMPX7)
-  * [🟢  OMERO - Import of images](https://youtu.be/wnw-woX9OxI?si=fLs-Ma0L0Et95t-g)
-  * [🟢 OMERO Using OMERO.figure](https://youtu.be/YeCFaB7VAAQ?si=geIOjeWQmAgoxNE9)
-  * [🟢 Open and standardised imaging data](https://embl-ebi.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=d06b66c7-1cec-487b-9ce9-b2eb00f71b13)
-* [🟢 IT Support Resources](biomedical-resources/ucph-hpc-guide/README.md)
-  * [🟢 UCPH Research IT](https://kunet.ku.dk/work-areas/research/Research%20Infrastructure/research-it/Pages/default.aspx)
-  * [🟢 UCPH Labguru Access](https://unet.ku.dk/work-areas/research/units/SUNDs-toolbox/labguru-eln/Pages/default.aspx)
-
-## Informational Guides
-
-* [🔵 Bioimaging Workflows](informational-guides/bioimaging-workflows.md)
-* [🔵 Directory Structure Guide](informational-guides/directory-structure-guide/README.md)
-  * [🔵 File Naming Guide](informational-guides/directory-structure-guide/file-naming-guide.md)
-  * [🔵 Naming Guide - Side 1](informational-guides/directory-structure-guide/naming-guide-side-1.md)
-  * [🔵 Naming Guide - Side 2](informational-guides/directory-structure-guide/naming-guide-side-2.md)
-  * [🔵 RDM Directory Structure](informational-guides/directory-structure-guide/file-and-folder-tips.md)
-* [🔵 HPC Quick Guide](informational-guides/ucph-hpc-quick-guide.md)
-* [🔵 Guidance  & Checklist](informational-guides/research-planning.md)
-* [🔵 Labguru Quick Guide I](informational-guides/fair-principles.md)
-* [🔵 Labguru Quick Guide II](informational-guides/fair-principles-1.md)
-* [🔵 RDM Guides](informational-guides/rdm-guides/README.md)
-  * [🔵 FAIR Principles](informational-guides/rdm-guides/fair-principles.md)
-  * [🔵 Open Science](informational-guides/rdm-guides/open-science-pillars.md)
-  * [🔵 Research Workflows v1](informational-guides/rdm-guides/research-workflows-v1.md)
-  * [🔵 Research Workflows v2](informational-guides/rdm-guides/research-workflows-v2.md)
-  * [🔵 RODMM Framework](informational-guides/rdm-guides/rodmm-framework.md)
-
 ## Research Data Life Cycle
 
 * [Biomedical Data Life Cycle](data-life-cycle-stages/biomedical-data-life-cycle.md)
@@ -134,6 +80,61 @@
     * [🔵 Domain Repostories](research-data-resources/publish-and-reuse-stage/biomedical-data-repositories/domain-repostories.md)
     * [🔵 EOSC](research-data-resources/publish-and-reuse-stage/biomedical-data-repositories/european-open-science-cloud.md)
     * [🔵 PLOS: Repositories](https://journals.plos.org/plosbiology/s/recommended-repositories)
+
+## Research Data Management
+
+* [🔴 Data Management Hub](research-data-management/data-management-hub/README.md)
+  * [🔴 FAIR Principles](research-data-management/data-management-hub/fair-principles.md)
+  * [🔴 Open Science](research-data-management/data-management-hub/open-science.md)
+  * [🔴 Research Project Process](research-data-management/data-management-hub/research-process.md)
+  * [🔴 FAIR Principles](https://www.howtofair.dk/)
+  * [🔴 UCPH Portal](https://kunet.ku.dk/work-areas/research/Pages/default.aspx)
+  * [🔴 UCPH RDM Portal](https://kunet.ku.dk/work-areas/research/data/Pages/default.aspx)
+* [🔴 Data Protection Hub](research-data-management/gdpr-for-researchers/README.md)
+  * [🔴 Data Protection Agency](research-data-management/gdpr-for-researchers/data-protection-agency.md)
+  * [🔴 GDPR Guide](https://kunet.ku.dk/work-areas/research/data/personal-data/Pages/default.aspx)
+
+## Biomedical Resources
+
+* [🟢 Elixir Resources](biomedical-resources/what-is-elixir/README.md)
+  * [🟢 RDM Guide for Life Sciences](https://bit.ly/RDM_GUIDE)
+  * [🟢 RDM Kit for Life Sciences](https://bit.ly/RDM_Kit)
+  * [🟢 RDM Kit for Single-cell sequencing](https://bit.ly/rdm-scs)
+  * [🟢 RDM Kit for Bioimaging](https://rdmkit.elixir-europe.org/bioimaging_data)
+  * [🟢 RDM Kit for Bioinformatics](https://rdmkit.elixir-europe.org/structural_bioinformatics)
+  * [🟢 RDM Kit for Human Data](https://bit.ly/RDN-Human_Data)
+  * [🟢 RDM Kit for Data Repository](https://rdmkit.elixir-europe.org/data_publication)
+  * [🟢 RDM Kit for Documentation and Metadata](https://bit.ly/RDMKit-Metadata)
+* [🟢 OMERO Resources](biomedical-resources/seminars/README.md)
+  * [🟢 Introduction to OMERO - Long ](https://youtu.be/nSCrMO_c-5s?si=6S4bJX1P5E2GtxHL)
+  * [🟢 Introduction to OMERO - Short](https://youtu.be/y2hnU0HrORw?si=XvO_rr-sG-qCeA51)
+  * [🟢 OMERO Basics and Navigation](https://youtu.be/e3u-Ugd4W7w?si=DB-B2Me3X2OQMPX7)
+  * [🟢  OMERO - Import of images](https://youtu.be/wnw-woX9OxI?si=fLs-Ma0L0Et95t-g)
+  * [🟢 OMERO Using OMERO.figure](https://youtu.be/YeCFaB7VAAQ?si=geIOjeWQmAgoxNE9)
+  * [🟢 Open and standardised imaging data](https://embl-ebi.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=d06b66c7-1cec-487b-9ce9-b2eb00f71b13)
+* [🟢 IT Support Resources](biomedical-resources/ucph-hpc-guide/README.md)
+  * [🟢 UCPH Research IT](https://kunet.ku.dk/work-areas/research/Research%20Infrastructure/research-it/Pages/default.aspx)
+  * [🟢 UCPH Labguru Access](https://unet.ku.dk/work-areas/research/units/SUNDs-toolbox/labguru-eln/Pages/default.aspx)
+
+## Informational Guides
+
+* [🔵 Bioimaging Workflows](informational-guides/bioimaging-workflows.md)
+* [🔵 Directory Structure Resources](informational-guides/directory-structure-resources/README.md)
+  * [🔵 Directory Structure Guide](informational-guides/directory-structure-resources/directory-structure-guide.md)
+  * [🔵 File Naming Guide](informational-guides/directory-structure-resources/file-naming-guide.md)
+  * [🔵 Naming Guide - Side 1](informational-guides/directory-structure-resources/naming-guide-side-1.md)
+  * [🔵 Naming Guide - Side 2](informational-guides/directory-structure-resources/naming-guide-side-2.md)
+  * [🔵 RDM Directory Structure](informational-guides/directory-structure-resources/file-and-folder-tips.md)
+* [🔵 HPC Quick Guide](informational-guides/ucph-hpc-quick-guide.md)
+* [🔵 Guidance  & Checklist](informational-guides/research-planning.md)
+* [🔵 Labguru Quick Guide I](informational-guides/fair-principles.md)
+* [🔵 Labguru Quick Guide II](informational-guides/fair-principles-1.md)
+* [🔵 RDM Guides](informational-guides/rdm-guides/README.md)
+  * [🔵 FAIR Principles](informational-guides/rdm-guides/fair-principles.md)
+  * [🔵 Open Science](informational-guides/rdm-guides/open-science-pillars.md)
+  * [🔵 Research Workflows v1](informational-guides/rdm-guides/research-workflows-v1.md)
+  * [🔵 Research Workflows v2](informational-guides/rdm-guides/research-workflows-v2.md)
+  * [🔵 RODMM Framework](informational-guides/rdm-guides/rodmm-framework.md)
 
 ## Newsletters
 
