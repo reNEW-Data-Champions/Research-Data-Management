@@ -1,5 +1,5 @@
 ---
-description: Overview and Welcome
+description: Overview of the Data Champions Program at reNEW
 ---
 
 # 🔴 Data Champions at reNEW

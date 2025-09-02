@@ -18,25 +18,80 @@ layout:
 
 # 🟠 Onboarding at reNEW
 
-## Onboarding for reNEW Researchers.
+## **Welcome to reNEW: Research Data Management Onboarding.**
 
-Welcome to reNEW. As a newly employed researcher, you are encouraged to engage with our Research Data Management (RDM) framework from the outset of your project.
+Welcome to the **reNEW Research Data Management (RDM) Platform** — your central hub for tools, guidance, and support throughout the research data lifecycle. Whether you're a new researcher just getting started or a senior scientist refining your workflows, this platform is designed to help you confidently navigate institutional policies, funder requirements, and best practices in responsible data management.
 
-To support your onboarding, this platform provides a structured introduction to the core elements of responsible data management, including guidance on UCPH policies, FAIR data principles, and funder requirements. The resources are designed to help you plan, manage, and share your data with clarity and confidence.
+***
 
-As part of your orientation, please review the following two introductory presentations:
+## **Getting Started as a New Researcher at reNEW**
+
+As a newly employed researcher at reNEW, it is essential to engage with RDM practices from the beginning of your project. This platform provides a structured onboarding path, guiding you through the core components of responsible data management, including:
+
+* UCPH research data policies
+* Funder-specific requirements
+* Best practices for handling and sharing research data
+* Adoption of the FAIR principles (Findable, Accessible, Interoperable, Reusable)
+
+To support your onboarding, please begin by reviewing the following two introductory presentations:
 
 * **Promoting Good Research Data Management through the Use of Data Champions**\
-  This is an overview of how peer-led RDM support is embedded across reNEW to improve reproducibility, compliance, and data culture.
+  An overview of reNEW’s peer-led support system that promotes reproducibility, compliance, and a shared culture of responsible data stewardship.
 * **Data Management Plan (DMP) Seminar**\
-  A short introduction to what a DMP is, why it matters, and how to create one in alignment with UCPH and funder expectations.
+  A short introduction to DMPs, explaining their purpose and how to develop one that meets both UCPH and funder expectations.
 
-These materials will help you learn best practices and connect you to the local support network, including the Data Steward and reNEW Data Champions.
+These materials will help you establish good practices from day one and connect you with the local RDM support network.
 
-For questions or support, please contact:\
+***
+
+## **What You’ll Find on This Platform**
+
+The reNEW RDM Platform is structured to offer a comprehensive, easy-to-navigate experience, including:
+
+* **Onboarding resources** for new researchers
+* **Institutional policies** and **funder guidelines**
+* **Practical guidance** across all phases of the research lifecycle
+* **Templates and documentation** for domain-specific research (e.g., sequencing data, imaging platforms)
+* **Links to group-specific data portals** and internal workflows
+* **Direct access** to the UCPH Research Portal — the official source for RDM tools, services, and compliance documentation
+
+***
+
+## **reNEW Data Champions Program**
+
+The **reNEW Data Champions** are volunteer researchers trained to provide peer-to-peer RDM support. Their role is to help foster a collaborative, practical, and FAIR-aligned approach to data stewardship within the reNEW community.
+
+#### The Data Champions support you by:
+
+* Helping organize, store, and share data effectively
+* Promoting compliance with legal, institutional, and funder mandates
+* Supporting the adoption and implementation of the FAIR principles
+* Guiding the integration of RDM best practices into your workflows
+
+By embedding these principles into everyday research, the Data Champions contribute to a stronger, more sustainable data culture across the Node.
+
+***
+
+## **Building a Responsible Data Culture**
+
+Responsible data management is a shared responsibility. Through collaborative support and clear standards, reNEW aims to:
+
+* Enhance the reproducibility and integrity of scientific outputs
+* Encourage open, responsible data sharing
+* Ensure long-term preservation, accessibility, and reuse of research data
+* Align with institutional and funder expectations for transparency and data governance
+
+***
+
+## **Need Help? Contact & Support**
+
+You are encouraged to contact us for questions, support, or one-on-one guidance on any aspect of research data management — including developing a DMP, organizing your data, or meeting funder requirements.
+
+**Contact:**\
 **Richard Dennis**\
 Data Steward, reNEW\
-Available Wednesdays 14:00–15:00, or by appointment.
+Available every Wednesday from 14:00–15:00 (in person) or by appointment\
+Email: \[Insert contact email if available]
 
 ***
 
