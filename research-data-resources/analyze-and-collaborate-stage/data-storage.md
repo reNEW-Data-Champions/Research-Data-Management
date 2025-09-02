@@ -1,8 +1,22 @@
 ---
 description: Data Storage, Collaboration, and HPC Resources at reNEW, UCPH
+layout:
+  width: wide
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
-# 🟤 Data Storage & Collaboration
+# 🟤 Data Storage
 
 ## **Data Storage, Collaboration, and HPC Resources at UCPH** <a href="#qkgro3bbmczl" id="qkgro3bbmczl"></a>
 
@@ -13,56 +27,6 @@ Biomedical research at **reNEW – The Novo Nordisk Foundation Center for Stem C
 A critical component of RDM is **data storage management** throughout the **Research Data Lifecycle**. Each stage—from planning to archiving—requires careful consideration of storage infrastructure, data privacy, security protocols, and collaboration needs, especially in projects that involve personal data or multi-institutional teams.
 
 This guide provides an overview of best practices and the University of Copenhagen (UCPH) facilities supporting data storage, sharing, and high-performance computing (HPC) tailored to the needs of biomedical researchers at reNEW.
-
-## **Research Data Lifecycle and Storage Management** <a href="#v35heo2vts1y" id="v35heo2vts1y"></a>
-
-At reNEW, researchers must ensure that **storage planning and security measures** are integrated at every stage of the data lifecycle:
-
-### **1. Plan & Design Stage** <a href="#hqdn7d22emjs" id="hqdn7d22emjs"></a>
-
-Develop a **Data Storage Plan** outlining:
-
-* Storage options
-* Backup strategies
-* Access controls
-* Data classification and risk assessment (mandatory before data collection)\
-  This ensures that legal, ethical, and security requirements are addressed immediately.
-
-### **2. Collect & Create Stage** <a href="#ovi7fqrloevh" id="ovi7fqrloevh"></a>
-
-As you acquire or generate data (e.g., imaging, genomic, patient-derived data), consider:
-
-* Secure data transfer and ingestion
-* Protection of sensitive information
-* Version control and documentation
-* Compliance with **UCPH Information Security Policy** and GDPR
-
-### **3. Analyze & Process Stage** <a href="#d601rndic8ap" id="d601rndic8ap"></a>
-
-Data analysis can require:
-
-* Updated storage and backup strategies
-* High-performance or specialized storage for large-scale analyses
-* Security controls to prevent unauthorized access
-* Traceable workflows for reproducibility
-
-### **4. Evaluate & Archive Stage** <a href="#h432w187gpkp" id="h432w187gpkp"></a>
-
-At project completion:
-
-* Choose suitable repositories (e.g., Zenodo, Dataverse) for sharing
-* Plan long-term preservation to ensure access and transparency.
-* Consider confidentiality and ethical sharing of sensitive data.
-
-## **Information Security and GDPR Compliance** <a href="#chxavlc5zirb" id="chxavlc5zirb"></a>
-
-Handling **personal or sensitive data** is common in biomedical research. Researchers at reNEW must:
-
-* Comply with the [**General Data Protection Regulation (GDPR)**](https://kunet.ku.dk/work-areas/research/data/personal-data/Pages/default.aspx)
-* Adhere to UCPH’s[ **Information Security Policy for Researchers**](https://informationssikkerhed.ku.dk/english/is-policy/)
-* Apply appropriate access controls, encryption, and secure transmission protocols.
-* Conduct [**data classification**](https://kunet.ku.dk/work-areas/research/data/information-security-for-researchers/Pages/default.aspx#collapseMSOZoneCell_WebPartWPQ6) **and** [**risk assessments**](https://kunet.ku.dk/work-areas/research/data/personal-data/impact-assessment/Pages/default.aspx) before data collection.
-* Use only approved UCPH infrastructure for sensitive data.
 
 ## **UCPH Data Storage and Collaboration Solutions** <a href="#xljg3abcaty3" id="xljg3abcaty3"></a>
 

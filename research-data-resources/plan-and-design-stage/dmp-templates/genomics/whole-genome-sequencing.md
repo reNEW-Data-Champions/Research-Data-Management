@@ -2,7 +2,7 @@
 description: Organizing Your Data
 ---
 
-# 🔴 Whole Genome Sequencing
+# 🟡 Whole Genome Sequencing
 
 
 

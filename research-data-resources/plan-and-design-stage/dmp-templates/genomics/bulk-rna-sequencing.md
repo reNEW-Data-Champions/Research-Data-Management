@@ -2,7 +2,7 @@
 description: Organizing Your Data
 ---
 
-# 🔴 Bulk RNA Sequencing
+# 🟡 Bulk RNA Sequencing
 
 
 

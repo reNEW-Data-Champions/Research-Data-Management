@@ -18,36 +18,15 @@ layout:
 
 # 🟡 DMP Guide Sheet
 
-<div align="center" data-full-width="true"><figure><img src="../../../.gitbook/assets/1.png" alt=""><figcaption><p>Data Management Plans: Guide Sheet</p></figcaption></figure></div>
+<div align="center" data-full-width="true"><figure><img src="../../.gitbook/assets/1.png" alt=""><figcaption><p>Data Management Plans: Guide Sheet</p></figcaption></figure></div>
 
 ## Data Management Planning
 
-### **Understanding the Research Data Lifecycle**
+## **Understanding the Research Data Lifecycle**
 
 Effective research data management begins with thoughtful planning and continues throughout the entire research lifecycle. The Research Data Lifecycle is a framework that outlines the major stages involved in managing data, from initial planning to final sharing and reuse. It helps researchers organize, safeguard, and share data in a structured and sustainable way.
 
-### The Research Data Lifecycle
-
-The lifecycle typically consists of the following key stages:
-
-* **Plan and Design**\
-  Define your data needs, documentation standards, storage solutions, and team responsibilities before data collection begins.
-* **Collect and Create**\
-  Generate or acquire data using agreed-upon protocols, ensuring accuracy, consistency, and proper documentation.
-* **Store and Manage**\
-  Ensure data integrity, version control, security, and accessibility throughout the active phase of the research project.
-* **Analyze**\
-  Process and analyze data while maintaining a structured organization and traceability.
-* **Preserve and Archive**\
-  Safeguard final datasets for long-term retention using appropriate formats and metadata standards.
-* **Share and Publish**\
-  Disseminate data through trusted repositories or platforms while considering licensing, access, and ethical obligations.
-* **Access and Reuse**\
-  Enable future discovery and reuse by ensuring that data is findable, well-described, and appropriately licensed.
-
-**Note: While these stages are often presented as a linear sequence, data management is rarely linear in practice. Researchers often move back and forth between stages as the project evolves.**
-
-### What is a Data Management Plan (DMP)?
+## What is a Data Management Plan (DMP)?
 
 A Data Management Plan (DMP) is a formal document that outlines how data will be handled throughout a research project's lifecycle. It describes data collection, storage, documentation, sharing, security, and long-term preservation procedures.
 

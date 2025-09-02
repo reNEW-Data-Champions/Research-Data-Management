@@ -2,7 +2,7 @@
 description: Organizing Your Data
 ---
 
-# 🔴 10X scRNA Sequencing
+# 🟡 10X scRNA Sequencing
 
 
 

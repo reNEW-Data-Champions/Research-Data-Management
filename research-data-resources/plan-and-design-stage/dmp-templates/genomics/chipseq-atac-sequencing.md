@@ -2,7 +2,7 @@
 description: Organizing Your Data
 ---
 
-# 🔴 ChiPseq ATAC Sequencing
+# 🟡 ChiPseq ATAC Sequencing
 
 
 

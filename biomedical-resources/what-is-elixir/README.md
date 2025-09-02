@@ -1,8 +1,22 @@
 ---
 description: The RDMkit from Elixir
+layout:
+  width: wide
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
-# 🟡 Elixir Resources Hub
+# 🟢 Elixir Resources Hub
 
 ## **RDM Support Resources (ELIXIR)**
 

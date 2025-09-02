@@ -2,7 +2,7 @@
 description: Organizing Your Data
 ---
 
-# 🔴 CUT and RUN/CUT and TAG Sequencing
+# 🟡 CUT and RUN/CUT and TAG Sequencing
 
 
 
