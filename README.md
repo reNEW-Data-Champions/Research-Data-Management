@@ -91,7 +91,7 @@ You are encouraged to contact us for questions, support, or one-on-one guidance 
 **Richard Dennis**\
 Data Steward, reNEW\
 Available every Wednesday from 14:00–15:00 (in person) or by appointment\
-Email: \[Insert contact email if available]
+Email: richard.dennis@sund.ku.dk
 
 ***
 
