@@ -16,7 +16,7 @@ layout:
     visible: true
 ---
 
-# 🟢 IT Support Resources
+# 🔴 IT Support Hub
 
 ## **UCPH IT & HPC Guides**
 

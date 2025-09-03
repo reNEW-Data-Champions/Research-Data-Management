@@ -93,6 +93,27 @@
 * [🔴 Data Protection Hub](research-data-management/gdpr-for-researchers/README.md)
   * [🔴 Data Protection Agency](research-data-management/gdpr-for-researchers/data-protection-agency.md)
   * [🔴 GDPR Guide](https://kunet.ku.dk/work-areas/research/data/personal-data/Pages/default.aspx)
+* [🔴 IT Support Hub](research-data-management/ucph-hpc-guide/README.md)
+  * [🔴 UCPH Research IT](https://kunet.ku.dk/work-areas/research/Research%20Infrastructure/research-it/Pages/default.aspx)
+  * [🔴 UCPH Labguru Access](https://unet.ku.dk/work-areas/research/units/SUNDs-toolbox/labguru-eln/Pages/default.aspx)
+
+## Bioinformatics Resources
+
+* [🟣 RDMKit by Elixir ](bioinformatics-resources/what-is-elixir/README.md)
+  * [🟣 RDM Kit for Life Sciences](https://rdmkit.elixir-europe.org/)
+  * [🟣 RDM Kit for Data Repository](https://rdmkit.elixir-europe.org/data_publication)
+  * [🟣 RDM for Bioinformatics](https://rdmkit.elixir-europe.org/structural_bioinformatics)
+
+## Bioimaging Resources
+
+* [🟤 OMERO Resources](bioimaging-resources/seminars/README.md)
+  * [🟤 Introduction to OMERO - Long ](https://youtu.be/nSCrMO_c-5s?si=6S4bJX1P5E2GtxHL)
+  * [🟤 Introduction to OMERO - Short](https://youtu.be/y2hnU0HrORw?si=XvO_rr-sG-qCeA51)
+  * [🟤 OMERO Basics and Navigation](https://youtu.be/e3u-Ugd4W7w?si=DB-B2Me3X2OQMPX7)
+  * [🟤  OMERO - Import of images](https://youtu.be/wnw-woX9OxI?si=fLs-Ma0L0Et95t-g)
+  * [🟤 OMERO Using OMERO.figure](https://youtu.be/YeCFaB7VAAQ?si=geIOjeWQmAgoxNE9)
+  * [🟤 Open and standardised imaging data](https://embl-ebi.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=d06b66c7-1cec-487b-9ce9-b2eb00f71b13)
+* [🟤 Bioimaging Workflows](bioimaging-resources/bioimaging-workflows.md)
 
 ## Biomedical Resources
 
@@ -105,26 +126,15 @@
   * [🟢 RDM Kit for Human Data](https://bit.ly/RDN-Human_Data)
   * [🟢 RDM Kit for Data Repository](https://rdmkit.elixir-europe.org/data_publication)
   * [🟢 RDM Kit for Documentation and Metadata](https://bit.ly/RDMKit-Metadata)
-* [🟢 OMERO Resources](biomedical-resources/seminars/README.md)
-  * [🟢 Introduction to OMERO - Long ](https://youtu.be/nSCrMO_c-5s?si=6S4bJX1P5E2GtxHL)
-  * [🟢 Introduction to OMERO - Short](https://youtu.be/y2hnU0HrORw?si=XvO_rr-sG-qCeA51)
-  * [🟢 OMERO Basics and Navigation](https://youtu.be/e3u-Ugd4W7w?si=DB-B2Me3X2OQMPX7)
-  * [🟢  OMERO - Import of images](https://youtu.be/wnw-woX9OxI?si=fLs-Ma0L0Et95t-g)
-  * [🟢 OMERO Using OMERO.figure](https://youtu.be/YeCFaB7VAAQ?si=geIOjeWQmAgoxNE9)
-  * [🟢 Open and standardised imaging data](https://embl-ebi.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=d06b66c7-1cec-487b-9ce9-b2eb00f71b13)
-* [🟢 IT Support Resources](biomedical-resources/ucph-hpc-guide/README.md)
-  * [🟢 UCPH Research IT](https://kunet.ku.dk/work-areas/research/Research%20Infrastructure/research-it/Pages/default.aspx)
-  * [🟢 UCPH Labguru Access](https://unet.ku.dk/work-areas/research/units/SUNDs-toolbox/labguru-eln/Pages/default.aspx)
 
 ## Informational Guides
 
-* [🔵 Bioimaging Workflows](informational-guides/bioimaging-workflows.md)
-* [🔵 Directory Structure Resources](informational-guides/directory-structure-resources/README.md)
-  * [🔵 Directory Structure Guide](informational-guides/directory-structure-resources/directory-structure-guide.md)
-  * [🔵 File Naming Guide](informational-guides/directory-structure-resources/file-naming-guide.md)
-  * [🔵 Naming Guide - Side 1](informational-guides/directory-structure-resources/naming-guide-side-1.md)
-  * [🔵 Naming Guide - Side 2](informational-guides/directory-structure-resources/naming-guide-side-2.md)
-  * [🔵 RDM Directory Structure](informational-guides/directory-structure-resources/file-and-folder-tips.md)
+* [🔵 Directory Structure Guides](informational-guides/directory-structure-guides/README.md)
+  * [🔵 Directory Structure Guide](informational-guides/directory-structure-guides/directory-structure-guide.md)
+  * [🔵 File Naming Guide](informational-guides/directory-structure-guides/file-naming-guide.md)
+  * [🔵 Naming Guide - Side 1](informational-guides/directory-structure-guides/naming-guide-side-1.md)
+  * [🔵 Naming Guide - Side 2](informational-guides/directory-structure-guides/naming-guide-side-2.md)
+  * [🔵 RDM Directory Structure](informational-guides/directory-structure-guides/file-and-folder-tips.md)
 * [🔵 HPC Quick Guide](informational-guides/ucph-hpc-quick-guide.md)
 * [🔵 Guidance  & Checklist](informational-guides/research-planning.md)
 * [🔵 Labguru Quick Guide I](informational-guides/fair-principles.md)
