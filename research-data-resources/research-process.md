@@ -1,5 +1,6 @@
 ---
 description: Steps for the Reserach Project Process
+icon: '0'
 layout:
   width: wide
   title:
@@ -16,7 +17,7 @@ layout:
     visible: true
 ---
 
-# 🔴 Research Project Process
+# Research Project Process
 
 
 

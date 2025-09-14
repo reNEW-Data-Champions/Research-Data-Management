@@ -1,5 +1,5 @@
 ---
-description: Data Management Plan Resources
+description: EU Grant Templates
 ---
 
 # 🟡 EU Grant Templates

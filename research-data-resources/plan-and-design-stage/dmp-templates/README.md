@@ -1,5 +1,5 @@
 ---
-description: DMP Planning Hub
+description: DMP Templates Hub
 ---
 
 # 🟡 DMP Templates Hub

@@ -1,5 +1,5 @@
 ---
-description: Data Management Plan Resources
+description: UCPH DMP Template
 ---
 
 # 🟡 UCPH DMP Template

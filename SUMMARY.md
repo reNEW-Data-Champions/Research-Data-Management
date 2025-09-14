@@ -22,8 +22,6 @@
     * [🟠 RDM Module 1](https://www.youtube.com/watch?v=wK4o7iliJHQ)
     * [🟠 RDM Module 2](https://www.youtube.com/watch?v=OvEHYCSmzCA)
     * [🟠 RDM Module 3](https://youtu.be/tvs5_X5rn8w)
-    * [🟠 Horizon Europe DMP ](https://deic.dk/da/event/webinar-14062023)
-    * [🟠 Organize Your Data](https://www.youtube.com/watch?v=YslfY4W-NAg)
 
 ## Research Data Life Cycle
 
@@ -37,6 +35,7 @@
 
 ## Research Data Resources
 
+* [Research Project Process](research-data-resources/research-process.md)
 * [Plan & Design Stage](research-data-resources/plan-and-design-stage/README.md)
   * [🟡 DMP Guide Sheet](research-data-resources/plan-and-design-stage/dmp-guide-sheet.md)
   * [🟡 DMP Templates Hub](research-data-resources/plan-and-design-stage/dmp-templates/README.md)
@@ -54,8 +53,10 @@
       * [🟡 ChiPseq ATAC Sequencing](research-data-resources/plan-and-design-stage/dmp-templates/genomics/chipseq-atac-sequencing.md)
       * [🟡 CUT and RUN/CUT and TAG Sequencing](research-data-resources/plan-and-design-stage/dmp-templates/genomics/cut-and-run-cut-and-tag-sequencing.md)
       * [🟡 Whole Genome Sequencing](research-data-resources/plan-and-design-stage/dmp-templates/genomics/whole-genome-sequencing.md)
-  * [🟡 Project Like Mine](https://bit.ly/GDPR_PLM)
   * [🟡 DeiC DMP Online](https://dmp.deic.dk/)
+  * [🟡 Horizon Europe DMP ](https://deic.dk/da/event/webinar-14062023)
+  * [🟡 Organize Your Data](https://www.youtube.com/watch?v=YslfY4W-NAg)
+  * [🟡 Project Like Mine](https://bit.ly/GDPR_PLM)
 * [Collect & Create Stage](research-data-resources/collect-and-create-stage/README.md)
   * [🟢 Organizing Data Hub](research-data-resources/collect-and-create-stage/file-and-folder-tips/README.md)
     * [🟢 Batch Renaming](research-data-resources/collect-and-create-stage/file-and-folder-tips/batch-renaming.md)
@@ -86,7 +87,6 @@
 * [🔴 Data Management Hub](research-data-management/data-management-hub/README.md)
   * [🔴 FAIR Principles](research-data-management/data-management-hub/fair-principles.md)
   * [🔴 Open Science](research-data-management/data-management-hub/open-science.md)
-  * [🔴 Research Project Process](research-data-management/data-management-hub/research-process.md)
   * [🔴 FAIR Principles](https://www.howtofair.dk/)
   * [🔴 UCPH Portal](https://kunet.ku.dk/work-areas/research/Pages/default.aspx)
   * [🔴 UCPH RDM Portal](https://kunet.ku.dk/work-areas/research/data/Pages/default.aspx)
