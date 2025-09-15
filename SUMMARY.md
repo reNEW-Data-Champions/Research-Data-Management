@@ -22,7 +22,7 @@
     * [🟠 RDM Module 1](https://www.youtube.com/watch?v=wK4o7iliJHQ)
     * [🟠 RDM Module 2](https://www.youtube.com/watch?v=OvEHYCSmzCA)
     * [🟠 RDM Module 3](https://youtu.be/tvs5_X5rn8w)
-  * [🟠 LabGuru Webinars](onboarding-at-renew/training-resources/labguru-webinars.md)
+  * [🟠 Labguru Webinars](onboarding-at-renew/training-resources/labguru-webinars.md)
 
 ## Research Data Life Cycle
 
