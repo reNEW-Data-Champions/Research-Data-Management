@@ -1,5 +1,19 @@
 ---
-description: ERC DMP
+description: Guideline for ERC DMP
+layout:
+  width: wide
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
 # 🟡 ERC DMP

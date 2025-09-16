@@ -1,5 +1,19 @@
 ---
-description: Horizon Europe DMP
+description: Guideline for Horizon Europe DMP
+layout:
+  width: wide
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
 # 🟡 Horizon Europe DMP

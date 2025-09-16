@@ -1,5 +1,5 @@
 ---
-description: Organizing Your Data
+description: Batch Renaming
 layout:
   width: wide
   title:

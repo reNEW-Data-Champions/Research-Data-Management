@@ -1,5 +1,19 @@
 ---
-description: Organizing Your Data
+description: 10X scRNA Sequencing
+layout:
+  width: wide
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
 # 🟡 10X scRNA Sequencing

@@ -1,5 +1,5 @@
 ---
-description: Organizing Your Data
+description: File and Folder  Structure Tips
 layout:
   width: wide
   title:

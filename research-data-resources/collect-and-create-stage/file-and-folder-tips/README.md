@@ -1,7 +1,7 @@
 ---
-description: Organizing Your Data
+description: Organizing Data Hub
 layout:
-  width: default
+  width: wide
   title:
     visible: true
   description:
