@@ -20,6 +20,8 @@ layout:
 
 ## **Welcome to reNEW: Research Data Management Onboarding.**
 
+## <mark style="color:$danger;">**Onboarding PowerPoint Slides for Below**</mark>
+
 Welcome to the **reNEW Research Data Management (RDM) Platform** — your central hub for tools, guidance, and support throughout the research data lifecycle. Whether you're a new researcher just getting started or a senior scientist refining your workflows, this platform is designed to help you confidently navigate institutional policies, funder requirements, and best practices in responsible data management.
 
 ***
