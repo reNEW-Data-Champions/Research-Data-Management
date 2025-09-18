@@ -89,6 +89,8 @@
   * [🔴 FAIR Principles](research-data-management/data-management-hub/fair-principles.md)
   * [🔴 Open Science](research-data-management/data-management-hub/open-science.md)
   * [🔴 FAIR Principles](https://www.howtofair.dk/)
+  * [🔴 FAIR Training Handbook](https://elixir-europe-training.github.io/ELIXIR-TrP-FAIR-training-handbook/)
+  * [🔴 Ten quick tips for building FAIR workflows](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011369)
   * [🔴 UCPH Portal](https://kunet.ku.dk/work-areas/research/Pages/default.aspx)
   * [🔴 UCPH RDM Portal](https://kunet.ku.dk/work-areas/research/data/Pages/default.aspx)
 * [🔴 Data Protection Hub](research-data-management/gdpr-for-researchers/README.md)
@@ -104,6 +106,8 @@
   * [🟣 RDM Kit for Life Sciences](https://rdmkit.elixir-europe.org/)
   * [🟣 RDM Kit for Data Repository](https://rdmkit.elixir-europe.org/data_publication)
   * [🟣 RDM for Bioinformatics](https://rdmkit.elixir-europe.org/structural_bioinformatics)
+* [🟣 GitHub Skills](https://skills.github.com/)
+* [🟣 GLITTER  - Educational Resources](https://glittr.org/?per_page=25\&sort_by=stargazers\&sort_direction=desc)
 
 ## Bioimaging Resources
 
@@ -156,4 +160,5 @@
   * [🟡 Newsletter - May 2025](newsletters/monthly-newsletter/blog-post-may-2025.md)
   * [🟡 Newsletter - June 2025](newsletters/monthly-newsletter/blog-post-june-2025.md)
   * [🟡 Newsletter - July 2025](newsletters/monthly-newsletter/blog-post-july-2025.md)
+  * [🟡 Newsletter - August 2025](newsletters/monthly-newsletter/blog-post-august-2025.md)
 * [🟡 License and Acknowledgements](newsletters/license-and-acknowledgements.md)
