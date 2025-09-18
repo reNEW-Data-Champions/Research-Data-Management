@@ -102,12 +102,12 @@
 
 ## Bioinformatics Resources
 
-* [🟣 RDMKit by Elixir ](bioinformatics-resources/what-is-elixir/README.md)
-  * [🟣 RDM Kit for Life Sciences](https://rdmkit.elixir-europe.org/)
-  * [🟣 RDM Kit for Data Repository](https://rdmkit.elixir-europe.org/data_publication)
-  * [🟣 RDM for Bioinformatics](https://rdmkit.elixir-europe.org/structural_bioinformatics)
 * [🟣 GitHub Skills](https://skills.github.com/)
-* [🟣 GLITTER  - Educational Resources](https://glittr.org/?per_page=25\&sort_by=stargazers\&sort_direction=desc)
+* [🟣 GLITTR  - Educational Resources](https://glittr.org/?per_page=25\&sort_by=stargazers\&sort_direction=desc)
+* [🟣 Introduction to Conda for (Data) Scientists](https://carpentries-incubator.github.io/introduction-to-conda-for-data-scientists/index.html)
+* [🟣  Python for Scientific Computing](https://aaltoscicomp.github.io/python-for-scicomp/)
+* [🟣 Netherlands eScience Center](https://carpentries-incubator.github.io/introduction-to-conda-for-data-scientists/index.html)
+* [🟣 RDM for Bioinformatics](https://rdmkit.elixir-europe.org/structural_bioinformatics)
 
 ## Bioimaging Resources
 
