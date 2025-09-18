@@ -12,15 +12,11 @@ description: Montly Newsletter
 **Disclaimer**\
 The views expressed here are my own in my professional capacity as a Data Steward and Research Data Manager. They do not necessarily represent the official positions of the Novo Nordisk Foundation Center for Stem Cell Medicine – reNEW.
 
-***
-
 ## Introduction
 
 Digital tools for managing experiments are no longer optional; they are becoming essential for modern research. **Labguru**, an electronic lab notebook (ELN) and laboratory information management system (LIMS), provides a structured environment for capturing experimental details, storing results, and linking data to projects and publications.
 
-At reNEW, the use of Labguru holds particular promise in bioimaging. By systematically recording experimental metadata, protocols, and analytical workflows, Labguru can help ensure that bioimages are stored securely, fully reproducible, and FAIR (Findable, Accessible, Interoperable, Reusable).
-
-***
+At reNEW, Labguru holds particular promise in bioimaging. By systematically recording experimental metadata, protocols, and analytical workflows, Labguru can help ensure that bioimages are stored securely, fully reproducible, and FAIR (Findable, Accessible, Interoperable, Reusable).
 
 ## Key Challenges in Managing Bioimage Metadata
 
@@ -30,8 +26,6 @@ At reNEW, the use of Labguru holds particular promise in bioimaging. By systemat
    Without structured metadata, repeating experiments or validating results becomes nearly impossible. Key information about samples, microscope settings, or analysis pipelines may be missing.
 3. **Data Integration Gaps**\
    Bioimage data are increasingly linked to genomics, proteomics, and other omics datasets. Without standardized metadata, cross-comparison and integration are severely limited.
-
-***
 
 ## Best Practices and Solutions: Labguru in Action
 
@@ -55,8 +49,6 @@ At reNEW, the use of Labguru holds particular promise in bioimaging. By systemat
 * Allows connection with open-source image analysis tools (e.g., ImageJ, OMERO).
 * Promotes reproducibility through transparent computational workflows.
 
-***
-
 ## Local Context: reNEW and UCPH
 
 At reNEW Copenhagen and the University of Copenhagen, Labguru is being used and adopted to strengthen research practices in bioimaging. Specifically, it supports:
@@ -66,8 +58,6 @@ At reNEW Copenhagen and the University of Copenhagen, Labguru is being used and 
 * **Collaboration Across Groups:** Providing a common platform for researchers to share and validate protocols.
 * **Compliance with UCPH Policies:** Aligning with institutional requirements for data management and FAIR compliance.
 
-***
-
 ## Practical Recommendations
 
 * **Adopt Labguru as a Central ELN** – Consolidate protocols, results, and metadata in one platform.
@@ -75,8 +65,6 @@ At reNEW Copenhagen and the University of Copenhagen, Labguru is being used and 
 * **Use Labguru for Protocol Versioning** – Track changes over time to support reproducibility.
 * **Encourage Group-Wide Adoption** – Ensure consistent metadata capture across reNEW labs.
 * **Incorporate Metadata into DMPs** – Make metadata standards a planned component of projects.
-
-***
 
 ## Looking Ahead
 
