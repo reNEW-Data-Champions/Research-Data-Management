@@ -18,11 +18,11 @@ layout:
 
 # 🟠 Data Champions at reNEW
 
-### **What are Data Champions at reNEW?**
+## **What are Data Champions at reNEW?**
 
 The **reNEW Data Champions** are a team of volunteer researchers who provide **peer-to-peer support** in research data management (RDM). Their primary role is to help make data management more **accessible, consistent, and embedded** across the reNEW research community.
 
-#### **Purpose and Function**
+## **Purpose and Function**
 
 Data Champions serve as local RDM facilitators. They support colleagues by helping them understand, implement, and maintain responsible data management practices. This includes:
 
@@ -31,7 +31,7 @@ Data Champions serve as local RDM facilitators. They support colleagues by helpi
 * **Supporting adoption of the FAIR principles** (Findable, Accessible, Interoperable, Reusable)
 * **Collaborating with the Data Steward** and broader support infrastructure to embed good practices
 
-#### **Why They Matter**
+## **Why They Matter**
 
 By fostering a culture of shared responsibility and continuous learning, the Data Champions play a critical role in:
 
