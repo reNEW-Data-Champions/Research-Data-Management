@@ -1,5 +1,5 @@
 ---
-description: Open Access Hub
+description: Open Access
 layout:
   width: wide
   title:
@@ -16,7 +16,7 @@ layout:
     visible: true
 ---
 
-# 🟠 Open Access Hub
+# 🟠 Open Access
 
 ## Types of Open Access & Compliance – reNEW / UCPH&#x20;
 

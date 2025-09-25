@@ -44,8 +44,6 @@ To support your onboarding, please begin by reviewing the following two introduc
 
 These materials will help you establish good practices from day one and connect you with the local RDM support network.
 
-***
-
 ## **What You’ll Find on This Platform**
 
 The reNEW RDM Platform is structured to offer a comprehensive, easy-to-navigate experience, including:
@@ -55,9 +53,7 @@ The reNEW RDM Platform is structured to offer a comprehensive, easy-to-navigate 
 * **Practical guidance** across all phases of the research lifecycle
 * **Templates and documentation** for domain-specific research (e.g., sequencing data, imaging platforms)
 * **Links to group-specific data portals** and internal workflows
-* **Direct access** to the UCPH Research Portal — the official source for RDM tools, services, and compliance documentation
-
-***
+* **Direct access** to the UCPH Research Portal, the official source for RDM tools, services, and compliance documentation
 
 ## **reNEW Data Champions Program**
 
@@ -72,8 +68,6 @@ The **reNEW Data Champions** are volunteer researchers trained to provide peer-t
 
 By embedding these principles into everyday research, the Data Champions contribute to a stronger, more sustainable data culture across the Node.
 
-***
-
 ## **Building a Responsible Data Culture**
 
 Responsible data management is a shared responsibility. Through collaborative support and clear standards, reNEW aims to:
@@ -83,8 +77,6 @@ Responsible data management is a shared responsibility. Through collaborative su
 * Ensure long-term preservation, accessibility, and reuse of research data
 * Align with institutional and funder expectations for transparency and data governance
 
-***
-
 ## **Need Help? Contact & Support**
 
 You are encouraged to contact us for questions, support, or one-on-one guidance on any aspect of research data management — including developing a DMP, organizing your data, or meeting funder requirements.
@@ -93,7 +85,7 @@ You are encouraged to contact us for questions, support, or one-on-one guidance 
 **Richard Dennis**\
 Data Steward, reNEW\
 Available every Wednesday from 14:00–15:00 (in person) or by appointment\
-Email: richard.dennis@sund.ku.dk
+Email: Richard Dennis: richard.dennis@sund.ku.dk
 
 ***
 
