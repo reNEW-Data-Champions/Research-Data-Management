@@ -16,7 +16,7 @@ layout:
     visible: true
 ---
 
-# 🟢 Imaging Platform Services
+# 🟠 Imaging Platform Services
 
 ## **Imaging Platform – Service Support Overview**
 

@@ -132,8 +132,8 @@
 
 ## Microscopy Resources
 
-* [🟢 Imaging Platform Services](microscopy-resources/what-is-elixir.md)
-* [🟢 RDM Kit for Bioimaging](https://rdmkit.elixir-europe.org/bioimaging_data)
+* [🟠 Imaging Platform Services](microscopy-resources/what-is-elixir.md)
+* [🟠 RDM Kit for Bioimaging](https://rdmkit.elixir-europe.org/bioimaging_data)
 
 ## Informational Guides
 
