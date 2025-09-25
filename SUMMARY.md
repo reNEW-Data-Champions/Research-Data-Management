@@ -130,6 +130,11 @@
   * [🟢 RDM Kit for Data Repository](https://rdmkit.elixir-europe.org/data_publication)
   * [🟢 RDM Kit for Documentation and Metadata](https://bit.ly/RDMKit-Metadata)
 
+## Microscopy Resources
+
+* [🟢 Imaging Platform Services](microscopy-resources/what-is-elixir.md)
+* [🟢 RDM Kit for Bioimaging](https://rdmkit.elixir-europe.org/bioimaging_data)
+
 ## Informational Guides
 
 * [🔵 Directory Structure Guides](informational-guides/directory-structure-guides/README.md)
