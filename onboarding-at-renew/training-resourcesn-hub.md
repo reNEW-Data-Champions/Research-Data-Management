@@ -1,5 +1,5 @@
 ---
-description: Training, Course, and Event Resources
+description: Training, Course, and Event Resources Hub
 layout:
   width: wide
   title:
@@ -16,7 +16,7 @@ layout:
     visible: true
 ---
 
-# 🟠 Training Resources
+# 🟠 Training Resourcesn Hub
 
 ## Training, Course, and Event Resources Table
 

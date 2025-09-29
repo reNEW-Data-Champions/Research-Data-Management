@@ -2,27 +2,22 @@
 
 ## Onboarding at reNEW
 
-* [🟠 Data Champions at reNEW](README.md)
-* [🟠 Onboarding at reNEW](onboarding-at-renew/onboarding-at-renew/README.md)
-  * [🟠 BMI / reNEW Websites](onboarding-at-renew/onboarding-at-renew/renew-websites/README.md)
-    * [🌎 BMI Website](https://bmi.ku.dk/english/)
-    * [🌎 BMI Onboarding](https://kunet.ku.dk/faculty-and-department/bmi/about/epartment_documents/Pages/default.aspx#collapseMSOZoneCell_WebPartWPQ9)
-    * [🌎 reNEW KUnet](https://kunet.ku.dk/faculty-and-department/renew/Pages/default.aspx)
-    * [🌎 reNEW Website](https://renew.science/)
-    * [🌎 reNEW Connect](https://alumni.sharepoint.com/sites/UCPH_reNEWConnect/SitePages/Home.aspx)
-    * [🌎 reNEW Genomics](https://bit.ly/reNEW_GEN)
-    * [🌎 reNEW Imaging](https://kunet.ku.dk/faculty-and-department/renew/Labs%20and%20Research%20Platforms/Research%20Platforms/Imaging%20Platform/Pages/default.aspx)
-    * [🌎 reNEW DanGPU](https://bit.ly/DANGPU)
-    * [🌎 reNEW Flow Cy](https://kunet.ku.dk/faculty-and-department/renew/Labs%20and%20Research%20Platforms/Research%20Platforms/Flow%20Cytometry%20Platform/Pages/default.aspx)
-    * [🌎 reNEW Publications](https://publication.renew-platforms.dk/)
+* [🟠 Onboarding at reNEW](README.md)
+* [🟠 Data Champions at reNEW](<README (1).md>)
 * [🟠 DAN HPC Hub](onboarding-at-renew/dan-hpc-hub/README.md)
   * [🟠 DAN HPC at reNEW](https://bit.ly/DANGPU)
-* [🟠 Training Resources](onboarding-at-renew/training-resources/README.md)
-  * [🟠 eLearning RDM Videos](onboarding-at-renew/training-resources/seminars/README.md)
-    * [🟠 RDM Module 1](https://www.youtube.com/watch?v=wK4o7iliJHQ)
-    * [🟠 RDM Module 2](https://www.youtube.com/watch?v=OvEHYCSmzCA)
-    * [🟠 RDM Module 3](https://youtu.be/tvs5_X5rn8w)
-  * [🟠 Labguru Webinars](onboarding-at-renew/training-resources/labguru-webinars.md)
+* [🟠 BMI / reNEW Websites](onboarding-at-renew/renew-websites/README.md)
+  * [🌎 BMI Website](https://bmi.ku.dk/english/)
+  * [🌎 BMI Onboarding](https://kunet.ku.dk/faculty-and-department/bmi/about/epartment_documents/Pages/default.aspx#collapseMSOZoneCell_WebPartWPQ9)
+  * [🌎 reNEW KUnet](https://kunet.ku.dk/faculty-and-department/renew/Pages/default.aspx)
+  * [🌎 reNEW Website](https://renew.science/)
+  * [🌎 reNEW Connect](https://alumni.sharepoint.com/sites/UCPH_reNEWConnect/SitePages/Home.aspx)
+  * [🌎 reNEW Genomics](https://bit.ly/reNEW_GEN)
+  * [🌎 reNEW Imaging](https://kunet.ku.dk/faculty-and-department/renew/Labs%20and%20Research%20Platforms/Research%20Platforms/Imaging%20Platform/Pages/default.aspx)
+  * [🌎 reNEW DanGPU](https://bit.ly/DANGPU)
+  * [🌎 reNEW Flow Cy](https://kunet.ku.dk/faculty-and-department/renew/Labs%20and%20Research%20Platforms/Research%20Platforms/Flow%20Cytometry%20Platform/Pages/default.aspx)
+  * [🌎 reNEW Publications](https://publication.renew-platforms.dk/)
+* [🟠 Training Resourcesn Hub](onboarding-at-renew/training-resourcesn-hub.md)
 
 ## Research Data Life Cycle
 
@@ -97,6 +92,11 @@
 * [🔴 IT Support Hub](research-data-management/ucph-hpc-guide/README.md)
   * [🔴 UCPH Research IT](https://kunet.ku.dk/work-areas/research/Research%20Infrastructure/research-it/Pages/default.aspx)
   * [🔴 UCPH Labguru Access](https://unet.ku.dk/work-areas/research/units/SUNDs-toolbox/labguru-eln/Pages/default.aspx)
+* [🔴 eLearning RDM Videos](research-data-management/seminars/README.md)
+  * [🔴 RDM Module 1](https://www.youtube.com/watch?v=wK4o7iliJHQ)
+  * [🔴 RDM Module 2](https://www.youtube.com/watch?v=OvEHYCSmzCA)
+  * [🔴 RDM Module 3](https://youtu.be/tvs5_X5rn8w)
+* [🔴 Labguru Webinars](research-data-management/labguru-webinars.md)
 
 ## Bioinformatics Resources
 
