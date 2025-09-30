@@ -2,11 +2,11 @@
 description: License  and Acknowledgements
 ---
 
-# 🟡 License and Acknowledgements
+# 🟡 Acknowledgements
 
-## **License  and Acknowledgements**
+## **Acknowledgements**
 
-Understand how you can adapt, reuse, and remix shared resources. This section outlines our materials' licensing terms (e.g., CC-BY, CC-BY-SA). It provides clear attribution for content creators, ensuring transparency, legal clarity, and proper crediting across the reNEW community.
+This section outlines our materials' licensing terms (e.g., CC-BY, CC-BY-SA). It provides clear attribution for content creators, ensuring transparency, legal clarity, and proper crediting across the reNEW community.
 
 {% hint style="info" %}
 **Research Data Management Infographic Series**: by [Richard Dennis](mailto:richard.dennis@sund.ku.dk) - [NNF Center for Stem Cell Medicine - reNEW - Data Champion Program, University of Copenhagen.](https://renew.ku.dk/) Licensed under a [Creative Commons Attribution–Non-Commercial–No Derivatives 4.0 International License.](https://creativecommons.org/licenses/by-nc-nd/4.0/)
@@ -21,7 +21,7 @@ I have curated these resources and guides with one clear objective: to strengthe
 {% endhint %}
 
 {% hint style="success" %}
-I am committed to ensuring that this website's content accurately mirrors the most recent policy updates, advancements in support and services, and valuable feedback from our users. As part of our ongoing endeavor for excellence, certain documents are still being refined. Your assistance in identifying inaccuracies or omissions would be highly valued, as it helps us maintain the highest accuracy and reliability of information.
+I am committed to ensuring that this website's content accurately mirrors the most recent policy updates, advancements in support and services, and valuable user feedback. Certain documents are still being refined as part of our ongoing endeavor for excellence. Your assistance in identifying inaccuracies or omissions would be highly valued, as it helps us maintain the highest accuracy and reliability of information.
 
 
 {% endhint %}

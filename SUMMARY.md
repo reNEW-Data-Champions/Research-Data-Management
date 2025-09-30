@@ -89,13 +89,15 @@
 * [🔴 Data Protection Hub](research-data-management/gdpr-for-researchers/README.md)
   * [🔴 Data Protection Agency](research-data-management/gdpr-for-researchers/data-protection-agency.md)
   * [🔴 GDPR Guide](https://kunet.ku.dk/work-areas/research/data/personal-data/Pages/default.aspx)
-* [🔴 IT Support Hub](research-data-management/ucph-hpc-guide/README.md)
-  * [🔴 UCPH Research IT](https://kunet.ku.dk/work-areas/research/Research%20Infrastructure/research-it/Pages/default.aspx)
-  * [🔴 UCPH Labguru Access](https://unet.ku.dk/work-areas/research/units/SUNDs-toolbox/labguru-eln/Pages/default.aspx)
 * [🔴 eLearning RDM Videos](research-data-management/seminars/README.md)
   * [🔴 RDM Module 1](https://www.youtube.com/watch?v=wK4o7iliJHQ)
   * [🔴 RDM Module 2](https://www.youtube.com/watch?v=OvEHYCSmzCA)
   * [🔴 RDM Module 3](https://youtu.be/tvs5_X5rn8w)
+* [🔴 FAIR & Open Science Resource](research-data-management/fair-and-open-science-resource.md)
+* [🔴 FAIR Workflow Roadmap](research-data-management/fair-workflow-roadmap.md)
+* [🔴 IT Support Hub](research-data-management/ucph-hpc-guide/README.md)
+  * [🔴 UCPH Research IT](https://kunet.ku.dk/work-areas/research/Research%20Infrastructure/research-it/Pages/default.aspx)
+  * [🔴 UCPH Labguru Access](https://unet.ku.dk/work-areas/research/units/SUNDs-toolbox/labguru-eln/Pages/default.aspx)
 * [🔴 Labguru Webinars](research-data-management/labguru-webinars.md)
 
 ## Bioinformatics Resources
@@ -109,6 +111,8 @@
 
 ## Bioimaging Resources
 
+* [🟤 Bioimaging Workflows](bioimaging-resources/bioimaging-workflows.md)
+* [🟤 Bioimaging Viewers](bioimaging-resources/bioimaging-viewers.md)
 * [🟤 OMERO Resources](bioimaging-resources/seminars/README.md)
   * [🟤 Introduction to OMERO - Long ](https://youtu.be/nSCrMO_c-5s?si=6S4bJX1P5E2GtxHL)
   * [🟤 Introduction to OMERO - Short](https://youtu.be/y2hnU0HrORw?si=XvO_rr-sG-qCeA51)
@@ -116,8 +120,7 @@
   * [🟤  OMERO - Import of images](https://youtu.be/wnw-woX9OxI?si=fLs-Ma0L0Et95t-g)
   * [🟤 OMERO Using OMERO.figure](https://youtu.be/YeCFaB7VAAQ?si=geIOjeWQmAgoxNE9)
   * [🟤 Open and standardised imaging data](https://embl-ebi.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=d06b66c7-1cec-487b-9ce9-b2eb00f71b13)
-* [🟤 Bioimaging Workflows](bioimaging-resources/bioimaging-workflows.md)
-* [🟤 Open-Source Bioimage Viewers](bioimaging-resources/open-source-bioimage-viewers.md)
+* [🟤 RDM Kit for Bioimaging](https://rdmkit.elixir-europe.org/bioimaging_data)
 
 ## Biomedical Resources
 
@@ -134,16 +137,15 @@
 ## Microscopy Resources
 
 * [🟠 Imaging Platform Services](microscopy-resources/what-is-elixir.md)
-* [🟠 RDM Kit for Bioimaging](https://rdmkit.elixir-europe.org/bioimaging_data)
 
 ## Informational Guides
 
-* [🔵 Directory Structure Guides](informational-guides/directory-structure-guides/README.md)
-  * [🔵 Directory Structure Guide](informational-guides/directory-structure-guides/directory-structure-guide.md)
-  * [🔵 File Naming Guide](informational-guides/directory-structure-guides/file-naming-guide.md)
-  * [🔵 Naming Guide - Side 1](informational-guides/directory-structure-guides/naming-guide-side-1.md)
-  * [🔵 Naming Guide - Side 2](informational-guides/directory-structure-guides/naming-guide-side-2.md)
-  * [🔵 RDM Directory Structure](informational-guides/directory-structure-guides/file-and-folder-tips.md)
+* [🔵 Directory Structure](informational-guides/directory-structure/README.md)
+  * [🔵 Directory Structure Guide](informational-guides/directory-structure/directory-structure-guide.md)
+  * [🔵 File Naming Guide](informational-guides/directory-structure/file-naming-guide.md)
+  * [🔵 Naming Guide - Side 1](informational-guides/directory-structure/naming-guide-side-1.md)
+  * [🔵 Naming Guide - Side 2](informational-guides/directory-structure/naming-guide-side-2.md)
+  * [🔵 RDM Directory Structure](informational-guides/directory-structure/file-and-folder-tips.md)
 * [🔵 HPC Quick Guide](informational-guides/ucph-hpc-quick-guide.md)
 * [🔵 Guidance  & Checklist](informational-guides/research-planning.md)
 * [🔵 Labguru Quick Guide I](informational-guides/fair-principles.md)
@@ -165,4 +167,4 @@
   * [🟡 Newsletter - June 2025](newsletters/monthly-newsletter/blog-post-june-2025.md)
   * [🟡 Newsletter - July 2025](newsletters/monthly-newsletter/blog-post-july-2025.md)
   * [🟡 Newsletter - August 2025](newsletters/monthly-newsletter/blog-post-august-2025.md)
-* [🟡 License and Acknowledgements](newsletters/license-and-acknowledgements.md)
+* [🟡 Acknowledgements](newsletters/license-and-acknowledgements.md)

@@ -1,5 +1,5 @@
 ---
-description: Biomedical Research Workflows
+description: Biomedical Research Workflows v2
 layout:
   width: wide
   title:
