@@ -117,6 +117,7 @@
   * [🟤 OMERO Using OMERO.figure](https://youtu.be/YeCFaB7VAAQ?si=geIOjeWQmAgoxNE9)
   * [🟤 Open and standardised imaging data](https://embl-ebi.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=d06b66c7-1cec-487b-9ce9-b2eb00f71b13)
 * [🟤 Bioimaging Workflows](bioimaging-resources/bioimaging-workflows.md)
+* [🟤 Open-Source Bioimage Viewers](bioimaging-resources/open-source-bioimage-viewers.md)
 
 ## Biomedical Resources
 
