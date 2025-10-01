@@ -4,8 +4,6 @@
 
 * [🟠 Data Champions at reNEW](README.md)
 * [🟠 Onboarding at reNEW](<README (1).md>)
-* [🟠 DAN HPC Hub](onboarding-at-renew/dan-hpc-hub/README.md)
-  * [🟠 DAN HPC at reNEW](https://bit.ly/DANGPU)
 * [🟠 BMI / reNEW Websites](onboarding-at-renew/renew-websites/README.md)
   * [🌎 BMI Website](https://bmi.ku.dk/english/)
   * [🌎 BMI Onboarding](https://kunet.ku.dk/faculty-and-department/bmi/about/epartment_documents/Pages/default.aspx#collapseMSOZoneCell_WebPartWPQ9)
@@ -17,6 +15,8 @@
   * [🌎 reNEW DanGPU](https://bit.ly/DANGPU)
   * [🌎 reNEW Flow Cy](https://kunet.ku.dk/faculty-and-department/renew/Labs%20and%20Research%20Platforms/Research%20Platforms/Flow%20Cytometry%20Platform/Pages/default.aspx)
   * [🌎 reNEW Publications](https://publication.renew-platforms.dk/)
+* [🟠 DAN HPC Hub](onboarding-at-renew/dan-hpc-hub/README.md)
+  * [🟠 DAN HPC at reNEW](https://bit.ly/DANGPU)
 * [🟠 Training Resourcesn Hub](onboarding-at-renew/training-resourcesn-hub.md)
 
 ## Research Data Life Cycle
