@@ -112,8 +112,8 @@
 
 ## Bioimaging Resources
 
-* [🟤 Bioimaging Workflows](bioimaging-resources/bioimaging-workflows.md)
 * [🟤 Bioimaging Viewers](bioimaging-resources/bioimaging-viewers.md)
+* [🟤 Bioimaging Workflows](bioimaging-resources/bioimaging-workflows.md)
 * [🟤 OMERO Resources](bioimaging-resources/seminars/README.md)
   * [🟤 Introduction to OMERO - Long ](https://youtu.be/nSCrMO_c-5s?si=6S4bJX1P5E2GtxHL)
   * [🟤 Introduction to OMERO - Short](https://youtu.be/y2hnU0HrORw?si=XvO_rr-sG-qCeA51)
