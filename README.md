@@ -18,17 +18,17 @@ layout:
 
 # 🟠 Onboarding at reNEW
 
-
-
 ## **Onboarding for Research Data Management**
 
-## <mark style="color:$danger;">**Onboarding PowerPoint Slides found below**</mark>
+{% hint style="info" %}
+#### <mark style="color:$danger;">**The Onboarding PowerPoint slides are found below**</mark>
+{% endhint %}
 
 Welcome to the **reNEW Research Data Management (RDM) Hub**— your central hub for tools, guidance, and support throughout the research data lifecycle. Whether you're a new researcher just getting started or a senior scientist refining your workflows, this platform is designed to help you confidently navigate institutional policies, funder requirements, and best practices in responsible data management.
 
 ***
 
-## **Getting Started as a New Researcher at reNEW**
+## **Getting started as a new researcher at reNEW**
 
 As a newly employed researcher at reNEW, it is essential to engage with RDM practices from the beginning of your project. This platform provides a structured onboarding path, guiding you through the core components of responsible data management, including:
 
