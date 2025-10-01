@@ -2,8 +2,8 @@
 
 ## Onboarding at reNEW
 
-* [🟠 Onboarding at reNEW](README.md)
-* [🟠 Data Champions at reNEW](<README (1).md>)
+* [🟠 Data Champions at reNEW](README.md)
+* [🟠 Onboarding at reNEW](<README (1).md>)
 * [🟠 DAN HPC Hub](onboarding-at-renew/dan-hpc-hub/README.md)
   * [🟠 DAN HPC at reNEW](https://bit.ly/DANGPU)
 * [🟠 BMI / reNEW Websites](onboarding-at-renew/renew-websites/README.md)
