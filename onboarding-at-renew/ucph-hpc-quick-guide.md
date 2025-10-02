@@ -16,7 +16,7 @@ layout:
     visible: true
 ---
 
-# 🔵 HPC Quick Guide
+# 🟠 HPC Quick Guide
 
 
 

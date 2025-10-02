@@ -17,6 +17,7 @@
   * [🌎 reNEW Publications](https://publication.renew-platforms.dk/)
 * [🟠 DAN HPC Hub](onboarding-at-renew/dan-hpc-hub/README.md)
   * [🟠 DAN HPC at reNEW](https://bit.ly/DANGPU)
+* [🟠 HPC Quick Guide](onboarding-at-renew/ucph-hpc-quick-guide.md)
 * [🟠 Training Resourcesn Hub](onboarding-at-renew/training-resourcesn-hub.md)
 
 ## Research Data Life Cycle
@@ -99,16 +100,22 @@
   * [🔴 UCPH Research IT](https://kunet.ku.dk/work-areas/research/Research%20Infrastructure/research-it/Pages/default.aspx)
   * [🔴 UCPH Labguru Access](https://unet.ku.dk/work-areas/research/units/SUNDs-toolbox/labguru-eln/Pages/default.aspx)
 * [🔴 Labguru Webinars](research-data-management/labguru-webinars.md)
+* [🔴 RDM Guides](research-data-management/rdm-guides/README.md)
+  * [🔴 FAIR Principles](research-data-management/rdm-guides/fair-principles.md)
+  * [🔴 Open Science](research-data-management/rdm-guides/open-science-pillars.md)
+  * [🔴 Research Workflows v1](research-data-management/rdm-guides/research-workflows-v1.md)
+  * [🔴 Research Workflows v2](research-data-management/rdm-guides/research-workflows-v2.md)
+  * [🔴 RODMM Framework](research-data-management/rdm-guides/rodmm-framework.md)
 
 ## Bioinformatics Resources
 
+* [🟣 Bioinformatics Open Source Tools](bioinformatics-resources/bioinformatics-open-source-tools.md)
 * [🟣 GitHub Skills](https://skills.github.com/)
 * [🟣 GLITTR  - Educational Resources](https://glittr.org/?per_page=25\&sort_by=stargazers\&sort_direction=desc)
 * [🟣 Introduction to Conda for (Data) Scientists](https://carpentries-incubator.github.io/introduction-to-conda-for-data-scientists/index.html)
-* [🟣  Python for Scientific Computing](https://aaltoscicomp.github.io/python-for-scicomp/)
 * [🟣 Netherlands eScience Center](https://carpentries-incubator.github.io/introduction-to-conda-for-data-scientists/index.html)
+* [🟣  Python for Scientific Computing](https://aaltoscicomp.github.io/python-for-scicomp/)
 * [🟣 RDM for Bioinformatics](https://rdmkit.elixir-europe.org/structural_bioinformatics)
-* [🟣 Bioinformatics Open Source Tools](bioinformatics-resources/bioinformatics-open-source-tools.md)
 
 ## Bioimaging Resources
 
@@ -141,16 +148,9 @@
   * [🔵 Naming Guide - Side 1](informational-guides/directory-structure/naming-guide-side-1.md)
   * [🔵 Naming Guide - Side 2](informational-guides/directory-structure/naming-guide-side-2.md)
   * [🔵 RDM Directory Structure](informational-guides/directory-structure/file-and-folder-tips.md)
-* [🔵 HPC Quick Guide](informational-guides/ucph-hpc-quick-guide.md)
 * [🔵 Guidance  & Checklist](informational-guides/research-planning.md)
 * [🔵 Labguru Quick Guide I](informational-guides/fair-principles.md)
 * [🔵 Labguru Quick Guide II](informational-guides/fair-principles-1.md)
-* [🔵 RDM Guides](informational-guides/rdm-guides/README.md)
-  * [🔵 FAIR Principles](informational-guides/rdm-guides/fair-principles.md)
-  * [🔵 Open Science](informational-guides/rdm-guides/open-science-pillars.md)
-  * [🔵 Research Workflows v1](informational-guides/rdm-guides/research-workflows-v1.md)
-  * [🔵 Research Workflows v2](informational-guides/rdm-guides/research-workflows-v2.md)
-  * [🔵 RODMM Framework](informational-guides/rdm-guides/rodmm-framework.md)
 
 ## Newsletters
 

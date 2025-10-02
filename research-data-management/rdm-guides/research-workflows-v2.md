@@ -16,6 +16,6 @@ layout:
     visible: true
 ---
 
-# 🔵 Research Workflows v2
+# 🔴 Research Workflows v2
 
 <div align="center" data-full-width="false"><figure><img src="../../.gitbook/assets/fairtracks_tool-assembly.png" alt=""><figcaption><p>Biomedical Research Workflows</p></figcaption></figure></div>
