@@ -105,7 +105,7 @@
   * [🔴 Open Science](research-data-management/rdm-guides/open-science-pillars.md)
   * [🔴 Research Workflows v1](research-data-management/rdm-guides/research-workflows-v1.md)
   * [🔴 Research Workflows v2](research-data-management/rdm-guides/research-workflows-v2.md)
-  * [🔴 RODMM Framework](research-data-management/rdm-guides/rodmm-framework.md)
+  * [🔴 Research Open Data Management Matrix](research-data-management/rdm-guides/rodmm-framework.md)
 
 ## Bioinformatics Resources
 
