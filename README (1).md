@@ -96,7 +96,7 @@ reNEW promotes shared responsibility in RDM to:
 For questions or one-on-one support on any RDM topic, such as writing a DMP, organizing data, or understanding compliance, please get in touch:
 
 **Contact:** Richard Dennis\
-**Role:** Data Steward, reNEW\
+**Role:** Research Consultant - Data Steward/ Data Manager, reNEW\
 **Availability:** Wednesdays, 14:00–15:00 (in person) or by appointment\
 **Email:** [richard.dennis@sund.ku.dk](mailto:richard.dennis@sund.ku.dk)
 
