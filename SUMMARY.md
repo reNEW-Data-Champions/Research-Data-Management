@@ -17,8 +17,8 @@
   * [🌎 reNEW Publications](https://publication.renew-platforms.dk/)
 * [🟠 DAN HPC Hub](onboarding-at-renew/dan-hpc-hub/README.md)
   * [🟠 DAN HPC at reNEW](https://bit.ly/DANGPU)
-* [🟠 HPC Quick Guide](onboarding-at-renew/ucph-hpc-quick-guide.md)
 * [🟠 Training Resourcesn Hub](onboarding-at-renew/training-resourcesn-hub.md)
+* [🟠 UCPH Research Computing](onboarding-at-renew/ucph-research-computing.md)
 
 ## Research Data Life Cycle
 
@@ -149,6 +149,7 @@
   * [🔵 Naming Guide - Side 2](informational-guides/directory-structure/naming-guide-side-2.md)
   * [🔵 RDM Directory Structure](informational-guides/directory-structure/file-and-folder-tips.md)
 * [🔵 Guidance  & Checklist](informational-guides/research-planning.md)
+* [🔵 HPC Quick Guide](informational-guides/ucph-hpc-quick-guide.md)
 * [🔵 Labguru Quick Guide I](informational-guides/fair-principles.md)
 * [🔵 Labguru Quick Guide II](informational-guides/fair-principles-1.md)
 
