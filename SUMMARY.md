@@ -17,7 +17,7 @@
   * [🌎 reNEW Publications](https://publication.renew-platforms.dk/)
 * [🟠 DAN HPC Hub](onboarding-at-renew/dan-hpc-hub/README.md)
   * [🟠 DAN HPC at reNEW](https://bit.ly/DANGPU)
-* [🟠 Training Resourcesn Hub](onboarding-at-renew/training-resourcesn-hub.md)
+* [🟠 Training Resources Hub](onboarding-at-renew/training-resources-hub.md)
 * [🟠 UCPH Research Computing](onboarding-at-renew/ucph-research-computing.md)
 
 ## Research Data Life Cycle
