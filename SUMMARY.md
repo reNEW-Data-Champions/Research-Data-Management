@@ -163,4 +163,5 @@
   * [🟡 Newsletter - June 2025](newsletters/monthly-newsletter/blog-post-june-2025.md)
   * [🟡 Newsletter - July 2025](newsletters/monthly-newsletter/blog-post-july-2025.md)
   * [🟡 Newsletter - August 2025](newsletters/monthly-newsletter/blog-post-august-2025.md)
+  * [🟡 Newsletter - Sept 2025](newsletters/monthly-newsletter/blog-post-september-2025.md)
 * [🟡 Acknowledgements](newsletters/license-and-acknowledgements.md)
