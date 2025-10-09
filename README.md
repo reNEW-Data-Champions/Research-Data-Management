@@ -18,7 +18,7 @@ layout:
 
 # 🟠 Data Champions at reNEW
 
-## 🧪 What Are Data Champions at reNEW?
+## 🧪 Data Champions at reNEW?
 
 **reNEW Data Champions** are volunteer researchers who provide peer-to-peer support in research data management (RDM). They aim to make responsible data practices more accessible, consistent, and embedded across the reNEW research community.
 
