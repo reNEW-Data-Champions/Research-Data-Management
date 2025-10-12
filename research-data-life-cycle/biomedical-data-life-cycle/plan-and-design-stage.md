@@ -19,7 +19,7 @@ layout:
 
 # Plan & Design Stage
 
-<figure><img src="../.gitbook/assets/5.jpeg" alt=""><figcaption><p>Plan &#x26; Design Stage</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/5.jpeg" alt=""><figcaption><p>Plan &#x26; Design Stage</p></figcaption></figure>
 
 ## **Plan & Design Stage – Summary Table**
 

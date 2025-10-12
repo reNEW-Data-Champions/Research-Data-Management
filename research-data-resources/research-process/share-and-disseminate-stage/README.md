@@ -19,7 +19,7 @@ layout:
 
 # Share & Disseminate Stage
 
-<figure><img src="../../.gitbook/assets/Share and Disseminate.jpg" alt=""><figcaption><p>Share &#x26; Publish Stage</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Share and Disseminate.jpg" alt=""><figcaption><p>Share &#x26; Publish Stage</p></figcaption></figure>
 
 ## Share & Disseminate Stage — Detailed Summary
 

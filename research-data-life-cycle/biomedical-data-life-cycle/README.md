@@ -19,7 +19,7 @@ layout:
 
 # Biomedical Data Life Cycle
 
-<figure><img src="../.gitbook/assets/4 (2).png" alt=""><figcaption><p>Biomedical Data Life Cycle</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/4 (2).png" alt=""><figcaption><p>Biomedical Data Life Cycle</p></figcaption></figure>
 
 <p align="center"><strong>(Biomedical) Research Data Lifecycle</strong> by <a href="https://datamanagement.hms.harvard.edu/">LMA Research Data Management Working Group</a> is licensed under a <a href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.  All versions and materials for the lifecycle are available <a href="https://doi.org/10.5281/zenodo.8075933">in Zenodo</a>.</p>
 
