@@ -24,15 +24,15 @@
   * [🟠 UCPH Policy for RDM](renew-resources/renew-resources/ucph-policy-for-rdm.md)
   * [🟠 UCPH Research Computing](renew-resources/renew-resources/ucph-research-computing.md)
 
-## Research Data Life Cycle
+## Biomedical Data Life Cycle
 
-* [Biomedical Data Life Cycle](research-data-life-cycle/biomedical-data-life-cycle/README.md)
-  * [Plan & Design Stage](research-data-life-cycle/biomedical-data-life-cycle/plan-and-design-stage.md)
-  * [Collect & Create Stage](research-data-life-cycle/biomedical-data-life-cycle/collect-and-create-stage.md)
-  * [Analyze & Collaborate Stage](research-data-life-cycle/biomedical-data-life-cycle/analyze-and-collaborate-stage.md)
-  * [Evaluate & Archive Stage](research-data-life-cycle/biomedical-data-life-cycle/evaluate-and-archive-stage.md)
-  * [Share & Disseminate Stage](research-data-life-cycle/biomedical-data-life-cycle/share-and-disseminate-stage.md)
-  * [Publish & Reuse Stage](research-data-life-cycle/biomedical-data-life-cycle/publish-and-reuse-stage.md)
+* [Biomedical Data Life Cycle](biomedical-data-life-cycle/biomedical-data-life-cycle/README.md)
+  * [Plan & Design Stage](biomedical-data-life-cycle/biomedical-data-life-cycle/plan-and-design-stage.md)
+  * [Collect & Create Stage](biomedical-data-life-cycle/biomedical-data-life-cycle/collect-and-create-stage.md)
+  * [Analyze & Collaborate Stage](biomedical-data-life-cycle/biomedical-data-life-cycle/analyze-and-collaborate-stage.md)
+  * [Evaluate & Archive Stage](biomedical-data-life-cycle/biomedical-data-life-cycle/evaluate-and-archive-stage.md)
+  * [Share & Disseminate Stage](biomedical-data-life-cycle/biomedical-data-life-cycle/share-and-disseminate-stage.md)
+  * [Publish & Reuse Stage](biomedical-data-life-cycle/biomedical-data-life-cycle/publish-and-reuse-stage.md)
 
 ## Research Data Resources
 
