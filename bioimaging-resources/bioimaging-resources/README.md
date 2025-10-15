@@ -1,5 +1,6 @@
 ---
 description: Open-Source Bioimage Viewers
+icon: circle-6
 layout:
   width: wide
   title:
@@ -16,7 +17,7 @@ layout:
     visible: true
 ---
 
-# 🟤 Bioimaging Viewers
+# Bioimaging Resources
 
 #### Here is a list of Open-source viewers best suited for life-science microscopy (fluorescence/confocal/spinning-disk, widefield, light-sheet, live-cell, EM/WSI).
 

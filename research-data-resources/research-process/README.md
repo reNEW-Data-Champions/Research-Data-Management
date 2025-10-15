@@ -1,6 +1,6 @@
 ---
 description: Steps for the Reserach Project Process
-icon: circle-1
+icon: circle-3
 layout:
   width: wide
   title:

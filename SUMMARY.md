@@ -2,7 +2,7 @@
 
 ## Onboarding at reNEW
 
-* [🟠 Onboarding at reNEW](README.md)
+* [Onboarding at reNEW](README.md)
   * [🟠 Data Champions at reNEW](onboarding-at-renew/onboarding-at-renew/data-champions-at-renew.md)
   * [🟠 BMI / reNEW Websites](onboarding-at-renew/onboarding-at-renew/renew-websites/README.md)
     * [🌎 BMI Website](https://bmi.ku.dk/english/)
@@ -110,20 +110,20 @@
 
 ## Bioinformatics Resources
 
-* [🟣 Bioinformatics Open Source Tools](bioinformatics-resources/bioinformatics-open-source-tools.md)
-* [🟣 GitHub Skills](https://skills.github.com/)
-* [🟣 GLITTR  - Educational Resources](https://glittr.org/?per_page=25\&sort_by=stargazers\&sort_direction=desc)
-* [🟣 Introduction to Conda for (Data) Scientists](https://carpentries-incubator.github.io/introduction-to-conda-for-data-scientists/index.html)
-* [🟣 Netherlands eScience Center](https://carpentries-incubator.github.io/introduction-to-conda-for-data-scientists/index.html)
-* [🟣  Python for Scientific Computing](https://aaltoscicomp.github.io/python-for-scicomp/)
-* [🟣 RDM for Bioinformatics](https://rdmkit.elixir-europe.org/structural_bioinformatics)
+* [Bioinformatics Resources](bioinformatics-resources/bioinformatics-resources/README.md)
+  * [🟣 GitHub Skills](https://skills.github.com/)
+  * [🟣 GLITTR  - Educational Resources](https://glittr.org/?per_page=25\&sort_by=stargazers\&sort_direction=desc)
+  * [🟣 Introduction to Conda for (Data) Scientists](https://carpentries-incubator.github.io/introduction-to-conda-for-data-scientists/index.html)
+  * [🟣 Netherlands eScience Center](https://carpentries-incubator.github.io/introduction-to-conda-for-data-scientists/index.html)
+  * [🟣  Python for Scientific Computing](https://aaltoscicomp.github.io/python-for-scicomp/)
+  * [🟣 RDM for Bioinformatics](https://rdmkit.elixir-europe.org/structural_bioinformatics)
 
 ## Bioimaging Resources
 
-* [🟤 Bioimaging Viewers](bioimaging-resources/bioimaging-viewers.md)
-* [🟤 Bioimaging Workflows](bioimaging-resources/bioimaging-workflows.md)
-* [🟤 Open & Standardized imaging data](https://embl-ebi.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=d06b66c7-1cec-487b-9ce9-b2eb00f71b13)
-* [🟤 RDM Kit for Bioimaging](https://rdmkit.elixir-europe.org/bioimaging_data)
+* [Bioimaging Resources](bioimaging-resources/bioimaging-resources/README.md)
+  * [🟤 Bioimaging Workflows](bioimaging-resources/bioimaging-resources/bioimaging-workflows.md)
+  * [🟤 Open & Standardized imaging data](https://embl-ebi.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=d06b66c7-1cec-487b-9ce9-b2eb00f71b13)
+  * [🟤 RDM Kit for Bioimaging](https://rdmkit.elixir-europe.org/bioimaging_data)
 
 ## Biomedical Resources
 

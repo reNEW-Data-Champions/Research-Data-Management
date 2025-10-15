@@ -1,5 +1,6 @@
 ---
 description: Onboarding at reNEW
+icon: circle-1
 layout:
   width: wide
   title:
@@ -16,7 +17,7 @@ layout:
     visible: true
 ---
 
-# 🟠 Onboarding at reNEW
+# Onboarding at reNEW
 
 ## 🧪 **Onboarding for Research Data Management**
 

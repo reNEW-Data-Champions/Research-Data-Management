@@ -1,5 +1,6 @@
 ---
 description: 'Bioinformatics Open Source Tools: FAIR and Open Science'
+icon: circle-5
 layout:
   width: wide
   title:
@@ -16,7 +17,7 @@ layout:
     visible: true
 ---
 
-# 🟣 Bioinformatics Open Source Tools
+# Bioinformatics Resources
 
 ## 🧬 Bioinformatics FAIR and Open Science Tools
 

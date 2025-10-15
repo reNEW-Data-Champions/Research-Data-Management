@@ -1,6 +1,6 @@
 ---
 description: Research Data Management
-icon: circle-2
+icon: circle-4
 layout:
   width: wide
   title:
