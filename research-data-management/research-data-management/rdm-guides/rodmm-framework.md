@@ -32,6 +32,6 @@ The **Research Open Data Management Matrix** is vital for researchers, data stew
 
 ***
 
-<div data-full-width="false"><figure><img src="../../.gitbook/assets/Designrff-1.jpg" alt=""><figcaption><p>Research Open Data Management Matrix (RODMM)</p></figcaption></figure></div>
+<div data-full-width="false"><figure><img src="../../../.gitbook/assets/Designrff-1.jpg" alt=""><figcaption><p>Research Open Data Management Matrix (RODMM)</p></figcaption></figure></div>
 
-<div data-full-width="false"><figure><img src="../../.gitbook/assets/Designrff-2.jpg" alt=""><figcaption><p>Research Open Data Management Matrix (RODMM)</p></figcaption></figure></div>
+<div data-full-width="false"><figure><img src="../../../.gitbook/assets/Designrff-2.jpg" alt=""><figcaption><p>Research Open Data Management Matrix (RODMM)</p></figcaption></figure></div>

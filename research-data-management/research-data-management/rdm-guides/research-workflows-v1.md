@@ -18,4 +18,4 @@ layout:
 
 # 🔴 Research Workflows v1
 
-<figure><img src="../../.gitbook/assets/reNEW Research Project (2).jpg" alt=""><figcaption><p>Biomedical Research Workflows v1</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/reNEW Research Project (2).jpg" alt=""><figcaption><p>Biomedical Research Workflows v1</p></figcaption></figure>

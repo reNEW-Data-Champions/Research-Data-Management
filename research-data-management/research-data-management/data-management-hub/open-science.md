@@ -18,7 +18,7 @@ layout:
 
 # 🔴 Open Science
 
-![](<../../.gitbook/assets/0 (1).jpeg>)
+![](<../../../.gitbook/assets/0 (1).jpeg>)
 
 
 
