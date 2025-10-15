@@ -25,7 +25,7 @@ layout:
 #### <mark style="color:$danger;">**The Onboarding PowerPoint slides are found below**</mark>
 {% endhint %}
 
-## 🧬 reNEW Research Data Management (RDM) Hub
+## 🧬 reNEW Research Data Management Hub
 
 **Your central platform for biomedical research data guidance, tools, and support at reNEW, BMI, and UCPH.**
 
@@ -49,7 +49,7 @@ If you're newly employed at reNEW, it's essential to embed good RDM practices fr
 * **Data Management Plan (DMP) Seminar**\
   This is a short introduction to DMPs, what they are, why they matter, and how to meet UCPH and funder expectations.
 
-These materials will help you establish good practices from day one and connect with your local RDM support network.
+These materials will help you establish good practices from day one and connect with your local Data Champion.
 
 ***
 
