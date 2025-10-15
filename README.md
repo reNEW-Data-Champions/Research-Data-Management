@@ -1,6 +1,6 @@
 ---
 description: Onboarding at reNEW
-icon: circle-1
+icon: circle-0
 layout:
   width: wide
   title:

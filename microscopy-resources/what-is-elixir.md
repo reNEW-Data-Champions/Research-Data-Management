@@ -1,5 +1,6 @@
 ---
 description: Imaging Platform Services
+icon: circle-9
 layout:
   width: wide
   title:
@@ -16,7 +17,7 @@ layout:
     visible: true
 ---
 
-# 🟠 Imaging Platform Services
+# Imaging Platform Services
 
 ## **Imaging Platform – Service Support Overview**
 

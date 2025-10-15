@@ -1,5 +1,6 @@
 ---
 description: Elixir Resources
+icon: circle-8
 layout:
   width: wide
   title:
@@ -16,7 +17,7 @@ layout:
     visible: true
 ---
 
-# 🟢 Elixir Resources
+# Elixir Resources
 
 ## **RDM Support Resources (ELIXIR)**
 

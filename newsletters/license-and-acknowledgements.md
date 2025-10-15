@@ -1,8 +1,9 @@
 ---
 description: License  and Acknowledgements
+icon: circle-b
 ---
 
-# 🟡 Acknowledgements
+# Acknowledgements
 
 ## **Acknowledgements**
 

@@ -1,5 +1,6 @@
 ---
 description: Monthly Newsletter
+icon: circle-a
 layout:
   width: wide
   title:
@@ -16,7 +17,7 @@ layout:
     visible: true
 ---
 
-# 🟡 Monthly Newsletter
+# Monthly Newsletter
 
 ## reNEW Newsletter: Monthly Newsletter Archive
 

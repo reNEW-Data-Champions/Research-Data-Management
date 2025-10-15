@@ -3,7 +3,11 @@
 ## Onboarding at reNEW
 
 * [Onboarding at reNEW](README.md)
-  * [🟠 BMI / reNEW Websites](onboarding-at-renew/onboarding-at-renew/renew-websites/README.md)
+
+## reNEW Resources
+
+* [reNEW Resources](renew-resources/renew-resources/README.md)
+  * [🟠 BMI / reNEW Websites](renew-resources/renew-resources/renew-websites/README.md)
     * [🌎 BMI Website](https://bmi.ku.dk/english/)
     * [🌎 BMI Onboarding](https://kunet.ku.dk/faculty-and-department/bmi/about/epartment_documents/Pages/default.aspx#collapseMSOZoneCell_WebPartWPQ9)
     * [🌎 reNEW KUnet](https://kunet.ku.dk/faculty-and-department/renew/Pages/default.aspx)
@@ -14,11 +18,11 @@
     * [🌎 reNEW DanGPU](https://bit.ly/DANGPU)
     * [🌎 reNEW Flow Cy](https://kunet.ku.dk/faculty-and-department/renew/Labs%20and%20Research%20Platforms/Research%20Platforms/Flow%20Cytometry%20Platform/Pages/default.aspx)
     * [🌎 reNEW Publications](https://publication.renew-platforms.dk/)
-  * [🟠 DAN HPC Hub](onboarding-at-renew/onboarding-at-renew/dan-hpc-hub/README.md)
+  * [🟠 DAN HPC Hub](renew-resources/renew-resources/dan-hpc-hub/README.md)
     * [🟠 DAN HPC at reNEW](https://bit.ly/DANGPU)
-  * [🟠 Training Resources Hub](onboarding-at-renew/onboarding-at-renew/training-resources-hub.md)
-  * [🟠 UCPH Policy for RDM](onboarding-at-renew/onboarding-at-renew/ucph-policy-for-rdm.md)
-  * [🟠 UCPH Research Computing](onboarding-at-renew/onboarding-at-renew/ucph-research-computing.md)
+  * [🟠 Training Resources Hub](renew-resources/renew-resources/training-resources-hub.md)
+  * [🟠 UCPH Policy for RDM](renew-resources/renew-resources/ucph-policy-for-rdm.md)
+  * [🟠 UCPH Research Computing](renew-resources/renew-resources/ucph-research-computing.md)
 
 ## Research Data Life Cycle
 
@@ -140,7 +144,7 @@
 
 ## Biomedical Resources
 
-* [🟢 Elixir Resources](biomedical-resources/what-is-elixir/README.md)
+* [Elixir Resources](biomedical-resources/what-is-elixir/README.md)
   * [🟢 RDM Guide for Life Sciences](https://bit.ly/RDM_GUIDE)
   * [🟢 RDM Kit for Life Sciences](https://bit.ly/RDM_Kit)
   * [🟢 RDM Kit for Single-cell sequencing](https://bit.ly/rdm-scs)
@@ -152,11 +156,11 @@
 
 ## Microscopy Resources
 
-* [🟠 Imaging Platform Services](microscopy-resources/what-is-elixir.md)
+* [Imaging Platform Services](microscopy-resources/what-is-elixir.md)
 
 ## Newsletters
 
-* [🟡 Monthly Newsletter](newsletters/monthly-newsletter/README.md)
+* [Monthly Newsletter](newsletters/monthly-newsletter/README.md)
   * [🟡 Disclaimer](newsletters/monthly-newsletter/disclaimer.md)
   * [🟡 Newsletter - March 2025](newsletters/monthly-newsletter/blog-post-march-2025.md)
   * [🟡 Newsletter - April 2025](newsletters/monthly-newsletter/blog-post-april-2025.md)
@@ -165,4 +169,4 @@
   * [🟡 Newsletter - July 2025](newsletters/monthly-newsletter/blog-post-july-2025.md)
   * [🟡 Newsletter - August 2025](newsletters/monthly-newsletter/blog-post-august-2025.md)
   * [🟡 Newsletter - Sept 2025](newsletters/monthly-newsletter/blog-post-september-2025.md)
-* [🟡 Acknowledgements](newsletters/license-and-acknowledgements.md)
+* [Acknowledgements](newsletters/license-and-acknowledgements.md)
