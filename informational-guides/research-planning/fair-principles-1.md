@@ -1,5 +1,5 @@
 ---
-description: File Naming Guide
+description: Labguru Quick Guide
 layout:
   width: wide
   title:
@@ -16,6 +16,6 @@ layout:
     visible: true
 ---
 
-# 🔵 File Naming Guide
+# 🔵 Labguru Quick Guide II
 
-<figure><img src="../../.gitbook/assets/File_Naming_Guidelines.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Labguru Quick Guide version 2.jpg" alt=""><figcaption></figcaption></figure>

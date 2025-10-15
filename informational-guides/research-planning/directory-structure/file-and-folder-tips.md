@@ -1,5 +1,5 @@
 ---
-description: Labguru Quick Guide
+description: Organizing Your Data
 layout:
   width: wide
   title:
@@ -16,6 +16,6 @@ layout:
     visible: true
 ---
 
-# 🔵 Labguru Quick Guide II
+# 🔵 RDM Directory Structure
 
-<figure><img src="../.gitbook/assets/Labguru Quick Guide version 2.jpg" alt=""><figcaption></figcaption></figure>
+<div data-full-width="false"><figure><img src="../../../.gitbook/assets/RDM_Checklist_Directory.jpg" alt=""><figcaption></figcaption></figure></div>

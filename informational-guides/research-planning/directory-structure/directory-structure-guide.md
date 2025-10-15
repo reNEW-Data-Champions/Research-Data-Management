@@ -1,5 +1,5 @@
 ---
-description: Organizing Your Data
+description: Directory Structure Guide
 layout:
   width: wide
   title:
@@ -16,6 +16,6 @@ layout:
     visible: true
 ---
 
-# 🔵 RDM Directory Structure
+# 🔵 Directory Structure Guide
 
-<div data-full-width="false"><figure><img src="../../.gitbook/assets/RDM_Checklist_Directory.jpg" alt=""><figcaption></figcaption></figure></div>
+<figure><img src="../../../.gitbook/assets/Directory_Structure.jpg" alt=""><figcaption></figcaption></figure>

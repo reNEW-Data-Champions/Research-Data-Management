@@ -1,5 +1,5 @@
 ---
-description: Directory & Naming Guide - Side 2
+description: File Naming Guide
 layout:
   width: wide
   title:
@@ -16,6 +16,6 @@ layout:
     visible: true
 ---
 
-# 🔵 Naming Guide - Side 2
+# 🔵 File Naming Guide
 
-<figure><img src="../../.gitbook/assets/Directory and Naming Structure - 2.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/File_Naming_Guidelines.jpg" alt=""><figcaption></figcaption></figure>

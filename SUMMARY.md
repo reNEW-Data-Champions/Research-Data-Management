@@ -125,6 +125,19 @@
   * [🟤 Open & Standardized imaging data](https://embl-ebi.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=d06b66c7-1cec-487b-9ce9-b2eb00f71b13)
   * [🟤 RDM Kit for Bioimaging](https://rdmkit.elixir-europe.org/bioimaging_data)
 
+## Informational Guides
+
+* [Informational Guides](informational-guides/research-planning/README.md)
+  * [🔵 Directory Structure](informational-guides/research-planning/directory-structure/README.md)
+    * [🔵 Directory Structure Guide](informational-guides/research-planning/directory-structure/directory-structure-guide.md)
+    * [🔵 File Naming Guide](informational-guides/research-planning/directory-structure/file-naming-guide.md)
+    * [🔵 Naming Guide - Side 1](informational-guides/research-planning/directory-structure/naming-guide-side-1.md)
+    * [🔵 Naming Guide - Side 2](informational-guides/research-planning/directory-structure/naming-guide-side-2.md)
+    * [🔵 RDM Directory Structure](informational-guides/research-planning/directory-structure/file-and-folder-tips.md)
+  * [🔵 HPC Quick Guide](informational-guides/research-planning/ucph-hpc-quick-guide.md)
+  * [🔵 Labguru Quick Guide I](informational-guides/research-planning/fair-principles.md)
+  * [🔵 Labguru Quick Guide II](informational-guides/research-planning/fair-principles-1.md)
+
 ## Biomedical Resources
 
 * [🟢 Elixir Resources](biomedical-resources/what-is-elixir/README.md)
@@ -140,19 +153,6 @@
 ## Microscopy Resources
 
 * [🟠 Imaging Platform Services](microscopy-resources/what-is-elixir.md)
-
-## Informational Guides
-
-* [🔵 Directory Structure](informational-guides/directory-structure/README.md)
-  * [🔵 Directory Structure Guide](informational-guides/directory-structure/directory-structure-guide.md)
-  * [🔵 File Naming Guide](informational-guides/directory-structure/file-naming-guide.md)
-  * [🔵 Naming Guide - Side 1](informational-guides/directory-structure/naming-guide-side-1.md)
-  * [🔵 Naming Guide - Side 2](informational-guides/directory-structure/naming-guide-side-2.md)
-  * [🔵 RDM Directory Structure](informational-guides/directory-structure/file-and-folder-tips.md)
-* [🔵 Guidance  & Checklist](informational-guides/research-planning.md)
-* [🔵 HPC Quick Guide](informational-guides/ucph-hpc-quick-guide.md)
-* [🔵 Labguru Quick Guide I](informational-guides/fair-principles.md)
-* [🔵 Labguru Quick Guide II](informational-guides/fair-principles-1.md)
 
 ## Newsletters
 
