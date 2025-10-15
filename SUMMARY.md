@@ -3,7 +3,6 @@
 ## Onboarding at reNEW
 
 * [Onboarding at reNEW](README.md)
-  * [🟠 Data Champions at reNEW](onboarding-at-renew/onboarding-at-renew/data-champions-at-renew.md)
   * [🟠 BMI / reNEW Websites](onboarding-at-renew/onboarding-at-renew/renew-websites/README.md)
     * [🌎 BMI Website](https://bmi.ku.dk/english/)
     * [🌎 BMI Onboarding](https://kunet.ku.dk/faculty-and-department/bmi/about/epartment_documents/Pages/default.aspx#collapseMSOZoneCell_WebPartWPQ9)
@@ -18,6 +17,7 @@
   * [🟠 DAN HPC Hub](onboarding-at-renew/onboarding-at-renew/dan-hpc-hub/README.md)
     * [🟠 DAN HPC at reNEW](https://bit.ly/DANGPU)
   * [🟠 Training Resources Hub](onboarding-at-renew/onboarding-at-renew/training-resources-hub.md)
+  * [🟠 UCPH Policy for RDM](onboarding-at-renew/onboarding-at-renew/ucph-policy-for-rdm.md)
   * [🟠 UCPH Research Computing](onboarding-at-renew/onboarding-at-renew/ucph-research-computing.md)
 
 ## Research Data Life Cycle
