@@ -105,12 +105,12 @@
     * [🔴 UCPH Research IT](https://kunet.ku.dk/work-areas/research/Research%20Infrastructure/research-it/Pages/default.aspx)
     * [🔴 UCPH Labguru Access](https://unet.ku.dk/work-areas/research/units/SUNDs-toolbox/labguru-eln/Pages/default.aspx)
   * [🔴 Labguru Webinars](research-data-management/research-data-management/labguru-webinars.md)
-  * [🔴 RDM Guides](research-data-management/research-data-management/rdm-guides/README.md)
-    * [🔴 FAIR Principles](research-data-management/research-data-management/rdm-guides/fair-principles.md)
-    * [🔴 Open Science](research-data-management/research-data-management/rdm-guides/open-science-pillars.md)
-    * [🔴 Research Workflows v1](research-data-management/research-data-management/rdm-guides/research-workflows-v1.md)
-    * [🔴 Research Workflows v2](research-data-management/research-data-management/rdm-guides/research-workflows-v2.md)
-    * [🔴 Research Open Data Management Matrix](research-data-management/research-data-management/rdm-guides/rodmm-framework.md)
+  * [🔴 RDM Guide](research-data-management/research-data-management/rdm-guide/README.md)
+    * [🔴 FAIR Principles](research-data-management/research-data-management/rdm-guide/fair-principles.md)
+    * [🔴 Open Science](research-data-management/research-data-management/rdm-guide/open-science-pillars.md)
+    * [🔴 Research Workflows v1](research-data-management/research-data-management/rdm-guide/research-workflows-v1.md)
+    * [🔴 Research Workflows v2](research-data-management/research-data-management/rdm-guide/research-workflows-v2.md)
+    * [🔴 Research Open Data Management Matrix](research-data-management/research-data-management/rdm-guide/rodmm-framework.md)
 
 ## Bioinformatics Resources
 
