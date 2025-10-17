@@ -1,6 +1,6 @@
 ---
 description: Open-Source Bioimage Viewers
-icon: circle-6
+icon: k
 layout:
   width: wide
   title:

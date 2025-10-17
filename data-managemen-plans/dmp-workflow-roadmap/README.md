@@ -1,5 +1,6 @@
 ---
 description: DMP Workflow Roadmap
+icon: e
 layout:
   width: wide
   title:
@@ -16,7 +17,7 @@ layout:
     visible: true
 ---
 
-# 🟡 DMP Workflow Roadmap
+# DMP Workflow Roadmap
 
 DMP Workflow Roadmap
 

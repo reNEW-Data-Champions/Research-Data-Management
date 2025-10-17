@@ -1,6 +1,6 @@
 ---
 description: 'Research Data Life Cycle: Guidance  & Checklist'
-icon: circle-7
+icon: l
 layout:
   width: wide
   title:

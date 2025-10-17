@@ -1,6 +1,6 @@
 ---
 description: Elixir Resources
-icon: circle-8
+icon: i
 layout:
   width: wide
   title:

@@ -1,6 +1,6 @@
 ---
 description: Imaging Platform Services
-icon: circle-9
+icon: m
 layout:
   width: wide
   title:
