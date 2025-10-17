@@ -1,6 +1,6 @@
 ---
 description: Biomedical Data Life Cycle
-icon: circle-2
+icon: c
 layout:
   width: wide
   title:

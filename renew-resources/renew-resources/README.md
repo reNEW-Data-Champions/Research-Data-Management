@@ -1,6 +1,20 @@
 ---
 description: reNEW Resources
-icon: circle-1
+icon: b
+layout:
+  width: wide
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
 # reNEW Resources

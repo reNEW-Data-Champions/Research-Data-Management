@@ -18,11 +18,12 @@
     * [🌎 reNEW DanGPU](https://bit.ly/DANGPU)
     * [🌎 reNEW Flow Cy](https://kunet.ku.dk/faculty-and-department/renew/Labs%20and%20Research%20Platforms/Research%20Platforms/Flow%20Cytometry%20Platform/Pages/default.aspx)
     * [🌎 reNEW Publications](https://publication.renew-platforms.dk/)
-  * [🟠 DAN HPC Hub](renew-resources/renew-resources/dan-hpc-hub/README.md)
-    * [🟠 DAN HPC at reNEW](https://bit.ly/DANGPU)
+  * [🟠 DAN HPC Cluster](renew-resources/renew-resources/dan-hpc-cluster/README.md)
+    * [🟠 DAN HPC Cluster](https://bit.ly/DANGPU)
+  * [🟠 Labguru Webinars](renew-resources/renew-resources/labguru-webinars.md)
   * [🟠 Training Resources Hub](renew-resources/renew-resources/training-resources-hub.md)
   * [🟠 UCPH Policy for RDM](renew-resources/renew-resources/ucph-policy-for-rdm.md)
-  * [🟠 UCPH Research Computing](renew-resources/renew-resources/ucph-research-computing.md)
+  * [🟠 UCPH Compute Resources](renew-resources/renew-resources/ucph-compute-resources.md)
 
 ## Biomedical Data Life Cycle
 
@@ -33,6 +34,36 @@
   * [Evaluate & Archive Stage](biomedical-data-life-cycle/biomedical-data-life-cycle/evaluate-and-archive-stage.md)
   * [Share & Disseminate Stage](biomedical-data-life-cycle/biomedical-data-life-cycle/share-and-disseminate-stage.md)
   * [Publish & Reuse Stage](biomedical-data-life-cycle/biomedical-data-life-cycle/publish-and-reuse-stage.md)
+
+## Research Data Management
+
+* [Research Data Management](research-data-management/research-data-management/README.md)
+  * [🔴 Data Management Hub](research-data-management/research-data-management/data-management-hub/README.md)
+    * [🔴 FAIR Principles](research-data-management/research-data-management/data-management-hub/fair-principles.md)
+    * [🔴 Open Science](research-data-management/research-data-management/data-management-hub/open-science.md)
+    * [🔴 FAIR Principles](https://www.howtofair.dk/)
+    * [🔴 FAIR Training Handbook](https://elixir-europe-training.github.io/ELIXIR-TrP-FAIR-training-handbook/)
+    * [🔴 Ten quick tips for building FAIR workflows](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011369)
+    * [🔴 UCPH Portal](https://kunet.ku.dk/work-areas/research/Pages/default.aspx)
+    * [🔴 UCPH RDM Portal](https://kunet.ku.dk/work-areas/research/data/Pages/default.aspx)
+  * [🔴 Data Protection Hub](research-data-management/research-data-management/gdpr-for-researchers/README.md)
+    * [🔴 Data Protection Agency](research-data-management/research-data-management/gdpr-for-researchers/data-protection-agency.md)
+    * [🔴 GDPR Guide](https://kunet.ku.dk/work-areas/research/data/personal-data/Pages/default.aspx)
+  * [🔴 eLearning RDM Videos](research-data-management/research-data-management/seminars/README.md)
+    * [🔴 RDM Module 1](https://www.youtube.com/watch?v=wK4o7iliJHQ)
+    * [🔴 RDM Module 2](https://www.youtube.com/watch?v=OvEHYCSmzCA)
+    * [🔴 RDM Module 3](https://youtu.be/tvs5_X5rn8w)
+  * [🔴 FAIR & Open Science Resource](research-data-management/research-data-management/fair-and-open-science-resource.md)
+  * [🔴 FAIR Workflow Roadmap](research-data-management/research-data-management/fair-workflow-roadmap.md)
+  * [🔴 IT Support Hub](research-data-management/research-data-management/ucph-hpc-guide/README.md)
+    * [🔴 UCPH Research IT](https://kunet.ku.dk/work-areas/research/Research%20Infrastructure/research-it/Pages/default.aspx)
+    * [🔴 UCPH Labguru Access](https://unet.ku.dk/work-areas/research/units/SUNDs-toolbox/labguru-eln/Pages/default.aspx)
+  * [🔴 RDM Guide](research-data-management/research-data-management/rdm-guide/README.md)
+    * [🔴 FAIR Principles](research-data-management/research-data-management/rdm-guide/fair-principles.md)
+    * [🔴 Open Science](research-data-management/research-data-management/rdm-guide/open-science-pillars.md)
+    * [🔴 Research Workflows v1](research-data-management/research-data-management/rdm-guide/research-workflows-v1.md)
+    * [🔴 Research Workflows v2](research-data-management/research-data-management/rdm-guide/research-workflows-v2.md)
+    * [🔴 Research Open Data Management Matrix](research-data-management/research-data-management/rdm-guide/rodmm-framework.md)
 
 ## Research Data Resources
 
@@ -81,36 +112,17 @@
     * [🔵 EOSC](research-data-resources/research-process/publish-and-reuse-stage/european-open-science-cloud.md)
     * [🔵 PLOS: Repositories](https://journals.plos.org/plosbiology/s/recommended-repositories)
 
-## Research Data Management
+## Biomedical Resources
 
-* [Research Data Management](research-data-management/research-data-management/README.md)
-  * [🔴 Data Management Hub](research-data-management/research-data-management/data-management-hub/README.md)
-    * [🔴 FAIR Principles](research-data-management/research-data-management/data-management-hub/fair-principles.md)
-    * [🔴 Open Science](research-data-management/research-data-management/data-management-hub/open-science.md)
-    * [🔴 FAIR Principles](https://www.howtofair.dk/)
-    * [🔴 FAIR Training Handbook](https://elixir-europe-training.github.io/ELIXIR-TrP-FAIR-training-handbook/)
-    * [🔴 Ten quick tips for building FAIR workflows](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011369)
-    * [🔴 UCPH Portal](https://kunet.ku.dk/work-areas/research/Pages/default.aspx)
-    * [🔴 UCPH RDM Portal](https://kunet.ku.dk/work-areas/research/data/Pages/default.aspx)
-  * [🔴 Data Protection Hub](research-data-management/research-data-management/gdpr-for-researchers/README.md)
-    * [🔴 Data Protection Agency](research-data-management/research-data-management/gdpr-for-researchers/data-protection-agency.md)
-    * [🔴 GDPR Guide](https://kunet.ku.dk/work-areas/research/data/personal-data/Pages/default.aspx)
-  * [🔴 eLearning RDM Videos](research-data-management/research-data-management/seminars/README.md)
-    * [🔴 RDM Module 1](https://www.youtube.com/watch?v=wK4o7iliJHQ)
-    * [🔴 RDM Module 2](https://www.youtube.com/watch?v=OvEHYCSmzCA)
-    * [🔴 RDM Module 3](https://youtu.be/tvs5_X5rn8w)
-  * [🔴 FAIR & Open Science Resource](research-data-management/research-data-management/fair-and-open-science-resource.md)
-  * [🔴 FAIR Workflow Roadmap](research-data-management/research-data-management/fair-workflow-roadmap.md)
-  * [🔴 IT Support Hub](research-data-management/research-data-management/ucph-hpc-guide/README.md)
-    * [🔴 UCPH Research IT](https://kunet.ku.dk/work-areas/research/Research%20Infrastructure/research-it/Pages/default.aspx)
-    * [🔴 UCPH Labguru Access](https://unet.ku.dk/work-areas/research/units/SUNDs-toolbox/labguru-eln/Pages/default.aspx)
-  * [🔴 Labguru Webinars](research-data-management/research-data-management/labguru-webinars.md)
-  * [🔴 RDM Guide](research-data-management/research-data-management/rdm-guide/README.md)
-    * [🔴 FAIR Principles](research-data-management/research-data-management/rdm-guide/fair-principles.md)
-    * [🔴 Open Science](research-data-management/research-data-management/rdm-guide/open-science-pillars.md)
-    * [🔴 Research Workflows v1](research-data-management/research-data-management/rdm-guide/research-workflows-v1.md)
-    * [🔴 Research Workflows v2](research-data-management/research-data-management/rdm-guide/research-workflows-v2.md)
-    * [🔴 Research Open Data Management Matrix](research-data-management/research-data-management/rdm-guide/rodmm-framework.md)
+* [Elixir Resources](biomedical-resources/what-is-elixir/README.md)
+  * [🟢 RDM Guide for Life Sciences](https://bit.ly/RDM_GUIDE)
+  * [🟢 RDM Kit for Life Sciences](https://bit.ly/RDM_Kit)
+  * [🟢 RDM Kit for Single-cell sequencing](https://bit.ly/rdm-scs)
+  * [🟢 RDM Kit for Bioimaging](https://rdmkit.elixir-europe.org/bioimaging_data)
+  * [🟢 RDM Kit for Bioinformatics](https://rdmkit.elixir-europe.org/structural_bioinformatics)
+  * [🟢 RDM Kit for Human Data](https://bit.ly/RDN-Human_Data)
+  * [🟢 RDM Kit for Data Repository](https://rdmkit.elixir-europe.org/data_publication)
+  * [🟢 RDM Kit for Documentation and Metadata](https://bit.ly/RDMKit-Metadata)
 
 ## Bioinformatics Resources
 
@@ -141,18 +153,6 @@
   * [🔵 HPC Quick Guide](informational-guides/research-planning/ucph-hpc-quick-guide.md)
   * [🔵 Labguru Quick Guide I](informational-guides/research-planning/fair-principles.md)
   * [🔵 Labguru Quick Guide II](informational-guides/research-planning/fair-principles-1.md)
-
-## Biomedical Resources
-
-* [Elixir Resources](biomedical-resources/what-is-elixir/README.md)
-  * [🟢 RDM Guide for Life Sciences](https://bit.ly/RDM_GUIDE)
-  * [🟢 RDM Kit for Life Sciences](https://bit.ly/RDM_Kit)
-  * [🟢 RDM Kit for Single-cell sequencing](https://bit.ly/rdm-scs)
-  * [🟢 RDM Kit for Bioimaging](https://rdmkit.elixir-europe.org/bioimaging_data)
-  * [🟢 RDM Kit for Bioinformatics](https://rdmkit.elixir-europe.org/structural_bioinformatics)
-  * [🟢 RDM Kit for Human Data](https://bit.ly/RDN-Human_Data)
-  * [🟢 RDM Kit for Data Repository](https://rdmkit.elixir-europe.org/data_publication)
-  * [🟢 RDM Kit for Documentation and Metadata](https://bit.ly/RDMKit-Metadata)
 
 ## Microscopy Resources
 
