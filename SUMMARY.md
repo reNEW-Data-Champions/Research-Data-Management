@@ -25,6 +25,15 @@
   * [🟠 UCPH Policy for RDM](renew-resources/renew-resources/ucph-policy-for-rdm.md)
   * [🟠 UCPH Compute Resources](renew-resources/renew-resources/ucph-compute-resources.md)
 
+## FAIR Principles
+
+* [🟡 FAIR Principles](fair-principles/fair-principles/README.md)
+  * [🟡 FAIR Principles](https://www.howtofair.dk/)
+  * [🟡 FAIR Roadmap](fair-principles/fair-principles/fair-roadmap.md)
+  * [🟡 FAIR Training Handbook](https://elixir-europe-training.github.io/ELIXIR-TrP-FAIR-training-handbook/)
+  * [🟡 Ten Quick Tips for Building FAIR Workflows](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011369)
+* [🟡 DMP Workflow Roadmap](fair-principles/dmp-workflow-roadmap.md)
+
 ## Biomedical Data Life Cycle
 
 * [Biomedical Data Life Cycle](biomedical-data-life-cycle/biomedical-data-life-cycle/README.md)
@@ -39,11 +48,7 @@
 
 * [Research Data Management](research-data-management/research-data-management/README.md)
   * [🔴 Data Management Hub](research-data-management/research-data-management/data-management-hub/README.md)
-    * [🔴 FAIR Principles](research-data-management/research-data-management/data-management-hub/fair-principles.md)
     * [🔴 Open Science](research-data-management/research-data-management/data-management-hub/open-science.md)
-    * [🔴 FAIR Principles](https://www.howtofair.dk/)
-    * [🔴 FAIR Training Handbook](https://elixir-europe-training.github.io/ELIXIR-TrP-FAIR-training-handbook/)
-    * [🔴 Ten quick tips for building FAIR workflows](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011369)
     * [🔴 UCPH Portal](https://kunet.ku.dk/work-areas/research/Pages/default.aspx)
     * [🔴 UCPH RDM Portal](https://kunet.ku.dk/work-areas/research/data/Pages/default.aspx)
   * [🔴 Data Protection Hub](research-data-management/research-data-management/gdpr-for-researchers/README.md)
@@ -53,13 +58,10 @@
     * [🔴 RDM Module 1](https://www.youtube.com/watch?v=wK4o7iliJHQ)
     * [🔴 RDM Module 2](https://www.youtube.com/watch?v=OvEHYCSmzCA)
     * [🔴 RDM Module 3](https://youtu.be/tvs5_X5rn8w)
-  * [🔴 FAIR & Open Science Resource](research-data-management/research-data-management/fair-and-open-science-resource.md)
-  * [🔴 FAIR Workflow Roadmap](research-data-management/research-data-management/fair-workflow-roadmap.md)
   * [🔴 IT Support Hub](research-data-management/research-data-management/ucph-hpc-guide/README.md)
     * [🔴 UCPH Research IT](https://kunet.ku.dk/work-areas/research/Research%20Infrastructure/research-it/Pages/default.aspx)
     * [🔴 UCPH Labguru Access](https://unet.ku.dk/work-areas/research/units/SUNDs-toolbox/labguru-eln/Pages/default.aspx)
   * [🔴 RDM Guide](research-data-management/research-data-management/rdm-guide/README.md)
-    * [🔴 FAIR Principles](research-data-management/research-data-management/rdm-guide/fair-principles.md)
     * [🔴 Open Science](research-data-management/research-data-management/rdm-guide/open-science-pillars.md)
     * [🔴 Research Workflows v1](research-data-management/research-data-management/rdm-guide/research-workflows-v1.md)
     * [🔴 Research Workflows v2](research-data-management/research-data-management/rdm-guide/research-workflows-v2.md)
