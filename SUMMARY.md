@@ -150,7 +150,8 @@
 
 * [Bioimaging Resources](bioimaging-resources/bioimaging-resources/README.md)
   * [🟤 Bioimaging Workflows](bioimaging-resources/bioimaging-resources/bioimaging-workflows.md)
-  * [🟤 Open & Standardized imaging data](https://embl-ebi.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=d06b66c7-1cec-487b-9ce9-b2eb00f71b13)
+  * [🟤 Bioimaging Viewers](bioimaging-resources/bioimaging-resources/bioimaging-viewers.md)
+  * [🟤 Intro to Bio-Formats](https://embl-ebi.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=d06b66c7-1cec-487b-9ce9-b2eb00f71b13)
   * [🟤 RDM Kit for Bioimaging](https://rdmkit.elixir-europe.org/bioimaging_data)
 
 ## Informational Guides
