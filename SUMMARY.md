@@ -152,6 +152,7 @@
   * [🟤 Bioimaging Workflows](bioimaging-resources/bioimaging-resources/bioimaging-workflows.md)
   * [🟤 Bioimaging Viewers](bioimaging-resources/bioimaging-resources/bioimaging-viewers.md)
   * [🟤 Intro to Bio-Formats](https://embl-ebi.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=d06b66c7-1cec-487b-9ce9-b2eb00f71b13)
+  * [🟤 Microscopy Tutorials](bioimaging-resources/bioimaging-resources/microscopy-tutorials.md)
   * [🟤 RDM Kit for Bioimaging](https://rdmkit.elixir-europe.org/bioimaging_data)
 
 ## Informational Guides
