@@ -144,7 +144,7 @@
   * [🟣 Introduction to Conda for (Data) Scientists](https://carpentries-incubator.github.io/introduction-to-conda-for-data-scientists/index.html)
   * [🟣 Netherlands eScience Center](https://carpentries-incubator.github.io/introduction-to-conda-for-data-scientists/index.html)
   * [🟣  Python for Scientific Computing](https://aaltoscicomp.github.io/python-for-scicomp/)
-  * [🟣 RDM for Bioinformatics](https://rdmkit.elixir-europe.org/structural_bioinformatics)
+  * [🟣 Structural Bioinformatics](bioinformatics-resources/bioinformatics-resources/structural-bioinformatics.md)
 
 ## Bioimaging Resources
 
