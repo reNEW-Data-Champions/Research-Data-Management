@@ -18,7 +18,9 @@ layout:
 
 # 🟣 Structural Bioinformatics
 
+{% hint style="info" %}
 The table below provides an overview of best practices for managing and sharing macromolecular structure data in structural bioinformatics. It summarizes key considerations, recommended deposition strategies, metadata standards, and external tools for predicted and experimentally solved structures, with direct links to authoritative resources.
+{% endhint %}
 
 #### 🧬 Structural Bioinformatics — FAIR Data Management Summary Table
 

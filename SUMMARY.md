@@ -139,11 +139,11 @@
 ## Bioinformatics Resources
 
 * [Bioinformatics Resources](bioinformatics-resources/bioinformatics-resources/README.md)
+  * [🟣 eScience Center Software Directory](bioinformatics-resources/bioinformatics-resources/escience-center-software-directory.md)
   * [🟣 GitHub Skills](bioinformatics-resources/bioinformatics-resources/github-skills.md)
   * [🟣 GLITTR  - Educational Resources](https://glittr.org/?per_page=25\&sort_by=stargazers\&sort_direction=desc)
   * [🟣 Introduction to Conda for (Data) Scientists](https://carpentries-incubator.github.io/introduction-to-conda-for-data-scientists/index.html)
   * [🟣 Netherlands eScience Center](https://www.esciencecenter.nl/software/)
-  * [eScience Center Software Directory](bioinformatics-resources/bioinformatics-resources/escience-center-software-directory.md)
   * [🟣  Python for Scientific Computing](https://aaltoscicomp.github.io/python-for-scicomp/)
   * [🟣 Structural Bioinformatics](bioinformatics-resources/bioinformatics-resources/structural-bioinformatics.md)
 
