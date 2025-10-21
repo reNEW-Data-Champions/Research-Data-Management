@@ -16,7 +16,7 @@ layout:
     visible: true
 ---
 
-# 🔴 Research Open Data Management Matrix
+# 🔵 Research Open Data Management Matrix
 
 ## **The Research Open Data Management Matrix**
 

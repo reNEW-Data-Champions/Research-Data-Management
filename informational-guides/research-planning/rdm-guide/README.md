@@ -16,7 +16,7 @@ layout:
     visible: true
 ---
 
-# 🔴 RDM Guide
+# 🔵 RDM Guide
 
 ### Introduction
 

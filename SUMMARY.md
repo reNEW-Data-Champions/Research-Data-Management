@@ -22,8 +22,10 @@
     * [🟠 DAN HPC Cluster](https://bit.ly/DANGPU)
   * [🟠 Labguru Webinars](renew-resources/renew-resources/labguru-webinars.md)
   * [🟠 Training Resources Hub](renew-resources/renew-resources/training-resources-hub.md)
-  * [🟠 UCPH Policy for RDM](renew-resources/renew-resources/ucph-policy-for-rdm.md)
   * [🟠 UCPH Compute Resources](renew-resources/renew-resources/ucph-compute-resources.md)
+  * [🟠 UCPH Labguru Access](https://unet.ku.dk/work-areas/research/units/SUNDs-toolbox/labguru-eln/Pages/default.aspx)
+  * [🟠 UCPH Policy for RDM](renew-resources/renew-resources/ucph-policy-for-rdm.md)
+  * [🟠 UCPH Research IT](https://kunet.ku.dk/work-areas/research/Research%20Infrastructure/research-it/Pages/default.aspx)
 
 ## FAIR Principles
 
@@ -115,14 +117,6 @@
     * [🔴 RDM Module 1](https://www.youtube.com/watch?v=wK4o7iliJHQ)
     * [🔴 RDM Module 2](https://www.youtube.com/watch?v=OvEHYCSmzCA)
     * [🔴 RDM Module 3](https://youtu.be/tvs5_X5rn8w)
-  * [🔴 IT Support Hub](research-data-resources/research-data-management/ucph-hpc-guide/README.md)
-    * [🔴 UCPH Research IT](https://kunet.ku.dk/work-areas/research/Research%20Infrastructure/research-it/Pages/default.aspx)
-    * [🔴 UCPH Labguru Access](https://unet.ku.dk/work-areas/research/units/SUNDs-toolbox/labguru-eln/Pages/default.aspx)
-  * [🔴 RDM Guide](research-data-resources/research-data-management/rdm-guide/README.md)
-    * [🔴 Open Science](research-data-resources/research-data-management/rdm-guide/open-science-pillars.md)
-    * [🔴 Research Workflows v1](research-data-resources/research-data-management/rdm-guide/research-workflows-v1.md)
-    * [🔴 Research Workflows v2](research-data-resources/research-data-management/rdm-guide/research-workflows-v2.md)
-    * [🔴 Research Open Data Management Matrix](research-data-resources/research-data-management/rdm-guide/rodmm-framework.md)
 
 ## Biomedical Resources
 
@@ -168,6 +162,11 @@
   * [🔵 HPC Quick Guide](informational-guides/research-planning/ucph-hpc-quick-guide.md)
   * [🔵 Labguru Quick Guide I](informational-guides/research-planning/fair-principles.md)
   * [🔵 Labguru Quick Guide II](informational-guides/research-planning/fair-principles-1.md)
+  * [🔵 Open Science](informational-guides/research-planning/open-science-pillars.md)
+  * [🔵 RDM Guide](informational-guides/research-planning/rdm-guide/README.md)
+    * [🔵 Research Workflows v1](informational-guides/research-planning/rdm-guide/research-workflows-v1.md)
+    * [🔵 Research Workflows v2](informational-guides/research-planning/rdm-guide/research-workflows-v2.md)
+    * [🔵 Research Open Data Management Matrix](informational-guides/research-planning/rdm-guide/rodmm-framework.md)
 
 ## Microscopy Resources
 
