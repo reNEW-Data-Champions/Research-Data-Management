@@ -1,5 +1,5 @@
 ---
-description: Steps for the Reserach Project Process
+description: Reserach Project Workflow Process
 icon: g
 layout:
   width: wide
