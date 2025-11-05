@@ -42,11 +42,6 @@
   * [🟣 Open Science - LERU](open-science/open-science/open-science-leru.md)
   * [🟣 Open Science - Use Cases](open-science/open-science/open-science-use-cases.md)
 
-## Data Managemen Plans
-
-* [DMP Workflow Roadmap](data-managemen-plans/dmp-workflow-roadmap/README.md)
-  * [🌎 DeiC DMP Planning](https://dmp.deic.dk/)
-
 ## Biomedical Data Life Cycle
 
 * [Biomedical Data Life Cycle](biomedical-data-life-cycle/biomedical-data-life-cycle/README.md)
@@ -56,6 +51,29 @@
   * [Evaluate & Archive Stage](biomedical-data-life-cycle/biomedical-data-life-cycle/evaluate-and-archive-stage.md)
   * [Share & Disseminate Stage](biomedical-data-life-cycle/biomedical-data-life-cycle/share-and-disseminate-stage.md)
   * [Publish & Reuse Stage](biomedical-data-life-cycle/biomedical-data-life-cycle/publish-and-reuse-stage.md)
+
+## Data Managemen Plans
+
+* [DMP Workflow Roadmap](data-managemen-plans/dmp-workflow-roadmap/README.md)
+  * [🌎 DeiC DMP Planning](https://dmp.deic.dk/)
+  * [🌎 DeiC DMP Guidelines](https://kunet.ku.dk/work-areas/research/data/data-management-plans/Documents/DeiC%20DMP%20-%20UCPH%20manual%20\(v1.5\).pdf)
+  * [🌎 DMP Templates Hub](data-managemen-plans/dmp-workflow-roadmap/dmp-templates/README.md)
+    * [🔵 DeiC DMP Online](https://dmp.deic.dk/)
+    * [🔵 EU Grant Templates](data-managemen-plans/dmp-workflow-roadmap/dmp-templates/eu-grants/README.md)
+      * [🔵 ERC DMP Guidelines](data-managemen-plans/dmp-workflow-roadmap/dmp-templates/eu-grants/erc-dmp.md)
+      * [🔵 ERC DMP](data-managemen-plans/dmp-workflow-roadmap/dmp-templates/eu-grants/erc-dmp-1.md)
+      * [🔵 Horizon Europe DMP](data-managemen-plans/dmp-workflow-roadmap/dmp-templates/eu-grants/horizon-europe-dmp.md)
+      * [🔵 Horizon Europe DMP](data-managemen-plans/dmp-workflow-roadmap/dmp-templates/eu-grants/horizon-europe-dmp-1.md)
+      * [🔵 Horizon 2020 DMP](data-managemen-plans/dmp-workflow-roadmap/dmp-templates/eu-grants/horizon-2020-dmp.md)
+      * [🔵 Horizon 2020 DMP](data-managemen-plans/dmp-workflow-roadmap/dmp-templates/eu-grants/horizon-2020-dmp-1.md)
+    * [🔵 Horizon Europe DMP](https://deic.dk/da/event/webinar-14062023)
+    * [🔵 Genomics Templates](data-managemen-plans/dmp-workflow-roadmap/dmp-templates/genomics/README.md)
+      * [🔵 10X scRNA Sequencing](data-managemen-plans/dmp-workflow-roadmap/dmp-templates/genomics/10x-scrna-sequencing.md)
+      * [🔵 Bulk RNA Sequencing](data-managemen-plans/dmp-workflow-roadmap/dmp-templates/genomics/bulk-rna-sequencing.md)
+      * [🔵 ChiPseq ATAC Sequencing](data-managemen-plans/dmp-workflow-roadmap/dmp-templates/genomics/chipseq-atac-sequencing.md)
+      * [🔵 CUT and RUN/CUT and TAG Sequencing](data-managemen-plans/dmp-workflow-roadmap/dmp-templates/genomics/cut-and-run-cut-and-tag-sequencing.md)
+      * [🔵 Whole Genome Sequencing](data-managemen-plans/dmp-workflow-roadmap/dmp-templates/genomics/whole-genome-sequencing.md)
+    * [🔵 UCPH DMP Template](data-managemen-plans/dmp-workflow-roadmap/dmp-templates/ucph.md)
 
 ## Research Data Management
 
