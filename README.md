@@ -19,13 +19,13 @@ layout:
 
 # Onboarding at reNEW
 
-## 🧪 **Onboarding for Research Data Management**
+## **Onboarding for Research Data Management**
 
 {% hint style="info" %}
 #### <mark style="color:$danger;">**The Onboarding PowerPoint slides are found below**</mark>
 {% endhint %}
 
-## 🧬 reNEW Research Data Management Hub
+## reNEW Research Data Management Hub
 
 **Your central platform for biomedical research data guidance, tools, and support at reNEW, BMI, and UCPH.**
 
@@ -33,7 +33,7 @@ Whether a new researcher or a senior scientist, this hub helps you navigate the 
 
 ***
 
-## 🎓 Getting Started at reNEW
+## Getting Started at reNEW
 
 If you're newly employed at reNEW, it's essential to embed good RDM practices from the start. This platform offers a structured onboarding path covering:
 
@@ -53,7 +53,7 @@ These materials will help you establish good practices from day one and connect 
 
 ***
 
-## 🔍 What You’ll Find on This Platform
+## What You’ll Find on This Platform
 
 The RDM Hub is organized for ease of use, offering:
 
@@ -66,7 +66,7 @@ The RDM Hub is organized for ease of use, offering:
 
 ***
 
-## 🤝 reNEW Data Champions Program
+## reNEW Data Champions Program
 
 The **Data Champions** are trained volunteers offering peer-to-peer RDM support across reNEW.
 
@@ -81,7 +81,7 @@ Data Champions foster a strong, sustainable data culture at reNEW by embedding F
 
 ***
 
-## 🌱 Building a Responsible Data Culture
+## Building a Responsible Data Culture
 
 reNEW promotes shared responsibility in RDM to:
 
@@ -92,7 +92,7 @@ reNEW promotes shared responsibility in RDM to:
 
 ***
 
-## 🆘 Need Help?
+## Need Help?
 
 For questions or one-on-one support on any RDM topic, such as writing a DMP, organizing data, or understanding compliance, please get in touch:
 

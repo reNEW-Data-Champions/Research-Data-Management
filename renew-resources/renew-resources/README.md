@@ -19,7 +19,7 @@ layout:
 
 # reNEW Resources
 
-## 🔍 What You’ll Find on This Platform
+## What You’ll Find on This Platform
 
 The RDM Hub is organized for ease of use, offering:
 
