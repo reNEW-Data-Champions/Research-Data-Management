@@ -98,7 +98,7 @@ For questions or one-on-one support on any RDM topic, such as writing a DMP, org
 
 **Contact:** Richard Dennis\
 **Role:** Research Consultant - Data Steward/ Data Manager, reNEW\
-**Availability:** Wednesdays, 14:00–15:00 (in person) or by appointment\
+**Availability:** Wednesdays, 14:00–15:00 (via Zoom) or by appointment\
 **Email:** [richard.dennis@sund.ku.dk](mailto:richard.dennis@sund.ku.dk)
 
 
