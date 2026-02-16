@@ -1,24 +1,10 @@
 ---
 description: What is Open Science?
-layout:
-  width: wide
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
-  metadata:
-    visible: true
 ---
 
 # 🟣 Open Science - LERU
 
-{% hint style="info" %}
+{% hint style="danger" %}
 Below is a **comprehensive set of definitions and explanations** for the **eight LERU pillars of Open Science**, drawn from LERU’s publications and interpretations by member institutions. These are the currently accepted frameworks for how research-intensive universities (such as the University of Copenhagen) should conceptualize and implement Open Science.
 {% endhint %}
 

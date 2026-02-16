@@ -1,27 +1,13 @@
 ---
 description: Onboarding at reNEW
 icon: a
-layout:
-  width: wide
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
-  metadata:
-    visible: true
 ---
 
 # Onboarding at reNEW
 
 ## **Onboarding for Research Data Management**
 
-{% hint style="info" %}
+{% hint style="danger" %}
 #### <mark style="color:$danger;">**The Onboarding PowerPoint slides are found below**</mark>
 {% endhint %}
 
@@ -37,10 +23,10 @@ Whether a new researcher or a senior scientist, this hub helps you navigate the 
 
 If you're newly employed at reNEW, it's essential to embed good RDM practices from the start. This platform offers a structured onboarding path covering:
 
-* UCPH research data policies
+* UCPH Research Data Management policies
 * EU and funder-specific requirements
 * Best practices for managing and sharing biomedical data
-* Adoption of the FAIR principles (Findable, Accessible, Interoperable, Reusable)
+* Adoption of the FAIR Principles (Findable, Accessible, Interoperable, Reusable)
 
 **Start by reviewing these two introductory presentations:**
 

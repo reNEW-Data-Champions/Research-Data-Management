@@ -1,19 +1,5 @@
 ---
 description: Archive vs. Backup
-layout:
-  width: wide
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
-  metadata:
-    visible: true
 ---
 
 # ⚪ Archive vs. Backup
@@ -34,6 +20,6 @@ layout:
 
 **Summary:**
 
-* **Backups** protect against **immediate or short-term data loss** but are **not a substitute for long-term preservation**.
-* **Archiving** ensures **sustainable, compliant, and cost-effective long-term storage** of inactive yet valuable research data, as expected under **UCPH policies and EU funder mandates (e.g., Horizon Europe, ERC)**.
+* Backups protect against immediate or short-term data loss but are not a substitute for long-term preservation.
+* Archiving ensures sustainable, compliant, and cost-effective long-term storage of inactive yet valuable research data, as expected under UCPH policies and EU funder mandates (e.g., Horizon Europe, ERC).
 

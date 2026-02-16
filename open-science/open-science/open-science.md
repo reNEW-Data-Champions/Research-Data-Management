@@ -1,24 +1,10 @@
 ---
 description: What is Open Science?
-layout:
-  width: wide
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
-  metadata:
-    visible: true
 ---
 
 # 🟣 Open Science
 
-{% hint style="info" %}
+{% hint style="danger" %}
 **Open Science is a global movement aimed at making all aspects of the research process, including data, methods, software, publications, and peer review, transparent, accessible, and reusable for everyone.** It promotes collaboration, inclusivity, and accountability by removing barriers to knowledge sharing across disciplines and borders. Grounded in principles such as Open Access, Open Data, Open Source, and Citizen Science, Open Science supports reproducibility, accelerates innovation, and increases the societal impact of research. By aligning with frameworks like the FAIR Principles and UNESCO’s Open Science recommendations, it transforms how research is conducted, evaluated, and communicated, making science more equitable and responsive to global challenges.
 {% endhint %}
 

@@ -1,30 +1,16 @@
 ---
 description: Open Science - Use Cases
-layout:
-  width: wide
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
-  metadata:
-    visible: true
 ---
 
 # 🟣 Open Science - Use Cases
 
-Below are **tailored definitions** of the **eight LERU pillars of Open Science**, contextualized specifically for **reNEW Copenhagen** and its mission in **stem cell–driven biomedical research**. Each pillar is interpreted through the lens of translational medicine, regenerative therapies, and responsible data-intensive science to support reNEW’s strategic objectives.
+Below are tailored definitions of the eight LERU pillars of Open Science, contextualized specifically for reNEW Copenhagen and its mission in stem cell–driven biomedical research. Each pillar is interpreted through the lens of translational medicine, regenerative therapies, and responsible data-intensive science to support reNEW’s strategic objectives.
 
 ***
 
 ### 🔬 **FAIR Data (Findable, Accessible, Interoperable, Reusable)**
 
-In the context of stem cell and biomedical research, FAIR data ensures that raw and derived data—from confocal microscopy, omics, and clinical-grade assays—are meticulously documented, stored, and shared using globally recognized metadata standards (e.g., MIAME, MIACARM, OME). For reNEW, this pillar underpins reproducibility, regulatory readiness, and collaboration across international sites. Adherence to FAIR principles enables cross-study data integration, downstream reuse in disease modeling or therapeutic design, and supports alignment with the European Open Science Cloud (EOSC) infrastructure.
+In the context of stem cell and biomedical research, FAIR data ensures that raw and derived data from confocal microscopy, omics, and clinical-grade assays are meticulously documented, stored, and shared using globally recognized metadata standards (e.g., MIAME, MIACARM, OME). For reNEW, this pillar underpins reproducibility, regulatory readiness, and collaboration across international sites. Adherence to FAIR principles enables cross-study data integration, downstream reuse in disease modeling or therapeutic design, and supports alignment with the European Open Science Cloud (EOSC) infrastructure.
 
 \
 → **Use case**: A high-content screening dataset is FAIR through OMERO + metadata templates, indexed with persistent identifiers, and deposited in a community repository (e.g., BioStudies, EMBL-EBI).
@@ -42,7 +28,7 @@ Research integrity at reNEW means upholding the highest ethical, scientific, and
 
 ### 📊 **Next Generation Metrics**
 
-Rather than relying solely on high-impact publications, reNEW evaluates scientific contributions based on meaningful impact—including dataset reuse, software adoption, reproducibility, and patient/public benefit. This pillar calls for acknowledging open datasets, tools (e.g., CellProfiler pipelines), preprints, and negative results in staff evaluations and funding proposals. In the biomedical domain, next-generation metrics must also capture translational readiness (e.g, protocol standardization, GMP documentation, assay robustness).
+Rather than relying solely on high-impact publications, reNEW evaluates scientific contributions based on meaningful impact, including dataset reuse, software adoption, reproducibility, and patient/public benefit. This pillar calls for acknowledging open datasets, tools (e.g., CellProfiler pipelines), preprints, and negative results in staff evaluations and funding proposals. In the biomedical domain, next-generation metrics must also capture translational readiness (e.g, protocol standardization, GMP documentation, assay robustness).
 
 \
 → **Use case**: A researcher’s contribution to a stem cell protocol repository (with >1,000 downloads) is formally recognized in their reNEW career development plan.
@@ -60,7 +46,7 @@ Biomedical research at reNEW must embrace emerging models of open and responsibl
 
 ### 👥 **Citizen Science**
 
-Although traditionally less emphasized in biomedical research, reNEW can engage patients and citizens in ethical governance, donor consent processes, and data donation (e.g., patient registries, biobanks). With increasing focus on societal impact and inclusiveness, reNEW’s projects may benefit from public involvement in priority setting, co-designed research questions, or longitudinal data collection. Trust and transparency are critical when dealing with human biological materials and potential therapies.
+Although traditionally less emphasized in biomedical research, reNEW can engage patients and citizens in ethical governance, donor consent processes, and data donation (e.g., patient registries, biobanks). With the increasing focus on societal impact and inclusiveness, reNEW’s projects may benefit from public involvement in priority-setting, co-designed research questions, or longitudinal data collection. Trust and transparency are critical when dealing with human biological materials and potential therapies.
 
 \
 → **Use case**: A rare disease patient group collaborates with reNEW to define outcome measures and prioritize tissue samples for organoid development.
@@ -78,7 +64,7 @@ To deliver cutting-edge therapies responsibly, reNEW researchers must be trained
 
 ### 🏆 **Rewards and Incentives**
 
-reNEW must formally recognize non-traditional research outputs—datasets, software, metadata standards, infrastructure contributions, citizen engagement, and negative results—within hiring, evaluation, and promotion criteria. Aligning with LERU, this pillar enables long-term cultural change and supports early-career researchers committed to openness. Biomedical research must balance innovation with transparency and reward collaborative rather than competitive behaviors.
+reNEW must formally recognize non-traditional research outputs, datasets, software, metadata standards, infrastructure contributions, citizen engagement, and negative results—within hiring, evaluation, and promotion criteria. Aligning with LERU, this pillar enables long-term cultural change and supports early-career researchers committed to openness. Biomedical research must balance innovation with transparency and reward collaborative rather than competitive behaviors.
 
 \
 → **Use case**: A data steward who leads reNEW's implementation of dataset versioning and curation protocols receives co-authorship and evaluation credit in funding applications.

@@ -1,20 +1,6 @@
 ---
 description: Biomedical Data Life Cycle
 icon: e
-layout:
-  width: wide
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
-  metadata:
-    visible: true
 ---
 
 # Biomedical Data Life Cycle

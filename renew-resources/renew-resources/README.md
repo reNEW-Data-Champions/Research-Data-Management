@@ -1,25 +1,11 @@
 ---
 description: reNEW Resources
 icon: b
-layout:
-  width: wide
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
-  metadata:
-    visible: true
 ---
 
 # reNEW Resources
 
-## What You’ll Find on This Platform
+## What you will find on this hub:
 
 The RDM Hub is organized for ease of use, offering:
 

@@ -1,23 +1,9 @@
 ---
 description: Reserach Project Workflow Process
 icon: g
-layout:
-  width: wide
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
-  metadata:
-    visible: true
 ---
 
-# Research Project Process
+# Data Life Cycle
 
 
 
