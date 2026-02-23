@@ -1,6 +1,6 @@
 ---
 description: reNEW Resources
-icon: b
+icon: sourcetree
 ---
 
 # reNEW Resources

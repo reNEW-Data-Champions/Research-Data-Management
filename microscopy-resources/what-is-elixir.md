@@ -1,20 +1,6 @@
 ---
 description: Imaging Platform Services
-icon: m
-layout:
-  width: wide
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
-  metadata:
-    visible: true
+icon: microscope
 ---
 
 # Imaging Platform Services

@@ -1,20 +1,6 @@
 ---
 description: Research Data Management
-icon: h
-layout:
-  width: wide
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
-  metadata:
-    visible: true
+icon: landmark-magnifying-glass
 ---
 
 # Research Data Management

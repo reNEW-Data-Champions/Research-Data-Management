@@ -1,6 +1,6 @@
 ---
 description: Open Science - LERU
-icon: d
+icon: atom-simple
 ---
 
 # Open Science

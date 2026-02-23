@@ -1,20 +1,6 @@
 ---
 description: Bioimaging Resources
-icon: k
-layout:
-  width: wide
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
-  metadata:
-    visible: true
+icon: face-awesome
 ---
 
 # Bioimaging Resources

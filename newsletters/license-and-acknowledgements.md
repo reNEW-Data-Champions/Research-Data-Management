@@ -1,6 +1,6 @@
 ---
 description: License  and Acknowledgements
-icon: circle-b
+icon: building-memo
 ---
 
 # Acknowledgements

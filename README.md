@@ -1,6 +1,6 @@
 ---
 description: Onboarding at reNEW
-icon: a
+icon: person-snowboarding
 ---
 
 # Onboarding at reNEW

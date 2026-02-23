@@ -1,20 +1,6 @@
 ---
 description: The FAIR Data Principles
-icon: c
-layout:
-  width: wide
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
-  metadata:
-    visible: true
+icon: person-dress-fairy
 ---
 
 # FAIR Principles

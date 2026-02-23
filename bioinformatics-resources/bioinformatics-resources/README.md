@@ -1,20 +1,6 @@
 ---
 description: 'Bioinformatics Open Source Tools: FAIR and Open Science'
-icon: j
-layout:
-  width: wide
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
-  metadata:
-    visible: true
+icon: qrcode-read
 ---
 
 # Bioinformatics Resources

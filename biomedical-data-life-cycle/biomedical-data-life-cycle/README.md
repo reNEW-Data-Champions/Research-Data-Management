@@ -1,6 +1,6 @@
 ---
 description: Biomedical Data Life Cycle
-icon: e
+icon: flask-gear
 ---
 
 # Biomedical Data Life Cycle

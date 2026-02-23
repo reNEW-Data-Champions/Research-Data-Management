@@ -1,6 +1,6 @@
 ---
 description: Reserach Project Workflow Process
-icon: g
+icon: server
 ---
 
 # Data Life Cycle

@@ -1,6 +1,6 @@
 ---
 description: DMP Workflow Roadmap
-icon: f
+icon: database
 ---
 
 # DMP Workflow Roadmap
