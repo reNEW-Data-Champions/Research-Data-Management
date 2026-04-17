@@ -1,19 +1,5 @@
 ---
 description: eScience Center Software Directory
-layout:
-  width: wide
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
-  metadata:
-    visible: true
 ---
 
 # 🟣 eScience Center Software Directory

@@ -181,8 +181,7 @@
   * [🔵 Labguru Quick Guide II](informational-guides/research-planning/fair-principles-1.md)
   * [🔵 Open Science](informational-guides/research-planning/open-science-pillars.md)
   * [🔵 RDM Guide](informational-guides/research-planning/rdm-guide/README.md)
-    * [🔵 Research Workflows v1](informational-guides/research-planning/rdm-guide/research-workflows-v1.md)
-    * [🔵 Research Workflows v2](informational-guides/research-planning/rdm-guide/research-workflows-v2.md)
+    * [🔵 Research Workflows](informational-guides/research-planning/rdm-guide/research-workflows.md)
     * [🔵 Research Open Data Management Matrix](informational-guides/research-planning/rdm-guide/rodmm-framework.md)
 
 ## Microscopy Resources

@@ -1,22 +1,8 @@
 ---
 description: DAN HPC System Overview
-layout:
-  width: wide
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
-  metadata:
-    visible: true
 ---
 
-# 🟠 DAN HPC Hub
+# 🟠 DAN HPC Cluster
 
 ## DAN HPC System Overview
 

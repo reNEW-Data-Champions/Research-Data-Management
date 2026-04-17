@@ -1,19 +1,5 @@
 ---
 description: File and Folder  Structure Tips
-layout:
-  width: wide
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
-  metadata:
-    visible: true
 ---
 
 # 🟢 File and Folder  Structure Tips
@@ -58,8 +44,7 @@ Organizing your data using documentation and metadata is essential for maintaini
 * Add descriptive file names and folder structures. Clear, informative names and a logical folder structure will help users quickly identify and access data.
 * Include version control information. Track updates/revisions with change logs and version numbers (or use a VCS like Git/SVN..
 * Store documentation and metadata with the data. Keep READMEs and metadata in the same location as the data (same folder or nearby README..
-* Update documentation and metadata as needed. Review and update regularly, especially as data changes or new data are added.\
-
+* Update documentation and metadata as needed. Review and update regularly, especially as data changes or new data are added.<br>
 
 ## 4. Naming and Organizing Files: Practical Guidance
 
@@ -68,8 +53,7 @@ Organizing your data using documentation and metadata is essential for maintaini
 * Descriptive file names: Indicate content and purpose; include project name, date, version number, and author initials where relevant.
 * Consistent naming convention: Standardize across the project to prevent confusion and improve retrieval.
 * Avoid special characters and spaces: Do not use @ # & \* or spaces; these may cause system/software issues.
-* Appropriate file extensions: Always include the correct file extension so files open correctly.\
-
+* Appropriate file extensions: Always include the correct file extension so files open correctly.<br>
 
 ### 4.2  Tips for Organizing Files
 
@@ -78,8 +62,7 @@ Organizing your data using documentation and metadata is essential for maintaini
 * Separate working vs final: Maintain separate locations for drafts/intermediate data vs published/cleaned outputs.
 * Version control: To track changes, use version numbers (e.g., v1, v2, v3) or a VCSUse version numbers (e.g., v1, v2, v3. or a VCS to track changes.
 * Keep documentation with data: Store data dictionaries, README, and metadata alongside datasets.
-* Regular review: Periodically assess and reorganize to keep the structure effective and current.\
-
+* Regular review: Periodically assess and reorganize to keep the structure effective and current.<br>
 
 ## 5. Organizing Your Files: Best Practices in Detail
 
@@ -217,8 +200,7 @@ Outcome. By adhering to these principles, you establish a systematic, user‑fri
 ## 8. Developing Your Naming Schema
 
 * Be Consistent!  For related files, use the same elements (e.g., date, experiment number, version number) in the same order.
-* Document It! Record your naming schemas in plain text in the README file with your data files.\
-
+* Document It! Record your naming schemas in plain text in the README file with your data files.<br>
 
 ## 9. Best Practice — Detailed Examples
 
@@ -234,14 +216,12 @@ Outcome. By adhering to these principles, you establish a systematic, user‑fri
 * spaces
 * hyphens & dashes
 * periods (except before file extension.
-* other special characters (& , \* % # ; \* ! @$ ^ \~ ' { } \[ ] ? < >.\
-
+* other special characters (& , \* % # ; \* ! @$ ^ \~ ' { } \[ ] ? < >.<br>
 
 **Use**
 
 * underscores \_
-* camelCase\
-
+* camelCase<br>
 
 **Examples**
 
@@ -252,8 +232,7 @@ Outcome. By adhering to these principles, you establish a systematic, user‑fri
 * NO name—date—v1.txt (em dash.
 * NO name\&date.txt
 * YES name\_date.txt
-* YES Handout\_fileNaming\_20180215.pdf\
-
+* YES Handout\_fileNaming\_20180215.pdf<br>
 
 ### 9.3 Dates
 
@@ -262,20 +241,17 @@ Outcome. By adhering to these principles, you establish a systematic, user‑fri
 
 ### 9.4 Numbering
 
-* Guideline: When using sequential numbering, use leading zeros to allow for multi‑digit versionsUse leading zeros to allow for multi‑digit versions when using sequential numbering. This keeps files in the intended order when sorting by name.\
-
+* Guideline: When using sequential numbering, use leading zeros to allow for multi‑digit versionsUse leading zeros to allow for multi‑digit versions when using sequential numbering. This keeps files in the intended order when sorting by name.<br>
 * Sequences:
 
 
 
 * For 1–10 → 01–10
 * For 1–100 → 001–010–100\
-  \
-
+  <br>
 * Examples:
 * NO ProjID\_v1.csv vs ProjID\_v12.csv
-* YES ProjID\_v01.csv and ProjID\_v12.csv\
-
+* YES ProjID\_v01.csv and ProjID\_v12.csv<br>
 
 ## 10. Example Directory Tree (Extended.
 
@@ -359,8 +335,7 @@ reNEW\_Group/
 
 &#x20;   ├── Tools\_TLC\_FC\_YYYYMMDD/
 
-&#x20;   └── Resources\_RSC\_FC\_YYYYMMDD/\
-
+&#x20;   └── Resources\_RSC\_FC\_YYYYMMDD/<br>
 
 Abbreviations (for quick reference):
 
@@ -373,8 +348,7 @@ Abbreviations (for quick reference):
 * RPT: Reports
 * PTCL: Protocols
 * TLC: Tools
-* RSC: Resources\
-
+* RSC: Resources<br>
 
 About file extensions (examples.:
 
@@ -382,8 +356,7 @@ About file extensions (examples.:
 * .tiff or .jpg — standard image formats, commonly used in microscopy.
 * .fcs — format for flow cytometry data.
 * .csv — tabular data in a simple, widely used format.
-* .pdf — documents such as reports or protocols.\
-
+* .pdf — documents such as reports or protocols.<br>
 
 Readme practice. A README file can be maintained in each project directory and subdirectory to explain the content and record other essential details.
 
@@ -405,4 +378,4 @@ Key principle. Maintain consistency with the organization's naming convention an
 
 
 
-\
+<br>

@@ -1,19 +1,5 @@
 ---
 description: Open Science - Eight Pillars for LERU
-layout:
-  width: wide
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
-  metadata:
-    visible: true
 ---
 
 # 🔵 Open Science

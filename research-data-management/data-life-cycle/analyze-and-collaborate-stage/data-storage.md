@@ -1,19 +1,5 @@
 ---
 description: Data Storage, Collaboration, and HPC Resources at reNEW, UCPH
-layout:
-  width: wide
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
-  metadata:
-    visible: true
 ---
 
 # 🟤 Data Storage
@@ -82,8 +68,7 @@ Below is a summary of UCPH facilities suited to various data types and collabora
 
 * Choosing an appropriate, secure infrastructure
 * Supporting collaboration while ensuring compliance with information security policies and legal requirements
-* Protecting personal data in line with GDPR\
-
+* Protecting personal data in line with GDPR<br>
 
 Researchers at **reNEW** must carefully select solutions that meet their data sensitivity and collaboration needs while upholding UCPH policies.
 
@@ -128,4 +113,4 @@ Biomedical research at reNEW often involves large-scale imaging analyses, comput
 ### **Access and Support** <a href="#wids8ul9700p" id="wids8ul9700p"></a>
 
 * **UCloud** provides a user-friendly interface for accessing many of these HPC resources, with guidance and application processes streamlined for researchers.
-* Support is available via UCPH IT and the Faculty of Science HPC Center.\
+* Support is available via UCPH IT and the Faculty of Science HPC Center.<br>

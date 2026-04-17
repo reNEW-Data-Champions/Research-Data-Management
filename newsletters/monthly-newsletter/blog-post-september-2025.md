@@ -1,19 +1,5 @@
 ---
 description: Montly Newsletter
-layout:
-  width: wide
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
-  metadata:
-    visible: true
 ---
 
 # 🟡 Newsletter - Sept 2025
@@ -39,14 +25,11 @@ Yet despite being fully operational, DeiC Dataverse remains underused. Instituti
 ## Key Challenges in the Current Landscape
 
 1. **Resource Duplication**\
-   Rather than investing in a shared infrastructure, several Danish universities are independently developing institutional repositories—duplicating development, maintenance, staff training, and long-term sustainability costs.\
-
+   Rather than investing in a shared infrastructure, several Danish universities are independently developing institutional repositories—duplicating development, maintenance, staff training, and long-term sustainability costs.<br>
 2. **Governance Gridlock**\
-   Despite DeiC Dataverse being ready for national-scale use, the lack of an agreed-upon governance model has stalled coordinated adoption. This inaction squanders a publicly funded resource.\
-
+   Despite DeiC Dataverse being ready for national-scale use, the lack of an agreed-upon governance model has stalled coordinated adoption. This inaction squanders a publicly funded resource.<br>
 3. **Strategic Misalignment**\
-   Pursuing isolated repository strategies at the institutional level directly contradicts the national vision of a harmonized, interoperable research data infrastructure. It delays Denmark’s readiness for international data exchange, citation, and preservation initiatives.\
-
+   Pursuing isolated repository strategies at the institutional level directly contradicts the national vision of a harmonized, interoperable research data infrastructure. It delays Denmark’s readiness for international data exchange, citation, and preservation initiatives.<br>
 
 ***
 
@@ -55,26 +38,22 @@ Yet despite being fully operational, DeiC Dataverse remains underused. Instituti
 **Open Access**
 
 * Assigns persistent identifiers (DOIs) to datasets, ensuring long-term access and citability.
-* Provides researchers with a publication-grade archive for supplementary materials and data.\
-
+* Provides researchers with a publication-grade archive for supplementary materials and data.<br>
 
 **Open Data**
 
 * Enforces metadata standards aligned with FAIR principles.
-* Enhances discoverability and reuse across institutional and disciplinary boundaries.\
-
+* Enhances discoverability and reuse across institutional and disciplinary boundaries.<br>
 
 **Open Methodology**
 
 * Captures rich metadata and contextual information critical for reproducibility.
-* Supports structured documentation of experimental methods, instruments, and workflows.\
-
+* Supports structured documentation of experimental methods, instruments, and workflows.<br>
 
 **Open Infrastructure**
 
 * Built on the robust and mature Dataverse platform, used by numerous national and academic data infrastructures.
-* Supports OAI-PMH harvesting, allowing datasets to be indexed by the Danish National Archives and connected to international repositories for broader discoverability.\
-
+* Supports OAI-PMH harvesting, allowing datasets to be indexed by the Danish National Archives and connected to international repositories for broader discoverability.<br>
 
 ***
 
@@ -86,8 +65,7 @@ At reNEW Copenhagen and the UCPH Department of Biomedical Sciences, the case for
 * Repository Interoperability – Allows external harvesting and indexing via OAI-PMH to trusted Danish and international services.
 * Reduced Administrative Burden—UCPH IT centrally manages repository support and maintenance, enabling researchers to focus on science, not infrastructure.
 * Transparent Publishing – Enables clear and citable links between data and research outputs.\
-  \
-
+  <br>
 
 ***
 
@@ -98,8 +76,7 @@ At reNEW Copenhagen and the UCPH Department of Biomedical Sciences, the case for
 * Implement Metadata Templates for Bioinformatics – Enforce consistency in recording imaging, omics, and experimental metadata.
 * Promote OAI-PMH Harvesting by the Danish Archives – Facilitate long-term archiving and national stewardship of research data.
 * Pursue Tighter Integration Between the Dataverse and OJS. Enable workflows where datasets are directly linked to published articles, strengthening transparency and reproducibility in scholarly communication.
-* Engage Research Leadership in National Alignment – Advocate for formal institutional adoption to unlock the full potential of the existing infrastructure.\
-
+* Engage Research Leadership in National Alignment – Advocate for formal institutional adoption to unlock the full potential of the existing infrastructure.<br>
 
 ***
 

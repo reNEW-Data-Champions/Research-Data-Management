@@ -1,28 +1,14 @@
 ---
 description: Directory Structure Resources
-layout:
-  width: wide
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
-  metadata:
-    visible: true
 ---
 
-# 🔵 Directory Structure Resources
+# 🔵 Directory Structure
 
 ## Organizing Your Research Data:&#x20;
 
-## Folder, File Structure, and Naming Conventions:
+### Folder, File Structure, and Naming Conventions:
 
-## Tips and Recommendations
+#### Tips and Recommendations
 
 A data management workflow streamlines research data and processes to ensure understandability and reproducibility for those unfamiliar with the project. To achieve this objective, team members need clear, concise guidelines and tasks, responsibility for their work, and a means to share progress and feedback. Consequently, the four essential components of an effective data management workflow are:
 
@@ -33,4 +19,4 @@ A data management workflow streamlines research data and processes to ensure und
 
 Once you initiate data creation, collection, or manipulation, it can quickly become disorganized. To save time and avoid errors in the long run, you and your colleagues must establish a consistent approach to naming and structuring files and folders. Incorporating documentation (or 'metadata') adds context to your data, enabling you and others to understand better and utilize it in the short, medium, and long term.
 
-\
+<br>

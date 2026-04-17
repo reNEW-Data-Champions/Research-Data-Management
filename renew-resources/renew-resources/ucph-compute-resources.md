@@ -1,22 +1,8 @@
 ---
 description: UCPH Research Computing & Data Storage Infrastructure
-layout:
-  width: wide
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
-  metadata:
-    visible: true
 ---
 
-# 🟠 UCPH Research Computing
+# 🟠 UCPH Compute Resources
 
 ## 🧠 UCPH Research Computing Storage Infrastructure
 
