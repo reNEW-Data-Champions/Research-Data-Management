@@ -1,6 +1,24 @@
 ---
 description: Onboarding at reNEW
 icon: person-snowboarding
+layout:
+  width: wide
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
 ---
 
 # Onboarding at reNEW
@@ -84,7 +102,6 @@ For questions or one-on-one support on any RDM topic, such as writing a DMP, org
 
 **Contact:** Richard Dennis\
 **Role:** Research Consultant - Data Steward/ Data Manager, reNEW\
-**Availability:** Wednesdays, 14:00–15:00 (via Zoom) or by appointment\
 **Email:** [richard.dennis@sund.ku.dk](mailto:richard.dennis@sund.ku.dk)
 
 

@@ -1,6 +1,24 @@
 ---
 description: reNEW Resources
 icon: sourcetree
+layout:
+  width: wide
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
 ---
 
 # reNEW Resources
@@ -14,6 +32,4 @@ The RDM Hub is organized for ease of use, offering:
 * Phase-specific data management guidance across the research lifecycle
 * Templates and documentation for biomedical domains (e.g., sequencing, imaging)
 * Links to lab-specific data portals and internal workflows
-* Direct access to the [UCPH Research Portal](https://research.ku.dk/), your source for official RDM tools and compliance information
-
-***
+* Direct access to the [UCPH Research Portal](https://research.ku.dk/), your source for official RDM tools and compliance information.
