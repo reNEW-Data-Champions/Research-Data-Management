@@ -33,13 +33,13 @@ layout:
 
 **Your central platform for biomedical research data guidance, tools, and support at reNEW, BMI, and UCPH.**
 
-Whether a new researcher or a senior scientist, this hub helps you navigate the full research data lifecycle, including UCPH policies, funder mandates, and FAIR-aligned best practices. All content is tailored to the biomedical domain and links to relevant UCPH guidelines whenever possible.
+Whether you are a new researcher or a senior scientist, this hub helps you navigate the full research data lifecycle, including UCPH policies, funder mandates, and FAIR-aligned best practices. All content is tailored to the biomedical domain and links to relevant UCPH guidelines whenever possible.
 
 ***
 
 ## Getting Started at reNEW
 
-If you're newly employed at reNEW, it's essential to embed good RDM practices from the start. This platform offers a structured onboarding path covering:
+If you're newly employed at reNEW, embed good RDM practices from the start. This platform offers a structured onboarding path covering:
 
 * UCPH Research Data Management policies
 * EU and funder-specific requirements
